@@ -1,0 +1,417 @@
+{
+  "file_id": "ab2ac983-c562-4f79-a570-ee22de052d88",
+  "source": "humano",
+  "duration_sec": 350.68,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 15.66,
+      "end": 18.46,
+      "speaker": "SPEAKER_00",
+      "text": "Buenas tardes, es tan amable, por favor, el señor..."
+    },
+    {
+      "start": 18.46,
+      "end": 21.59,
+      "speaker": "SPEAKER_01",
+      "text": "¿De quién hablo?"
+    },
+    {
+      "start": 21.91,
+      "end": 23.75,
+      "speaker": "SPEAKER_00",
+      "text": "De hablar..."
+    },
+    {
+      "start": 23.75,
+      "end": 35.27,
+      "speaker": "SPEAKER_00",
+      "text": "Me alegra mucho. Me estoy comunicando con usted referente al crédito que usted tiene con..."
+    },
+    {
+      "start": 35.27,
+      "end": 37.89,
+      "speaker": "SPEAKER_00",
+      "text": "...que actualmente se está encontrando..."
+    },
+    {
+      "start": 37.89,
+      "end": 41.03,
+      "speaker": "SPEAKER_00",
+      "text": "...con una deuda total por el valor de $1.400.000."
+    },
+    {
+      "start": 41.85,
+      "end": 46.57,
+      "speaker": "SPEAKER_00",
+      "text": "Quisiéramos saber si podríamos contar con ese pago el día de hoy..."
+    },
+    {
+      "start": 46.57,
+      "end": 48.95,
+      "speaker": "SPEAKER_01",
+      "text": "No, señor. No, no, no, no, no, no, no, no."
+    },
+    {
+      "start": 48.95,
+      "end": 53.86,
+      "speaker": "SPEAKER_00",
+      "text": "De acuerdo, pero usted actualmente se está encontrando... ¿se encuentra laburando?"
+    },
+    {
+      "start": 54.14,
+      "end": 112.73,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, hace poco empecé a trabajar."
+    },
+    {
+      "start": 112.75,
+      "end": 116.53,
+      "speaker": "SPEAKER_00",
+      "text": "De acuerdo, entonces yo el día de mañana a las 4 de la tarde, ¿me indica?"
+    },
+    {
+      "start": 117.63,
+      "end": 118.33,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, de acuerdo."
+    },
+    {
+      "start": 118.85,
+      "end": 123.83,
+      "speaker": "SPEAKER_00",
+      "text": "De acuerdo, yo el día de mañana yo me comunico con usted a las 4 de la tarde"
+    },
+    {
+      "start": 123.83,
+      "end": 128.25,
+      "speaker": "SPEAKER_00",
+      "text": "y tenga en cuenta que para usted dejar a Paz y Salvo y acogerse a la p***"
+    },
+    {
+      "start": 128.25,
+      "end": 133.27,
+      "speaker": "SPEAKER_00",
+      "text": "un valor de 480 mil pesos para cancelar a más tardar el día de mañana"
+    },
+    {
+      "start": 133.27,
+      "end": 136.23,
+      "speaker": "SPEAKER_00",
+      "text": "que estamos en cierre financiero, ¿de acuerdo?"
+    },
+    {
+      "start": 137.51,
+      "end": 138.07,
+      "speaker": "SPEAKER_01",
+      "text": "De acuerdo."
+    },
+    {
+      "start": 138.91,
+      "end": 139.63,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, señor."
+    },
+    {
+      "start": 139.63,
+      "end": 143.46,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces yo el día de mañana me comunico con usted."
+    },
+    {
+      "start": 144.76,
+      "end": 149.36,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, pregunta. ¿Cómo hago para saber qué información es Valera?"
+    },
+    {
+      "start": 149.88,
+      "end": 154.32,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señor, claro que sí. Nosotros igualmente al correo le enviamos a usted un acuerdo"
+    },
+    {
+      "start": 154.32,
+      "end": 160.08,
+      "speaker": "SPEAKER_00",
+      "text": "y eso usted lo imprime y usted se acerca directamente al banco a cancelar."
+    },
+    {
+      "start": 160.54,
+      "end": 167.22,
+      "speaker": "SPEAKER_00",
+      "text": "No nos debe cancelar a nosotros y demás nada, sino únicamente en el banco usted cancela ese valor."
+    },
+    {
+      "start": 167.22,
+      "end": 170.68,
+      "speaker": "SPEAKER_01",
+      "text": "Usted me da como un recibo neto"
+    },
+    {
+      "start": 170.68,
+      "end": 172.44,
+      "speaker": "SPEAKER_01",
+      "text": "o sea, del valor neto"
+    },
+    {
+      "start": 172.44,
+      "end": 173.94,
+      "speaker": "SPEAKER_01",
+      "text": "y yo solamente me dirijo"
+    },
+    {
+      "start": 173.94,
+      "end": 176.52,
+      "speaker": "SPEAKER_01",
+      "text": "y ya"
+    },
+    {
+      "start": 176.52,
+      "end": 177.8,
+      "speaker": "SPEAKER_01",
+      "text": "crearía ya eso"
+    },
+    {
+      "start": 177.8,
+      "end": 180.32,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señor, el acuerdo de pago"
+    },
+    {
+      "start": 180.32,
+      "end": 180.94,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señor"
+    },
+    {
+      "start": 180.94,
+      "end": 184.04,
+      "speaker": "SPEAKER_01",
+      "text": "Otra pregunta, dado el caso de que"
+    },
+    {
+      "start": 184.04,
+      "end": 185.86,
+      "speaker": "SPEAKER_01",
+      "text": "si mañana, como está"
+    },
+    {
+      "start": 185.86,
+      "end": 187.52,
+      "speaker": "SPEAKER_01",
+      "text": "con la plata, toda la cuestión"
+    },
+    {
+      "start": 187.52,
+      "end": 191.72,
+      "speaker": "SPEAKER_01",
+      "text": "podría levantar esa"
+    },
+    {
+      "start": 191.72,
+      "end": 194.02,
+      "speaker": "SPEAKER_01",
+      "text": "o sea, que ya parezca"
+    },
+    {
+      "start": 194.02,
+      "end": 195.64,
+      "speaker": "SPEAKER_01",
+      "text": "en central de riesgo"
+    },
+    {
+      "start": 195.64,
+      "end": 197.2,
+      "speaker": "SPEAKER_01",
+      "text": "y entonces"
+    },
+    {
+      "start": 197.2,
+      "end": 200.6,
+      "speaker": "SPEAKER_00",
+      "text": "Los reportes negativos"
+    },
+    {
+      "start": 200.6,
+      "end": 231.16,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí, sí, sí."
+    },
+    {
+      "start": 231.18,
+      "end": 233.6,
+      "speaker": "SPEAKER_00",
+      "text": "reporte negativo ante centrales de riesgo"
+    },
+    {
+      "start": 233.6,
+      "end": 235.08,
+      "speaker": "SPEAKER_00",
+      "text": "una vez cumplan"
+    },
+    {
+      "start": 235.08,
+      "end": 237.1,
+      "speaker": "SPEAKER_00",
+      "text": "el doble de días demora"
+    },
+    {
+      "start": 237.1,
+      "end": 239.42,
+      "speaker": "SPEAKER_00",
+      "text": "que usted se haya demorado"
+    },
+    {
+      "start": 239.42,
+      "end": 240.64,
+      "speaker": "SPEAKER_00",
+      "text": "valga la redundancia"
+    },
+    {
+      "start": 240.64,
+      "end": 242.8,
+      "speaker": "SPEAKER_00",
+      "text": "en cancelar ese crédito"
+    },
+    {
+      "start": 242.8,
+      "end": 243.96,
+      "speaker": "SPEAKER_00",
+      "text": "sin embargo con su"
+    },
+    {
+      "start": 243.96,
+      "end": 246.82,
+      "speaker": "SPEAKER_00",
+      "text": "pasizar y demás usted puede"
+    },
+    {
+      "start": 246.82,
+      "end": 248.7,
+      "speaker": "SPEAKER_00",
+      "text": "remitirlo ante centrales de riesgo"
+    },
+    {
+      "start": 248.7,
+      "end": 251.2,
+      "speaker": "SPEAKER_00",
+      "text": "para que le quiten ese reporte negativo"
+    },
+    {
+      "start": 251.2,
+      "end": 254.81,
+      "speaker": "SPEAKER_01",
+      "text": "o sea yo veo"
+    },
+    {
+      "start": 254.81,
+      "end": 255.69,
+      "speaker": "SPEAKER_01",
+      "text": "aproximadamente"
+    },
+    {
+      "start": 255.69,
+      "end": 272.78,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, sí, sí, señor. Ese es el castigo de centrales de riesgo."
+    },
+    {
+      "start": 272.78,
+      "end": 281.86,
+      "speaker": "SPEAKER_00",
+      "text": "Ese es el castigo, porque nosotros como tal directamente uno envía que, sí, o sea, como el reporte, pues que ustedes ya saben."
+    },
+    {
+      "start": 281.86,
+      "end": 294.0,
+      "speaker": "SPEAKER_00",
+      "text": "Pero el castigo directamente de centrales de riesgo es le quitan a los clientes el reporte negativo una vez se haya cumplido el doble de días de mora."
+    },
+    {
+      "start": 294.0,
+      "end": 313.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sin embargo, usted puede validar si de pronto usted quiere sacar un crédito o demás con su Paz y Salvo que le dan en el... puede validar. Y también directamente en centrales de riesgo, usted envía el Paz y Salvo, que ya está Paz y Salvo, para que por favor le quiten el reporte negativo."
+    },
+    {
+      "start": 314.09,
+      "end": 315.51,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, vale."
+    },
+    {
+      "start": 324.77,
+      "end": 326.85,
+      "speaker": "SPEAKER_00",
+      "text": "enviarle el acuerdo y pues usted"
+    },
+    {
+      "start": 326.85,
+      "end": 328.89,
+      "speaker": "SPEAKER_00",
+      "text": "pueda cancelar para que asimismo usted"
+    },
+    {
+      "start": 328.89,
+      "end": 331.11,
+      "speaker": "SPEAKER_00",
+      "text": "se reactive financieramente"
+    },
+    {
+      "start": 331.11,
+      "end": 331.61,
+      "speaker": "SPEAKER_00",
+      "text": "¿de acuerdo?"
+    },
+    {
+      "start": 332.65,
+      "end": 335.01,
+      "speaker": "SPEAKER_00",
+      "text": "De acuerdo. ¿Alguna u otra"
+    },
+    {
+      "start": 335.01,
+      "end": 337.07,
+      "speaker": "SPEAKER_00",
+      "text": "pregunta en lo que le pueda colaborar?"
+    },
+    {
+      "start": 337.95,
+      "end": 338.99,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, no"
+    },
+    {
+      "start": 338.99,
+      "end": 340.05,
+      "speaker": "SPEAKER_01",
+      "text": "de aquí a adelante."
+    },
+    {
+      "start": 340.69,
+      "end": 342.67,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto señor Julián, el día de mañana me"
+    },
+    {
+      "start": 342.67,
+      "end": 344.61,
+      "speaker": "SPEAKER_00",
+      "text": "comunico con usted, que tengas"
+    },
+    {
+      "start": 344.61,
+      "end": 346.45,
+      "speaker": "SPEAKER_00",
+      "text": "una excelente tarde, hasta luego."
+    },
+    {
+      "start": 347.33,
+      "end": 348.63,
+      "speaker": "SPEAKER_01",
+      "text": "Vale, hasta luego, muy bien, Marlene."
+    }
+  ]
+}

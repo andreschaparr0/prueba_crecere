@@ -1,0 +1,357 @@
+{
+  "file_id": "6854b6cc-c858-4dd4-b326-b7d6fe55843a",
+  "source": "humano",
+  "duration_sec": 160.78,
+  "language": "es",
+  "n_speakers_detected": 3,
+  "segments": [
+    {
+      "start": 12.72,
+      "end": 17.08,
+      "speaker": "SPEAKER_01",
+      "text": "Buenos días, tengo el gusto de hablar con ese..."
+    },
+    {
+      "start": 17.08,
+      "end": 18.02,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señorita."
+    },
+    {
+      "start": 18.7,
+      "end": 20.06,
+      "speaker": "SPEAKER_01",
+      "text": "Mucho gusto, le..."
+    },
+    {
+      "start": 20.06,
+      "end": 23.62,
+      "speaker": "SPEAKER_01",
+      "text": "...como se encuentra el día de hoy."
+    },
+    {
+      "start": 24.38,
+      "end": 25.48,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, bien, gracias a Dios."
+    },
+    {
+      "start": 26.84,
+      "end": 32.12,
+      "speaker": "SPEAKER_01",
+      "text": "Me comunico el día de hoy para validar si usted recibió el acuerdo de pago de manera formal."
+    },
+    {
+      "start": 32.92,
+      "end": 38.38,
+      "speaker": "SPEAKER_01",
+      "text": "Nosotros lo enviamos al correo electrónico jesusvallejo312.com"
+    },
+    {
+      "start": 38.38,
+      "end": 42.48,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señora, pero yo creo que no ha llegado, pues yo estoy mirando y nada."
+    },
+    {
+      "start": 42.48,
+      "end": 44.82,
+      "speaker": "SPEAKER_01",
+      "text": "De pronto en el spam"
+    },
+    {
+      "start": 44.82,
+      "end": 46.74,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo?"
+    },
+    {
+      "start": 47.44,
+      "end": 49.86,
+      "speaker": "SPEAKER_01",
+      "text": "De pronto en la bandeja de spam"
+    },
+    {
+      "start": 49.86,
+      "end": 51.54,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, ok"
+    },
+    {
+      "start": 51.54,
+      "end": 54.43,
+      "speaker": "SPEAKER_01",
+      "text": "¿Lo puedes validar de una vez?"
+    },
+    {
+      "start": 56.54,
+      "end": 57.76,
+      "speaker": "SPEAKER_01",
+      "text": "Ahora porque estoy trabajando"
+    },
+    {
+      "start": 57.76,
+      "end": 59.96,
+      "speaker": "SPEAKER_01",
+      "text": "Si usted quiere me llama a la una"
+    },
+    {
+      "start": 59.96,
+      "end": 61.5,
+      "speaker": "SPEAKER_01",
+      "text": "Por favor, qué pena"
+    },
+    {
+      "start": 61.5,
+      "end": 62.78,
+      "speaker": "SPEAKER_01",
+      "text": "De acuerdo"
+    },
+    {
+      "start": 62.78,
+      "end": 65.06,
+      "speaker": "SPEAKER_01",
+      "text": "Pero el correo está correcto"
+    },
+    {
+      "start": 65.06,
+      "end": 70.72,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo, cómo?"
+    },
+    {
+      "start": 71.56,
+      "end": 73.14,
+      "speaker": "SPEAKER_01",
+      "text": "Su correo está correcto"
+    },
+    {
+      "start": 73.14,
+      "end": 74.46,
+      "speaker": "SPEAKER_01",
+      "text": "Tengo registrado el correo"
+    },
+    {
+      "start": 74.46,
+      "end": 77.32,
+      "speaker": "SPEAKER_01",
+      "text": "jesusvallejo3112"
+    },
+    {
+      "start": 77.32,
+      "end": 78.82,
+      "speaker": "SPEAKER_01",
+      "text": "arroba gmail punto com"
+    },
+    {
+      "start": 78.82,
+      "end": 83.2,
+      "speaker": "SPEAKER_01",
+      "text": "si creo que es así"
+    },
+    {
+      "start": 83.2,
+      "end": 83.96,
+      "speaker": "SPEAKER_01",
+      "text": "22"
+    },
+    {
+      "start": 83.96,
+      "end": 86.52,
+      "speaker": "SPEAKER_01",
+      "text": "27"
+    },
+    {
+      "start": 86.52,
+      "end": 89.56,
+      "speaker": "SPEAKER_01",
+      "text": "ah no es 31 12 sino"
+    },
+    {
+      "start": 89.56,
+      "end": 90.72,
+      "speaker": "SPEAKER_01",
+      "text": "22 27"
+    },
+    {
+      "start": 90.72,
+      "end": 94.3,
+      "speaker": "SPEAKER_01",
+      "text": "con razón no le llegó"
+    },
+    {
+      "start": 94.3,
+      "end": 95.98,
+      "speaker": "SPEAKER_01",
+      "text": "o sea es"
+    },
+    {
+      "start": 95.98,
+      "end": 98.98,
+      "speaker": "SPEAKER_01",
+      "text": "jesusvallejo2227"
+    },
+    {
+      "start": 98.98,
+      "end": 99.74,
+      "speaker": "SPEAKER_01",
+      "text": "arroba gmail"
+    },
+    {
+      "start": 99.74,
+      "end": 102.36,
+      "speaker": "SPEAKER_01",
+      "text": "es así mismo"
+    },
+    {
+      "start": 102.36,
+      "end": 105.23,
+      "speaker": "SPEAKER_01",
+      "text": "22 27"
+    },
+    {
+      "start": 105.23,
+      "end": 105.93,
+      "speaker": "SPEAKER_01",
+      "text": "de acuerdo"
+    },
+    {
+      "start": 105.93,
+      "end": 109.01,
+      "speaker": "SPEAKER_01",
+      "text": "voy a solicitar"
+    },
+    {
+      "start": 109.01,
+      "end": 110.29,
+      "speaker": "SPEAKER_01",
+      "text": "el envío nuevamente"
+    },
+    {
+      "start": 110.29,
+      "end": 113.11,
+      "speaker": "SPEAKER_01",
+      "text": "del acuerdo de pago al correo electrónico"
+    },
+    {
+      "start": 113.11,
+      "end": 114.65,
+      "speaker": "SPEAKER_01",
+      "text": "el día de hoy"
+    },
+    {
+      "start": 114.65,
+      "end": 116.51,
+      "speaker": "SPEAKER_01",
+      "text": "usted estaría realizando el pago"
+    },
+    {
+      "start": 116.51,
+      "end": 118.91,
+      "speaker": "SPEAKER_01",
+      "text": "si señor"
+    },
+    {
+      "start": 118.91,
+      "end": 121.13,
+      "speaker": "SPEAKER_01",
+      "text": "perfecto"
+    },
+    {
+      "start": 121.13,
+      "end": 123.79,
+      "speaker": "SPEAKER_01",
+      "text": "voy a solicitar que se le envíe nuevamente"
+    },
+    {
+      "start": 123.79,
+      "end": 125.07,
+      "speaker": "SPEAKER_01",
+      "text": "el acuerdo de pago al correo"
+    },
+    {
+      "start": 125.07,
+      "end": 126.39,
+      "speaker": "SPEAKER_01",
+      "text": "jesuspaldiejo"
+    },
+    {
+      "start": 126.39,
+      "end": 128.53,
+      "speaker": "SPEAKER_01",
+      "text": "2227"
+    },
+    {
+      "start": 128.53,
+      "end": 132.54,
+      "speaker": "SPEAKER_01",
+      "text": "es"
+    },
+    {
+      "start": 132.54,
+      "end": 135.48,
+      "speaker": "SPEAKER_01",
+      "text": "2227"
+    },
+    {
+      "start": 137.42,
+      "end": 137.48,
+      "speaker": "UNKNOWN",
+      "text": "2227"
+    },
+    {
+      "start": 137.48,
+      "end": 141.6,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto"
+    },
+    {
+      "start": 141.6,
+      "end": 143.98,
+      "speaker": "SPEAKER_01",
+      "text": "Y me estaría comunicando nuevamente"
+    },
+    {
+      "start": 143.98,
+      "end": 144.78,
+      "speaker": "SPEAKER_01",
+      "text": "Para validar"
+    },
+    {
+      "start": 144.78,
+      "end": 147.54,
+      "speaker": "SPEAKER_01",
+      "text": "Y para validar que usted realice el pago al día de hoy"
+    },
+    {
+      "start": 147.54,
+      "end": 149.56,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, señor"
+    },
+    {
+      "start": 149.56,
+      "end": 153.13,
+      "speaker": "SPEAKER_01",
+      "text": "Agradecemos por atender la llamada"
+    },
+    {
+      "start": 153.13,
+      "end": 154.78,
+      "speaker": "SPEAKER_01",
+      "text": "Le hablamos de los valores"
+    },
+    {
+      "start": 154.78,
+      "end": 156.58,
+      "speaker": "SPEAKER_01",
+      "text": "Que tenga un excelente día"
+    },
+    {
+      "start": 156.58,
+      "end": 157.74,
+      "speaker": "SPEAKER_00",
+      "text": "Igual"
+    }
+  ]
+}

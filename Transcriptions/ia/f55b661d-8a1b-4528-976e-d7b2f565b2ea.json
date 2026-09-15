@@ -1,0 +1,825 @@
+{
+  "file_id": "f55b661d-8a1b-4528-976e-d7b2f565b2ea",
+  "source": "ia",
+  "duration_sec": 486.06,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 0.82,
+      "end": 18.37,
+      "speaker": "SPEAKER_01",
+      "text": "Aló. Aló. Muy buenos días. Aló, buenos días. Buenas, por favor, cerra. Sí, con él habla. Señor Pino, le habla Ricardo del área de embargos, judicializaciones y alivios financieros."
+    },
+    {
+      "start": 18.37,
+      "end": 30.77,
+      "speaker": "SPEAKER_01",
+      "text": "Le llamo por su obligación con System Group. ¿Cómo me le va, señor Pino? Pues ahí digamos que más o menos, amigo. Más o menos. Lo escucho."
+    },
+    {
+      "start": 30.77,
+      "end": 44.46,
+      "speaker": "SPEAKER_01",
+      "text": "La deuda se originó con Credit Valores, Credit Servicios S.A., pero actualmente es la entidad dueña de la misma por un monto total de dos millones ochocientos cincuenta mil pesos."
+    },
+    {
+      "start": 44.92,
+      "end": 52.26,
+      "speaker": "SPEAKER_01",
+      "text": "Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros."
+    },
+    {
+      "start": 52.76,
+      "end": 55.74,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Pino, ¿me permite comentarle sobre la propuesta de pago que le tenemos?"
+    },
+    {
+      "start": 56.99,
+      "end": 57.77,
+      "speaker": "SPEAKER_00",
+      "text": "Claro, lo escucho."
+    },
+    {
+      "start": 59.7,
+      "end": 63.68,
+      "speaker": "SPEAKER_01",
+      "text": "Excelente, señor Pino. Queremos ofrecerle un descuento del 12 por ciento de toda la deuda."
+    },
+    {
+      "start": 63.68,
+      "end": 70.24,
+      "speaker": "SPEAKER_01",
+      "text": "Con el descuento ya no debería 2 millones 850 mil pesos, sino solo 2 millones 500 mil pesos."
+    },
+    {
+      "start": 70.64,
+      "end": 73.98,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Pino, es una propuesta por tiempo limitado que vencería hoy mismo."
+    },
+    {
+      "start": 74.36,
+      "end": 78.96,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?"
+    },
+    {
+      "start": 80.4,
+      "end": 90.82,
+      "speaker": "SPEAKER_00",
+      "text": "Mire, todo lo que sea un acuerdo para bien y sobre todo si beneficia sería bienvenido."
+    },
+    {
+      "start": 90.82,
+      "end": 117.08,
+      "speaker": "SPEAKER_00",
+      "text": "Pero lo que pasa es que en este momento yo le digo a usted que sí, yo no tengo esa plata. Entonces, si una persona seria y coherente no se va a poner a engañar a otra persona ya o por salir del paso ni nada de eso ya, díganme cómo puedo yo irles abonando y yo me comprometo. Pero esa plata yo no la tengo porque yo no tengo en este momento un trabajo estable."
+    },
+    {
+      "start": 120.54,
+      "end": 122.08,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Pino, le agradezco la honestidad."
+    },
+    {
+      "start": 122.5,
+      "end": 123.44,
+      "speaker": "SPEAKER_01",
+      "text": "Eso habla muy bien de usted."
+    },
+    {
+      "start": 123.88,
+      "end": 126.42,
+      "speaker": "SPEAKER_01",
+      "text": "Precisamente para eso tenemos la opción de pagarlo en dos cuotas."
+    },
+    {
+      "start": 126.82,
+      "end": 128.02,
+      "speaker": "SPEAKER_01",
+      "text": "¿Le explico cómo funcionaría?"
+    },
+    {
+      "start": 129.62,
+      "end": 131.0,
+      "speaker": "SPEAKER_00",
+      "text": "Dígame, dígame, por favor."
+    },
+    {
+      "start": 135.81,
+      "end": 139.95,
+      "speaker": "SPEAKER_01",
+      "text": "Con la opción de dos cuotas, cada cuota sería de 1.250.000 pesos."
+    },
+    {
+      "start": 140.37,
+      "end": 143.59,
+      "speaker": "SPEAKER_01",
+      "text": "La primera más tardar el 26 de julio y la segunda un mes después."
+    },
+    {
+      "start": 144.07,
+      "end": 147.05,
+      "speaker": "SPEAKER_01",
+      "text": "¿Le sería posible comprometerse con ese valor por cuota, señor Pino?"
+    },
+    {
+      "start": 148.36,
+      "end": 154.74,
+      "speaker": "SPEAKER_00",
+      "text": "Pero es que vuelvo y le digo, es decir, déme un abono razonable, ¿no es cierto?"
+    },
+    {
+      "start": 154.76,
+      "end": 157.54,
+      "speaker": "SPEAKER_00",
+      "text": "razonable, porque pues si yo le doy"
+    },
+    {
+      "start": 157.54,
+      "end": 159.44,
+      "speaker": "SPEAKER_00",
+      "text": "este un millón, pues yo tengo"
+    },
+    {
+      "start": 159.44,
+      "end": 161.4,
+      "speaker": "SPEAKER_00",
+      "text": "yo sostengo dos casas"
+    },
+    {
+      "start": 161.4,
+      "end": 163.02,
+      "speaker": "SPEAKER_00",
+      "text": "el señor que es la de mi mamá"
+    },
+    {
+      "start": 163.02,
+      "end": 165.3,
+      "speaker": "SPEAKER_00",
+      "text": "y una mujer que tiene 92 años y está"
+    },
+    {
+      "start": 165.3,
+      "end": 166.74,
+      "speaker": "SPEAKER_00",
+      "text": "en estos momentos, tiene una"
+    },
+    {
+      "start": 166.74,
+      "end": 169.38,
+      "speaker": "SPEAKER_00",
+      "text": "está ciega por un trauma que recibió en la cabeza"
+    },
+    {
+      "start": 169.38,
+      "end": 171.26,
+      "speaker": "SPEAKER_00",
+      "text": "¿no es cierto? ya, y"
+    },
+    {
+      "start": 171.26,
+      "end": 173.2,
+      "speaker": "SPEAKER_00",
+      "text": "mi casa, entonces por eso"
+    },
+    {
+      "start": 173.2,
+      "end": 175.4,
+      "speaker": "SPEAKER_00",
+      "text": "le digo, yo toda esa plata no la tengo"
+    },
+    {
+      "start": 175.4,
+      "end": 177.28,
+      "speaker": "SPEAKER_00",
+      "text": "yo si quiero, ¿no es cierto? yo no pretendo"
+    },
+    {
+      "start": 177.28,
+      "end": 178.54,
+      "speaker": "SPEAKER_00",
+      "text": "jamás en un momento"
+    },
+    {
+      "start": 178.54,
+      "end": 180.8,
+      "speaker": "SPEAKER_00",
+      "text": "eludir la deuda ni nada de eso"
+    },
+    {
+      "start": 180.8,
+      "end": 182.16,
+      "speaker": "SPEAKER_00",
+      "text": "pero pues"
+    },
+    {
+      "start": 182.16,
+      "end": 184.5,
+      "speaker": "SPEAKER_00",
+      "text": "lo que yo me gano no me da para"
+    },
+    {
+      "start": 184.5,
+      "end": 186.22,
+      "speaker": "SPEAKER_00",
+      "text": "todo eso, ya, dígame"
+    },
+    {
+      "start": 186.22,
+      "end": 188.64,
+      "speaker": "SPEAKER_00",
+      "text": "una cuota moderada que yo"
+    },
+    {
+      "start": 188.64,
+      "end": 190.48,
+      "speaker": "SPEAKER_00",
+      "text": "le pueda decirle, sí, me comprometo"
+    },
+    {
+      "start": 190.48,
+      "end": 192.3,
+      "speaker": "SPEAKER_00",
+      "text": "y tal día le hago"
+    },
+    {
+      "start": 192.3,
+      "end": 194.48,
+      "speaker": "SPEAKER_00",
+      "text": "el primer abono"
+    },
+    {
+      "start": 194.48,
+      "end": 196.82,
+      "speaker": "SPEAKER_00",
+      "text": "pero una cuota que sea moderada"
+    },
+    {
+      "start": 196.82,
+      "end": 198.04,
+      "speaker": "SPEAKER_00",
+      "text": "que sean mis posibilidades"
+    },
+    {
+      "start": 198.04,
+      "end": 202.82,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Pino, entiendo perfectamente"
+    },
+    {
+      "start": 202.82,
+      "end": 204.76,
+      "speaker": "SPEAKER_01",
+      "text": "su situación y le agradezco su transparencia"
+    },
+    {
+      "start": 204.76,
+      "end": 207.0,
+      "speaker": "SPEAKER_01",
+      "text": "lamentablemente las dos cuotas que le presenté"
+    },
+    {
+      "start": 207.0,
+      "end": 208.82,
+      "speaker": "SPEAKER_01",
+      "text": "son la única opción disponible"
+    },
+    {
+      "start": 208.82,
+      "end": 210.6,
+      "speaker": "SPEAKER_01",
+      "text": "y aprobada que tenemos para usted hoy"
+    },
+    {
+      "start": 210.6,
+      "end": 212.82,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Pino, entiendo, sin embargo"
+    },
+    {
+      "start": 212.82,
+      "end": 214.78,
+      "speaker": "SPEAKER_01",
+      "text": "con este descuento del 12% su deuda"
+    },
+    {
+      "start": 214.78,
+      "end": 216.44,
+      "speaker": "SPEAKER_01",
+      "text": "a solo $2.500.000"
+    },
+    {
+      "start": 216.44,
+      "end": 218.8,
+      "speaker": "SPEAKER_01",
+      "text": "y puede pagarla hasta en dos cuotas."
+    },
+    {
+      "start": 219.24,
+      "end": 220.9,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Pino, es el mejor descuento"
+    },
+    {
+      "start": 220.9,
+      "end": 222.56,
+      "speaker": "SPEAKER_01",
+      "text": "que creo podría conseguir sobre esta deuda."
+    },
+    {
+      "start": 222.98,
+      "end": 224.56,
+      "speaker": "SPEAKER_01",
+      "text": "¿Desea reconsiderarlo? Por favor,"
+    },
+    {
+      "start": 224.68,
+      "end": 225.92,
+      "speaker": "SPEAKER_01",
+      "text": "indíqueme con un sí o no."
+    },
+    {
+      "start": 228.67,
+      "end": 229.15,
+      "speaker": "SPEAKER_00",
+      "text": "Déjeme,"
+    },
+    {
+      "start": 229.15,
+      "end": 230.49,
+      "speaker": "SPEAKER_00",
+      "text": "voy a reconsiderar"
+    },
+    {
+      "start": 230.49,
+      "end": 232.99,
+      "speaker": "SPEAKER_00",
+      "text": "si puedo evolucionar"
+    },
+    {
+      "start": 232.99,
+      "end": 234.95,
+      "speaker": "SPEAKER_00",
+      "text": "y conseguir ese plato."
+    },
+    {
+      "start": 235.09,
+      "end": 236.39,
+      "speaker": "SPEAKER_00",
+      "text": "¿Va a ser un préstamo o yo?"
+    },
+    {
+      "start": 239.66,
+      "end": 240.8,
+      "speaker": "SPEAKER_01",
+      "text": "Claro, señor Pino, con gusto."
+    },
+    {
+      "start": 241.14,
+      "end": 243.4,
+      "speaker": "SPEAKER_01",
+      "text": "¿En qué fecha le puedo volver a llamar para retomar esta gestión?"
+    },
+    {
+      "start": 243.76,
+      "end": 245.32,
+      "speaker": "SPEAKER_01",
+      "text": "Siento que estas opciones no le sirvan,"
+    },
+    {
+      "start": 245.32,
+      "end": 247.8,
+      "speaker": "SPEAKER_01",
+      "text": "Pero tranquilo, puedo proponerle otra cosa."
+    },
+    {
+      "start": 248.2,
+      "end": 250.3,
+      "speaker": "SPEAKER_01",
+      "text": "Le puedo ofrecer un acuerdo de largo plazo."
+    },
+    {
+      "start": 250.66,
+      "end": 253.16,
+      "speaker": "SPEAKER_01",
+      "text": "No habría descuento, pero usted puede poner el valor de la cuota."
+    },
+    {
+      "start": 253.58,
+      "end": 256.32,
+      "speaker": "SPEAKER_01",
+      "text": "Con esto se para cualquier proceso legal y sobre todo la llamadera."
+    },
+    {
+      "start": 256.76,
+      "end": 261.12,
+      "speaker": "SPEAKER_01",
+      "text": "Para dejar registro, ¿cuánto sería lo máximo que podría pagar mes a mes que se acomode a su presupuesto?"
+    },
+    {
+      "start": 263.31,
+      "end": 268.93,
+      "speaker": "SPEAKER_00",
+      "text": "Yo le puedo dar a usted entre 250 y 300 mil pesos, le puedo dar mensual."
+    },
+    {
+      "start": 269.31,
+      "end": 270.43,
+      "speaker": "SPEAKER_00",
+      "text": "¿Está bien esa cuota?"
+    },
+    {
+      "start": 273.76,
+      "end": 275.5,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Pino, me alegra mucho que me diga eso."
+    },
+    {
+      "start": 275.5,
+      "end": 280.02,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, ¿confirmamos el acuerdo en 250 mil pesos mensuales o podría comprometerme?"
+    },
+    {
+      "start": 280.02,
+      "end": 289.96,
+      "speaker": "SPEAKER_00",
+      "text": "Válido. Si yo puedo comprometerme más, para mí mejor pagar, pagar lo más rápido posible saldría de la deuda, pero mínimo, con mínimo, cuente 250 mil pesos, por favor."
+    },
+    {
+      "start": 293.36,
+      "end": 299.82,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto, señor Pino. Confirmamos el acuerdo en 250 mil pesos mensuales. ¿Le queda bien que la primera cuota sea el 26 de julio?"
+    },
+    {
+      "start": 300.1,
+      "end": 304.58,
+      "speaker": "SPEAKER_01",
+      "text": "Me alegra que lleguemos a este acuerdo de largo plazo y que pueda aprovechar esta oportunidad, señor Pino."
+    },
+    {
+      "start": 304.58,
+      "end": 307.52,
+      "speaker": "SPEAKER_01",
+      "text": "me autoriza a enviarle toda la información del acuerdo"
+    },
+    {
+      "start": 307.52,
+      "end": 309.64,
+      "speaker": "SPEAKER_01",
+      "text": "y los canales de pago por correo y whatsapp"
+    },
+    {
+      "start": 309.64,
+      "end": 310.5,
+      "speaker": "SPEAKER_00",
+      "text": "señor Pino"
+    },
+    {
+      "start": 310.5,
+      "end": 313.4,
+      "speaker": "SPEAKER_00",
+      "text": "sí, sí, pero entonces hagamos una cosa"
+    },
+    {
+      "start": 313.4,
+      "end": 316.02,
+      "speaker": "SPEAKER_00",
+      "text": "para darle más seguridad"
+    },
+    {
+      "start": 316.02,
+      "end": 318.02,
+      "speaker": "SPEAKER_00",
+      "text": "y no fallarle"
+    },
+    {
+      "start": 318.02,
+      "end": 319.44,
+      "speaker": "SPEAKER_00",
+      "text": "déjeme"
+    },
+    {
+      "start": 319.44,
+      "end": 320.98,
+      "speaker": "SPEAKER_00",
+      "text": "déjeme plazo"
+    },
+    {
+      "start": 320.98,
+      "end": 323.76,
+      "speaker": "SPEAKER_00",
+      "text": "hasta el 31"
+    },
+    {
+      "start": 323.76,
+      "end": 325.78,
+      "speaker": "SPEAKER_00",
+      "text": "ya, porque es que"
+    },
+    {
+      "start": 325.78,
+      "end": 327.34,
+      "speaker": "SPEAKER_00",
+      "text": "ahí es donde nos vienen pagando"
+    },
+    {
+      "start": 327.34,
+      "end": 329.34,
+      "speaker": "SPEAKER_00",
+      "text": "31 primero, para yo no quedarle mal"
+    },
+    {
+      "start": 329.34,
+      "end": 331.38,
+      "speaker": "SPEAKER_00",
+      "text": "imagínese, estamos arreglando algo"
+    },
+    {
+      "start": 331.38,
+      "end": 333.84,
+      "speaker": "SPEAKER_00",
+      "text": "y el 26, no sé lo que yo le quede mal"
+    },
+    {
+      "start": 333.84,
+      "end": 336.04,
+      "speaker": "SPEAKER_00",
+      "text": "cómo quedo yo, no, no, no, entonces"
+    },
+    {
+      "start": 336.04,
+      "end": 337.94,
+      "speaker": "SPEAKER_00",
+      "text": "a la fija, a la fija, me"
+    },
+    {
+      "start": 337.94,
+      "end": 339.24,
+      "speaker": "SPEAKER_00",
+      "text": "comprometo a que"
+    },
+    {
+      "start": 339.24,
+      "end": 342.04,
+      "speaker": "SPEAKER_00",
+      "text": "a más tardar, más tardar"
+    },
+    {
+      "start": 342.04,
+      "end": 344.08,
+      "speaker": "SPEAKER_00",
+      "text": "el primero tiene ya"
+    },
+    {
+      "start": 344.08,
+      "end": 345.8,
+      "speaker": "SPEAKER_00",
+      "text": "el abono y me manda donde"
+    },
+    {
+      "start": 345.8,
+      "end": 347.44,
+      "speaker": "SPEAKER_00",
+      "text": "debo consignar y todo eso"
+    },
+    {
+      "start": 347.44,
+      "end": 352.46,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto señor Pino, entiendo completamente"
+    },
+    {
+      "start": 352.46,
+      "end": 354.32,
+      "speaker": "SPEAKER_01",
+      "text": "confirmamos entonces que la primera"
+    },
+    {
+      "start": 354.32,
+      "end": 356.24,
+      "speaker": "SPEAKER_01",
+      "text": "cuota de 250 mil pesos"
+    },
+    {
+      "start": 356.24,
+      "end": 358.76,
+      "speaker": "SPEAKER_01",
+      "text": "la haría a más tardar el 31 de julio"
+    },
+    {
+      "start": 358.76,
+      "end": 360.32,
+      "speaker": "SPEAKER_01",
+      "text": "ahora necesito confirmar algunos"
+    },
+    {
+      "start": 360.32,
+      "end": 362.3,
+      "speaker": "SPEAKER_01",
+      "text": "datos para completar el acuerdo, me puede"
+    },
+    {
+      "start": 362.3,
+      "end": 363.24,
+      "speaker": "SPEAKER_01",
+      "text": "proporcionar un número de"
+    },
+    {
+      "start": 363.24,
+      "end": 368.82,
+      "speaker": "SPEAKER_01",
+      "text": "¿me puede proporcionar"
+    },
+    {
+      "start": 368.82,
+      "end": 370.28,
+      "speaker": "SPEAKER_01",
+      "text": "un número de teléfono alternativo"
+    },
+    {
+      "start": 370.28,
+      "end": 372.3,
+      "speaker": "SPEAKER_01",
+      "text": "donde lo podamos contactar, señor Pino?"
+    },
+    {
+      "start": 372.46,
+      "end": 373.76,
+      "speaker": "SPEAKER_00",
+      "text": "no, este es mi número"
+    },
+    {
+      "start": 373.76,
+      "end": 374.46,
+      "speaker": "SPEAKER_00",
+      "text": "este es mi número"
+    },
+    {
+      "start": 374.46,
+      "end": 378.3,
+      "speaker": "SPEAKER_00",
+      "text": "y yo siempre contesto las demás"
+    },
+    {
+      "start": 378.3,
+      "end": 378.86,
+      "speaker": "SPEAKER_00",
+      "text": "y todo eso"
+    },
+    {
+      "start": 378.86,
+      "end": 385.68,
+      "speaker": "SPEAKER_01",
+      "text": "entiendo señor Pino, ¿y tiene algún otro número"
+    },
+    {
+      "start": 385.68,
+      "end": 386.92,
+      "speaker": "SPEAKER_01",
+      "text": "donde también lo podamos ubicar?"
+    },
+    {
+      "start": 387.36,
+      "end": 388.2,
+      "speaker": "SPEAKER_01",
+      "text": "como un número de familia"
+    },
+    {
+      "start": 388.2,
+      "end": 390.08,
+      "speaker": "SPEAKER_00",
+      "text": "no, no, no"
+    },
+    {
+      "start": 390.08,
+      "end": 393.32,
+      "speaker": "SPEAKER_00",
+      "text": "pero es familiar, sí, pero pues"
+    },
+    {
+      "start": 393.32,
+      "end": 395.16,
+      "speaker": "SPEAKER_00",
+      "text": "yo no vivo con ellos, entonces pues"
+    },
+    {
+      "start": 395.16,
+      "end": 396.8,
+      "speaker": "SPEAKER_00",
+      "text": "eso y nada es lo mismo, ¿no es cierto?"
+    },
+    {
+      "start": 396.8,
+      "end": 403.14,
+      "speaker": "SPEAKER_00",
+      "text": "No sé. Llámeme, ¿no es cierto? Que a este número me puede contactar y no hay ningún problema por eso."
+    },
+    {
+      "start": 403.44,
+      "end": 405.12,
+      "speaker": "SPEAKER_00",
+      "text": "Si hubiera sido así, no lo hubiera contestado."
+    },
+    {
+      "start": 408.66,
+      "end": 412.54,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto, señor Pino. Queda solo este número entonces. ¿Me puede confirmar su correo electrónico?"
+    },
+    {
+      "start": 414.89,
+      "end": 422.36,
+      "speaker": "SPEAKER_00",
+      "text": "Tapice arroba hotmail punto com. Yo me llamo Darío. Es tapice arroba hotmail punto com."
+    },
+    {
+      "start": 425.71,
+      "end": 431.39,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto. Tapice hotmail punto com confirmado. Ahora necesito confirmar su dirección completa, incluyendo la ciudad. Señor Pino."
+    },
+    {
+      "start": 432.31,
+      "end": 450.58,
+      "speaker": "SPEAKER_00",
+      "text": "bueno. Calle 17. Sí, señor Pino, continúe, por favor. Número, calle 17, número 28A. Perfecto."
+    },
+    {
+      "start": 450.86,
+      "end": 458.17,
+      "speaker": "SPEAKER_01",
+      "text": "¿Y la ciudad, señor Pino? Tuluá. Excelente, Tuluá, confirmado. Y por último, ¿por qué canal"
+    },
+    {
+      "start": 458.17,
+      "end": 463.51,
+      "speaker": "SPEAKER_01",
+      "text": "prefiere que lo contactemos primero? ¿Llamada, WhatsApp o correo electrónico? No, no, no, y la"
+    },
+    {
+      "start": 463.51,
+      "end": 465.61,
+      "speaker": "SPEAKER_00",
+      "text": "llamada. La información es más"
+    },
+    {
+      "start": 465.61,
+      "end": 467.03,
+      "speaker": "SPEAKER_00",
+      "text": "directa y más rápida."
+    },
+    {
+      "start": 470.48,
+      "end": 472.02,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Pino, para finalizar"
+    },
+    {
+      "start": 472.02,
+      "end": 474.18,
+      "speaker": "SPEAKER_01",
+      "text": "le informo que esta llamada fue grabada y monitoreada."
+    },
+    {
+      "start": 474.68,
+      "end": 476.12,
+      "speaker": "SPEAKER_01",
+      "text": "Todos los datos acá compartidos"
+    },
+    {
+      "start": 476.12,
+      "end": 478.06,
+      "speaker": "SPEAKER_01",
+      "text": "serán analizados y tratados bajo la"
+    },
+    {
+      "start": 478.06,
+      "end": 480.2,
+      "speaker": "SPEAKER_01",
+      "text": "Ley 1581 de 2012."
+    },
+    {
+      "start": 480.74,
+      "end": 482.44,
+      "speaker": "SPEAKER_01",
+      "text": "Enviaremos la documentación próximamente."
+    },
+    {
+      "start": 482.8,
+      "end": 484.1,
+      "speaker": "SPEAKER_01",
+      "text": "Que tenga un buen día, señor Pino."
+    },
+    {
+      "start": 484.28,
+      "end": 484.7,
+      "speaker": "SPEAKER_01",
+      "text": "Hasta luego."
+    }
+  ]
+}

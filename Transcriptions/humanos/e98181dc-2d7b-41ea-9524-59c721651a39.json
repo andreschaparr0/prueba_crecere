@@ -1,0 +1,351 @@
+{
+  "file_id": "e98181dc-2d7b-41ea-9524-59c721651a39",
+  "source": "humano",
+  "duration_sec": 152.4,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 4.37,
+      "end": 5.21,
+      "speaker": "SPEAKER_01",
+      "text": "Marica"
+    },
+    {
+      "start": 5.21,
+      "end": 8.42,
+      "speaker": "SPEAKER_00",
+      "text": "Muy buenas tardes señor don Antonio"
+    },
+    {
+      "start": 8.42,
+      "end": 9.9,
+      "speaker": "SPEAKER_01",
+      "text": "Con el"
+    },
+    {
+      "start": 9.9,
+      "end": 11.97,
+      "speaker": "SPEAKER_00",
+      "text": "Como esta señor"
+    },
+    {
+      "start": 11.97,
+      "end": 17.02,
+      "speaker": "SPEAKER_00",
+      "text": "De que, de que, de que"
+    },
+    {
+      "start": 17.02,
+      "end": 19.08,
+      "speaker": "SPEAKER_00",
+      "text": "Que"
+    },
+    {
+      "start": 19.08,
+      "end": 23.48,
+      "speaker": "SPEAKER_00",
+      "text": "Como una empresa de vida que estamos sueños y acreedores"
+    },
+    {
+      "start": 23.48,
+      "end": 25.68,
+      "speaker": "SPEAKER_00",
+      "text": "Pero una cartera que usted tiene una obligación pendiente"
+    },
+    {
+      "start": 25.68,
+      "end": 27.98,
+      "speaker": "SPEAKER_00",
+      "text": "En estos días usted realizó un acuerdo de pago"
+    },
+    {
+      "start": 27.98,
+      "end": 29.9,
+      "speaker": "SPEAKER_00",
+      "text": "Pero una obligación pendiente"
+    },
+    {
+      "start": 29.9,
+      "end": 31.24,
+      "speaker": "SPEAKER_00",
+      "text": "Por un valor de"
+    },
+    {
+      "start": 31.24,
+      "end": 33.38,
+      "speaker": "SPEAKER_00",
+      "text": "340 mil pesos"
+    },
+    {
+      "start": 33.38,
+      "end": 35.8,
+      "speaker": "SPEAKER_00",
+      "text": "Que quedó para el día 19 de julio de cancelar"
+    },
+    {
+      "start": 35.8,
+      "end": 37.2,
+      "speaker": "SPEAKER_00",
+      "text": "Usted canceló la corte de pago"
+    },
+    {
+      "start": 37.2,
+      "end": 39.38,
+      "speaker": "SPEAKER_00",
+      "text": "Que que"
+    },
+    {
+      "start": 39.38,
+      "end": 42.24,
+      "speaker": "SPEAKER_00",
+      "text": "que a veces nosotros somos dueños"
+    },
+    {
+      "start": 42.24,
+      "end": 44.64,
+      "speaker": "SPEAKER_00",
+      "text": "y a creer la cartera de su obligación"
+    },
+    {
+      "start": 44.64,
+      "end": 45.32,
+      "speaker": "SPEAKER_00",
+      "text": "de tuya"
+    },
+    {
+      "start": 45.32,
+      "end": 48.04,
+      "speaker": "SPEAKER_00",
+      "text": "¿recuerda esa deuda?"
+    },
+    {
+      "start": 49.3,
+      "end": 50.02,
+      "speaker": "SPEAKER_00",
+      "text": "ah si señor"
+    },
+    {
+      "start": 50.02,
+      "end": 52.11,
+      "speaker": "SPEAKER_00",
+      "text": "señor"
+    },
+    {
+      "start": 52.11,
+      "end": 55.45,
+      "speaker": "SPEAKER_00",
+      "text": "lo que pasa es que usted fue contactado"
+    },
+    {
+      "start": 55.45,
+      "end": 57.13,
+      "speaker": "SPEAKER_00",
+      "text": "y usted realizó un acuerdo de pago"
+    },
+    {
+      "start": 57.13,
+      "end": 58.49,
+      "speaker": "SPEAKER_00",
+      "text": "para el 19 de julio"
+    },
+    {
+      "start": 58.49,
+      "end": 60.51,
+      "speaker": "SPEAKER_00",
+      "text": "por 340 mil pesos"
+    },
+    {
+      "start": 60.51,
+      "end": 61.53,
+      "speaker": "SPEAKER_00",
+      "text": "¿cuánto?"
+    },
+    {
+      "start": 62.09,
+      "end": 64.07,
+      "speaker": "SPEAKER_00",
+      "text": "por 340 mil pesos"
+    },
+    {
+      "start": 64.07,
+      "end": 66.47,
+      "speaker": "SPEAKER_00",
+      "text": "ese acuerdo de pago que le realizaron a usted"
+    },
+    {
+      "start": 66.47,
+      "end": 69.47,
+      "speaker": "SPEAKER_00",
+      "text": "tiene un descuento, quisiera saber si ya canceló"
+    },
+    {
+      "start": 69.47,
+      "end": 70.63,
+      "speaker": "SPEAKER_00",
+      "text": "no"
+    },
+    {
+      "start": 70.63,
+      "end": 76.66,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, entonces, pues, ¿y le ha llegado el acuerdo de pago, el documento?"
+    },
+    {
+      "start": 77.26,
+      "end": 77.7,
+      "speaker": "SPEAKER_01",
+      "text": "No."
+    },
+    {
+      "start": 79.12,
+      "end": 88.74,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, señor. Entonces, pues, mira, te voy a informar, pues, actualmente, esa deuda, pues, que está por 358.785 pesos,"
+    },
+    {
+      "start": 89.12,
+      "end": 92.96,
+      "speaker": "SPEAKER_00",
+      "text": "tiene un descuento para quedar en ese valor de 340.000 pesos."
+    },
+    {
+      "start": 93.92,
+      "end": 98.48,
+      "speaker": "SPEAKER_00",
+      "text": "Usted me indica más o menos para qué fecha puede cancelar, o más tarde, el 31 de julio."
+    },
+    {
+      "start": 98.48,
+      "end": 101.63,
+      "speaker": "SPEAKER_00",
+      "text": "una vez que cancele eso"
+    },
+    {
+      "start": 101.63,
+      "end": 102.79,
+      "speaker": "SPEAKER_00",
+      "text": "se le entregaría el Paz y Salvo"
+    },
+    {
+      "start": 102.79,
+      "end": 105.09,
+      "speaker": "SPEAKER_00",
+      "text": "y saldría el reporte de los centros de riesgo"
+    },
+    {
+      "start": 105.09,
+      "end": 105.95,
+      "speaker": "SPEAKER_00",
+      "text": "se le quitaría"
+    },
+    {
+      "start": 105.95,
+      "end": 110.04,
+      "speaker": "SPEAKER_01",
+      "text": "¿el Paz y Salvo a dónde?"
+    },
+    {
+      "start": 112.04,
+      "end": 112.52,
+      "speaker": "SPEAKER_00",
+      "text": "señor"
+    },
+    {
+      "start": 112.52,
+      "end": 114.34,
+      "speaker": "SPEAKER_01",
+      "text": "¿me dan el Paz y Salvo a dónde?"
+    },
+    {
+      "start": 115.44,
+      "end": 118.08,
+      "speaker": "SPEAKER_00",
+      "text": "el Paz y Salvo te lo vamos a enviar por correo electrónico"
+    },
+    {
+      "start": 118.08,
+      "end": 119.5,
+      "speaker": "SPEAKER_00",
+      "text": "o por vía WhatsApp"
+    },
+    {
+      "start": 119.5,
+      "end": 120.3,
+      "speaker": "SPEAKER_00",
+      "text": "como usted lo dice"
+    },
+    {
+      "start": 120.3,
+      "end": 122.0,
+      "speaker": "SPEAKER_00",
+      "text": "ah bueno"
+    },
+    {
+      "start": 122.0,
+      "end": 126.46,
+      "speaker": "SPEAKER_00",
+      "text": "este número"
+    },
+    {
+      "start": 126.46,
+      "end": 126.98,
+      "speaker": "SPEAKER_00",
+      "text": "¿tiene WhatsApp?"
+    },
+    {
+      "start": 128.31,
+      "end": 128.75,
+      "speaker": "SPEAKER_00",
+      "text": "señor"
+    },
+    {
+      "start": 128.75,
+      "end": 132.99,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces, ¿el pago lo haría para qué día? ¿Para hoy?"
+    },
+    {
+      "start": 133.88,
+      "end": 134.72,
+      "speaker": "SPEAKER_01",
+      "text": "No, no."
+    },
+    {
+      "start": 136.28,
+      "end": 138.36,
+      "speaker": "SPEAKER_00",
+      "text": "¿Para qué fecha? ¿Para el 31 de julio?"
+    },
+    {
+      "start": 139.24,
+      "end": 139.7,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor."
+    },
+    {
+      "start": 140.74,
+      "end": 147.94,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, entonces en unos minutos me voy a comunicar con usted por vía WhatsApp y le voy a enviar el documento formalizado del acuerdo de pago por el valor. ¿Listo?"
+    },
+    {
+      "start": 148.62,
+      "end": 148.94,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señor."
+    },
+    {
+      "start": 149.92,
+      "end": 150.52,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, señor."
+    },
+    {
+      "start": 150.9,
+      "end": 152.32,
+      "speaker": "SPEAKER_00",
+      "text": "Muy amable por atender la llamada."
+    }
+  ]
+}
