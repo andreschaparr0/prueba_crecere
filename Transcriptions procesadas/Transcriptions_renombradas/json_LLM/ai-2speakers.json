@@ -1,0 +1,353 @@
+{
+  "resultados": [
+    {
+      "short_id": "audioi1-07c816c7-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Identifica deuda y ofrece descuento"
+    },
+    {
+      "short_id": "audioi2-0aef8aeb-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "baja",
+      "evidencia": "Inicia como agente; etiquetas posteriores mezcladas"
+    },
+    {
+      "short_id": "audioi3-12fb0266-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Presenta descuento y negocia capacidad de pago"
+    },
+    {
+      "short_id": "audioi4-19b3eddf-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Explica deuda, descuento y proceso legal"
+    },
+    {
+      "short_id": "audioi5-1a132947-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento y formaliza acuerdo de pago"
+    },
+    {
+      "short_id": "audioi6-239a604a-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "media",
+      "evidencia": "Agente solicita contacto del hermano titular"
+    },
+    {
+      "short_id": "audioi7-293e667b-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento; cliente niega reconocer la deuda"
+    },
+    {
+      "short_id": "audioi8-3056dcb7-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento, cuotas y confirma datos"
+    },
+    {
+      "short_id": "audioi9-3147bab7-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "media",
+      "evidencia": "Agente gestiona obligación; contacto niega ser titular"
+    },
+    {
+      "short_id": "audioi10-32616618-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "media",
+      "evidencia": "Actualiza registros tras confirmar teléfono equivocado"
+    },
+    {
+      "short_id": "audioi11-3350acd3-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento y formaliza acuerdo de pago"
+    },
+    {
+      "short_id": "audioi12-355812a5-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "SPEAKER_01 monopoliza; cliente no responde claramente"
+    },
+    {
+      "short_id": "audioi13-3a02fcc2-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "media",
+      "evidencia": "Contacto niega ser titular y ofrece pasar recado"
+    },
+    {
+      "short_id": "audioi14-3df056d8-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "baja",
+      "evidencia": "SPEAKER_01 domina; respuestas aparecen mezcladas"
+    },
+    {
+      "short_id": "audioi15-3e8b2986-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Explica deuda y solicita confirmar propuesta"
+    },
+    {
+      "short_id": "audioi16-41269351-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Solo habla el agente; resto es grabación automática"
+    },
+    {
+      "short_id": "audioi17-449d76a1-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento, cuotas y confirma información"
+    },
+    {
+      "short_id": "audioi18-589afa5a-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "media",
+      "evidencia": "Contacto niega conocer titular de la deuda"
+    },
+    {
+      "short_id": "audioi19-5a16e288-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Presenta deuda, descuento y propuesta de pago"
+    },
+    {
+      "short_id": "audioi20-631a4d16-3spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "media",
+      "evidencia": "Agente domina; respuestas del cliente son escasas"
+    },
+    {
+      "short_id": "audioi21-64a627ae-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Agente intenta validar; solo aparece grabación automática"
+    },
+    {
+      "short_id": "audioi22-66c23ff9-2spk",
+      "agente": "incierto",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Etiquetas contienen solo intervenciones del agente"
+    },
+    {
+      "short_id": "audioi23-673f40d5-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento y negocia situación financiera"
+    },
+    {
+      "short_id": "audioi24-6d1ee3b1-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Explica deuda y propone alternativas de pago"
+    },
+    {
+      "short_id": "audioi25-6d26bb76-3spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Gestiona descuento, cuotas y nueva llamada"
+    },
+    {
+      "short_id": "audioi26-6d8d8dbe-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento y confirma acuerdo de pago"
+    },
+    {
+      "short_id": "audioi27-7350b21e-2spk",
+      "agente": "incierto",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Etiquetas mezcladas; no aparece cliente claramente"
+    },
+    {
+      "short_id": "audioi28-79c5d6ae-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Negocia deuda, descuento y acuerdo de largo plazo"
+    },
+    {
+      "short_id": "audioi29-7a59be10-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "No aparece cliente; etiquetas contienen discurso del agente"
+    },
+    {
+      "short_id": "audioi30-7c826b7f-3spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Formaliza cuotas, fechas y canales de pago"
+    },
+    {
+      "short_id": "audioi31-7dc52408-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Habla primero y ofrece alternativas de pago"
+    },
+    {
+      "short_id": "audioi32-7df4a150-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Explica deuda, descuento y opciones de cuotas"
+    },
+    {
+      "short_id": "audioi33-80b9d804-2spk",
+      "agente": "incierto",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Etiquetas mezcladas; no aparece cliente claramente"
+    },
+    {
+      "short_id": "audioi34-8349b881-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "media",
+      "evidencia": "Agente verifica titularidad; hija responde en su lugar"
+    },
+    {
+      "short_id": "audioi35-8d9dfa93-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece cuotas y confirma datos del acuerdo"
+    },
+    {
+      "short_id": "audioi36-8eeab89a-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "media",
+      "evidencia": "Agente busca a titular; familiar responde"
+    },
+    {
+      "short_id": "audioi37-925483e1-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Negocia descuento, cuotas y fechas de pago"
+    },
+    {
+      "short_id": "audioi38-9cf48045-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "media",
+      "evidencia": "SPEAKER_01 domina; algunas intervenciones están mezcladas"
+    },
+    {
+      "short_id": "audioi39-a64feaf9-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Presenta descuento y formaliza acuerdo en cuotas"
+    },
+    {
+      "short_id": "audioi40-b056678f-2spk",
+      "agente": "incierto",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Solo aparecen mensajes automáticos y grabación"
+    },
+    {
+      "short_id": "audioi41-b1584952-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "media",
+      "evidencia": "SPEAKER_01 gestiona deuda; respuestas iniciales están mezcladas"
+    },
+    {
+      "short_id": "audioi42-b97bdab1-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "media",
+      "evidencia": "Agente detecta número equivocado y actualiza registros"
+    },
+    {
+      "short_id": "audioi43-bdc7c768-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento y negocia fecha de pago"
+    },
+    {
+      "short_id": "audioi44-c1a958de-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece cuotas y registra dificultades económicas"
+    },
+    {
+      "short_id": "audioi45-c3d816dd-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "baja",
+      "evidencia": "Contacto niega ser titular; etiquetas iniciales mezcladas"
+    },
+    {
+      "short_id": "audioi46-c8b57e01-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Negocia descuento, cuotas y acuerdo de largo plazo"
+    },
+    {
+      "short_id": "audioi47-da02116f-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento y confirma acuerdo de pago"
+    },
+    {
+      "short_id": "audioi49-f55b661d-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Formaliza descuento, cuotas y datos de contacto"
+    },
+    {
+      "short_id": "audioi50-fc9da4d5-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "media",
+      "evidencia": "Contacto niega ser titular; agente registra el error"
+    }
+  ]
+}
+
+
+  
+
+  
+  

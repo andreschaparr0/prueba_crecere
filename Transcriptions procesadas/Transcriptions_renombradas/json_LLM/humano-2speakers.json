@@ -1,0 +1,246 @@
+{
+  "resultados": [
+    {
+      "short_id": "audioh1-0445c357-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Habla primero y gestiona cuotas de pago"
+    },
+    {
+      "short_id": "audioh2-09115a4a-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Identifica obligación y ofrece acuerdo de pago"
+    },
+    {
+      "short_id": "audioh5-0d2d37dd-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Explica acuerdos, pagos y gestiona fechas"
+    },
+    {
+      "short_id": "audioh8-1f5cda00-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Se identifica y negocia deuda pendiente"
+    },
+    {
+      "short_id": "audioh9-2a92a64c-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Etiquetas mezcladas; solo el inicio identifica agente"
+    },
+    {
+      "short_id": "audioh11-2d454b7b-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Se presenta en conciliación y ofrece pagos"
+    },
+    {
+      "short_id": "audioh12-2e50e9db-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Informa acuerdo y solicita comprobante"
+    },
+    {
+      "short_id": "audioh13-306c762c-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Informa crédito y solicita soportes de pago"
+    },
+    {
+      "short_id": "audioh14-336a8602-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "baja",
+      "evidencia": "Agente se identifica; etiquetas parcialmente mezcladas"
+    },
+    {
+      "short_id": "audioh15-380f5075-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Recuerda fecha, cuota y acuerdo de pago"
+    },
+    {
+      "short_id": "audioh16-38482ca0-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Se identifica como asesor y ofrece descuento"
+    },
+    {
+      "short_id": "audioh20-63b9a147-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "media",
+      "evidencia": "Gestiona acuerdo; SPEAKER_00 responde y confirma"
+    },
+    {
+      "short_id": "audioh21-66c2db61-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "baja",
+      "evidencia": "SPEAKER_01 gestiona pagos; etiquetas mezcladas"
+    },
+    {
+      "short_id": "audioh22-67197ac4-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Una etiqueta contiene intervenciones de ambos roles"
+    },
+    {
+      "short_id": "audioh23-6854b6cc-3spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "baja",
+      "evidencia": "Agente domina, pero respuestas aparecen mezcladas"
+    },
+    {
+      "short_id": "audioh24-693045ed-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Agente domina; segunda etiqueta casi ausente"
+    },
+    {
+      "short_id": "audioh25-6bbff5d5-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "baja",
+      "evidencia": "Agente domina; respuestas del cliente están mezcladas"
+    },
+    {
+      "short_id": "audioh27-74aa7e2d-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "baja",
+      "evidencia": "Agente domina; respuesta del cliente es aislada"
+    },
+    {
+      "short_id": "audioh28-74b16f62-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Explica deuda, descuentos y alternativas de pago"
+    },
+    {
+      "short_id": "audioh29-77d258d0-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Negocia fecha, cuotas y soportes de pago"
+    },
+    {
+      "short_id": "audioh31-82ee7afd-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento y negocia obligaciones pendientes"
+    },
+    {
+      "short_id": "audioh33-92778da9-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Solicita soportes para tramitar paz y salvo"
+    },
+    {
+      "short_id": "audioh34-93d0abfc-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "baja",
+      "evidencia": "Agente domina; cliente solo confirma un número"
+    },
+    {
+      "short_id": "audioh37-ab2ac983-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "media",
+      "evidencia": "Gestiona deuda, pago y paz y salvo"
+    },
+    {
+      "short_id": "audioh38-ae0573ba-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "baja",
+      "evidencia": "SPEAKER_01 domina; respuestas aparecen mezcladas"
+    },
+    {
+      "short_id": "audioh39-b7318057-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Ofrece descuento y acuerda fechas de pago"
+    },
+    {
+      "short_id": "audioh40-b954108b-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "media",
+      "evidencia": "Agente ofrece beneficio; contacto niega ser titular"
+    },
+    {
+      "short_id": "audioh41-c067f714-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Gestiona acuerdo, medios de pago y comprobante"
+    },
+    {
+      "short_id": "audioh42-c5d3d94f-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "alta",
+      "evidencia": "Solicita información y contacto por WhatsApp"
+    },
+    {
+      "short_id": "audioh43-ce33bc23-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "baja",
+      "evidencia": "Agente domina; intervenciones del cliente están mezcladas"
+    },
+    {
+      "short_id": "audioh45-e76a6feb-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Confirma pago y envía acuerdo formal"
+    },
+    {
+      "short_id": "audioh46-e7d964af-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "incierto",
+      "confianza": "baja",
+      "evidencia": "Se identifica como asesor y negocia deuda"
+    },
+    {
+      "short_id": "audioh47-e98181dc-2spk",
+      "agente": "SPEAKER_00",
+      "deudor": "SPEAKER_01",
+      "confianza": "alta",
+      "evidencia": "Gestiona acuerdo, descuento y paz y salvo"
+    },
+    {
+      "short_id": "audioh49-f613df46-2spk",
+      "agente": "SPEAKER_01",
+      "deudor": "SPEAKER_00",
+      "confianza": "baja",
+      "evidencia": "Agente domina; etiquetas del cliente están mezcladas"
+    }
+
+  ]
+}
+
+
+    
