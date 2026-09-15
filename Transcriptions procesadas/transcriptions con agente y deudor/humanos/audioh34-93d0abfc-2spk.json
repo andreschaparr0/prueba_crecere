@@ -1,0 +1,397 @@
+{
+  "file_id": "93d0abfc-ece6-488b-bee8-950abb980520",
+  "source": "humano",
+  "duration_sec": 175.46,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 11.34,
+      "end": 20.86,
+      "speaker": "SPEAKER_00",
+      "text": "Hola, ¿cómo están? Bien, bien, gracias. Ah, bueno, sí, señora, habla con Viviana",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 20.86,
+      "end": 26.34,
+      "speaker": "SPEAKER_00",
+      "text": "Barrera acerca del pago. Está pendiente para el día de hoy por valor de cuatrocientos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 26.34,
+      "end": 34.98,
+      "speaker": "SPEAKER_00",
+      "text": "setenta y cinco mil pesos. En este caso, pues, ya tiene la información y entonces. Pero",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 34.98,
+      "end": 41.34,
+      "speaker": "SPEAKER_00",
+      "text": "no, que WhatsApp, que WhatsApp tienen porque no me ha llegado nada. Sí, sí, señora,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.34,
+      "end": 45.08,
+      "speaker": "SPEAKER_00",
+      "text": "que me ha parecido que ya ha cambiado el acuerdo de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 45.08,
+      "end": 47.26,
+      "speaker": "SPEAKER_00",
+      "text": "con las dos fechas para el pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 48.85,
+      "end": 51.99,
+      "speaker": "SPEAKER_00",
+      "text": "Me dijeron que me lo mandaría a *** y no me llega.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 53.54,
+      "end": 56.68,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me confirma entonces nuevamente su número de WhatsApp?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 58.1,
+      "end": 61.06,
+      "speaker": "SPEAKER_00",
+      "text": "301, el mismo número este, 301-73.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 61.42,
+      "end": 62.64,
+      "speaker": "SPEAKER_00",
+      "text": "301-73.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 63.24,
+      "end": 65.21,
+      "speaker": "SPEAKER_01",
+      "text": "301-26.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 66.07,
+      "end": 69.51,
+      "speaker": "SPEAKER_00",
+      "text": "301-26, 301, pero me le falta el número.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 70.31,
+      "end": 71.71,
+      "speaker": "SPEAKER_00",
+      "text": "301-73.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 72.91,
+      "end": 77.86,
+      "speaker": "SPEAKER_00",
+      "text": "730-01-26",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 77.86,
+      "end": 81.26,
+      "speaker": "SPEAKER_00",
+      "text": "730-01-26",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 81.26,
+      "end": 83.74,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señora.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 83.9,
+      "end": 88.78,
+      "speaker": "SPEAKER_00",
+      "text": "Igual también fue enviado por correo electrónico.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 90.78,
+      "end": 93.73,
+      "speaker": "SPEAKER_00",
+      "text": "Listo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 94.87,
+      "end": 95.63,
+      "speaker": "SPEAKER_00",
+      "text": "¿Qué correo tiene?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 96.93,
+      "end": 98.03,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me lo confirman?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 98.92,
+      "end": 100.24,
+      "speaker": "SPEAKER_00",
+      "text": "El correo es",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 100.24,
+      "end": 102.28,
+      "speaker": "SPEAKER_00",
+      "text": "J-A-I",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 102.28,
+      "end": 105.84,
+      "speaker": "SPEAKER_00",
+      "text": "I-R-Y-Y-U-K",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 105.84,
+      "end": 108.76,
+      "speaker": "SPEAKER_00",
+      "text": "V de vino",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 108.76,
+      "end": 109.76,
+      "speaker": "SPEAKER_00",
+      "text": "D de dedo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 109.76,
+      "end": 112.72,
+      "speaker": "SPEAKER_00",
+      "text": "Arroba gmail.com",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 112.72,
+      "end": 114.22,
+      "speaker": "SPEAKER_00",
+      "text": "V de qué?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 115.6,
+      "end": 116.6,
+      "speaker": "SPEAKER_00",
+      "text": "V de vino",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 116.6,
+      "end": 118.78,
+      "speaker": "SPEAKER_00",
+      "text": "Ajá, sí, ajá",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 118.78,
+      "end": 119.56,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, está bien",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 119.56,
+      "end": 120.78,
+      "speaker": "SPEAKER_00",
+      "text": "D de dedo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 120.78,
+      "end": 122.62,
+      "speaker": "SPEAKER_00",
+      "text": "Arroba gmail.com",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 122.62,
+      "end": 124.12,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, está bien",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 124.12,
+      "end": 129.43,
+      "speaker": "SPEAKER_00",
+      "text": "Listo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 129.43,
+      "end": 131.66,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 131.66,
+      "end": 133.92,
+      "speaker": "SPEAKER_00",
+      "text": "Ahorita lo realizo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 133.92,
+      "end": 136.12,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, sí señor, entonces quedo pendiente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 136.12,
+      "end": 137.98,
+      "speaker": "SPEAKER_00",
+      "text": "Una vez termine de realizar el pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 137.98,
+      "end": 139.54,
+      "speaker": "SPEAKER_00",
+      "text": "Se me envía el comprobante",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 139.54,
+      "end": 141.58,
+      "speaker": "SPEAKER_00",
+      "text": "para actualizar el sistema",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 141.58,
+      "end": 143.8,
+      "speaker": "SPEAKER_00",
+      "text": "por favor. Ah, listo, al mismo WhatsApp",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 143.8,
+      "end": 144.82,
+      "speaker": "SPEAKER_00",
+      "text": "donde me escribe.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 145.66,
+      "end": 146.26,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto. Listo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 148.42,
+      "end": 149.93,
+      "speaker": "SPEAKER_00",
+      "text": "Está bien, muchas gracias.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 150.63,
+      "end": 151.33,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, señora.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 151.53,
+      "end": 153.17,
+      "speaker": "SPEAKER_00",
+      "text": "Muchas gracias a usted, señora Leis,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 153.23,
+      "end": 155.59,
+      "speaker": "SPEAKER_00",
+      "text": "por un excelente día y un excelente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 155.59,
+      "end": 157.11,
+      "speaker": "SPEAKER_00",
+      "text": "semana. Que ya",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 157.11,
+      "end": 159.35,
+      "speaker": "SPEAKER_00",
+      "text": "haya recibido el comprobante de paz.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 160.6,
+      "end": 161.16,
+      "speaker": "SPEAKER_00",
+      "text": "Gracias.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 162.2,
+      "end": 165.64,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, señora Leis, muchas gracias",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 165.64,
+      "end": 167.64,
+      "speaker": "SPEAKER_00",
+      "text": "y que usted sea pendiente del comprobante",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 167.64,
+      "end": 169.62,
+      "speaker": "SPEAKER_00",
+      "text": "de paz. Listo, bueno,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 169.72,
+      "end": 171.18,
+      "speaker": "SPEAKER_00",
+      "text": "está bien. Gracias,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 171.18,
+      "end": 173.86,
+      "speaker": "SPEAKER_00",
+      "text": "Igualmente.",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh34-93d0abfc-2spk",
+  "original_file_id": "93d0abfc-ece6-488b-bee8-950abb980520",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

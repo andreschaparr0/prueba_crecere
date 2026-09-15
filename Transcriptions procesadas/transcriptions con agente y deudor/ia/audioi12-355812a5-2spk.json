@@ -1,0 +1,376 @@
+{
+  "file_id": "355812a5-2733-46fb-a2d3-5b388817fef4",
+  "source": "ia",
+  "duration_sec": 295.56,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 3.1,
+      "end": 17.4,
+      "speaker": "SPEAKER_01",
+      "text": "Muy buenos días. ¿Podría confirmarme si estoy hablando con...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 17.4,
+      "end": 29.41,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me escucha? ¿Podría confirmarme si es usted...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 29.41,
+      "end": 37.9,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, buenos días. Les llamo para confirmar si estoy hablando con...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 37.9,
+      "end": 47.48,
+      "speaker": "SPEAKER_01",
+      "text": "¿Es usted? ¿Sigue ahí?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 48.2,
+      "end": 51.02,
+      "speaker": "SPEAKER_00",
+      "text": "Confirmar si hablo con... para poder continuar.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 51.62,
+      "end": 60.05,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me escucha?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 60.27,
+      "end": 63.69,
+      "speaker": "SPEAKER_01",
+      "text": "Si no recibe respuesta, procederé a colgar y dejar nota de intento fallido.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 64.01,
+      "end": 66.26,
+      "speaker": "SPEAKER_01",
+      "text": "¿Está usted ahí? Gracias.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 67.1,
+      "end": 70.68,
+      "speaker": "SPEAKER_01",
+      "text": "Dado que su identidad ya ha sido validada anteriormente en este proceso,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 71.04,
+      "end": 74.88,
+      "speaker": "SPEAKER_01",
+      "text": "procedo a revisar el estado de su gestión para determinar el siguiente paso adecuado.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 76.02,
+      "end": 78.03,
+      "speaker": "SPEAKER_01",
+      "text": "Habla con el de parte de...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 78.03,
+      "end": 81.63,
+      "speaker": "SPEAKER_01",
+      "text": "Anteriormente le llamamos para gestionar su deuda y llegar a un acuerdo de pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 82.37,
+      "end": 84.87,
+      "speaker": "SPEAKER_01",
+      "text": "Lo estamos llamando nuevamente para retomar este proceso.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 85.49,
+      "end": 85.89,
+      "speaker": "SPEAKER_01",
+      "text": "¿Puedo continuar?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 92.78,
+      "end": 93.3,
+      "speaker": "SPEAKER_01",
+      "text": "¡Excelente!",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 94.63,
+      "end": 98.21,
+      "speaker": "SPEAKER_01",
+      "text": "Queremos ofrecerle un descuento del 16% de toda la deuda.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 99.82,
+      "end": 101.96,
+      "speaker": "SPEAKER_01",
+      "text": "Así le condonaríamos un total de $110,000.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 101.96,
+      "end": 107.75,
+      "speaker": "SPEAKER_01",
+      "text": "Con el descuento ya no debería $650,000, sino solo $540,000.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 108.41,
+      "end": 111.55,
+      "speaker": "SPEAKER_01",
+      "text": "Además, le puedo dejar la opción de pago aprobada por el sistema.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 112.39,
+      "end": 115.87,
+      "speaker": "SPEAKER_01",
+      "text": "Si queda en pago único, sería un solo pago de $180,000.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 116.51,
+      "end": 122.05,
+      "speaker": "SPEAKER_01",
+      "text": "Si queda en cuotas, el sistema le confirmará la cantidad exacta de cuotas y el valor de cada una.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 124.51,
+      "end": 126.95,
+      "speaker": "SPEAKER_01",
+      "text": "Es una propuesta por tiempo limitado que vencería hoy mismo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 127.29,
+      "end": 130.59,
+      "speaker": "SPEAKER_01",
+      "text": "Me puede indicar con un sí o un no.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 130.59,
+      "end": 134.21,
+      "speaker": "SPEAKER_01",
+      "text": "Si le interesa este descuento, y hacemos este acuerdo de pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 134.95,
+      "end": 147.08,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me escucha? ¿Le interesa la propuesta de descuento que le acabo de mencionar?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 158.55,
+      "end": 159.15,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 159.57,
+      "end": 162.71,
+      "speaker": "SPEAKER_01",
+      "text": "Le presento entonces la opción de pago aprobada para su acuerdo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 163.09,
+      "end": 168.41,
+      "speaker": "SPEAKER_01",
+      "text": "Un solo pago de 540 mil pesos, con fecha límite el 21 de agosto de 2026.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 168.83,
+      "end": 169.57,
+      "speaker": "SPEAKER_01",
+      "text": "¿Acepta esta opción?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 174.66,
+      "end": 175.26,
+      "speaker": "SPEAKER_01",
+      "text": "Excelente.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 175.6,
+      "end": 176.14,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 176.64,
+      "end": 179.33,
+      "speaker": "SPEAKER_01",
+      "text": "Ya dejamos registrada la propuesta aceptada.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 179.33,
+      "end": 185.07,
+      "speaker": "SPEAKER_01",
+      "text": "Ahora voy a confirmar el envío de la información del acuerdo y los canales de pago por correo y WhatsApp",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 185.07,
+      "end": 198.97,
+      "speaker": "SPEAKER_01",
+      "text": "Necesito pedirle algunos datos administrativos para enviarle la confirmación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 198.97,
+      "end": 202.37,
+      "speaker": "SPEAKER_01",
+      "text": "Tiene un número de teléfono alternativo donde podamos contactarlo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 202.37,
+      "end": 212.74,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me escucha?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 212.74,
+      "end": 216.46,
+      "speaker": "SPEAKER_01",
+      "text": "Tiene un número de teléfono alternativo para completar el registro del acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 216.46,
+      "end": 223.4,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 223.4,
+      "end": 224.78,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cuál es ese número de teléfono alternativo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 225.95,
+      "end": 226.51,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 226.51,
+      "end": 227.07,
+      "speaker": "SPEAKER_01",
+      "text": "Ahora",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 227.07,
+      "end": 230.92,
+      "speaker": "SPEAKER_01",
+      "text": "Entendido",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 230.92,
+      "end": 232.2,
+      "speaker": "SPEAKER_01",
+      "text": "Sin problema",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 232.2,
+      "end": 234.14,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me puede confirmar su correo electrónico?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 243.33,
+      "end": 244.13,
+      "speaker": "SPEAKER_01",
+      "text": "Sigue ahí",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 244.13,
+      "end": 247.45,
+      "speaker": "SPEAKER_01",
+      "text": "Su correo electrónico para enviarle la confirmación del acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 247.45,
+      "end": 254.3,
+      "speaker": "SPEAKER_01",
+      "text": "Necesito su correo electrónico para enviarle la confirmación del acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 254.3,
+      "end": 255.34,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cuál es su correo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 256.12,
+      "end": 262.36,
+      "speaker": "SPEAKER_01",
+      "text": "Que me diga su correo electrónico para enviarle la información del acuerdo de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 262.36,
+      "end": 273.78,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me puede dar su correo electrónico por favor?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 283.13,
+      "end": 283.81,
+      "speaker": "SPEAKER_01",
+      "text": "¿Sigue en la línea?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 283.81,
+      "end": 286.17,
+      "speaker": "SPEAKER_01",
+      "text": "Su correo electrónico para continuar",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi12-355812a5-2spk",
+  "original_file_id": "355812a5-2733-46fb-a2d3-5b388817fef4",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

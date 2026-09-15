@@ -1,0 +1,754 @@
+{
+  "file_id": "0445c357-e465-49ae-8067-bfa91d11b532",
+  "source": "humano",
+  "duration_sec": 309.52,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 17.14,
+      "end": 18.1,
+      "speaker": "SPEAKER_00",
+      "text": "Hablo con las...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 18.1,
+      "end": 21.76,
+      "speaker": "SPEAKER_00",
+      "text": "¿Quién la necesita?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 22.54,
+      "end": 24.56,
+      "speaker": "SPEAKER_00",
+      "text": "Eh, mire, mucho gusto. Mi nombre es...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 24.56,
+      "end": 25.52,
+      "speaker": "SPEAKER_00",
+      "text": "Me comunico...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 25.52,
+      "end": 29.82,
+      "speaker": "SPEAKER_00",
+      "text": "Nos comunicamos porque realizamos un acuerdo de pago con ella",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 29.82,
+      "end": 32.44,
+      "speaker": "SPEAKER_00",
+      "text": "y para hoy tenemos la cuota estipulada.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 32.6,
+      "end": 35.52,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos confirmar si contamos con este pago para el día de hoy.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 38.88,
+      "end": 39.8,
+      "speaker": "SPEAKER_00",
+      "text": "¿Al día de hoy?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.86,
+      "end": 43.44,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cuándo podemos contar con el pago?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 43.44,
+      "end": 44.68,
+      "speaker": "SPEAKER_00",
+      "text": "La cuota está por...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 44.68,
+      "end": 47.98,
+      "speaker": "SPEAKER_00",
+      "text": "El acuerdo está por 800 mil pesos, dos cuotas,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 48.54,
+      "end": 51.06,
+      "speaker": "SPEAKER_00",
+      "text": "cada una por 400 mil pesos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 51.06,
+      "end": 53.5,
+      "speaker": "SPEAKER_00",
+      "text": "queremos confirmar que pues que fecha",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 53.5,
+      "end": 55.28,
+      "speaker": "SPEAKER_00",
+      "text": "dentro del mes puede realizar el pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 55.28,
+      "end": 58.84,
+      "speaker": "SPEAKER_01",
+      "text": "si para el otro",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 58.84,
+      "end": 59.38,
+      "speaker": "SPEAKER_00",
+      "text": "mes",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 59.38,
+      "end": 62.74,
+      "speaker": "SPEAKER_00",
+      "text": "y este mes puedes hacer uno a uno para mantener",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 62.74,
+      "end": 64.52,
+      "speaker": "SPEAKER_00",
+      "text": "el descuento de 100 mil pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 64.52,
+      "end": 66.58,
+      "speaker": "SPEAKER_00",
+      "text": "estos 100 mil pesos se descuentan al valor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 66.58,
+      "end": 68.64,
+      "speaker": "SPEAKER_00",
+      "text": "y pues se disminuye la cuota",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 68.64,
+      "end": 69.84,
+      "speaker": "SPEAKER_00",
+      "text": "para el próximo mes",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 69.84,
+      "end": 73.01,
+      "speaker": "SPEAKER_01",
+      "text": "no porque ahorita no tengo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 73.01,
+      "end": 75.27,
+      "speaker": "SPEAKER_01",
+      "text": "tengo que esperar después de fin",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 75.27,
+      "end": 76.99,
+      "speaker": "SPEAKER_01",
+      "text": "de mes si me cae plata",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 76.99,
+      "end": 79.17,
+      "speaker": "SPEAKER_01",
+      "text": "para ir sin mirar",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 79.17,
+      "end": 81.03,
+      "speaker": "SPEAKER_01",
+      "text": "es decir",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 81.03,
+      "end": 83.01,
+      "speaker": "SPEAKER_00",
+      "text": "ok",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 83.37,
+      "end": 89.47,
+      "speaker": "SPEAKER_00",
+      "text": "Tú vas a empezar plan de abonos por un no con un valor en específico.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 89.57,
+      "end": 95.27,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, es para validar en el sistema porque acá en el sistema te aparecen dos pagos cada uno de 400 mil pesos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 95.89,
+      "end": 101.05,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces, pues, si de pronto no cuentas con el dinero, vas a empezar a incumplir la fecha de pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 101.59,
+      "end": 108.61,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces, no sé si de pronto te puedo ofertar un plan de pagos donde la cuota quede como un poquito más baja para que lo puedas cancelar.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 109.89,
+      "end": 110.97,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, claro.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 110.97,
+      "end": 124.19,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, mira, entonces te podemos ofrecer un plan de pago de cuotas a seis cuotas, cada una por un valor de $133,300. ¿Ese valor te queda asequible?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 125.58,
+      "end": 126.9,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, claro.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 127.62,
+      "end": 140.54,
+      "speaker": "SPEAKER_00",
+      "text": "Listo. Entonces, estos $133,000 puedes cancelar la primera cuota el 31 de julio y te quedaría el 30 de cada mes. 31 de julio, de agosto, septiembre y así sucesivamente.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 143.5,
+      "end": 147.24,
+      "speaker": "SPEAKER_01",
+      "text": "Eh, podría ser como para los cinco.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 148.86,
+      "end": 150.18,
+      "speaker": "SPEAKER_01",
+      "text": "¿Los cinco? Ok.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 151.26,
+      "end": 156.42,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, más bien te pases la fecha del mes, iniciando el mes.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 157.24,
+      "end": 160.08,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, bueno, te voy a dejar entonces el pago de los cinco.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 160.84,
+      "end": 164.84,
+      "speaker": "SPEAKER_00",
+      "text": "En este caso, iniciarías entonces plan de pago el 5 de agosto.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 164.84,
+      "end": 166.6,
+      "speaker": "SPEAKER_00",
+      "text": "Es de gran importancia el cumplimiento.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 167.32,
+      "end": 172.14,
+      "speaker": "SPEAKER_00",
+      "text": "Te quedan seis cuotas, cada una por 533.300, ¿bueno?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 172.14,
+      "end": 175.69,
+      "speaker": "SPEAKER_00",
+      "text": "133.300",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 175.69,
+      "end": 177.05,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí señora",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 177.05,
+      "end": 178.51,
+      "speaker": "SPEAKER_00",
+      "text": "Este pago lo puedes realizar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 178.51,
+      "end": 180.27,
+      "speaker": "SPEAKER_00",
+      "text": "Por medio de",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 180.27,
+      "end": 182.01,
+      "speaker": "SPEAKER_00",
+      "text": "O por medio de",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 182.01,
+      "end": 184.29,
+      "speaker": "SPEAKER_00",
+      "text": "Con el número de convenio en referencia",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 184.29,
+      "end": 185.81,
+      "speaker": "SPEAKER_00",
+      "text": "Vas a colocar tu número de cédula",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 185.81,
+      "end": 188.41,
+      "speaker": "SPEAKER_00",
+      "text": "El acuerdo te llega actualizado el día de hoy",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 188.41,
+      "end": 189.97,
+      "speaker": "SPEAKER_00",
+      "text": "En el transcurso pues del día",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 189.97,
+      "end": 191.55,
+      "speaker": "SPEAKER_00",
+      "text": "Te llega actualizado a tu WhatsApp",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 191.55,
+      "end": 193.87,
+      "speaker": "SPEAKER_00",
+      "text": "Indicando pues las seis cuotas y cada una",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 193.87,
+      "end": 195.19,
+      "speaker": "SPEAKER_00",
+      "text": "Por 133.300",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 195.19,
+      "end": 198.27,
+      "speaker": "SPEAKER_01",
+      "text": "Al WhatsApp y yo pago",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 198.27,
+      "end": 199.59,
+      "speaker": "SPEAKER_01",
+      "text": "Por el FETI",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 199.59,
+      "end": 202.05,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí señora, ahí con el número de tu cédula",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 202.05,
+      "end": 204.23,
+      "speaker": "SPEAKER_00",
+      "text": "e indicas el valor, obviamente en algunos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 204.23,
+      "end": 205.81,
+      "speaker": "SPEAKER_00",
+      "text": "casos te van a aparecer otros valores",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 205.81,
+      "end": 207.91,
+      "speaker": "SPEAKER_00",
+      "text": "como inferiores o superiores",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 207.91,
+      "end": 210.05,
+      "speaker": "SPEAKER_00",
+      "text": "solamente le dices a la cajera que lo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 210.05,
+      "end": 211.93,
+      "speaker": "SPEAKER_00",
+      "text": "modifique al valor de la cuota porque",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 211.93,
+      "end": 213.91,
+      "speaker": "SPEAKER_00",
+      "text": "muchas veces esos valores que aparecen ahí",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 213.91,
+      "end": 216.09,
+      "speaker": "SPEAKER_00",
+      "text": "son las cuotas que vienen o que han",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 216.09,
+      "end": 218.31,
+      "speaker": "SPEAKER_00",
+      "text": "venido cancelando pues anteriormente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 218.31,
+      "end": 220.25,
+      "speaker": "SPEAKER_00",
+      "text": "cuando iniciaron con el crédito, bueno",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 220.25,
+      "end": 222.65,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, bueno, es seguro",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 222.65,
+      "end": 224.19,
+      "speaker": "SPEAKER_00",
+      "text": "Señora",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 224.19,
+      "end": 226.31,
+      "speaker": "SPEAKER_00",
+      "text": "Es seguro",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 226.31,
+      "end": 228.95,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí señora, ahí con el número de convenio",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 228.95,
+      "end": 230.21,
+      "speaker": "SPEAKER_00",
+      "text": "te dicen Luxury",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 230.21,
+      "end": 233.33,
+      "speaker": "SPEAKER_00",
+      "text": "es la compañía nueva dueña de la cartera",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 233.33,
+      "end": 235.54,
+      "speaker": "SPEAKER_00",
+      "text": "entonces ahí",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 235.54,
+      "end": 237.54,
+      "speaker": "SPEAKER_00",
+      "text": "te va a aparecer un convenio llamado Luxury",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 237.54,
+      "end": 238.74,
+      "speaker": "SPEAKER_00",
+      "text": "y ahí te dicen que",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 238.74,
+      "end": 241.97,
+      "speaker": "SPEAKER_00",
+      "text": "y ahí ya con tu número de cédula",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 241.97,
+      "end": 242.53,
+      "speaker": "SPEAKER_00",
+      "text": "aparece",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 242.53,
+      "end": 246.14,
+      "speaker": "SPEAKER_00",
+      "text": "y doy la cuota, son seis cuotas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 246.14,
+      "end": 248.16,
+      "speaker": "SPEAKER_00",
+      "text": "sí, son seis cuotas, cada una",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 248.16,
+      "end": 249.84,
+      "speaker": "SPEAKER_00",
+      "text": "de 133.300",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 249.84,
+      "end": 252.65,
+      "speaker": "SPEAKER_00",
+      "text": "ah bueno, ok, me parece",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 252.65,
+      "end": 253.33,
+      "speaker": "SPEAKER_00",
+      "text": "bien",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 253.33,
+      "end": 255.97,
+      "speaker": "SPEAKER_00",
+      "text": "cuando cancelas nos envías",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 255.97,
+      "end": 258.07,
+      "speaker": "SPEAKER_00",
+      "text": "al WhatsApp que te llega",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 258.07,
+      "end": 260.51,
+      "speaker": "SPEAKER_00",
+      "text": "el acuerdo de pago, nos envías",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 260.51,
+      "end": 262.23,
+      "speaker": "SPEAKER_00",
+      "text": "es el soporte de pago para la aplicación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 263.33,
+      "end": 264.95,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, bueno, ¿y eso dónde queda?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 266.72,
+      "end": 269.5,
+      "speaker": "SPEAKER_01",
+      "text": "¿La compañía, la cartera de...?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 269.5,
+      "end": 273.9,
+      "speaker": "SPEAKER_00",
+      "text": "En este momento queda en la ciudad de...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 273.9,
+      "end": 275.9,
+      "speaker": "SPEAKER_00",
+      "text": "Nosotros estamos operando vía llamada,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 275.9,
+      "end": 279.36,
+      "speaker": "SPEAKER_00",
+      "text": "ya si tú quieres investigar todo el tema de la compañía y demás,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 279.68,
+      "end": 280.54,
+      "speaker": "SPEAKER_00",
+      "text": "te puedo enviar el...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 280.54,
+      "end": 282.86,
+      "speaker": "SPEAKER_00",
+      "text": "Lo puedes verificar en...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 282.86,
+      "end": 284.9,
+      "speaker": "SPEAKER_00",
+      "text": "Que es el registro empresarial único,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 285.26,
+      "end": 288.62,
+      "speaker": "SPEAKER_00",
+      "text": "ahí puedes validar la matrícula que esté activa",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 288.62,
+      "end": 290.08,
+      "speaker": "SPEAKER_00",
+      "text": "y pues toda nuestra razón social,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 290.08,
+      "end": 292.26,
+      "speaker": "SPEAKER_00",
+      "text": "también nuestros números de contacto.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 293.24,
+      "end": 295.28,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, bueno, me puede enviar ahí entonces.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 295.82,
+      "end": 298.6,
+      "speaker": "SPEAKER_00",
+      "text": "Y dentro del acuerdo de pago está toda la información de la empresa.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 298.8,
+      "end": 299.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ahí está el...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 299.7,
+      "end": 300.24,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, ok.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 300.24,
+      "end": 301.74,
+      "speaker": "SPEAKER_00",
+      "text": "Las líneas de comunicación, ¿bueno?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 302.32,
+      "end": 303.56,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, perfecto.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 304.02,
+      "end": 306.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, muchas gracias, que estén muy bien y quedamos atentos al pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 306.86,
+      "end": 307.4,
+      "speaker": "SPEAKER_00",
+      "text": "Hasta el día.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 307.62,
+      "end": 309.02,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, sí, señorita, gracias.",
+      "rol": "DEUDOR"
+    }
+  ],
+  "short_id": "audioh1-0445c357-2spk",
+  "original_file_id": "0445c357-e465-49ae-8067-bfa91d11b532",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

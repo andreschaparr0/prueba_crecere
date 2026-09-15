@@ -1,0 +1,201 @@
+{
+  "file_id": "6d8d8dbe-b501-4303-b864-9dc24119df5c",
+  "source": "ia",
+  "duration_sec": 112.82,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 1.01,
+      "end": 8.72,
+      "speaker": "SPEAKER_00",
+      "text": "Aló. Muy buenos días.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 10.06,
+      "end": 11.02,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 11.74,
+      "end": 13.38,
+      "speaker": "SPEAKER_00",
+      "text": "Por favor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 15.63,
+      "end": 16.35,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, con él habla.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 17.5,
+      "end": 19.68,
+      "speaker": "SPEAKER_00",
+      "text": "Disculpe, no entendí bien. Me podría confirmar.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 20.42,
+      "end": 22.75,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, con él habla.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 23.03,
+      "end": 27.69,
+      "speaker": "SPEAKER_00",
+      "text": "Le habla del área de embargos, judicializaciones y alivios financieros.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 28.15,
+      "end": 29.17,
+      "speaker": "SPEAKER_00",
+      "text": "Le llamo por tu obligación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 29.93,
+      "end": 30.89,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo me le vas?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 32.16,
+      "end": 33.4,
+      "speaker": "SPEAKER_01",
+      "text": "Con Sintegru, ¿qué es eso?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 34.0,
+      "end": 36.7,
+      "speaker": "SPEAKER_00",
+      "text": "Para atender sus dudas.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 39.44,
+      "end": 40.54,
+      "speaker": "SPEAKER_01",
+      "text": "Por eso, sí, dígame.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 42.29,
+      "end": 42.73,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 43.45,
+      "end": 46.59,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos ofrecerle un descuento del 26% de toda la deuda.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 47.05,
+      "end": 50.33,
+      "speaker": "SPEAKER_00",
+      "text": "Con el descuento ya no debería 3.460.000 pesos,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 50.73,
+      "end": 53.21,
+      "speaker": "SPEAKER_00",
+      "text": "sino solo 2.560.000 pesos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 54.28,
+      "end": 56.86,
+      "speaker": "SPEAKER_00",
+      "text": "Es una propuesta por tiempo limitado que vencería hoy mismo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 57.26,
+      "end": 60.5,
+      "speaker": "SPEAKER_00",
+      "text": "Me puede indicar con un sí o un no si le interesa este descuento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 60.5,
+      "end": 61.78,
+      "speaker": "SPEAKER_00",
+      "text": "y hacemos un acuerdo de pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 71.63,
+      "end": 73.71,
+      "speaker": "SPEAKER_00",
+      "text": "Me alegra que lleguemos a este acuerdo de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 73.71,
+      "end": 74.65,
+      "speaker": "SPEAKER_00",
+      "text": "y que pueda aprovechar el descuento.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 74.65,
+      "end": 75.91,
+      "speaker": "SPEAKER_01",
+      "text": "Señor, señor, sí, señor, pero ¿qué?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 75.91,
+      "end": 98.96,
+      "speaker": "SPEAKER_00",
+      "text": "es la entidad dueña de su obligación financiera",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 98.96,
+      "end": 100.98,
+      "speaker": "SPEAKER_00",
+      "text": "que se originó con Credi Valores, Credi Servicios.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 101.42,
+      "end": 103.36,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos ofreciéndole esta oportunidad de descuento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 103.36,
+      "end": 104.6,
+      "speaker": "SPEAKER_00",
+      "text": "para regularizar su situación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 105.16,
+      "end": 107.16,
+      "speaker": "SPEAKER_00",
+      "text": "¿Acepta entonces el acuerdo de pago que le presenté?",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi26-6d8d8dbe-2spk",
+  "original_file_id": "6d8d8dbe-b501-4303-b864-9dc24119df5c",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

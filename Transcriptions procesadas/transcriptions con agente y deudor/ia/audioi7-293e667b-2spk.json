@@ -1,0 +1,138 @@
+{
+  "file_id": "293e667b-63e6-43e4-a811-06249526467a",
+  "source": "ia",
+  "duration_sec": 90.82,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 4.02,
+      "end": 4.54,
+      "speaker": "SPEAKER_00",
+      "text": "Aló.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 4.88,
+      "end": 6.0,
+      "speaker": "SPEAKER_00",
+      "text": "Aló, muy buenos días.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 6.78,
+      "end": 7.56,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, buenos días.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 8.67,
+      "end": 9.05,
+      "speaker": "SPEAKER_00",
+      "text": "Por favor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 10.58,
+      "end": 11.5,
+      "speaker": "SPEAKER_01",
+      "text": "¿Con él habla?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 12.12,
+      "end": 17.9,
+      "speaker": "SPEAKER_00",
+      "text": "Le habla del área de embargos, judicializaciones y alivios financieros.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 18.32,
+      "end": 20.1,
+      "speaker": "SPEAKER_00",
+      "text": "Le llamo por su obligación con CrediValores.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 20.44,
+      "end": 20.94,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo me le va?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 21.66,
+      "end": 25.71,
+      "speaker": "SPEAKER_01",
+      "text": "¿Qué obligación tengo con CrediValores?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 26.92,
+      "end": 27.44,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 28.1,
+      "end": 31.72,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos ofrecerle un descuento del 16% de toda la deuda.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 32.16,
+      "end": 34.76,
+      "speaker": "SPEAKER_00",
+      "text": "Así le condonaríamos un total de $1.730.000.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 34.76,
+      "end": 40.88,
+      "speaker": "SPEAKER_00",
+      "text": "Con el descuento, ya no debería $11.020.000, sino solo $9.290.000.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.66,
+      "end": 44.86,
+      "speaker": "SPEAKER_00",
+      "text": "Además, le puedo dejar la opción de pago aprobada por el sistema.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 45.44,
+      "end": 49.6,
+      "speaker": "SPEAKER_00",
+      "text": "Sería una sola cuota, es decir, un solo pago de $9.290.000.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 50.48,
+      "end": 54.0,
+      "speaker": "SPEAKER_00",
+      "text": "Es una propuesta por tiempo limitado que vencería hoy mismo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 54.46,
+      "end": 59.42,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos este acuerdo de pago?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 59.42,
+      "end": 86.03,
+      "speaker": "SPEAKER_01",
+      "text": "No, señor, yo plata no le debo. No recuerdo que yo haya hecho préstamo con criadores. En este momento no, no, no. Plata no les debo. No recuerdo, él es plata.",
+      "rol": "DEUDOR"
+    }
+  ],
+  "short_id": "audioi7-293e667b-2spk",
+  "original_file_id": "293e667b-63e6-43e4-a811-06249526467a",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

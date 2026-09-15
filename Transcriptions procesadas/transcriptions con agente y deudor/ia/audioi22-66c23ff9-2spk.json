@@ -1,0 +1,215 @@
+{
+  "file_id": "66c23ff9-4946-4870-8e67-850dac6526ef",
+  "source": "ia",
+  "duration_sec": 94.36,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 3.79,
+      "end": 5.19,
+      "speaker": "SPEAKER_01",
+      "text": "Aló, muy buenos días.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 7.25,
+      "end": 7.69,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 8.9,
+      "end": 9.84,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas, por favor.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 11.75,
+      "end": 12.19,
+      "speaker": "SPEAKER_00",
+      "text": "Sí.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 14.46,
+      "end": 15.98,
+      "speaker": "SPEAKER_01",
+      "text": "Habla con tu asesor jurídico.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 17.02,
+      "end": 18.84,
+      "speaker": "SPEAKER_01",
+      "text": "Le llamo por motivo de su obligación.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 20.27,
+      "end": 22.84,
+      "speaker": "SPEAKER_01",
+      "text": "Referente a un...",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 22.84,
+      "end": 23.44,
+      "speaker": "SPEAKER_01",
+      "text": "Origen.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 24.1,
+      "end": 25.0,
+      "speaker": "SPEAKER_01",
+      "text": "05 Grupo 1.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 25.44,
+      "end": 28.54,
+      "speaker": "SPEAKER_01",
+      "text": "Lo llamo del área de embargos, judicializaciones y alivios financieros.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 28.78,
+      "end": 29.22,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo me le va?",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 31.36,
+      "end": 31.8,
+      "speaker": "SPEAKER_00",
+      "text": "Gracias.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 34.84,
+      "end": 36.96,
+      "speaker": "SPEAKER_01",
+      "text": "Le informo que su deuda fue originada con...",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 37.74,
+      "end": 39.38,
+      "speaker": "SPEAKER_00",
+      "text": "Y actualmente...",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 39.38,
+      "end": 40.76,
+      "speaker": "SPEAKER_00",
+      "text": "Es la entidad dueña de la misma.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 40.76,
+      "end": 43.92,
+      "speaker": "SPEAKER_00",
+      "text": "con un saldo total de 10.190.000 pesos.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 44.26,
+      "end": 47.26,
+      "speaker": "SPEAKER_00",
+      "text": "Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento,",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 47.62,
+      "end": 51.1,
+      "speaker": "SPEAKER_00",
+      "text": "y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 52.02,
+      "end": 54.48,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me permite comentarle sobre la propuesta de pago que le tenemos?",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 56.65,
+      "end": 56.97,
+      "speaker": "SPEAKER_00",
+      "text": "Sí.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 58.17,
+      "end": 58.77,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente, señor.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 59.79,
+      "end": 62.99,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos ofrecerle un descuento del 5% de toda la deuda.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 63.69,
+      "end": 66.61,
+      "speaker": "SPEAKER_00",
+      "text": "Así le condonaríamos un total de 460.000 pesos.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 67.33,
+      "end": 70.59,
+      "speaker": "SPEAKER_00",
+      "text": "Con el descuento ya no debería 10.190.000 pesos,",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 70.59,
+      "end": 73.63,
+      "speaker": "SPEAKER_00",
+      "text": "sino solo 9.730.000 pesos.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 74.09,
+      "end": 77.45,
+      "speaker": "SPEAKER_00",
+      "text": "Además, le puedo dejar que pague hasta en dos cuotas.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 78.13,
+      "end": 83.35,
+      "speaker": "SPEAKER_00",
+      "text": "Así, serían dos pagos mensuales, de 4.870.000 pesos cada uno.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 85.97,
+      "end": 88.65,
+      "speaker": "SPEAKER_00",
+      "text": "Ruiz es una propuesta por tiempo limitado que vencería hoy mismo.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 89.17,
+      "end": 94.17,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos este acuerdo de pago?",
+      "rol": "INCIERTO"
+    }
+  ],
+  "short_id": "audioi22-66c23ff9-2spk",
+  "original_file_id": "66c23ff9-4946-4870-8e67-850dac6526ef",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

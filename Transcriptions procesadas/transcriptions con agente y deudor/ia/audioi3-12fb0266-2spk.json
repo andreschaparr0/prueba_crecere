@@ -1,0 +1,600 @@
+{
+  "file_id": "12fb0266-c7af-4439-b62b-e9ce0c2e947f",
+  "source": "ia",
+  "duration_sec": 472.48,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 1.14,
+      "end": 28.52,
+      "speaker": "SPEAKER_00",
+      "text": "Aló. Aló. Aló. Muy buenos días. Buenos días. Buenas. Por favor. Sí. Señora Sánchez, le hablo del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación. ¿Cómo se encuentra? Gracias.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 31.76,
+      "end": 35.96,
+      "speaker": "SPEAKER_00",
+      "text": "Señora Sánchez, lo llamo porque sé que usted es una persona que quiere cumplir",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 35.96,
+      "end": 38.74,
+      "speaker": "SPEAKER_00",
+      "text": "y quiero acompañarlo para que pueda hacerlo con tranquilidad.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 38.96,
+      "end": 40.68,
+      "speaker": "SPEAKER_00",
+      "text": "¿Le puedo contar en un momento de qué se trata?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.54,
+      "end": 42.24,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, claro.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 47.85,
+      "end": 50.21,
+      "speaker": "SPEAKER_00",
+      "text": "Sé que usted quiere cumplir con sus compromisos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 50.21,
+      "end": 53.09,
+      "speaker": "SPEAKER_00",
+      "text": "y justamente por eso le traigo una salida para lograrlo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 54.36,
+      "end": 58.06,
+      "speaker": "SPEAKER_00",
+      "text": "Por este motivo queremos poder ofrecerle alternativas para ponerse al día con su deuda.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 58.26,
+      "end": 58.78,
+      "speaker": "SPEAKER_00",
+      "text": "¿Le interesa?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 60.98,
+      "end": 62.3,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, dime.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 63.74,
+      "end": 65.04,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente, señora Sánchez.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 65.68,
+      "end": 68.5,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos ofrecerle un descuento del 7% de toda la deuda.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 69.28,
+      "end": 76.58,
+      "speaker": "SPEAKER_00",
+      "text": "Con el descuento ya no debería 12.470.000 pesos, sino solo 11.650.000 pesos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 79.22,
+      "end": 81.82,
+      "speaker": "SPEAKER_00",
+      "text": "Es una propuesta por tiempo limitado que vencería hoy mismo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 82.1,
+      "end": 87.56,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 88.62,
+      "end": 94.56,
+      "speaker": "SPEAKER_01",
+      "text": "No, pero el problema es que ahorita en este momento no tendría nada para pagar.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 94.56,
+      "end": 103.42,
+      "speaker": "SPEAKER_01",
+      "text": "O sea, para hacer un pago anticipado o algo así, la verdad, no tendría.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 105.22,
+      "end": 106.52,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo perfectamente.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 106.52,
+      "end": 117.06,
+      "speaker": "SPEAKER_01",
+      "text": "Pues porque como yo vivo en este momento, por eso es que no he podido cumplir con su obligación, porque vivo como quien dice al día en este momento.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 117.06,
+      "end": 146.01,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces ha sido muy complejo pues poder sostener una cuota fija de un pago y pues en estos últimos tiempos desde inicios para acá en mi familia con mis hijos hubo una calamidad pues médica de tratamientos largos y todo eso.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 146.01,
+      "end": 148.35,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, pues, mucho más difícil.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 150.29,
+      "end": 156.98,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, esa ha sido realmente la situación conmigo,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 157.16,
+      "end": 162.66,
+      "speaker": "SPEAKER_01",
+      "text": "que como en este momento yo no tengo algo fijo,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 163.79,
+      "end": 168.09,
+      "speaker": "SPEAKER_01",
+      "text": "entonces es bien, bien, bien complejo.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 171.47,
+      "end": 174.89,
+      "speaker": "SPEAKER_00",
+      "text": "Le entiendo completamente y lamento mucho lo que ha vivido con su familia.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 175.29,
+      "end": 177.13,
+      "speaker": "SPEAKER_00",
+      "text": "Es una situación muy difícil. Cuénteme.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 177.13,
+      "end": 181.43,
+      "speaker": "SPEAKER_00",
+      "text": "En este momento, ¿tiene alguna posibilidad de hacer un pago antes de que termine este mes?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 182.67,
+      "end": 189.57,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo. Sin embargo, con este descuento del 7%, su deuda es solo $11.650.000",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 189.57,
+      "end": 191.99,
+      "speaker": "SPEAKER_00",
+      "text": "y puede pagarla hasta en una cuota.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 192.63,
+      "end": 196.82,
+      "speaker": "SPEAKER_00",
+      "text": "Es el mejor descuento que creo podría conseguir sobre esta deuda.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 197.7,
+      "end": 200.44,
+      "speaker": "SPEAKER_00",
+      "text": "¿Puedes considerarlo? Por favor, indíqueme con un sí o no.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 204.56,
+      "end": 205.08,
+      "speaker": "SPEAKER_01",
+      "text": "¿Aló?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 209.05,
+      "end": 209.87,
+      "speaker": "SPEAKER_00",
+      "text": "Señora Sánchez.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 211.16,
+      "end": 211.64,
+      "speaker": "SPEAKER_01",
+      "text": "¿Aló?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 212.26,
+      "end": 214.34,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, aquí estoy.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 214.94,
+      "end": 216.16,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede escuchar bien?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 216.44,
+      "end": 218.14,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, ahora sí.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 218.66,
+      "end": 225.58,
+      "speaker": "SPEAKER_00",
+      "text": "¿Tiene alguna posibilidad de hacer un pago antes de que termine este mes de julio?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 227.21,
+      "end": 229.77,
+      "speaker": "SPEAKER_01",
+      "text": "Pues, ¿de cuánto sería el pago?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 232.88,
+      "end": 234.62,
+      "speaker": "SPEAKER_00",
+      "text": "Ya le doy los números exactos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 234.88,
+      "end": 238.26,
+      "speaker": "SPEAKER_00",
+      "text": "La propuesta es por una sola cuota con un descuento importante sobre su deuda.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 238.6,
+      "end": 239.58,
+      "speaker": "SPEAKER_00",
+      "text": "¿Le interesa escucharla?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 241.16,
+      "end": 245.94,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, pues dímela si tengo la posibilidad de adecuarme.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 245.94,
+      "end": 255.59,
+      "speaker": "SPEAKER_00",
+      "text": "La propuesta es pagar 11.650.000 pesos en una sola cuota",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 255.59,
+      "end": 257.27,
+      "speaker": "SPEAKER_00",
+      "text": "Antes del 26 de julio",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 257.27,
+      "end": 258.09,
+      "speaker": "SPEAKER_00",
+      "text": "¿Le sería posible?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 258.27,
+      "end": 260.49,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, no sería imposible",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 260.49,
+      "end": 262.05,
+      "speaker": "SPEAKER_01",
+      "text": "En este momento",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 262.05,
+      "end": 268.31,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo, señora Sánchez",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 268.31,
+      "end": 271.61,
+      "speaker": "SPEAKER_00",
+      "text": "Lamentablemente esa es la única opción disponible en este momento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 271.61,
+      "end": 274.89,
+      "speaker": "SPEAKER_00",
+      "text": "Podríamos coordinar una llamada para cuando su situación mejore un poco",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 274.89,
+      "end": 276.69,
+      "speaker": "SPEAKER_00",
+      "text": "¿Qué día y hora le quedaría bien?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 276.95,
+      "end": 278.51,
+      "speaker": "SPEAKER_00",
+      "text": "Siento que estas opciones no le sirvan",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 278.51,
+      "end": 280.23,
+      "speaker": "SPEAKER_00",
+      "text": "Pero tranquilo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 280.23,
+      "end": 282.09,
+      "speaker": "SPEAKER_00",
+      "text": "Puedo proponerle otra cosa",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 282.85,
+      "end": 284.99,
+      "speaker": "SPEAKER_00",
+      "text": "Le puedo ofrecer un acuerdo de largo plazo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 285.83,
+      "end": 288.77,
+      "speaker": "SPEAKER_00",
+      "text": "No habría descuento, pero usted puede poner el valor de la cuota.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 289.05,
+      "end": 292.35,
+      "speaker": "SPEAKER_00",
+      "text": "Con esto se para cualquier proceso legal y sobre todo la llamadera.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 293.91,
+      "end": 298.81,
+      "speaker": "SPEAKER_00",
+      "text": "Para dejar registro, ¿cuánto sería lo máximo que podría pagar mes a mes que se acomode a su presupuesto?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 300.81,
+      "end": 302.89,
+      "speaker": "SPEAKER_01",
+      "text": "Pues no sé realmente.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 303.62,
+      "end": 313.44,
+      "speaker": "SPEAKER_01",
+      "text": "Tendría que... pues yo creería que entre unos 50 y 70 mil pesos.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 314.3,
+      "end": 322.74,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo su situación. Sin embargo, para poder formalizar un acuerdo de largo plazo necesitamos un valor un poco mayor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 323.14,
+      "end": 325.36,
+      "speaker": "SPEAKER_00",
+      "text": "¿Podría comprometerse con algo un poquito más alto?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 326.04,
+      "end": 337.08,
+      "speaker": "SPEAKER_01",
+      "text": "No, la verdad, en este momento, ese valor que te doy es con gran esfuerzo.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 337.08,
+      "end": 341.28,
+      "speaker": "SPEAKER_01",
+      "text": "Lo haría en este momento. Es que es por eso.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 343.24,
+      "end": 344.04,
+      "speaker": "SPEAKER_01",
+      "text": "¿Entiendes?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 344.04,
+      "end": 365.2,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, de verdad no he podido salir de esa deuda, pero es a raíz de lo que ya te cuento y que pues me quedó muy complejo sostener una cuota de 100 mil, de 150, de más, y ahí, o sea, yo no, yo no podría, porque, ¿para qué?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 365.2,
+      "end": 374.56,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, yo ya en algún momento hice acuerdos con ustedes de esos valores y terminé incumpliéndolos porque de verdad no podía.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 375.88,
+      "end": 391.31,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, es complejo, pues decir, yo podría decirte sí y ya, pero la verdad, la idea no es esa, la idea es salir de la deuda.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 394.09,
+      "end": 396.59,
+      "speaker": "SPEAKER_00",
+      "text": "La valoro mucho por su honestidad, de verdad.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 396.59,
+      "end": 399.95,
+      "speaker": "SPEAKER_00",
+      "text": "Dado lo que me cuenta, veo que hoy no se puede comprometer a un acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 399.95,
+      "end": 400.85,
+      "speaker": "SPEAKER_00",
+      "text": "Correcto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 400.85,
+      "end": 404.13,
+      "speaker": "SPEAKER_00",
+      "text": "Señora Sánchez, veo que no hemos podido aún llegar a un acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 404.13,
+      "end": 408.41,
+      "speaker": "SPEAKER_00",
+      "text": "Pero entiendo que de todos modos a usted le interesa que solucionemos esto, ¿correcto?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 408.91,
+      "end": 413.71,
+      "speaker": "SPEAKER_00",
+      "text": "Podemos sacarlo de centrales, darle un paz y salvo anticipado, entre otras cosas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 413.71,
+      "end": 417.53,
+      "speaker": "SPEAKER_00",
+      "text": "Dígame algo, ¿qué lo motivaría a usted a llegar a un acuerdo de pago?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 418.21,
+      "end": 421.39,
+      "speaker": "SPEAKER_00",
+      "text": "¿O qué podríamos hacer desde Credivalores para solucionar esto juntos?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 421.39,
+      "end": 430.93,
+      "speaker": "SPEAKER_01",
+      "text": "Puedo pagar a las cuotas que yo puedo en este momento.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 430.93,
+      "end": 440.44,
+      "speaker": "SPEAKER_01",
+      "text": "Obviamente si yo pudiera pagar más, yo sé que eso significa menos interés,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 441.2,
+      "end": 446.4,
+      "speaker": "SPEAKER_01",
+      "text": "más rapidez de poder salir de la deuda.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 449.66,
+      "end": 458.4,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, pues yo no sé, no sé si me pueda llamar en otro momento,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 458.4,
+      "end": 463.34,
+      "speaker": "SPEAKER_01",
+      "text": "Pues en esta semana, en otro momento, es posibilidad de lo que te digo.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 466.0,
+      "end": 467.78,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo perfectamente, señora Sánchez.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 468.2,
+      "end": 471.04,
+      "speaker": "SPEAKER_00",
+      "text": "Exploraremos estos comentarios y los estaremos recontactando pronto.",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi3-12fb0266-2spk",
+  "original_file_id": "12fb0266-c7af-4439-b62b-e9ce0c2e947f",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

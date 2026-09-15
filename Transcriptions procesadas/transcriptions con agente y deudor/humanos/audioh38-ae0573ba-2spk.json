@@ -1,0 +1,740 @@
+{
+  "file_id": "ae0573ba-193e-42ac-bcc8-4c376a122f8e",
+  "source": "humano",
+  "duration_sec": 308.64,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 10.7,
+      "end": 12.8,
+      "speaker": "SPEAKER_01",
+      "text": "Hola. Buenos días, por favor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 14.71,
+      "end": 15.33,
+      "speaker": "SPEAKER_01",
+      "text": "¿Con ella?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 16.13,
+      "end": 19.93,
+      "speaker": "SPEAKER_01",
+      "text": "Señora Jenny, ¿cómo está? Le está hablando Daniela. Me comunico de SolucionaCoop.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 20.01,
+      "end": 24.49,
+      "speaker": "SPEAKER_01",
+      "text": "Nosotros somos quienes actualmente compramos la cartera de su obligación pendiente con...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 24.49,
+      "end": 28.03,
+      "speaker": "SPEAKER_01",
+      "text": "Señora.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 28.71,
+      "end": 31.95,
+      "speaker": "SPEAKER_01",
+      "text": "No, que es súper porque es que la verdad ha tratado de ubicar quién la compró.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 32.79,
+      "end": 34.03,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, listo, sí, señora.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 34.85,
+      "end": 40.01,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, le quiero comentar que actualmente su mes se tiene un saldo total de 907.405 pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 40.01,
+      "end": 41.97,
+      "speaker": "SPEAKER_01",
+      "text": "Como totalidad de la obligación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.97,
+      "end": 44.33,
+      "speaker": "SPEAKER_01",
+      "text": "Estamos manejando una campaña de descuento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 44.33,
+      "end": 46.53,
+      "speaker": "SPEAKER_01",
+      "text": "Donde si Sumer se paga el valor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 46.53,
+      "end": 48.27,
+      "speaker": "SPEAKER_01",
+      "text": "De 680 mil pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 48.27,
+      "end": 50.29,
+      "speaker": "SPEAKER_01",
+      "text": "Podría cubrir la totalidad de la obligación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 50.29,
+      "end": 52.51,
+      "speaker": "SPEAKER_01",
+      "text": "¿Consumir con Sumer se sirve un cuento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 52.51,
+      "end": 53.91,
+      "speaker": "SPEAKER_01",
+      "text": "Interesante con este descuento?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 56.46,
+      "end": 57.52,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, pero",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 57.52,
+      "end": 59.54,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo estás?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 62.12,
+      "end": 64.4,
+      "speaker": "SPEAKER_01",
+      "text": "Pero la otra vez me llamaron para lo mismo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 64.4,
+      "end": 65.18,
+      "speaker": "SPEAKER_01",
+      "text": "Pero entonces",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 65.18,
+      "end": 67.18,
+      "speaker": "SPEAKER_01",
+      "text": "Yo lo que decía era",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 67.18,
+      "end": 71.11,
+      "speaker": "SPEAKER_01",
+      "text": "Eso se tiene que pagar en efectivo, en avanzo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 71.11,
+      "end": 77.43,
+      "speaker": "SPEAKER_01",
+      "text": "Claro, ¿cómo funciona? Cuando nosotros generamos la compra de cartera, nosotros somos los nuevos dueños de la obligación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 77.43,
+      "end": 81.83,
+      "speaker": "SPEAKER_01",
+      "text": "Por ende el pago se tiene que hacer a solución a CUP, nosotros manejamos un convenio con Bancolombia",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 81.83,
+      "end": 88.25,
+      "speaker": "SPEAKER_01",
+      "text": "El convenio 99024, usted puede realizar el pago con el número de convenio y su número de cédula",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 88.25,
+      "end": 94.33,
+      "speaker": "SPEAKER_01",
+      "text": "O si ya va a realizar transferencia, pues también manejamos el número de cuenta para que pueda generar cualquier tipo de transferencia",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 94.33,
+      "end": 99.91,
+      "speaker": "SPEAKER_01",
+      "text": "Lo ideal es que usted realice el pago total y ya posterior a que usted realice el pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 99.91,
+      "end": 102.33,
+      "speaker": "SPEAKER_01",
+      "text": "nosotros generamos el trámite para su paz y salvo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 102.33,
+      "end": 104.17,
+      "speaker": "SPEAKER_01",
+      "text": "y también pues para eliminar el tema",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 104.17,
+      "end": 106.19,
+      "speaker": "SPEAKER_01",
+      "text": "del reporte negativo en centrales de riesgo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 106.19,
+      "end": 107.19,
+      "speaker": "SPEAKER_01",
+      "text": "de pronto señora",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 107.19,
+      "end": 109.45,
+      "speaker": "SPEAKER_01",
+      "text": "yo tengo una consulta",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 109.45,
+      "end": 112.23,
+      "speaker": "SPEAKER_01",
+      "text": "yo tengo otro reporte con otra",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 112.23,
+      "end": 114.09,
+      "speaker": "SPEAKER_01",
+      "text": "entidad, es posible que ustedes también",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 114.09,
+      "end": 114.99,
+      "speaker": "SPEAKER_01",
+      "text": "puedan comprar esa",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 114.99,
+      "end": 118.14,
+      "speaker": "SPEAKER_01",
+      "text": "nosotros manejamos solamente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 118.14,
+      "end": 120.44,
+      "speaker": "SPEAKER_01",
+      "text": "digamos que la compra de esta cartera",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 120.44,
+      "end": 121.36,
+      "speaker": "SPEAKER_01",
+      "text": "¿con qué entidad es?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 122.74,
+      "end": 124.08,
+      "speaker": "SPEAKER_01",
+      "text": "con Codensa",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 124.08,
+      "end": 126.24,
+      "speaker": "SPEAKER_01",
+      "text": "y ellos manejan como Banco Colombia",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 126.24,
+      "end": 129.04,
+      "speaker": "SPEAKER_01",
+      "text": "no, sumerge, nosotros no manejamos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 129.04,
+      "end": 131.16,
+      "speaker": "SPEAKER_01",
+      "text": "este tipo de carteras, o sea, tenemos un convenio",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 131.16,
+      "end": 132.7,
+      "speaker": "SPEAKER_01",
+      "text": "con Codensa, tenemos un convenio",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 132.7,
+      "end": 134.98,
+      "speaker": "SPEAKER_01",
+      "text": "pero en este caso sí, pues sería",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 134.98,
+      "end": 137.42,
+      "speaker": "SPEAKER_01",
+      "text": "por lo menos para que eliminen el reporte",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 137.42,
+      "end": 138.94,
+      "speaker": "SPEAKER_01",
+      "text": "de esta obligación y ya pues sería",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 138.94,
+      "end": 141.2,
+      "speaker": "SPEAKER_01",
+      "text": "validar con Codensa como manejan el tema",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 141.2,
+      "end": 143.3,
+      "speaker": "SPEAKER_01",
+      "text": "de la obligación. Sí, me tocaría aparte, ok",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 143.3,
+      "end": 145.36,
+      "speaker": "SPEAKER_01",
+      "text": "Sí señora",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 145.36,
+      "end": 146.7,
+      "speaker": "SPEAKER_01",
+      "text": "quisiera confirmar con su merced",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 146.7,
+      "end": 149.2,
+      "speaker": "SPEAKER_01",
+      "text": "cuándo podría realizar el pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 149.2,
+      "end": 150.68,
+      "speaker": "SPEAKER_01",
+      "text": "pues lo ideal es",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 150.68,
+      "end": 152.24,
+      "speaker": "SPEAKER_01",
+      "text": "generarlo, esta propuesta sería",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 152.24,
+      "end": 154.76,
+      "speaker": "SPEAKER_01",
+      "text": "para que su merced cancele para el día 15",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 154.76,
+      "end": 156.34,
+      "speaker": "SPEAKER_01",
+      "text": "¿le quedaría bien para el 15 de julio?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 157.96,
+      "end": 159.52,
+      "speaker": "SPEAKER_01",
+      "text": "¿para el 15 de julio? Sí",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 159.52,
+      "end": 161.24,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, sí me quedaría bien por esa fecha.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 161.92,
+      "end": 163.0,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, le confirmo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 163.14,
+      "end": 169.36,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces sería un acuerdo de pago total por 680 mil pesos para el 15 de julio, único pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 169.76,
+      "end": 173.22,
+      "speaker": "SPEAKER_01",
+      "text": "En este caso, ¿este mismo número se maneja WhatsApp?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 174.48,
+      "end": 175.7,
+      "speaker": "SPEAKER_01",
+      "text": "¿Un número de qué?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 176.32,
+      "end": 179.78,
+      "speaker": "SPEAKER_01",
+      "text": "Maneja WhatsApp para enviarle la información de las cuentas, medios de pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 179.8,
+      "end": 180.66,
+      "speaker": "SPEAKER_01",
+      "text": "¿Es este mismo número?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 181.46,
+      "end": 188.46,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, entonces voy a dejar la anotación acá en el sistema y le voy a estar escribiendo para que tenga la información de los medios de pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 188.46,
+      "end": 193.8,
+      "speaker": "SPEAKER_01",
+      "text": "¿Es posible que tú me puedas enviar, digamos, todo ese tema por correo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 195.72,
+      "end": 196.94,
+      "speaker": "SPEAKER_01",
+      "text": "¿A qué correo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 197.7,
+      "end": 205.78,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, manejamos un correo, pero pues digamos que lo ideal como para efectos de practicidad sería que lo tengas sumerso también en el WhatsApp.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 207.58,
+      "end": 214.31,
+      "speaker": "SPEAKER_01",
+      "text": "Pero es que digamos que me gusta tener algo por escrito y pues el WhatsApp como que no es tan confiable.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 215.31,
+      "end": 217.89,
+      "speaker": "SPEAKER_01",
+      "text": "Pero sí me gustaría por correo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 217.89,
+      "end": 220.41,
+      "speaker": "SPEAKER_01",
+      "text": "listos, entonces vamos a",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 220.41,
+      "end": 222.03,
+      "speaker": "SPEAKER_01",
+      "text": "validar el correo que está acá registrado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 222.03,
+      "end": 224.47,
+      "speaker": "SPEAKER_01",
+      "text": "no sé si su mercedepunto haya hecho un cambio de correo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 224.47,
+      "end": 226.44,
+      "speaker": "SPEAKER_01",
+      "text": "¿me lo confirmas por favor?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 227.86,
+      "end": 229.02,
+      "speaker": "SPEAKER_01",
+      "text": "sí señora, permítame",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 229.02,
+      "end": 230.56,
+      "speaker": "SPEAKER_01",
+      "text": "le confirmo, es",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 230.56,
+      "end": 233.38,
+      "speaker": "SPEAKER_01",
+      "text": "p***arroba gmail.com",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 234.04,
+      "end": 235.43,
+      "speaker": "SPEAKER_01",
+      "text": "hola",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 235.43,
+      "end": 236.23,
+      "speaker": "SPEAKER_01",
+      "text": "eh, sí",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 236.23,
+      "end": 239.23,
+      "speaker": "SPEAKER_01",
+      "text": "p***arroba gmail.com",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 239.23,
+      "end": 239.91,
+      "speaker": "SPEAKER_01",
+      "text": "¿con qué?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 240.97,
+      "end": 241.35,
+      "speaker": "SPEAKER_01",
+      "text": "mhm",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 241.35,
+      "end": 245.82,
+      "speaker": "SPEAKER_01",
+      "text": "bueno, lo tengo tres veces n",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 245.82,
+      "end": 247.48,
+      "speaker": "SPEAKER_01",
+      "text": "pero entonces ya lo pongo doble n",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 247.48,
+      "end": 249.76,
+      "speaker": "SPEAKER_01",
+      "text": "ay no, no, no, sí son tres, sí, no, no, no",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 249.76,
+      "end": 250.6,
+      "speaker": "SPEAKER_01",
+      "text": "sí son tres n",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 250.6,
+      "end": 252.28,
+      "speaker": "SPEAKER_01",
+      "text": "sí, o si quieres",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 252.28,
+      "end": 253.94,
+      "speaker": "SPEAKER_01",
+      "text": "te doy otro también ahí, ¿se puede?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 254.02,
+      "end": 254.66,
+      "speaker": "SPEAKER_01",
+      "text": "¿se puede a los dos?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 255.68,
+      "end": 257.9,
+      "speaker": "SPEAKER_01",
+      "text": "sí, también en el correo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 257.9,
+      "end": 259.04,
+      "speaker": "SPEAKER_01",
+      "text": "el otro es",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 259.04,
+      "end": 262.88,
+      "speaker": "SPEAKER_01",
+      "text": "doble n y de punto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 262.88,
+      "end": 271.44,
+      "speaker": "SPEAKER_01",
+      "text": "arroba gmail",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 271.44,
+      "end": 272.4,
+      "speaker": "SPEAKER_01",
+      "text": "punto com",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 272.4,
+      "end": 278.76,
+      "speaker": "SPEAKER_01",
+      "text": "doble n",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 278.76,
+      "end": 280.38,
+      "speaker": "SPEAKER_01",
+      "text": "y latina",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 280.38,
+      "end": 285.55,
+      "speaker": "SPEAKER_01",
+      "text": "y latina",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 285.55,
+      "end": 291.26,
+      "speaker": "SPEAKER_01",
+      "text": "así, plata",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 291.26,
+      "end": 293.62,
+      "speaker": "SPEAKER_01",
+      "text": "entonces al",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 293.62,
+      "end": 295.44,
+      "speaker": "SPEAKER_01",
+      "text": "correo le va a estar llegando también en la",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 295.44,
+      "end": 296.82,
+      "speaker": "SPEAKER_01",
+      "text": "corte de pago formalizado.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 297.82,
+      "end": 299.66,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, listo, súper. Muchas gracias.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 300.22,
+      "end": 301.7,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, si te gustó, por haberse",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 301.7,
+      "end": 303.52,
+      "speaker": "SPEAKER_01",
+      "text": "atendido la llamada y que tenga",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 303.52,
+      "end": 304.4,
+      "speaker": "SPEAKER_01",
+      "text": "un excelente día.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 306.33,
+      "end": 307.59,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, que esté bien. Hasta luego.",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh38-ae0573ba-2spk",
+  "original_file_id": "ae0573ba-193e-42ac-bcc8-4c376a122f8e",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

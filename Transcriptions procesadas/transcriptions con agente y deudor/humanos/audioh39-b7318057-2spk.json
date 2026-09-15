@@ -1,0 +1,768 @@
+{
+  "file_id": "b7318057-111f-4bd0-adbc-943bd06ce4e0",
+  "source": "humano",
+  "duration_sec": 285.6,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 7.82,
+      "end": 25.38,
+      "speaker": "SPEAKER_00",
+      "text": "Aló. Buenos días. Buenos días. Me comunico con el ***, por favor. ¿Con él habla? Mucho gusto con el ***, le habla Giovanna del área de conciliación de créditos para ***. ¿Cómo está? Muy bien, gracias a Dios.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 25.38,
+      "end": 27.02,
+      "speaker": "SPEAKER_00",
+      "text": "me alegra mucho",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 27.02,
+      "end": 29.22,
+      "speaker": "SPEAKER_00",
+      "text": "que se encuentre bien el día de hoy",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 29.22,
+      "end": 31.38,
+      "speaker": "SPEAKER_00",
+      "text": "rápidamente me comunico",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 31.38,
+      "end": 32.64,
+      "speaker": "SPEAKER_00",
+      "text": "con ustedes para indicarle",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 32.64,
+      "end": 35.4,
+      "speaker": "SPEAKER_00",
+      "text": "que el día de hoy me estoy comunicando con el fin de lograr",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 35.4,
+      "end": 37.38,
+      "speaker": "SPEAKER_00",
+      "text": "una conciliación referente a su crédito",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 37.38,
+      "end": 39.42,
+      "speaker": "SPEAKER_00",
+      "text": "pendiente con crédito y valores",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 39.42,
+      "end": 41.16,
+      "speaker": "SPEAKER_00",
+      "text": "puesto que se está otorgando un descuento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.16,
+      "end": 43.36,
+      "speaker": "SPEAKER_00",
+      "text": "del 10% donde actualmente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 43.36,
+      "end": 44.94,
+      "speaker": "SPEAKER_00",
+      "text": "se tiene una obligación aproximada",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 44.94,
+      "end": 46.86,
+      "speaker": "SPEAKER_00",
+      "text": "de 1.420.000 pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 46.86,
+      "end": 48.98,
+      "speaker": "SPEAKER_00",
+      "text": "se le está otorgando un beneficio del 10%",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 48.98,
+      "end": 51.2,
+      "speaker": "SPEAKER_00",
+      "text": "de condonación sobre intereses",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 51.2,
+      "end": 53.18,
+      "speaker": "SPEAKER_00",
+      "text": "toda la obligación donde se está",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 53.18,
+      "end": 55.36,
+      "speaker": "SPEAKER_00",
+      "text": "generando un pago de 1.278.000",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 55.38,
+      "end": 57.66,
+      "speaker": "SPEAKER_00",
+      "text": "quedaría totalmente a pasisal",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 57.66,
+      "end": 58.94,
+      "speaker": "SPEAKER_00",
+      "text": "o",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 58.94,
+      "end": 61.36,
+      "speaker": "SPEAKER_00",
+      "text": "este valor también lo puede",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 61.36,
+      "end": 62.28,
+      "speaker": "SPEAKER_00",
+      "text": "dividir en dos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 62.28,
+      "end": 64.96,
+      "speaker": "SPEAKER_00",
+      "text": "en dos contados",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 64.96,
+      "end": 68.28,
+      "speaker": "SPEAKER_00",
+      "text": "donde con cada cuota de 640.000 pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 68.28,
+      "end": 70.06,
+      "speaker": "SPEAKER_00",
+      "text": "la primera sería para el mes de julio",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 70.06,
+      "end": 71.22,
+      "speaker": "SPEAKER_00",
+      "text": "y la segunda para el mes de agosto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 71.22,
+      "end": 73.72,
+      "speaker": "SPEAKER_00",
+      "text": "quedaría pues totalmente saldada esta obligación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 73.72,
+      "end": 75.3,
+      "speaker": "SPEAKER_00",
+      "text": "sosteniendo pues este valor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 75.3,
+      "end": 76.64,
+      "speaker": "SPEAKER_00",
+      "text": "que se pactaría en el acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 76.64,
+      "end": 79.12,
+      "speaker": "SPEAKER_01",
+      "text": "y venga",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 79.12,
+      "end": 80.92,
+      "speaker": "SPEAKER_01",
+      "text": "dígame una cosa, en julio",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 80.92,
+      "end": 82.74,
+      "speaker": "SPEAKER_01",
+      "text": "en qué fecha podría pagar yo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 82.74,
+      "end": 85.54,
+      "speaker": "SPEAKER_00",
+      "text": "en julio ya usted me indicaría",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 85.54,
+      "end": 87.24,
+      "speaker": "SPEAKER_00",
+      "text": "si le quedaría bien para el 15",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 87.24,
+      "end": 89.6,
+      "speaker": "SPEAKER_00",
+      "text": "16 o 17",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 89.6,
+      "end": 91.78,
+      "speaker": "SPEAKER_00",
+      "text": "que es donde se habilita esta propuesta de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 91.78,
+      "end": 93.46,
+      "speaker": "SPEAKER_01",
+      "text": "venga, para el 17",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 93.46,
+      "end": 95.5,
+      "speaker": "SPEAKER_01",
+      "text": "porque lo que pasa es que yo estoy esperando",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 95.5,
+      "end": 97.98,
+      "speaker": "SPEAKER_01",
+      "text": "una liquidación de transportes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 97.98,
+      "end": 100.11,
+      "speaker": "SPEAKER_01",
+      "text": "¿ya?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 100.25,
+      "end": 102.37,
+      "speaker": "SPEAKER_01",
+      "text": "donde yo estaba trabajando actualmente",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 102.37,
+      "end": 104.77,
+      "speaker": "SPEAKER_01",
+      "text": "¿ya? entonces me queda bien",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 104.77,
+      "end": 106.75,
+      "speaker": "SPEAKER_01",
+      "text": "para pagar allí",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 106.75,
+      "end": 107.69,
+      "speaker": "SPEAKER_01",
+      "text": "el 17",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 107.69,
+      "end": 110.41,
+      "speaker": "SPEAKER_01",
+      "text": "para pagar el 17 la mitad",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 110.41,
+      "end": 112.57,
+      "speaker": "SPEAKER_01",
+      "text": "y en agosto por ahí para el 15",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 112.57,
+      "end": 114.67,
+      "speaker": "SPEAKER_01",
+      "text": "volver a pagar la otra",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 114.67,
+      "end": 116.97,
+      "speaker": "SPEAKER_01",
+      "text": "15 o 16, pagar la otra",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 116.97,
+      "end": 118.29,
+      "speaker": "SPEAKER_00",
+      "text": "listo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 118.29,
+      "end": 121.19,
+      "speaker": "SPEAKER_00",
+      "text": "el acuerdo de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 121.19,
+      "end": 123.33,
+      "speaker": "SPEAKER_00",
+      "text": "bajo el descuento que se le está otorgando",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 123.33,
+      "end": 124.47,
+      "speaker": "SPEAKER_00",
+      "text": "donde",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 124.47,
+      "end": 127.15,
+      "speaker": "SPEAKER_00",
+      "text": "listo, permítame entonces",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 127.15,
+      "end": 128.39,
+      "speaker": "SPEAKER_00",
+      "text": "un momento por favor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 128.39,
+      "end": 134.71,
+      "speaker": "SPEAKER_00",
+      "text": "permítame",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 134.71,
+      "end": 137.45,
+      "speaker": "SPEAKER_00",
+      "text": "voy a proyectar el acuerdo en el sistema",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 137.45,
+      "end": 146.8,
+      "speaker": "SPEAKER_00",
+      "text": "permítame que ya estoy valiendo el acuerdo en el sistema",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 146.8,
+      "end": 147.88,
+      "speaker": "SPEAKER_00",
+      "text": "para proyectar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 147.88,
+      "end": 149.42,
+      "speaker": "SPEAKER_00",
+      "text": "ya",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 149.42,
+      "end": 160.04,
+      "speaker": "SPEAKER_00",
+      "text": "permítame por favor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 160.04,
+      "end": 161.26,
+      "speaker": "SPEAKER_00",
+      "text": "que el sistema me está cargando",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 161.26,
+      "end": 174.53,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, me indica que para el 17 de julio estaría generando el pago de la primer cuota",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 174.53,
+      "end": 176.35,
+      "speaker": "SPEAKER_01",
+      "text": "De la primer cuota, sí",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 176.35,
+      "end": 178.48,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, entonces",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 178.48,
+      "end": 188.48,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, la primer cuota quedaría proyectada por valor de 650",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 188.48,
+      "end": 190.78,
+      "speaker": "SPEAKER_00",
+      "text": "Y la segunda por valor de 650",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 190.78,
+      "end": 191.72,
+      "speaker": "SPEAKER_00",
+      "text": "¿Listo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 192.08,
+      "end": 192.48,
+      "speaker": "SPEAKER_01",
+      "text": "Listo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 192.48,
+      "end": 194.2,
+      "speaker": "SPEAKER_01",
+      "text": "Esto no hay problema",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 194.2,
+      "end": 198.5,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, perfecto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 198.5,
+      "end": 200.78,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces, ya se le proyectaría el acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 200.78,
+      "end": 203.72,
+      "speaker": "SPEAKER_00",
+      "text": "Por favor, me remite su correo electrónico actual",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 203.72,
+      "end": 206.42,
+      "speaker": "SPEAKER_00",
+      "text": "Para hacer el envío del soporte formal",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 206.42,
+      "end": 212.46,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 212.46,
+      "end": 214.98,
+      "speaker": "SPEAKER_01",
+      "text": "83m",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 214.98,
+      "end": 216.32,
+      "speaker": "SPEAKER_01",
+      "text": "de mamá",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 216.32,
+      "end": 218.68,
+      "speaker": "SPEAKER_01",
+      "text": "arroba gmail punto com",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 218.68,
+      "end": 223.02,
+      "speaker": "SPEAKER_00",
+      "text": "Listo. Silva",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 223.02,
+      "end": 224.7,
+      "speaker": "SPEAKER_00",
+      "text": "83m",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 224.7,
+      "end": 226.3,
+      "speaker": "SPEAKER_00",
+      "text": "arroba gmail punto com",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 226.3,
+      "end": 228.98,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, señor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 228.98,
+      "end": 231.24,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces, en ese orden de ideas, el acuerdo ya",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 231.24,
+      "end": 232.84,
+      "speaker": "SPEAKER_00",
+      "text": "queda proyectado en el sistema",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 232.84,
+      "end": 235.06,
+      "speaker": "SPEAKER_00",
+      "text": "en un término de",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 235.06,
+      "end": 236.9,
+      "speaker": "SPEAKER_00",
+      "text": "uno a dos días hábiles",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 236.9,
+      "end": 238.9,
+      "speaker": "SPEAKER_00",
+      "text": "se le estaría haciendo envío de ese documento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 238.9,
+      "end": 240.98,
+      "speaker": "SPEAKER_00",
+      "text": "de igual manera yo nuevamente me estaría comunicando",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 240.98,
+      "end": 242.8,
+      "speaker": "SPEAKER_00",
+      "text": "con usted para hacer como tal la confirmación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 242.8,
+      "end": 244.74,
+      "speaker": "SPEAKER_00",
+      "text": "del elegido del documento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 244.74,
+      "end": 247.0,
+      "speaker": "SPEAKER_00",
+      "text": "y quedaría proyectada el acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 247.0,
+      "end": 248.74,
+      "speaker": "SPEAKER_00",
+      "text": "de pago de la siguiente manera. Se hace",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 248.74,
+      "end": 250.9,
+      "speaker": "SPEAKER_00",
+      "text": "una condonación sobre su saldo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 250.9,
+      "end": 252.74,
+      "speaker": "SPEAKER_00",
+      "text": "total, donde quedaría diferido",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 252.74,
+      "end": 254.76,
+      "speaker": "SPEAKER_00",
+      "text": "a dos cuotas, cada una",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 254.76,
+      "end": 256.48,
+      "speaker": "SPEAKER_00",
+      "text": "de 650 mil pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 256.48,
+      "end": 258.82,
+      "speaker": "SPEAKER_00",
+      "text": "y la fecha para el primer",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 258.82,
+      "end": 260.68,
+      "speaker": "SPEAKER_00",
+      "text": "pago sería el 17 de julio",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 260.68,
+      "end": 262.8,
+      "speaker": "SPEAKER_00",
+      "text": "y la segunda fecha del segundo pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 262.8,
+      "end": 264.4,
+      "speaker": "SPEAKER_00",
+      "text": "quedaría proyectada para el",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 264.4,
+      "end": 266.8,
+      "speaker": "SPEAKER_00",
+      "text": "15 de agosto, ¿correcto?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 267.08,
+      "end": 267.76,
+      "speaker": "SPEAKER_01",
+      "text": "Muchas gracias.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 268.06,
+      "end": 270.82,
+      "speaker": "SPEAKER_00",
+      "text": "Muchas gracias por haber atendido mi llamada",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 270.82,
+      "end": 271.64,
+      "speaker": "SPEAKER_00",
+      "text": "que esté muy bien.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 271.64,
+      "end": 273.82,
+      "speaker": "SPEAKER_00",
+      "text": "los medios de pago. Ay, gracias. El medio de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 273.82,
+      "end": 275.7,
+      "speaker": "SPEAKER_00",
+      "text": "los va a encontrar específicamente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 275.7,
+      "end": 277.5,
+      "speaker": "SPEAKER_00",
+      "text": "en el documento que se le va a remitir.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 277.7,
+      "end": 279.84,
+      "speaker": "SPEAKER_01",
+      "text": "¿Listo? Muchísimas gracias.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 280.3,
+      "end": 281.02,
+      "speaker": "SPEAKER_00",
+      "text": "A usted, señor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 281.62,
+      "end": 283.64,
+      "speaker": "SPEAKER_00",
+      "text": "Que esté muy bien, que tenga un excelente resto de día.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 283.74,
+      "end": 285.06,
+      "speaker": "SPEAKER_01",
+      "text": "Hasta luego. Bueno, hasta luego.",
+      "rol": "DEUDOR"
+    }
+  ],
+  "short_id": "audioh39-b7318057-2spk",
+  "original_file_id": "b7318057-111f-4bd0-adbc-943bd06ce4e0",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

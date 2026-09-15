@@ -1,0 +1,201 @@
+{
+  "file_id": "b954108b-c0c2-45e8-9032-1a3e87d60778",
+  "source": "humano",
+  "duration_sec": 105.46,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 7.79,
+      "end": 13.59,
+      "speaker": "SPEAKER_01",
+      "text": "Hola, buenas tardes señora María Elsa, ¿cómo está?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 14.69,
+      "end": 18.15,
+      "speaker": "SPEAKER_01",
+      "text": "Hola, buenas tardes señora María Elsa, ¿cómo está?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 18.75,
+      "end": 20.83,
+      "speaker": "SPEAKER_01",
+      "text": "Hola, buenas tardes, ¿cómo está?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 21.99,
+      "end": 24.85,
+      "speaker": "SPEAKER_01",
+      "text": "Señora María Elsa, buenas tardes, ¿cómo está?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 25.43,
+      "end": 26.23,
+      "speaker": "SPEAKER_01",
+      "text": "Habla con Vivian.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 26.23,
+      "end": 26.55,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 27.93,
+      "end": 28.73,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 28.73,
+      "end": 44.89,
+      "speaker": "SPEAKER_01",
+      "text": "Le estamos llamando en nombre de Salabella porque el día de hoy, debido a la obligación que se me dio, están ofreciendo un excelente descuento para que usted normalice su deuda, pueda tener su participante y...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 44.89,
+      "end": 47.69,
+      "speaker": "SPEAKER_00",
+      "text": "No le entiendo nada, nada, no le entiendo nada.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 48.47,
+      "end": 50.83,
+      "speaker": "SPEAKER_01",
+      "text": "Señora María Elsa, ¿me escucha?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 51.87,
+      "end": 54.13,
+      "speaker": "SPEAKER_00",
+      "text": "Es que no hay... no está aquí.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 55.32,
+      "end": 58.42,
+      "speaker": "SPEAKER_01",
+      "text": "¿Y me la puede comunicar? ¿Me la puede comunicar, por favor?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 59.24,
+      "end": 60.1,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 60.9,
+      "end": 62.02,
+      "speaker": "SPEAKER_01",
+      "text": "¿De qué habla?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 64.11,
+      "end": 65.69,
+      "speaker": "SPEAKER_00",
+      "text": "¿Pero usted de qué habla?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 67.17,
+      "end": 67.81,
+      "speaker": "SPEAKER_01",
+      "text": "De una obligación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 67.81,
+      "end": 68.45,
+      "speaker": "SPEAKER_01",
+      "text": "¿Hable claro?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 68.71,
+      "end": 71.67,
+      "speaker": "SPEAKER_01",
+      "text": "De una obligación que ella tiene en este momento.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 72.45,
+      "end": 75.76,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me puede comunicar con ella, por favor?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 77.08,
+      "end": 78.76,
+      "speaker": "SPEAKER_00",
+      "text": "Ella no vive aquí.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 79.58,
+      "end": 81.12,
+      "speaker": "SPEAKER_00",
+      "text": "Ni en el teléfono tampoco.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 82.36,
+      "end": 84.68,
+      "speaker": "SPEAKER_01",
+      "text": "¿Y me puede dar el número telefónico de ella?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 85.32,
+      "end": 87.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yo no sé el teléfono de ella, no sé.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 89.15,
+      "end": 90.55,
+      "speaker": "SPEAKER_00",
+      "text": "¿Y usted es de ella?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 91.55,
+      "end": 92.81,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, bueno.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 93.05,
+      "end": 96.81,
+      "speaker": "SPEAKER_00",
+      "text": "¿Es alguna jueza? ¿Está haciendo un interrogatorio? ¿Qué es eso?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 97.76,
+      "end": 104.94,
+      "speaker": "SPEAKER_01",
+      "text": "No, pero quiero comunicarle con ella para brindarle un beneficio y un descuento que ella tiene en este momento.",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh40-b954108b-2spk",
+  "original_file_id": "b954108b-c0c2-45e8-9032-1a3e87d60778",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

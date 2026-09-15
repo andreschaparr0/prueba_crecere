@@ -1,0 +1,257 @@
+{
+  "file_id": "7ea6c8f3-f6f7-42e8-8034-701caa6e62aa",
+  "source": "humano",
+  "duration_sec": 129.88,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 18.67,
+      "end": 19.19,
+      "speaker": "SPEAKER_00",
+      "text": "¿Aló?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 21.17,
+      "end": 22.13,
+      "speaker": "SPEAKER_00",
+      "text": "Por favor, la...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 22.13,
+      "end": 24.92,
+      "speaker": "SPEAKER_00",
+      "text": "¿Con ella?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 25.52,
+      "end": 29.05,
+      "speaker": "SPEAKER_00",
+      "text": "Habla Daniela, me comunico de...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 29.05,
+      "end": 31.46,
+      "speaker": "SPEAKER_00",
+      "text": "...versión respecto a su obligación con...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 31.46,
+      "end": 32.74,
+      "speaker": "SPEAKER_00",
+      "text": "...se encuentra el día de hoy.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 33.64,
+      "end": 34.44,
+      "speaker": "SPEAKER_00",
+      "text": "Bien, gracias.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 35.24,
+      "end": 40.45,
+      "speaker": "SPEAKER_00",
+      "text": "...de pago que tenemos generado en esta oportunidad.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 40.69,
+      "end": 43.95,
+      "speaker": "SPEAKER_00",
+      "text": "Quisiera que se malconsume si tiene clara la información de los medios de pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 47.84,
+      "end": 53.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, ya queda para el 25, pero la verdad no pude cuadrarlo hasta aquí de mañana.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 53.2,
+      "end": 53.36,
+      "speaker": "SPEAKER_00",
+      "text": "Sí.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 53.36,
+      "end": 57.73,
+      "speaker": "SPEAKER_00",
+      "text": "Pues si yo puedo lo hago mañana, si no la otra semana que viene.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 59.87,
+      "end": 60.41,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me escuchan?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 60.77,
+      "end": 66.61,
+      "speaker": "SPEAKER_00",
+      "text": "Es que se cortó. Sí, señora, me podría repetir de pronto lo último que dijo, no sé si fue la última.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 66.61,
+      "end": 78.75,
+      "speaker": "SPEAKER_00",
+      "text": "Que yo he quedado a hacer un pago mañana, pero la verdad es que no pude cuadrar la plata ya. O sea, pues si me la, me la, yo la pedí, si me la prestan, pago mañana, si no la otra semana.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 80.53,
+      "end": 82.11,
+      "speaker": "SPEAKER_00",
+      "text": "¿Para qué día realizaría el pago?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 84.88,
+      "end": 89.04,
+      "speaker": "SPEAKER_00",
+      "text": "A ver, que para la semana que viene, que fecha sería para julio, ¿no?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 89.04,
+      "end": 92.2,
+      "speaker": "SPEAKER_00",
+      "text": "para los primeros días del mes de julio",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 92.2,
+      "end": 94.38,
+      "speaker": "SPEAKER_00",
+      "text": "no podría realizar ninguna uno para este mes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 94.38,
+      "end": 97.19,
+      "speaker": "SPEAKER_00",
+      "text": "pues si me dan",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 97.19,
+      "end": 99.13,
+      "speaker": "SPEAKER_00",
+      "text": "el plato mañana, sí, si no, no",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 99.13,
+      "end": 101.57,
+      "speaker": "SPEAKER_00",
+      "text": "ah, bueno, sí señora",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 101.57,
+      "end": 103.03,
+      "speaker": "SPEAKER_00",
+      "text": "pues igual en este caso",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 103.03,
+      "end": 105.29,
+      "speaker": "SPEAKER_00",
+      "text": "tenemos un compromiso de pago a dos cuotas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 105.29,
+      "end": 107.29,
+      "speaker": "SPEAKER_00",
+      "text": "¿no? por 910 mil pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 107.29,
+      "end": 109.47,
+      "speaker": "SPEAKER_00",
+      "text": "entonces yo voy a",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 109.47,
+      "end": 111.29,
+      "speaker": "SPEAKER_00",
+      "text": "estar atenta, nuevamente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 111.29,
+      "end": 113.61,
+      "speaker": "SPEAKER_00",
+      "text": "le voy a enviar la información por whatsapp de los medios de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 113.61,
+      "end": 115.53,
+      "speaker": "SPEAKER_00",
+      "text": "y pues su merced me avisa cualquier cosita",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 115.53,
+      "end": 117.63,
+      "speaker": "SPEAKER_00",
+      "text": "si se le presenta algún inconveniente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 117.63,
+      "end": 119.13,
+      "speaker": "SPEAKER_00",
+      "text": "¿listo? bueno",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 119.13,
+      "end": 121.13,
+      "speaker": "SPEAKER_00",
+      "text": "Listo señora Claudia, sin embargo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 121.13,
+      "end": 122.93,
+      "speaker": "SPEAKER_00",
+      "text": "le agradezco mucho por haber atendido la llamada",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 122.93,
+      "end": 124.89,
+      "speaker": "SPEAKER_00",
+      "text": "y que tenga un excelente resto de día",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 124.89,
+      "end": 125.33,
+      "speaker": "SPEAKER_00",
+      "text": "Hasta luego",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh30-7ea6c8f3-1spk",
+  "original_file_id": "7ea6c8f3-f6f7-42e8-8034-701caa6e62aa",
+  "metodo_asignacion_rol": "llm_por_segmento"
+}

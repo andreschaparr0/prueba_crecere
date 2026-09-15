@@ -1,0 +1,208 @@
+{
+  "file_id": "91b9fd77-d5d5-408f-ac90-fd78080780da",
+  "source": "humano",
+  "duration_sec": 81.64,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 13.23,
+      "end": 14.71,
+      "speaker": "SPEAKER_01",
+      "text": "Muy buenas tardes",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 14.71,
+      "end": 18.12,
+      "speaker": "SPEAKER_01",
+      "text": "Con él, caballero",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 18.12,
+      "end": 19.88,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo me le va? Les saluda",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 19.88,
+      "end": 25.65,
+      "speaker": "SPEAKER_01",
+      "text": "Me comunico de que nosotros somos quienes compran por la cartera de disculpación de crédito y valores",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 25.65,
+      "end": 26.27,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo me he leído?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 27.81,
+      "end": 28.89,
+      "speaker": "SPEAKER_01",
+      "text": "Ahí hermano, bien",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 28.89,
+      "end": 30.09,
+      "speaker": "SPEAKER_01",
+      "text": "Me ha alegrado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 30.09,
+      "end": 33.41,
+      "speaker": "SPEAKER_01",
+      "text": "El motivo de mi llamada es por",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 33.41,
+      "end": 37.42,
+      "speaker": "SPEAKER_01",
+      "text": "Lo que gusta es ponerle su deuda al día",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 37.42,
+      "end": 40.14,
+      "speaker": "SPEAKER_01",
+      "text": "Brindando un alivio financiero",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 40.14,
+      "end": 43.8,
+      "speaker": "SPEAKER_01",
+      "text": "Y sacándolo del reporte negativo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 43.8,
+      "end": 46.2,
+      "speaker": "SPEAKER_01",
+      "text": "Actualmente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 46.2,
+      "end": 49.24,
+      "speaker": "SPEAKER_01",
+      "text": "presente una mora de 1.830.000 pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 49.24,
+      "end": 49.74,
+      "speaker": "SPEAKER_01",
+      "text": "con nosotros",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 49.74,
+      "end": 52.22,
+      "speaker": "SPEAKER_01",
+      "text": "venga le digo hermanito yo no voy a pagar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 52.22,
+      "end": 53.92,
+      "speaker": "SPEAKER_01",
+      "text": "esa deuda hermano",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 53.92,
+      "end": 55.56,
+      "speaker": "SPEAKER_01",
+      "text": "porque a mi no me han dado ningún celular",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 55.56,
+      "end": 56.4,
+      "speaker": "SPEAKER_01",
+      "text": "ni nada",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 56.4,
+      "end": 59.74,
+      "speaker": "SPEAKER_01",
+      "text": "lo único que fue que firme eso fue lo único",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 59.74,
+      "end": 61.92,
+      "speaker": "SPEAKER_01",
+      "text": "eso ya eso lo tiene un abogado",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 61.92,
+      "end": 63.66,
+      "speaker": "SPEAKER_01",
+      "text": "no se que va a hacer con eso",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 63.66,
+      "end": 65.78,
+      "speaker": "SPEAKER_01",
+      "text": "pero hermano yo como voy a pagar",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 65.78,
+      "end": 67.34,
+      "speaker": "SPEAKER_01",
+      "text": "algo que si no me han dado plata",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 67.34,
+      "end": 69.34,
+      "speaker": "SPEAKER_01",
+      "text": "no me han dado nada hermano",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 69.34,
+      "end": 70.68,
+      "speaker": "SPEAKER_01",
+      "text": "yo no se",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 70.68,
+      "end": 72.94,
+      "speaker": "SPEAKER_01",
+      "text": "a donde me están cobrando hermano",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 72.94,
+      "end": 75.68,
+      "speaker": "SPEAKER_01",
+      "text": "porque firme eso fue lo único malo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 75.68,
+      "end": 81.62,
+      "speaker": "SPEAKER_01",
+      "text": "que firme nada no mal entregado nada bueno fue para el 23 de abril de la",
+      "rol": "DEUDOR"
+    }
+  ],
+  "short_id": "audioh32-91b9fd77-1spk",
+  "original_file_id": "91b9fd77-d5d5-408f-ac90-fd78080780da",
+  "metodo_asignacion_rol": "llm_por_segmento"
+}

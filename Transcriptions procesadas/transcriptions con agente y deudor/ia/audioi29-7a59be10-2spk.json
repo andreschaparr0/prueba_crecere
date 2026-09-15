@@ -1,0 +1,89 @@
+{
+  "file_id": "7a59be10-fc3c-423b-8619-a13aac8ffea3",
+  "source": "ia",
+  "duration_sec": 60.32,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 3.25,
+      "end": 4.37,
+      "speaker": "SPEAKER_00",
+      "text": "Muy buenos días.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 11.94,
+      "end": 12.86,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas, por favor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 18.08,
+      "end": 24.02,
+      "speaker": "SPEAKER_01",
+      "text": "Le hablo del área de embargos, judicializaciones y alivios financieros.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 24.7,
+      "end": 25.78,
+      "speaker": "SPEAKER_01",
+      "text": "Le llamo por su obligación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 26.78,
+      "end": 27.74,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo se encuentra?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 35.39,
+      "end": 40.47,
+      "speaker": "SPEAKER_01",
+      "text": "Para su tranquilidad, esta es una gestión formal y autorizada y todo lo que conversemos queda con respaldo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 40.83,
+      "end": 42.59,
+      "speaker": "SPEAKER_01",
+      "text": "En un momento le explico todo en detalle.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 42.83,
+      "end": 44.59,
+      "speaker": "SPEAKER_01",
+      "text": "¿Le puedo contar en un momento de qué se trata?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 56.38,
+      "end": 57.58,
+      "speaker": "SPEAKER_00",
+      "text": "le explico con claridad",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 57.58,
+      "end": 58.9,
+      "speaker": "SPEAKER_00",
+      "text": "su obligación",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 58.9,
+      "end": 60.48,
+      "speaker": "SPEAKER_00",
+      "text": "presentada",
+      "rol": "INCIERTO"
+    }
+  ],
+  "short_id": "audioi29-7a59be10-2spk",
+  "original_file_id": "7a59be10-fc3c-423b-8619-a13aac8ffea3",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

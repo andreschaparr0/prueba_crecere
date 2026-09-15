@@ -1,0 +1,124 @@
+{
+  "file_id": "239a604a-3b58-445a-bfb4-88113ba4f232",
+  "source": "ia",
+  "duration_sec": 67.16,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 4.27,
+      "end": 5.77,
+      "speaker": "SPEAKER_01",
+      "text": "Aló, muy buenos días.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 7.49,
+      "end": 7.89,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, dígame.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 9.6,
+      "end": 10.48,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas, por favor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 11.34,
+      "end": 14.31,
+      "speaker": "SPEAKER_00",
+      "text": "¿De parte de quién?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 15.47,
+      "end": 19.75,
+      "speaker": "SPEAKER_01",
+      "text": "Estamos llamando por motivo de un proceso legal en curso.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 20.21,
+      "end": 23.97,
+      "speaker": "SPEAKER_01",
+      "text": "Por confidencialidad necesito que por favor me valide si eso es...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 23.97,
+      "end": 26.79,
+      "speaker": "SPEAKER_00",
+      "text": "No, no soy yo, pero es mi hermano.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 29.01,
+      "end": 31.73,
+      "speaker": "SPEAKER_01",
+      "text": "Disculpe, para parar las llamadas confirmo que usted no es...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 33.1,
+      "end": 34.5,
+      "speaker": "SPEAKER_01",
+      "text": "ni le conoce, ¿correcto?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 35.18,
+      "end": 38.74,
+      "speaker": "SPEAKER_00",
+      "text": "Sí le conozco porque es mi hermano, por eso le pregunto de parte de quién nos llaman y para qué sería.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 41.34,
+      "end": 42.56,
+      "speaker": "SPEAKER_01",
+      "text": "Entiendo, gracias por aclararlo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 42.56,
+      "end": 47.78,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me permite saber si su hermano está disponible en este momento para atenderle?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 48.72,
+      "end": 53.66,
+      "speaker": "SPEAKER_00",
+      "text": "No, él no está acá, pero yo le puedo dar el número de él, pero yo le pregunto ¿para qué eso? Yo le doy la razón.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 56.07,
+      "end": 56.93,
+      "speaker": "SPEAKER_01",
+      "text": "Le agradezco mucho.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 57.29,
+      "end": 60.27,
+      "speaker": "SPEAKER_01",
+      "text": "Es por un tema financiero pendiente con Credit Valores.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 60.67,
+      "end": 63.43,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me puede facilitar por favor el número actualizado de su hermano?",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi6-239a604a-2spk",
+  "original_file_id": "239a604a-3b58-445a-bfb4-88113ba4f232",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

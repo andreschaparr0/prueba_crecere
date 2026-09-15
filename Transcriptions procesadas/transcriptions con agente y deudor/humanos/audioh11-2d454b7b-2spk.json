@@ -1,0 +1,1279 @@
+{
+  "file_id": "2d454b7b-9f12-4acb-8101-d3ba74bb84ff",
+  "source": "humano",
+  "duration_sec": 578.9,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 8.69,
+      "end": 12.75,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes, me he comunicado con el señor...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 12.75,
+      "end": 19.18,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo está? Le habla Johanna, de la área de conciliación de crédito para...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 19.18,
+      "end": 22.42,
+      "speaker": "SPEAKER_01",
+      "text": "en representación de su obligación pendiente...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 22.42,
+      "end": 28.27,
+      "speaker": "SPEAKER_00",
+      "text": "Ya, se me olvidó pagar eso. Yo tenía su pendiente para el sábado, ¿cierto?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 29.27,
+      "end": 33.47,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor John, en ese momento, por esa razón me he comunicado con usted,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 33.59,
+      "end": 36.51,
+      "speaker": "SPEAKER_01",
+      "text": "porque es que el comité me acaba de informar de que la alternativa...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 36.51,
+      "end": 37.93,
+      "speaker": "SPEAKER_01",
+      "text": "que se tenía con el descuento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 37.93,
+      "end": 40.97,
+      "speaker": "SPEAKER_01",
+      "text": "ya fue inhabilitada, es decir, la rechazaron",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 40.97,
+      "end": 43.12,
+      "speaker": "SPEAKER_01",
+      "text": "por la falta de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 43.12,
+      "end": 44.54,
+      "speaker": "SPEAKER_01",
+      "text": "entonces",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 44.54,
+      "end": 47.42,
+      "speaker": "SPEAKER_00",
+      "text": "comprende",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 47.42,
+      "end": 49.14,
+      "speaker": "SPEAKER_01",
+      "text": "en ese momento pues le están proyectando",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 49.14,
+      "end": 49.82,
+      "speaker": "SPEAKER_01",
+      "text": "una nueva",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 49.82,
+      "end": 52.94,
+      "speaker": "SPEAKER_01",
+      "text": "conciliación donde para cubrir",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 52.94,
+      "end": 54.66,
+      "speaker": "SPEAKER_01",
+      "text": "el pago de las dos obligaciones",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 54.66,
+      "end": 57.0,
+      "speaker": "SPEAKER_01",
+      "text": "sería por un monto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 57.0,
+      "end": 59.96,
+      "speaker": "SPEAKER_01",
+      "text": "aproximado de 837.000 pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 59.96,
+      "end": 65.1,
+      "speaker": "SPEAKER_01",
+      "text": "si señor, si usted gusta pues este pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 65.1,
+      "end": 66.88,
+      "speaker": "SPEAKER_01",
+      "text": "lo puede realizar a un solo contado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 66.88,
+      "end": 68.56,
+      "speaker": "SPEAKER_01",
+      "text": "o se le puede diferir a dos contados",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 68.56,
+      "end": 69.56,
+      "speaker": "SPEAKER_01",
+      "text": "si le parece mejor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 69.56,
+      "end": 76.97,
+      "speaker": "SPEAKER_00",
+      "text": "no se puede hacer nada ya",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 76.97,
+      "end": 79.19,
+      "speaker": "SPEAKER_00",
+      "text": "se me dan 650",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 79.19,
+      "end": 81.37,
+      "speaker": "SPEAKER_01",
+      "text": "si pero eso estaba a disposición",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 81.37,
+      "end": 82.29,
+      "speaker": "SPEAKER_01",
+      "text": "hasta el sábado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 82.29,
+      "end": 84.95,
+      "speaker": "SPEAKER_01",
+      "text": "estuvimos tratando de comunicarnos con usted",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 84.95,
+      "end": 88.01,
+      "speaker": "SPEAKER_01",
+      "text": "pero no se logró un contacto oportuno",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 88.01,
+      "end": 90.19,
+      "speaker": "SPEAKER_01",
+      "text": "y adicional a eso",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 90.19,
+      "end": 91.53,
+      "speaker": "SPEAKER_01",
+      "text": "pues entonces comité mi información",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 91.53,
+      "end": 93.77,
+      "speaker": "SPEAKER_01",
+      "text": "y ya se inhabilitaron esas propuestas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 93.77,
+      "end": 95.43,
+      "speaker": "SPEAKER_01",
+      "text": "que pasa, esas propuestas de pago son",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 95.43,
+      "end": 97.49,
+      "speaker": "SPEAKER_01",
+      "text": "para un término de tiempo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 97.49,
+      "end": 98.79,
+      "speaker": "SPEAKER_01",
+      "text": "de vencimiento, es decir",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 98.79,
+      "end": 101.21,
+      "speaker": "SPEAKER_01",
+      "text": "estaba disponible para jueves, viernes y sábado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 101.21,
+      "end": 103.43,
+      "speaker": "SPEAKER_01",
+      "text": "se venció el sábado, ya no se la van a habilitar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 103.43,
+      "end": 105.17,
+      "speaker": "SPEAKER_00",
+      "text": "más. No, si es que yo le había dicho",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 105.17,
+      "end": 107.01,
+      "speaker": "SPEAKER_00",
+      "text": "a la señorita que me programara para el sábado",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 107.01,
+      "end": 108.33,
+      "speaker": "SPEAKER_00",
+      "text": "si yo tenía la plata",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 108.33,
+      "end": 111.29,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, claro, sí señor, yo comprendo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 111.29,
+      "end": 113.64,
+      "speaker": "SPEAKER_00",
+      "text": "La verdad, la verdad se me pasó",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 113.64,
+      "end": 115.73,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 115.73,
+      "end": 117.87,
+      "speaker": "SPEAKER_01",
+      "text": "Sí señor, ya sería que pues ya usted me indique",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 117.87,
+      "end": 119.61,
+      "speaker": "SPEAKER_01",
+      "text": "nuevamente porque pues igual toca",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 119.61,
+      "end": 121.71,
+      "speaker": "SPEAKER_01",
+      "text": "hacer un retroceso, toca hacer un reproceso",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 121.71,
+      "end": 123.63,
+      "speaker": "SPEAKER_01",
+      "text": "nuevamente con el área encargada",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 123.63,
+      "end": 125.49,
+      "speaker": "SPEAKER_01",
+      "text": "¿Por qué? Porque pues ya el valor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 125.49,
+      "end": 130.45,
+      "speaker": "SPEAKER_01",
+      "text": "que me están solicitando es el pago total, claro están, se descuentan pues cierta manera",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 130.45,
+      "end": 136.27,
+      "speaker": "SPEAKER_01",
+      "text": "de intereses y pues ya con 837 mil pesos aproximadamente se quedaría totalmente apacizado porque son",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 136.27,
+      "end": 143.66,
+      "speaker": "SPEAKER_00",
+      "text": "dos obligaciones, una es por un adelanto de nómina y tarjeta de p***, se negocian las",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 143.66,
+      "end": 146.92,
+      "speaker": "SPEAKER_01",
+      "text": "dos obligaciones dando un ponderado de 837 mil pesos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 148.33,
+      "end": 154.67,
+      "speaker": "SPEAKER_00",
+      "text": "Es que yo, es más, si me acercaste al p***, me apedé toda la información, yo ya me duré",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 154.67,
+      "end": 159.01,
+      "speaker": "SPEAKER_00",
+      "text": "dos semanas en el proceso, porque no sabía ni siquiera dónde estaban mis cuentas.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 160.27,
+      "end": 161.25,
+      "speaker": "SPEAKER_00",
+      "text": "Prácticamente es de...",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 161.25,
+      "end": 163.54,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 163.66,
+      "end": 167.8,
+      "speaker": "SPEAKER_00",
+      "text": "O sea, hasta la semana pasada que, pues, pude tener contacto con usted, yo le dije a la",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 167.8,
+      "end": 172.9,
+      "speaker": "SPEAKER_00",
+      "text": "señorita que me comprometía para el estado de Cantero, pero la verdad, la verdad, ya",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 172.9,
+      "end": 173.9,
+      "speaker": "SPEAKER_00",
+      "text": "me pasó.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 175.44,
+      "end": 176.26,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, claro, yo...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 176.26,
+      "end": 180.77,
+      "speaker": "SPEAKER_00",
+      "text": "Échame la manito para pagar los mismos seis cincuenta, yo los pago a mí mismo.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 180.95,
+      "end": 181.63,
+      "speaker": "SPEAKER_01",
+      "text": "Es que...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 181.63,
+      "end": 182.91,
+      "speaker": "SPEAKER_01",
+      "text": "Me quedas, no, no hay mal caso.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 182.91,
+      "end": 212.16,
+      "speaker": "SPEAKER_01",
+      "text": "Es que yo ya presenté el caso, pero pues qué pasa, en este tema Comité es muy rígido, o sea, fueron otra entidad, sí, pero qué pasa, son muy rígidos en ese aspecto en cuanto a los descuentos, entonces ya al día de hoy pues está inhabilitado toda posibilidad de negociación, por eso el titular se le reitera pues el cumplimiento sobre el acuerdo, porque ellos sí son muy rígidos en cuanto a temas del descuento.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 213.16,
+      "end": 230.3,
+      "speaker": "SPEAKER_01",
+      "text": "Ya sería, en lo que le puedo colaborar es tomarle ese valor y sería, pues pagar 650 y pues el restante para el mes de agosto, si le parece mejor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 231.8,
+      "end": 233.62,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces me queda muy difícil.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 234.9,
+      "end": 245.11,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, o le quedaría cada cuota aproximadamente en 418.500, aproximadamente.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 245.11,
+      "end": 248.74,
+      "speaker": "SPEAKER_01",
+      "text": "si se le difiere a dos cuotas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 248.74,
+      "end": 253.59,
+      "speaker": "SPEAKER_01",
+      "text": "es como la alternativa",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 253.59,
+      "end": 255.31,
+      "speaker": "SPEAKER_01",
+      "text": "en la que yo le puedo colaborar o la que",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 255.31,
+      "end": 258.43,
+      "speaker": "SPEAKER_01",
+      "text": "el comité ya me dejó establecida para su crédito",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 258.43,
+      "end": 262.99,
+      "speaker": "SPEAKER_00",
+      "text": "la verdad es que no me alcanzó",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 262.99,
+      "end": 266.81,
+      "speaker": "SPEAKER_00",
+      "text": "la verdad es que no me alcanzó",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 266.81,
+      "end": 267.05,
+      "speaker": "SPEAKER_00",
+      "text": "la verdad es que no me alcanzó",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 267.05,
+      "end": 267.11,
+      "speaker": "SPEAKER_00",
+      "text": "la verdad es que no me alcanzó",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 267.11,
+      "end": 267.15,
+      "speaker": "SPEAKER_00",
+      "text": "la verdad es que no me alcanzó",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 267.15,
+      "end": 268.65,
+      "speaker": "SPEAKER_00",
+      "text": "la verdad es que no me alcanzó",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 268.65,
+      "end": 271.68,
+      "speaker": "SPEAKER_00",
+      "text": "pero pues si no se puede en estos momentos",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 271.68,
+      "end": 274.2,
+      "speaker": "SPEAKER_00",
+      "text": "me tocará solucionar",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 274.2,
+      "end": 276.2,
+      "speaker": "SPEAKER_00",
+      "text": "primero una que tenga con la cooperativa",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 276.2,
+      "end": 277.8,
+      "speaker": "SPEAKER_00",
+      "text": "de la universidad",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 277.8,
+      "end": 280.55,
+      "speaker": "SPEAKER_00",
+      "text": "que pues será después salir de ella",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 280.55,
+      "end": 282.43,
+      "speaker": "SPEAKER_01",
+      "text": "si lo que pasa es que ya",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 282.43,
+      "end": 284.59,
+      "speaker": "SPEAKER_01",
+      "text": "ellos ya, o sea, como tal",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 284.59,
+      "end": 286.79,
+      "speaker": "SPEAKER_01",
+      "text": "ellos sí son muy riguros en este tema de descuentos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 286.79,
+      "end": 289.12,
+      "speaker": "SPEAKER_01",
+      "text": "actualmente ya",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 289.12,
+      "end": 291.0,
+      "speaker": "SPEAKER_01",
+      "text": "inhabilitaron toda posibilidad, por mucho",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 291.0,
+      "end": 292.96,
+      "speaker": "SPEAKER_01",
+      "text": "incumplimiento con los clientes, ya inhabilitaron",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 292.96,
+      "end": 295.12,
+      "speaker": "SPEAKER_01",
+      "text": "toda posibilidad de descuentos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 295.12,
+      "end": 296.8,
+      "speaker": "SPEAKER_01",
+      "text": "ya lo que resta del año",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 296.8,
+      "end": 298.3,
+      "speaker": "SPEAKER_01",
+      "text": "y ya de aquí para adelante ya",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 298.3,
+      "end": 300.48,
+      "speaker": "SPEAKER_01",
+      "text": "no se van a aplicar más descuentos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 300.48,
+      "end": 302.64,
+      "speaker": "SPEAKER_01",
+      "text": "es la nueva orden que nos dieron, pues, hoy",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 302.64,
+      "end": 304.88,
+      "speaker": "SPEAKER_01",
+      "text": "que tuvimos la reunión, y pues",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 304.88,
+      "end": 307.14,
+      "speaker": "SPEAKER_01",
+      "text": "de hecho, el día de ayer también lo reiteraron",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 307.14,
+      "end": 311.14,
+      "speaker": "SPEAKER_01",
+      "text": "entonces",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 311.14,
+      "end": 312.78,
+      "speaker": "SPEAKER_01",
+      "text": "pero dan la opción de que",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 312.78,
+      "end": 313.8,
+      "speaker": "SPEAKER_01",
+      "text": "ustedes puedan diferir",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 313.8,
+      "end": 315.92,
+      "speaker": "SPEAKER_01",
+      "text": "este beneficio",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 315.92,
+      "end": 317.3,
+      "speaker": "SPEAKER_01",
+      "text": "a un máximo de",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 317.3,
+      "end": 319.64,
+      "speaker": "SPEAKER_01",
+      "text": "dos cuotas o se le puede colaborar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 319.64,
+      "end": 321.42,
+      "speaker": "SPEAKER_01",
+      "text": "a un máximo máximo de tres cuotas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 321.42,
+      "end": 323.06,
+      "speaker": "SPEAKER_01",
+      "text": "cada cuota le quedaría en 280",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 323.06,
+      "end": 328.08,
+      "speaker": "SPEAKER_01",
+      "text": "¿para qué? para que se sostenga",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 328.08,
+      "end": 330.12,
+      "speaker": "SPEAKER_01",
+      "text": "el valor sobre este valor que se está",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 330.12,
+      "end": 331.76,
+      "speaker": "SPEAKER_01",
+      "text": "tomando el día de hoy porque recuerde que la obligación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 331.76,
+      "end": 334.32,
+      "speaker": "SPEAKER_01",
+      "text": "entre más tiempo se deje pasar pues los intereses van incrementando",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 334.32,
+      "end": 335.84,
+      "speaker": "SPEAKER_01",
+      "text": "junto con los honorarios de cobranza",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 335.84,
+      "end": 339.38,
+      "speaker": "SPEAKER_01",
+      "text": "entonces si usted pues tomó un acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 339.38,
+      "end": 342.14,
+      "speaker": "SPEAKER_01",
+      "text": "pero la verdad",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 342.14,
+      "end": 344.08,
+      "speaker": "SPEAKER_00",
+      "text": "no me queda muy complicado",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 344.08,
+      "end": 345.8,
+      "speaker": "SPEAKER_00",
+      "text": "ya pagar ese valor",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 345.8,
+      "end": 348.12,
+      "speaker": "SPEAKER_00",
+      "text": "la verdad es que estoy solucionando con todo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 348.12,
+      "end": 354.82,
+      "speaker": "SPEAKER_00",
+      "text": "el mundo, que no es la única entidad con la que estoy en estos momentos con un compromiso",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 354.82,
+      "end": 355.04,
+      "speaker": "SPEAKER_00",
+      "text": "también.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 355.04,
+      "end": 362.63,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, comprendo, pero es muy rígido, muy riguroso en este tema y en vez de ir disminuyendo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 362.63,
+      "end": 366.11,
+      "speaker": "SPEAKER_01",
+      "text": "la obligación, va a ir incrementando el momento que se vaya a presentar una propuesta de pago,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 366.55,
+      "end": 371.08,
+      "speaker": "SPEAKER_01",
+      "text": "por lo que si usted detectó un incumplimiento, pues ya no le va a visitar las mismas opciones",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 371.08,
+      "end": 374.72,
+      "speaker": "SPEAKER_01",
+      "text": "de pago, ya va a ir sobre el saldo total y se lo va a dividir esa cuota.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 374.72,
+      "end": 377.3,
+      "speaker": "SPEAKER_01",
+      "text": "en la realidad",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 377.3,
+      "end": 378.18,
+      "speaker": "SPEAKER_00",
+      "text": "pues igual ya",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 378.18,
+      "end": 380.85,
+      "speaker": "SPEAKER_00",
+      "text": "reportado esto y ya",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 380.85,
+      "end": 382.25,
+      "speaker": "SPEAKER_00",
+      "text": "que más me pueda pasar",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 382.25,
+      "end": 386.37,
+      "speaker": "SPEAKER_00",
+      "text": "dejámoslo así",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 386.37,
+      "end": 388.89,
+      "speaker": "SPEAKER_00",
+      "text": "y en el momento en que haya otra oportunidad",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 388.89,
+      "end": 389.93,
+      "speaker": "SPEAKER_00",
+      "text": "de cancelar pues será",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 389.93,
+      "end": 392.91,
+      "speaker": "SPEAKER_00",
+      "text": "que en el momento ya la universidad",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 392.91,
+      "end": 394.91,
+      "speaker": "SPEAKER_00",
+      "text": "me dio una respuesta y pues me dieron",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 394.91,
+      "end": 396.39,
+      "speaker": "SPEAKER_00",
+      "text": "un 60% de descuento",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 396.39,
+      "end": 398.73,
+      "speaker": "SPEAKER_00",
+      "text": "en la deuda que tenía, me tocaba pagar",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 398.73,
+      "end": 400.75,
+      "speaker": "SPEAKER_00",
+      "text": "1.400.000 o algo así",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 400.75,
+      "end": 402.75,
+      "speaker": "SPEAKER_00",
+      "text": "esa factura",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 402.75,
+      "end": 404.69,
+      "speaker": "SPEAKER_00",
+      "text": "entonces voy a tratar de cumplir con ellos",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 404.69,
+      "end": 434.7,
+      "speaker": "SPEAKER_01",
+      "text": "Pues será nuestra placer",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 434.72,
+      "end": 441.82,
+      "speaker": "SPEAKER_00",
+      "text": "lo que pasa es que como yo me la paso en la finca entonces me queda muy difícil también salir a pagar",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 441.82,
+      "end": 445.7,
+      "speaker": "SPEAKER_00",
+      "text": "pues efectivamente yo le había dejado la plata a mi esposa para actualizar el pago",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 445.7,
+      "end": 448.9,
+      "speaker": "SPEAKER_00",
+      "text": "y a mi se me olvidó recordarle a ella porque ella también vive en sus cosas",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 448.9,
+      "end": 452.17,
+      "speaker": "SPEAKER_00",
+      "text": "yo me vine a dar cuenta ya después como el lunes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 452.17,
+      "end": 461.18,
+      "speaker": "SPEAKER_01",
+      "text": "comprendo, bueno se presentaría esta excepción para validar el comité que nos indica nuevamente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 461.18,
+      "end": 465.01,
+      "speaker": "SPEAKER_01",
+      "text": "una excepción especial referente pues a su caso",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 465.01,
+      "end": 467.27,
+      "speaker": "SPEAKER_01",
+      "text": "y ya usted, para que ella",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 467.27,
+      "end": 468.93,
+      "speaker": "SPEAKER_01",
+      "text": "estaría generando el pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 468.93,
+      "end": 471.66,
+      "speaker": "SPEAKER_01",
+      "text": "radicalmente que nos den",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 471.66,
+      "end": 473.74,
+      "speaker": "SPEAKER_01",
+      "text": "el aprobado. Eso sí, exigen",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 473.74,
+      "end": 474.62,
+      "speaker": "SPEAKER_01",
+      "text": "el pago inmediato.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 475.92,
+      "end": 477.72,
+      "speaker": "SPEAKER_00",
+      "text": "Yo te pido que me anuncie beneficio",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 477.72,
+      "end": 479.66,
+      "speaker": "SPEAKER_00",
+      "text": "nuevamente en el proceso de esta",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 479.66,
+      "end": 480.02,
+      "speaker": "SPEAKER_00",
+      "text": "semana",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 480.02,
+      "end": 483.52,
+      "speaker": "SPEAKER_00",
+      "text": "que hago el pago.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 483.92,
+      "end": 484.84,
+      "speaker": "SPEAKER_00",
+      "text": "Esta semana se me paga.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 484.84,
+      "end": 484.94,
+      "speaker": "SPEAKER_00",
+      "text": "El máximo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 484.94,
+      "end": 488.72,
+      "speaker": "SPEAKER_00",
+      "text": "el viernes.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 488.72,
+      "end": 490.22,
+      "speaker": "SPEAKER_01",
+      "text": "El 31 de julio, ¿sí?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 491.14,
+      "end": 491.6,
+      "speaker": "SPEAKER_00",
+      "text": "Gracias.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 492.44,
+      "end": 494.54,
+      "speaker": "SPEAKER_01",
+      "text": "Listo. Entonces yo voy a hacer",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 494.54,
+      "end": 496.82,
+      "speaker": "SPEAKER_01",
+      "text": "la excepción para validar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 496.82,
+      "end": 498.62,
+      "speaker": "SPEAKER_01",
+      "text": "ellos que nos indican. Si nos aceptan",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 498.62,
+      "end": 500.12,
+      "speaker": "SPEAKER_01",
+      "text": "o nos rechazan la",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 500.12,
+      "end": 502.46,
+      "speaker": "SPEAKER_01",
+      "text": "oferta, nos hacen una contrapropuesta",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 502.46,
+      "end": 504.12,
+      "speaker": "SPEAKER_01",
+      "text": "que se acerque al valor inicial",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 504.12,
+      "end": 506.02,
+      "speaker": "SPEAKER_01",
+      "text": "del valor indicado.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 507.18,
+      "end": 508.04,
+      "speaker": "SPEAKER_00",
+      "text": "Este es mi numerito,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 508.32,
+      "end": 509.9,
+      "speaker": "SPEAKER_00",
+      "text": "247-6-1-1.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 510.38,
+      "end": 512.52,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, señor. Yo voy a validar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 512.52,
+      "end": 514.7,
+      "speaker": "SPEAKER_01",
+      "text": "en el sistema para poder proyectar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 514.7,
+      "end": 516.28,
+      "speaker": "SPEAKER_01",
+      "text": "la excepción",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 516.28,
+      "end": 517.52,
+      "speaker": "SPEAKER_01",
+      "text": "y pues estaría...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 517.52,
+      "end": 520.14,
+      "speaker": "SPEAKER_01",
+      "text": "nos demoran un día o día y medio en darnos la",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 520.14,
+      "end": 520.98,
+      "speaker": "SPEAKER_01",
+      "text": "respuesta.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 523.12,
+      "end": 523.68,
+      "speaker": "SPEAKER_01",
+      "text": "¿Listo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 525.02,
+      "end": 539.2,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, señora, entonces, quedo atenta. Por favor, me confirma su correo electrónico. Sigue siendo el que me habilitó. Permítame, por favor, para confirmar el correo electrónico.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 544.19,
+      "end": 555.96,
+      "speaker": "SPEAKER_01",
+      "text": "Sigue siendo el que tenemos registrado. Acá, inicialmente. Johnmora44422, arroba1000.com.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 556.74,
+      "end": 557.08,
+      "speaker": "SPEAKER_00",
+      "text": "Señora.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 557.08,
+      "end": 560.03,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, entonces probablemente hace correo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 560.03,
+      "end": 562.81,
+      "speaker": "SPEAKER_01",
+      "text": "o prefiere el envío del acuerdo de ocasión",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 562.81,
+      "end": 564.71,
+      "speaker": "SPEAKER_01",
+      "text": "o se apruebe en este comité",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 564.71,
+      "end": 566.63,
+      "speaker": "SPEAKER_01",
+      "text": "por correo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 566.63,
+      "end": 568.2,
+      "speaker": "SPEAKER_00",
+      "text": "WhatsApp mejor",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 568.2,
+      "end": 571.58,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, entonces",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 571.58,
+      "end": 572.78,
+      "speaker": "SPEAKER_01",
+      "text": "en el caso de un intento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 572.78,
+      "end": 574.84,
+      "speaker": "SPEAKER_01",
+      "text": "no vamos a pretender ni llamar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 574.84,
+      "end": 578.19,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, que seamos bien",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 578.19,
+      "end": 578.65,
+      "speaker": "SPEAKER_01",
+      "text": "hasta luego",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh11-2d454b7b-2spk",
+  "original_file_id": "2d454b7b-9f12-4acb-8101-d3ba74bb84ff",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

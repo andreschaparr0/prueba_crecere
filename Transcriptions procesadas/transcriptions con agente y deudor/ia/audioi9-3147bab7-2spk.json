@@ -1,0 +1,509 @@
+{
+  "file_id": "3147bab7-9e7f-496d-ae97-52b280194924",
+  "source": "ia",
+  "duration_sec": 201.42,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 0.91,
+      "end": 1.87,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 3.95,
+      "end": 5.15,
+      "speaker": "SPEAKER_00",
+      "text": "Aló, muy buenos días.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 6.23,
+      "end": 6.97,
+      "speaker": "SPEAKER_01",
+      "text": "Muy buenas tardes.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 7.91,
+      "end": 8.59,
+      "speaker": "SPEAKER_00",
+      "text": "Buenas tardes.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 8.59,
+      "end": 8.89,
+      "speaker": "SPEAKER_01",
+      "text": "Aló.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 9.43,
+      "end": 12.12,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 12.24,
+      "end": 14.13,
+      "speaker": "SPEAKER_00",
+      "text": "Habla con...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 14.13,
+      "end": 18.25,
+      "speaker": "SPEAKER_00",
+      "text": "Le llamo por motivo de su obligación con Banco Doble U referente a un microcrédito.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 18.93,
+      "end": 22.47,
+      "speaker": "SPEAKER_00",
+      "text": "Lo llamo del área de embargos, judicializaciones y alivios financieros.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 22.81,
+      "end": 23.73,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo me le va, señor José?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 26.34,
+      "end": 31.24,
+      "speaker": "SPEAKER_01",
+      "text": "Primero que todo, yo hace mucho rato con ustedes el Banco Doble U.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 31.68,
+      "end": 34.66,
+      "speaker": "SPEAKER_01",
+      "text": "Este no es el celular de la persona que usted me está mencionando.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 34.66,
+      "end": 36.5,
+      "speaker": "SPEAKER_01",
+      "text": "yo ya repití a veces",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 36.5,
+      "end": 38.98,
+      "speaker": "SPEAKER_01",
+      "text": "le he hecho peticiones al Banco W",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 38.98,
+      "end": 41.1,
+      "speaker": "SPEAKER_01",
+      "text": "que por favor verifique los números",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 41.1,
+      "end": 42.26,
+      "speaker": "SPEAKER_01",
+      "text": "de celular de ese señor",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 42.26,
+      "end": 45.18,
+      "speaker": "SPEAKER_01",
+      "text": "hasta ya me le hicieron el apellido",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 45.18,
+      "end": 46.96,
+      "speaker": "SPEAKER_01",
+      "text": "porque siempre me están llamando a toda hora",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 46.96,
+      "end": 49.42,
+      "speaker": "SPEAKER_01",
+      "text": "la verdad yo desconozco a ese señor",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 49.42,
+      "end": 51.02,
+      "speaker": "SPEAKER_01",
+      "text": "este celular es personal",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 51.02,
+      "end": 53.68,
+      "speaker": "SPEAKER_01",
+      "text": "hace muchos años lo tengo, no sé por qué el Banco W",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 53.68,
+      "end": 55.1,
+      "speaker": "SPEAKER_01",
+      "text": "tiene mi número de celular",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 55.1,
+      "end": 56.46,
+      "speaker": "SPEAKER_01",
+      "text": "como contacto de esa persona",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 56.46,
+      "end": 58.38,
+      "speaker": "SPEAKER_01",
+      "text": "por favor verifiquen",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 58.38,
+      "end": 61.02,
+      "speaker": "SPEAKER_01",
+      "text": "ese número no corresponde a esa persona",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 61.02,
+      "end": 63.4,
+      "speaker": "SPEAKER_01",
+      "text": "yo ya he hecho varias veces la reclamación",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 63.4,
+      "end": 68.1,
+      "speaker": "SPEAKER_01",
+      "text": "he ido hasta el banco, no sé ya qué hacer, me ha tocado hacer un derecho de petición",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 68.1,
+      "end": 72.06,
+      "speaker": "SPEAKER_01",
+      "text": "porque ya es una cosa muy insólita con ustedes que no entienden eso.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 74.14,
+      "end": 75.42,
+      "speaker": "SPEAKER_00",
+      "text": "Permítame atender sus dudas.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 77.16,
+      "end": 82.86,
+      "speaker": "SPEAKER_01",
+      "text": "Es que yo no soy el señor, entienda, yo no soy el señor, desconozco a ese señor,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 83.0,
+      "end": 89.04,
+      "speaker": "SPEAKER_01",
+      "text": "por eso más de dos años me han venido llamando a mí, preguntándome por ese señor",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 89.04,
+      "end": 95.46,
+      "speaker": "SPEAKER_01",
+      "text": "y yo les he dicho que yo no soy ese señor, este es un número celular privado personal",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 95.46,
+      "end": 101.9,
+      "speaker": "SPEAKER_01",
+      "text": "de hace muchos años que yo tengo, entonces no entiendo por qué ustedes tienen esa información equivocada.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 105.4,
+      "end": 108.3,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo su situación y le pido disculpas por las molestias causadas.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 108.62,
+      "end": 114.76,
+      "speaker": "SPEAKER_01",
+      "text": "Si usted confirma que no es ****** o yo ******, pues es que la verdad es que yo ya estoy cansado",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 114.76,
+      "end": 117.86,
+      "speaker": "SPEAKER_01",
+      "text": "de decirle lo mismo a todo el que me llama de ese ******.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 118.34,
+      "end": 123.97,
+      "speaker": "SPEAKER_01",
+      "text": "Incluso fui a la 42, a donde tenían la oficina de ****** que tienen por la quinta,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 123.97,
+      "end": 126.45,
+      "speaker": "SPEAKER_01",
+      "text": "le dice, mire yo no soy",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 126.45,
+      "end": 128.41,
+      "speaker": "SPEAKER_01",
+      "text": "ese señor, este es mi número de celular",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 128.41,
+      "end": 130.09,
+      "speaker": "SPEAKER_01",
+      "text": "que me viene mandando mensajes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 130.09,
+      "end": 131.73,
+      "speaker": "SPEAKER_01",
+      "text": "que no sé qué, que si sé cuándo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 131.73,
+      "end": 134.09,
+      "speaker": "SPEAKER_01",
+      "text": "yo no soy ese señor, por favor",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 134.09,
+      "end": 136.37,
+      "speaker": "SPEAKER_01",
+      "text": "miren, verifiquen, busquen",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 136.37,
+      "end": 138.31,
+      "speaker": "SPEAKER_01",
+      "text": "al señor o cuando aparezca en el banco",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 138.31,
+      "end": 140.19,
+      "speaker": "SPEAKER_01",
+      "text": "hágalo por correo certificado",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 140.19,
+      "end": 142.23,
+      "speaker": "SPEAKER_01",
+      "text": "yo no soy esa persona, no sé por qué",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 142.23,
+      "end": 144.29,
+      "speaker": "SPEAKER_01",
+      "text": "tienen nuevamente y volvieron",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 144.29,
+      "end": 146.11,
+      "speaker": "SPEAKER_01",
+      "text": "ya dejaron, un año habían dejado",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 146.11,
+      "end": 148.27,
+      "speaker": "SPEAKER_01",
+      "text": "llamarme y otras volvieron con el mismo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 148.27,
+      "end": 150.11,
+      "speaker": "SPEAKER_01",
+      "text": "tema, entonces yo no entiendo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 150.11,
+      "end": 152.13,
+      "speaker": "SPEAKER_01",
+      "text": "ese tema de ese número celular",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 152.13,
+      "end": 154.15,
+      "speaker": "SPEAKER_01",
+      "text": "que no corresponde a la persona que están",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 154.15,
+      "end": 157.03,
+      "speaker": "SPEAKER_01",
+      "text": "llamando, y para mí",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 157.03,
+      "end": 159.03,
+      "speaker": "SPEAKER_01",
+      "text": "es muy incómodo, mire todo lo que yo le gasto, yo en este",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 159.03,
+      "end": 161.05,
+      "speaker": "SPEAKER_01",
+      "text": "momento le gasto tiempo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 161.05,
+      "end": 162.95,
+      "speaker": "SPEAKER_01",
+      "text": "diciéndole lo mismo, entonces de verdad",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 162.95,
+      "end": 164.99,
+      "speaker": "SPEAKER_01",
+      "text": "que eso es incómodo, y le digo yo a usted",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 164.99,
+      "end": 166.93,
+      "speaker": "SPEAKER_01",
+      "text": "no soy esa persona",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 166.93,
+      "end": 168.83,
+      "speaker": "SPEAKER_01",
+      "text": "que están llamando a este número de celular",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 168.83,
+      "end": 170.71,
+      "speaker": "SPEAKER_01",
+      "text": "no corresponde a la persona",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 170.71,
+      "end": 172.19,
+      "speaker": "SPEAKER_01",
+      "text": "no sé por qué tiene mi número",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 172.19,
+      "end": 175.23,
+      "speaker": "SPEAKER_01",
+      "text": "de celular en ese banco",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 175.23,
+      "end": 176.99,
+      "speaker": "SPEAKER_01",
+      "text": "con esa persona, no sé por qué",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 176.99,
+      "end": 179.13,
+      "speaker": "SPEAKER_01",
+      "text": "no sé, no hallo la razón",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 179.13,
+      "end": 181.17,
+      "speaker": "SPEAKER_01",
+      "text": "este celular lo tengo ya hace más de 10 años",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 181.17,
+      "end": 182.91,
+      "speaker": "SPEAKER_01",
+      "text": "no sé por qué tienen ese número ustedes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 182.91,
+      "end": 186.27,
+      "speaker": "SPEAKER_01",
+      "text": "Yo no tengo ninguna obligación, ningún vínculo comercial con el...",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 186.27,
+      "end": 193.21,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo perfectamente su molestia y le ofrezco disculpas por esta situación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 193.61,
+      "end": 197.34,
+      "speaker": "SPEAKER_00",
+      "text": "Voy a tomar nota inmediatamente para que...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 197.34,
+      "end": 200.6,
+      "speaker": "SPEAKER_00",
+      "text": "Retiren su número de nuestra base de datos y no vuelva a ser contactado.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 200.94,
+      "end": 201.46,
+      "speaker": "SPEAKER_00",
+      "text": "Lamento mucho...",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi9-3147bab7-2spk",
+  "original_file_id": "3147bab7-9e7f-496d-ae97-52b280194924",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

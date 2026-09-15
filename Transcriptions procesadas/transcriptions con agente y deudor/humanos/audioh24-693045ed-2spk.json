@@ -1,0 +1,278 @@
+{
+  "file_id": "693045ed-afc8-4c9c-9eee-f7e34281fb16",
+  "source": "humano",
+  "duration_sec": 177.64,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 9.68,
+      "end": 19.1,
+      "speaker": "SPEAKER_01",
+      "text": "Muy buen día, me podría comunicar por favor con el señor Humberto, ¿cómo me le vale? Saludos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 19.1,
+      "end": 26.64,
+      "speaker": "SPEAKER_01",
+      "text": "Me comunico de TIS, nosotros somos quienes compramos la cartera de su obligación pendiente con el señor Humberto, ¿cómo me le ha ido?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 27.74,
+      "end": 28.58,
+      "speaker": "SPEAKER_01",
+      "text": "¿El celular y usted?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 29.8,
+      "end": 31.12,
+      "speaker": "SPEAKER_01",
+      "text": "Bien, gracias a Dios",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 31.12,
+      "end": 33.86,
+      "speaker": "SPEAKER_01",
+      "text": "Por eso situaciones, señor Humberto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 33.86,
+      "end": 48.54,
+      "speaker": "SPEAKER_01",
+      "text": "Me puede ser no tener mi llamada, brevemente es porque en este momento, como le indicaba, compramos la cartera de *** y la deuda como tal del señor Humberto ya asciende, con intereses y todo lo demás, a 2.200 pesos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 48.54,
+      "end": 59.9,
+      "speaker": "SPEAKER_01",
+      "text": "Sin embargo, el propósito nuestro es poder dejar esa deuda al día y poder brindarle un alivio financiero para poder quitar el reporte negativo ante titulares de riesgo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 60.26,
+      "end": 63.36,
+      "speaker": "SPEAKER_01",
+      "text": "No sé si el señor *** haya recibido llamadas en días pasados.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 64.87,
+      "end": 67.41,
+      "speaker": "SPEAKER_01",
+      "text": "Sí señor, sí señor, sí señor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 67.41,
+      "end": 88.57,
+      "speaker": "SPEAKER_01",
+      "text": "Porque quisiéramos, como TIS, poder verificar la posibilidad de tener un único pago de lo que fue el capital, el capital que se gastó con sus productos financieros, y dejamos al día toda la obligación, y dejamos de pasar algo, y dejamos de tener ese riesgo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 88.57,
+      "end": 92.04,
+      "speaker": "SPEAKER_01",
+      "text": "si señor, si no crees que es lo que pasa",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 92.04,
+      "end": 93.38,
+      "speaker": "SPEAKER_01",
+      "text": "es que yo no estoy trabajando",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 93.38,
+      "end": 96.1,
+      "speaker": "SPEAKER_01",
+      "text": "y he estado lo más enfermo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 96.1,
+      "end": 97.74,
+      "speaker": "SPEAKER_01",
+      "text": "estoy por aquí haciéndome",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 97.74,
+      "end": 99.8,
+      "speaker": "SPEAKER_01",
+      "text": "unos exámenes, he estado muy enfermo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 99.8,
+      "end": 102.12,
+      "speaker": "SPEAKER_01",
+      "text": "entonces yo no he podido",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 102.12,
+      "end": 103.64,
+      "speaker": "SPEAKER_01",
+      "text": "porque la hija mía es la",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 103.64,
+      "end": 106.0,
+      "speaker": "SPEAKER_01",
+      "text": "que se encargaba para pagar eso",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 106.0,
+      "end": 109.25,
+      "speaker": "SPEAKER_01",
+      "text": "y señor Humberto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 109.25,
+      "end": 110.81,
+      "speaker": "SPEAKER_01",
+      "text": "en ese orden de ideas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 110.81,
+      "end": 111.99,
+      "speaker": "SPEAKER_01",
+      "text": "viendo ya la",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 111.99,
+      "end": 114.01,
+      "speaker": "SPEAKER_01",
+      "text": "dificultad que tiene el señor Humberto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 114.01,
+      "end": 116.29,
+      "speaker": "SPEAKER_01",
+      "text": "no sé, ¿qué monto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 116.29,
+      "end": 117.25,
+      "speaker": "SPEAKER_01",
+      "text": "puede hacer para que",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 117.25,
+      "end": 133.25,
+      "speaker": "SPEAKER_01",
+      "text": "Yo le digo, don, que es que como yo no estoy trabajando, yo he trabajado así por días y ya no he estado trabajando.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 133.89,
+      "end": 139.27,
+      "speaker": "SPEAKER_01",
+      "text": "Y la hija de mi hija se encargó de pagar esa deuda. Yo no estoy trabajando.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 139.95,
+      "end": 146.33,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, tranquilo. Entonces, ¿cómo lo sigue? ¿Esta línea de teléfono que tiene línea WhatsApp?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 146.33,
+      "end": 149.46,
+      "speaker": "SPEAKER_01",
+      "text": "No señor, no",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 149.46,
+      "end": 150.78,
+      "speaker": "SPEAKER_01",
+      "text": "Eso no",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 150.78,
+      "end": 152.8,
+      "speaker": "SPEAKER_01",
+      "text": "Yo no tengo el WhatsApp",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 152.8,
+      "end": 157.4,
+      "speaker": "SPEAKER_01",
+      "text": "¿En este momento se encuentra un poco indiscutible o me se...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 157.4,
+      "end": 160.2,
+      "speaker": "SPEAKER_01",
+      "text": "Sí señor, es que estoy aquí",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 160.2,
+      "end": 164.1,
+      "speaker": "SPEAKER_01",
+      "text": "Ya para ir a reclamar unos exámenes",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 164.1,
+      "end": 165.5,
+      "speaker": "SPEAKER_01",
+      "text": "Y una droga",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 165.5,
+      "end": 169.71,
+      "speaker": "SPEAKER_01",
+      "text": "Me puedo comunicar posteriormente y volvemos a hablar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 169.71,
+      "end": 170.35,
+      "speaker": "SPEAKER_01",
+      "text": "No se preocupe",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 170.35,
+      "end": 173.75,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno señor, que esté muy bien",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 173.75,
+      "end": 174.79,
+      "speaker": "SPEAKER_00",
+      "text": "Hasta luego",
+      "rol": "INCIERTO"
+    }
+  ],
+  "short_id": "audioh24-693045ed-2spk",
+  "original_file_id": "693045ed-afc8-4c9c-9eee-f7e34281fb16",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

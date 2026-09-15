@@ -1,0 +1,299 @@
+{
+  "file_id": "1e3beb83-824b-4ad5-8483-f4ff6ea3c05e",
+  "source": "humano",
+  "duration_sec": 160.76,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 14.7,
+      "end": 33.54,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes, ¿cómo se encuentra el día de hoy?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 34.5,
+      "end": 35.28,
+      "speaker": "SPEAKER_01",
+      "text": "Muy bien, ¿y usted?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 35.98,
+      "end": 37.0,
+      "speaker": "SPEAKER_01",
+      "text": "Bien, gracias.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 38.32,
+      "end": 45.8,
+      "speaker": "SPEAKER_01",
+      "text": "El día de hoy me estoy comunicando referente a un compromiso de pago que se tenía para el día 15 de agosto por 60 mil pesos,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 46.34,
+      "end": 51.76,
+      "speaker": "SPEAKER_01",
+      "text": "según su obligación, que estamos baleando en el sistema y no hemos reflejado su pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 51.88,
+      "end": 52.9,
+      "speaker": "SPEAKER_01",
+      "text": "¿Usted realizó este pago?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 54.55,
+      "end": 56.79,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, no, no, no, en el momento todavía no lo ha realizado.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 56.79,
+      "end": 60.06,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, señor Alejandro, ¿por qué motivo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 61.12,
+      "end": 65.08,
+      "speaker": "SPEAKER_01",
+      "text": "Porque no pude conseguir la plata porque estoy desempleado en el momento",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 65.08,
+      "end": 70.49,
+      "speaker": "SPEAKER_01",
+      "text": "Señor, pero esta es la oportunidad de que usted quede al día con su obligación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 70.49,
+      "end": 73.31,
+      "speaker": "SPEAKER_01",
+      "text": "Ya son 60 mil pesos y ya quedaría a paz y salvo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 73.31,
+      "end": 74.81,
+      "speaker": "SPEAKER_01",
+      "text": "¿Son cuántos?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 75.21,
+      "end": 76.59,
+      "speaker": "SPEAKER_01",
+      "text": "60 mil pesos, señor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 76.59,
+      "end": 79.75,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, ok, ok",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 79.75,
+      "end": 85.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nosotros a su WhatsApp como a su correo electrónico enviamos el acuerdo de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 85.2,
+      "end": 86.18,
+      "speaker": "SPEAKER_01",
+      "text": "¿Lo recibió, señor?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 87.95,
+      "end": 89.13,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, sí, yo lo recibí",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 89.13,
+      "end": 92.95,
+      "speaker": "SPEAKER_01",
+      "text": "¿De acuerdo? ¿Se realizaría el pago el día de hoy?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 94.59,
+      "end": 99.51,
+      "speaker": "SPEAKER_01",
+      "text": "No, así como le digo que estoy desempleado, me... no, es que me queda difícil en el momento",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 99.51,
+      "end": 108.18,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendemos, señor... pero usted se le aplicó un descuento sobre el valor de su deuda y con solo 60 mil pesos quedaría el día",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 108.18,
+      "end": 112.58,
+      "speaker": "SPEAKER_01",
+      "text": "¿Para cuándo se podría realizar este pago para no que no pierda los beneficios?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 113.46,
+      "end": 118.74,
+      "speaker": "SPEAKER_01",
+      "text": "¿Será que no se podría para el 30? Que le paguen a mi hermanito y yo al igual que nos preste",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 118.74,
+      "end": 121.32,
+      "speaker": "SPEAKER_01",
+      "text": "por el 30 de este mes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 121.32,
+      "end": 123.56,
+      "speaker": "SPEAKER_01",
+      "text": "comprendo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 123.56,
+      "end": 126.1,
+      "speaker": "SPEAKER_01",
+      "text": "correremos la fecha para el día 30",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 126.1,
+      "end": 127.92,
+      "speaker": "SPEAKER_01",
+      "text": "pero es importante dar cumplimiento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 127.92,
+      "end": 129.24,
+      "speaker": "SPEAKER_01",
+      "text": "el día 30 de agosto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 129.24,
+      "end": 131.86,
+      "speaker": "SPEAKER_01",
+      "text": "a este acuerdo de pago porque si no",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 131.86,
+      "end": 133.84,
+      "speaker": "SPEAKER_01",
+      "text": "ya se cancelará y usted perderá",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 133.84,
+      "end": 135.54,
+      "speaker": "SPEAKER_01",
+      "text": "todos los beneficios y seguirá reportado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 135.54,
+      "end": 136.8,
+      "speaker": "SPEAKER_01",
+      "text": "ante centrales de riesgo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 136.8,
+      "end": 139.33,
+      "speaker": "SPEAKER_01",
+      "text": "listo Alex",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 139.33,
+      "end": 143.52,
+      "speaker": "SPEAKER_01",
+      "text": "voy a correr su fecha para el día 30 de agosto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 143.52,
+      "end": 145.06,
+      "speaker": "SPEAKER_01",
+      "text": "y quedo pendiente del soporte de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 145.06,
+      "end": 147.49,
+      "speaker": "SPEAKER_01",
+      "text": "listo Alex",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 147.49,
+      "end": 149.17,
+      "speaker": "SPEAKER_01",
+      "text": "perfecto",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 149.17,
+      "end": 151.21,
+      "speaker": "SPEAKER_01",
+      "text": "que tenga un excelente día",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 151.21,
+      "end": 152.61,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias Lomino",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 152.61,
+      "end": 154.7,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias, hasta luego",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 154.7,
+      "end": 156.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hasta luego",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 156.0,
+      "end": 157.34,
+      "speaker": "SPEAKER_01",
+      "text": "Te amo",
+      "rol": "INCIERTO"
+    }
+  ],
+  "short_id": "audioh7-1e3beb83-1spk",
+  "original_file_id": "1e3beb83-824b-4ad5-8483-f4ff6ea3c05e",
+  "metodo_asignacion_rol": "llm_por_segmento"
+}

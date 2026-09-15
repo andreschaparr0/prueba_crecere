@@ -1,0 +1,348 @@
+{
+  "file_id": "1f5cda00-bbf3-4770-97dc-99760ddadc1b",
+  "source": "humano",
+  "duration_sec": 143.74,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 16.91,
+      "end": 19.35,
+      "speaker": "SPEAKER_01",
+      "text": "Buenos días, por favor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 19.35,
+      "end": 22.77,
+      "speaker": "SPEAKER_00",
+      "text": "Solicita",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 22.77,
+      "end": 25.08,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, es que necesito",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 25.08,
+      "end": 27.04,
+      "speaker": "SPEAKER_01",
+      "text": "Para suministrar la información, necesito saber si",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 27.04,
+      "end": 28.9,
+      "speaker": "SPEAKER_01",
+      "text": "Ese señor, estoy hablando con él",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 28.9,
+      "end": 30.38,
+      "speaker": "SPEAKER_00",
+      "text": "¿Y qué llama?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 31.51,
+      "end": 33.13,
+      "speaker": "SPEAKER_01",
+      "text": "Su Mercedes, lo que pasa es que lo que le digo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 33.13,
+      "end": 35.61,
+      "speaker": "SPEAKER_01",
+      "text": "Esto es información que está bajo la reserva legal",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 35.61,
+      "end": 37.27,
+      "speaker": "SPEAKER_01",
+      "text": "Conforme a la ley 1581",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 37.27,
+      "end": 39.29,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces no le puedo suministrar información a terceros",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 39.29,
+      "end": 39.91,
+      "speaker": "SPEAKER_01",
+      "text": "Hablo con ese",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 39.91,
+      "end": 43.96,
+      "speaker": "SPEAKER_00",
+      "text": "¿De qué me van a pedir la información o qué?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 44.5,
+      "end": 45.68,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, no, yo no le voy a pedir",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 45.68,
+      "end": 47.2,
+      "speaker": "SPEAKER_01",
+      "text": "Información, le voy a dar una información",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 47.2,
+      "end": 50.94,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, habla con",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 50.94,
+      "end": 55.22,
+      "speaker": "SPEAKER_01",
+      "text": "Mucho gusto, ¿le está hablando Daniela? Yo me estoy comunicando",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 55.22,
+      "end": 60.02,
+      "speaker": "SPEAKER_01",
+      "text": "Nosotros somos quienes actualmente compramos la cartera de su obligación pendiente con el banco",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 60.02,
+      "end": 62.18,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo se encuentra el día de hoy?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 63.26,
+      "end": 63.74,
+      "speaker": "SPEAKER_00",
+      "text": "Bien",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 63.74,
+      "end": 68.44,
+      "speaker": "SPEAKER_01",
+      "text": "Sí señores, que lo estoy llamando precisamente por el tema de su obligación pendiente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 68.44,
+      "end": 73.84,
+      "speaker": "SPEAKER_01",
+      "text": "Ya que la fecha no registra un saldo total de 672.584 pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 73.84,
+      "end": 78.84,
+      "speaker": "SPEAKER_01",
+      "text": "Y la idea principal, pues en este caso es poder llegar a un acuerdo de pago bien sea por la totalidad",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 78.84,
+      "end": 82.54,
+      "speaker": "SPEAKER_01",
+      "text": "O pagar ese valor en un periodo máximo de tres cuotas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 82.54,
+      "end": 85.86,
+      "speaker": "SPEAKER_01",
+      "text": "Quisiera confirmar con usted si se encuentra interesado en acogerse a esta oportunidad",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 85.86,
+      "end": 86.98,
+      "speaker": "SPEAKER_01",
+      "text": "Para poder solucionar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 86.98,
+      "end": 93.26,
+      "speaker": "SPEAKER_01",
+      "text": "¿Su merced realizaría el pago total o en dos cuotas?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 93.38,
+      "end": 95.04,
+      "speaker": "SPEAKER_01",
+      "text": "Cuénteme cómo le interesa",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 95.04,
+      "end": 95.9,
+      "speaker": "SPEAKER_00",
+      "text": "¿En una cuota?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 96.82,
+      "end": 97.42,
+      "speaker": "SPEAKER_01",
+      "text": "Señor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 97.42,
+      "end": 99.52,
+      "speaker": "SPEAKER_00",
+      "text": "En una cuota",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 99.52,
+      "end": 105.67,
+      "speaker": "SPEAKER_01",
+      "text": "¿En una cuota? ¿Y cuándo realizaría el pago de los 672.600 pesos?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 105.67,
+      "end": 106.95,
+      "speaker": "SPEAKER_00",
+      "text": "La otra semana",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 106.95,
+      "end": 109.49,
+      "speaker": "SPEAKER_01",
+      "text": "La otra semana",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 109.49,
+      "end": 112.15,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, perfecto, sí señor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 112.15,
+      "end": 114.19,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces voy a poner como fecha límite de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 114.19,
+      "end": 116.03,
+      "speaker": "SPEAKER_01",
+      "text": "El día viernes 21 de agosto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 116.03,
+      "end": 118.19,
+      "speaker": "SPEAKER_01",
+      "text": "Para el pago total de la obligación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 118.19,
+      "end": 119.49,
+      "speaker": "SPEAKER_01",
+      "text": "Sumerce, quiero confirmar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 119.49,
+      "end": 121.65,
+      "speaker": "SPEAKER_01",
+      "text": "Para el tema del envío del acuerdo de pago formal",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 121.65,
+      "end": 122.89,
+      "speaker": "SPEAKER_01",
+      "text": "Su correo es",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 122.89,
+      "end": 132.38,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, Sumerce",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 132.38,
+      "end": 133.66,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces en ese orden de ideas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 133.66,
+      "end": 135.66,
+      "speaker": "SPEAKER_01",
+      "text": "A ese correo le va a estar llegando la información",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 135.66,
+      "end": 137.86,
+      "speaker": "SPEAKER_01",
+      "text": "Igual el día de mañana me comunico con usted",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 137.86,
+      "end": 139.34,
+      "speaker": "SPEAKER_01",
+      "text": "Para confirmar el tema del acuerdo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 139.34,
+      "end": 140.76,
+      "speaker": "SPEAKER_01",
+      "text": "Lo escribimos por Whatsapp, ¿listo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 142.96,
+      "end": 143.58,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, señor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 143.58,
+      "end": 143.72,
+      "speaker": "SPEAKER_01",
+      "text": "¡Suscríbete!",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh8-1f5cda00-2spk",
+  "original_file_id": "1f5cda00-bbf3-4770-97dc-99760ddadc1b",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

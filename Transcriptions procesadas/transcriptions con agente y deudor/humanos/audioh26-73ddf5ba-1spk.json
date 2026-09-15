@@ -1,0 +1,285 @@
+{
+  "file_id": "73ddf5ba-7005-41a6-88b5-be98fb909764",
+  "source": "humano",
+  "duration_sec": 145.24,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 22.29,
+      "end": 32.42,
+      "speaker": "SPEAKER_01",
+      "text": "tardes. Tengo el gusto de hablar con el señor. De parte. Habla. Como se encuentra el día",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 32.42,
+      "end": 42.32,
+      "speaker": "SPEAKER_01",
+      "text": "de hoy. Bien. Comunicamos referente a su obligación con. Según acuerdo de pago que tenía para",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 42.32,
+      "end": 47.16,
+      "speaker": "SPEAKER_01",
+      "text": "el día quince de agosto, compromiso de pago por doscientos cincuenta mil seiscientos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 47.16,
+      "end": 51.3,
+      "speaker": "SPEAKER_01",
+      "text": "pesos. Estamos validando en el sistema y no hemos reflejado su pago. Usted realizó este",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 51.3,
+      "end": 61.03,
+      "speaker": "SPEAKER_01",
+      "text": "pago. Yo no he podido levantar esos 260 mil pesos. Comprendo. ¿Cuándo se realizaría",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 61.03,
+      "end": 69.07,
+      "speaker": "SPEAKER_01",
+      "text": "el pago para que no pierda los beneficios? Mira, será para finales de mes, para que",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 69.07,
+      "end": 74.57,
+      "speaker": "SPEAKER_01",
+      "text": "los profesores que ya cobren los profesores, para ver si las hermanas mías me colaboran",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 74.57,
+      "end": 77.1,
+      "speaker": "SPEAKER_01",
+      "text": "a ver si pago eso",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 77.1,
+      "end": 78.87,
+      "speaker": "SPEAKER_01",
+      "text": "entiendo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 78.87,
+      "end": 81.81,
+      "speaker": "SPEAKER_01",
+      "text": "para que el día este se compromete",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 81.81,
+      "end": 83.97,
+      "speaker": "SPEAKER_01",
+      "text": "al menos para el 28 o 29",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 83.97,
+      "end": 84.79,
+      "speaker": "SPEAKER_01",
+      "text": "en esos dos días",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 84.79,
+      "end": 87.69,
+      "speaker": "SPEAKER_01",
+      "text": "comprendo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 87.69,
+      "end": 91.55,
+      "speaker": "SPEAKER_01",
+      "text": "voy a validar y vamos a correr la fecha",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 91.55,
+      "end": 93.21,
+      "speaker": "SPEAKER_01",
+      "text": "para el día 29 de agosto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 93.21,
+      "end": 95.33,
+      "speaker": "SPEAKER_01",
+      "text": "para que usted cumplimiento este acuerdo de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 95.33,
+      "end": 97.27,
+      "speaker": "SPEAKER_01",
+      "text": "y ya quede a paso y salvo de su obligación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 97.27,
+      "end": 98.31,
+      "speaker": "SPEAKER_01",
+      "text": "ok",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 98.31,
+      "end": 100.63,
+      "speaker": "SPEAKER_01",
+      "text": "voy a hacer todo lo posible porque quiero",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 100.63,
+      "end": 101.63,
+      "speaker": "SPEAKER_01",
+      "text": "verdaderamente",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 101.63,
+      "end": 107.41,
+      "speaker": "SPEAKER_01",
+      "text": "es importante dar cumplimiento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 107.41,
+      "end": 109.91,
+      "speaker": "SPEAKER_01",
+      "text": "al acuerdo de pago para que no pierda",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 109.91,
+      "end": 110.75,
+      "speaker": "SPEAKER_01",
+      "text": "los beneficios",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 110.75,
+      "end": 114.72,
+      "speaker": "SPEAKER_01",
+      "text": "voy a hacer todo lo posible para salir",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 114.72,
+      "end": 116.66,
+      "speaker": "SPEAKER_01",
+      "text": "de eso, oye como hago para salir de eso",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 116.66,
+      "end": 118.3,
+      "speaker": "SPEAKER_01",
+      "text": "de acuerdo señor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 118.3,
+      "end": 120.44,
+      "speaker": "SPEAKER_01",
+      "text": "entonces programamos nueva fecha",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 120.44,
+      "end": 122.22,
+      "speaker": "SPEAKER_01",
+      "text": "para el día 29 de agosto",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 122.22,
+      "end": 124.74,
+      "speaker": "SPEAKER_01",
+      "text": "fue enviado el acuerdo de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 124.74,
+      "end": 126.6,
+      "speaker": "SPEAKER_01",
+      "text": "de manera formal y los medios de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 126.6,
+      "end": 127.52,
+      "speaker": "SPEAKER_01",
+      "text": "usted lo recibió?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 128.48,
+      "end": 130.64,
+      "speaker": "SPEAKER_01",
+      "text": "si, perfecto, quedamos pendientes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 130.64,
+      "end": 132.42,
+      "speaker": "SPEAKER_01",
+      "text": "por ese medio el día 29",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 132.42,
+      "end": 134.44,
+      "speaker": "SPEAKER_01",
+      "text": "del soporte de pago para aplicarlo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 134.44,
+      "end": 136.32,
+      "speaker": "SPEAKER_01",
+      "text": "al sistema y su pasisal",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 136.32,
+      "end": 137.54,
+      "speaker": "SPEAKER_01",
+      "text": "ok",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 137.54,
+      "end": 140.82,
+      "speaker": "SPEAKER_01",
+      "text": "que tenga un excelente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 140.82,
+      "end": 141.24,
+      "speaker": "SPEAKER_01",
+      "text": "trabajo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 141.24,
+      "end": 144.1,
+      "speaker": "SPEAKER_01",
+      "text": "hasta luego",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh26-73ddf5ba-1spk",
+  "original_file_id": "73ddf5ba-7005-41a6-88b5-be98fb909764",
+  "metodo_asignacion_rol": "llm_por_segmento"
+}

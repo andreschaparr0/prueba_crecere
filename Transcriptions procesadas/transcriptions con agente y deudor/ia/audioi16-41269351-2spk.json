@@ -1,0 +1,180 @@
+{
+  "file_id": "41269351-a58b-42bf-8486-151c5aa3a4e2",
+  "source": "ia",
+  "duration_sec": 100.36,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 2.18,
+      "end": 6.22,
+      "speaker": "SPEAKER_01",
+      "text": "Muy buenos días.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 13.9,
+      "end": 14.64,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas, por favor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 15.32,
+      "end": 24.95,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me escucha?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 25.51,
+      "end": 36.2,
+      "speaker": "SPEAKER_01",
+      "text": "Si no escucho su voz, voy a tener que finalizar la llamada.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 36.6,
+      "end": 37.34,
+      "speaker": "SPEAKER_01",
+      "text": "¿Se encuentra ahí?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 45.78,
+      "end": 48.7,
+      "speaker": "SPEAKER_01",
+      "text": "Al no recibir respuesta, voy a dar por terminada la llamada.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 49.0,
+      "end": 49.7,
+      "speaker": "SPEAKER_01",
+      "text": "Que tenga buen día.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 58.03,
+      "end": 61.19,
+      "speaker": "SPEAKER_01",
+      "text": "Como no recibo respuesta alguna, procederé a colgar la llamada.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 61.49,
+      "end": 62.33,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga un buen día.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 63.17,
+      "end": 65.27,
+      "speaker": "SPEAKER_00",
+      "text": "Su grabación llegó al tiempo límite.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 65.67,
+      "end": 67.37,
+      "speaker": "SPEAKER_00",
+      "text": "Para editar, marque 1.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 67.59,
+      "end": 69.21,
+      "speaker": "SPEAKER_00",
+      "text": "Para enviar, marque 2.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 69.43,
+      "end": 71.73,
+      "speaker": "SPEAKER_00",
+      "text": "Para las opciones de entrega, marque 3.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 71.73,
+      "end": 76.03,
+      "speaker": "SPEAKER_00",
+      "text": "Disculpe, parece que hubo un error técnico con la grabación",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 76.03,
+      "end": 77.71,
+      "speaker": "SPEAKER_00",
+      "text": "Le pregunto nuevamente por favor",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 77.71,
+      "end": 78.57,
+      "speaker": "SPEAKER_00",
+      "text": "Para editar, marque 1",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 78.57,
+      "end": 80.41,
+      "speaker": "SPEAKER_00",
+      "text": "Para enviar, marque 2",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 80.41,
+      "end": 82.95,
+      "speaker": "SPEAKER_00",
+      "text": "Para las opciones de entrega, marque 3",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 82.95,
+      "end": 88.06,
+      "speaker": "SPEAKER_00",
+      "text": "Parece que hay un problema con la línea o con el sistema de grabación",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 88.06,
+      "end": 89.8,
+      "speaker": "SPEAKER_00",
+      "text": "Para editar, marque 1",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 89.8,
+      "end": 91.6,
+      "speaker": "SPEAKER_00",
+      "text": "Para enviar, marque 2",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 91.6,
+      "end": 94.16,
+      "speaker": "SPEAKER_00",
+      "text": "Para las opciones de entrega, marque 3",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 94.16,
+      "end": 99.12,
+      "speaker": "SPEAKER_01",
+      "text": "Parece que la llamada se ha desviado a un sistema de grabación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 99.12,
+      "end": 100.26,
+      "speaker": "SPEAKER_01",
+      "text": "Adiós",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi16-41269351-2spk",
+  "original_file_id": "41269351-a58b-42bf-8486-151c5aa3a4e2",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

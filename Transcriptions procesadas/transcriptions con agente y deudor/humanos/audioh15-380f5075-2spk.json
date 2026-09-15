@@ -1,0 +1,236 @@
+{
+  "file_id": "380f5075-47be-435f-b595-7e2c48dbb21b",
+  "source": "humano",
+  "duration_sec": 74.56,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 9.04,
+      "end": 10.72,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes, por favor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 10.72,
+      "end": 13.52,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, con él",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 13.52,
+      "end": 16.23,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo está? Le habla Daniela",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 16.23,
+      "end": 18.93,
+      "speaker": "SPEAKER_01",
+      "text": "Me comunico de Reconectemos por el tema de su obligación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 18.93,
+      "end": 19.89,
+      "speaker": "SPEAKER_01",
+      "text": "Con el banco",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 19.89,
+      "end": 21.8,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo se encuentra el día de hoy?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 23.47,
+      "end": 24.69,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, pero nunca me llegó la",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 24.69,
+      "end": 25.83,
+      "speaker": "SPEAKER_00",
+      "text": "A mi WhatsApp",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 25.83,
+      "end": 29.53,
+      "speaker": "SPEAKER_01",
+      "text": "A este mismo número",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 29.53,
+      "end": 31.05,
+      "speaker": "SPEAKER_01",
+      "text": "Acá estoy viendo el chat",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 31.05,
+      "end": 33.18,
+      "speaker": "SPEAKER_00",
+      "text": "Ya ahorita reviso",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 33.18,
+      "end": 33.98,
+      "speaker": "SPEAKER_00",
+      "text": "Porque no vi",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 33.98,
+      "end": 37.12,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, ahí está el acuerdo de pago formalizado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 37.12,
+      "end": 39.0,
+      "speaker": "SPEAKER_01",
+      "text": "Igual yo ya le voy a escribir nuevamente por WhatsApp",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 39.0,
+      "end": 41.14,
+      "speaker": "SPEAKER_01",
+      "text": "Porque la idea es que quede cancelado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.14,
+      "end": 42.76,
+      "speaker": "SPEAKER_01",
+      "text": "dentro del tiempo establecido",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 42.76,
+      "end": 45.14,
+      "speaker": "SPEAKER_01",
+      "text": "la fecha límite de pago es mañana 15",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 45.14,
+      "end": 47.36,
+      "speaker": "SPEAKER_01",
+      "text": "lo estamos llamando para recordarle el compromiso",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 47.36,
+      "end": 48.56,
+      "speaker": "SPEAKER_01",
+      "text": "de pago, listo, entonces",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 48.56,
+      "end": 50.58,
+      "speaker": "SPEAKER_01",
+      "text": "le recuerdo el valor de la cuota",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 50.58,
+      "end": 53.54,
+      "speaker": "SPEAKER_01",
+      "text": "está por 281.036",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 53.54,
+      "end": 55.16,
+      "speaker": "SPEAKER_01",
+      "text": "pesos, son 18",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 55.16,
+      "end": 57.14,
+      "speaker": "SPEAKER_01",
+      "text": "cuotas y la fecha máxima de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 57.14,
+      "end": 58.86,
+      "speaker": "SPEAKER_01",
+      "text": "sería mañana, pues en horas de la mañana",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 58.86,
+      "end": 60.72,
+      "speaker": "SPEAKER_01",
+      "text": "porque recordemos que es hasta",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 60.72,
+      "end": 62.4,
+      "speaker": "SPEAKER_01",
+      "text": "mediodía, está habilitado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 62.4,
+      "end": 64.9,
+      "speaker": "SPEAKER_01",
+      "text": "la gestión para poder hacer",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 64.9,
+      "end": 65.74,
+      "speaker": "SPEAKER_01",
+      "text": "los pagos, listo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 65.74,
+      "end": 68.72,
+      "speaker": "SPEAKER_01",
+      "text": "yo le voy a escribir nuevamente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 68.72,
+      "end": 70.62,
+      "speaker": "SPEAKER_01",
+      "text": "que va a atentar el envío del comprobante de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 70.62,
+      "end": 71.86,
+      "speaker": "SPEAKER_01",
+      "text": "que tenga una excelente tarde",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 71.86,
+      "end": 72.82,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh15-380f5075-2spk",
+  "original_file_id": "380f5075-47be-435f-b595-7e2c48dbb21b",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

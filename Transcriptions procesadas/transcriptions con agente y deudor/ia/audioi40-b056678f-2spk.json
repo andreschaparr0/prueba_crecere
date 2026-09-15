@@ -1,0 +1,47 @@
+{
+  "file_id": "b056678f-9281-47ab-819d-616ba1c7904a",
+  "source": "ia",
+  "duration_sec": 99.86,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 67.25,
+      "speaker": "SPEAKER_01",
+      "text": "grave su mensaje. Su grabación llegó al tiempo límite. Para editar, marque 1. Para",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 67.25,
+      "end": 77.02,
+      "speaker": "SPEAKER_00",
+      "text": "enviar, marque 2. Para las opciones de entrega, marque 3. Buenas tardes, por favor. Para editar,",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 77.3,
+      "end": 85.86,
+      "speaker": "SPEAKER_00",
+      "text": "marque 1. Para enviar, marque 2. Para las opciones de entrega, marque 3. Soy un asistente virtual de",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 85.86,
+      "end": 92.02,
+      "speaker": "SPEAKER_00",
+      "text": "solución a Cubo 8 y necesito confirmar. Para editar, marque 1. Para enviar, marque 2. Para las opciones",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 92.02,
+      "end": 99.41,
+      "speaker": "SPEAKER_00",
+      "text": "de entrega, marque 3. Parece que hay un problema con la línea o con el sistema de grabación. Adiós.",
+      "rol": "INCIERTO"
+    }
+  ],
+  "short_id": "audioi40-b056678f-2spk",
+  "original_file_id": "b056678f-9281-47ab-819d-616ba1c7904a",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

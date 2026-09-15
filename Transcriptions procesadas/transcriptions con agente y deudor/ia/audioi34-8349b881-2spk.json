@@ -1,0 +1,173 @@
+{
+  "file_id": "8349b881-cc05-44b6-a5d6-a340bc7e3499",
+  "source": "ia",
+  "duration_sec": 90.7,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 1.58,
+      "end": 2.34,
+      "speaker": "SPEAKER_00",
+      "text": "¿Buenas?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 3.02,
+      "end": 8.85,
+      "speaker": "SPEAKER_01",
+      "text": "Aló, muy buenos días.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 11.13,
+      "end": 11.95,
+      "speaker": "SPEAKER_00",
+      "text": "Buenas tardes.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 12.81,
+      "end": 16.21,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes, por favor...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 16.21,
+      "end": 18.93,
+      "speaker": "SPEAKER_00",
+      "text": "En el momento no se encuentra, ¿quién la necesita?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 20.11,
+      "end": 24.21,
+      "speaker": "SPEAKER_01",
+      "text": "Disculpe, para parar las llamadas confirmo que usted no es...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 24.21,
+      "end": 30.29,
+      "speaker": "SPEAKER_00",
+      "text": "¿Para quién la necesita o qué razón le deja?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 35.12,
+      "end": 38.47,
+      "speaker": "SPEAKER_01",
+      "text": "Necesito hablar con la... por un tema financiero.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 38.79,
+      "end": 40.71,
+      "speaker": "SPEAKER_01",
+      "text": "Usted me confirma que no es ella, ¿correcto?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 40.71,
+      "end": 47.75,
+      "speaker": "SPEAKER_00",
+      "text": "¿De dónde la llaman? Es que de todas maneras soy la hija",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 47.75,
+      "end": 49.05,
+      "speaker": "SPEAKER_01",
+      "text": "Entiendo que es la hija",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 49.05,
+      "end": 55.22,
+      "speaker": "SPEAKER_01",
+      "text": "Y necesito hablar específicamente con la señora Blanca por un asunto financiero personal",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 55.22,
+      "end": 57.04,
+      "speaker": "SPEAKER_01",
+      "text": "¿Usted me puede confirmar que no es la hija?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 58.05,
+      "end": 61.61,
+      "speaker": "SPEAKER_00",
+      "text": "O sea, ¿de qué? Le estoy diciendo habla con la hija, ¿de qué?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 63.46,
+      "end": 68.54,
+      "speaker": "SPEAKER_01",
+      "text": "Entiendo que es la hija, pero por políticas de confidencialidad solo puedo hablar directamente con la señora Blanca",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 68.54,
+      "end": 70.72,
+      "speaker": "SPEAKER_01",
+      "text": "Ella se encuentra disponible",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 70.72,
+      "end": 74.92,
+      "speaker": "SPEAKER_01",
+      "text": "Entiendo, pero necesito confirmar primero",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 74.92,
+      "end": 77.1,
+      "speaker": "SPEAKER_01",
+      "text": "Usted es la hija, no es ella",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 77.1,
+      "end": 79.56,
+      "speaker": "SPEAKER_00",
+      "text": "Ay, por Dios, te estoy diciendo que no, hombre",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 79.56,
+      "end": 81.84,
+      "speaker": "SPEAKER_00",
+      "text": "Es que eso, ¿en qué idioma le hablo?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 82.06,
+      "end": 82.88,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo que no",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 82.88,
+      "end": 85.6,
+      "speaker": "SPEAKER_00",
+      "text": "Yo soy la hija",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 85.6,
+      "end": 89.52,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias, que tenga un buen día",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi34-8349b881-2spk",
+  "original_file_id": "8349b881-cc05-44b6-a5d6-a340bc7e3499",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

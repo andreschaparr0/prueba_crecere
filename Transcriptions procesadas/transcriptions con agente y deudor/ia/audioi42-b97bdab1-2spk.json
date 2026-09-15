@@ -1,0 +1,208 @@
+{
+  "file_id": "b97bdab1-7884-48dd-8acd-0d8b7b513c67",
+  "source": "ia",
+  "duration_sec": 114.26,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 4.5,
+      "end": 6.06,
+      "speaker": "SPEAKER_00",
+      "text": "Aló, muy buenos días.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 7.3,
+      "end": 8.7,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, buenas noches.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 9.44,
+      "end": 12.34,
+      "speaker": "SPEAKER_00",
+      "text": "Buenas noches. Por favor, ¿cuál es la CUTUR?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 12.88,
+      "end": 16.75,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cuál es la CUTUR?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 16.75,
+      "end": 22.43,
+      "speaker": "SPEAKER_00",
+      "text": "Le llamo por motivo de su obligación, referente a un cartel.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 25.91,
+      "end": 30.33,
+      "speaker": "SPEAKER_00",
+      "text": "Compra. Lo llamo del área de embargos, judicializaciones y alivios financieros.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 30.57,
+      "end": 31.01,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo me le va?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 32.57,
+      "end": 35.61,
+      "speaker": "SPEAKER_01",
+      "text": "Señor, lo que pasa es que está equivocado. No soy el señor.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 36.99,
+      "end": 42.2,
+      "speaker": "SPEAKER_00",
+      "text": "Disculpe la confusión, pero según nuestros registros, este número corresponde al señor de la CUTUR.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 42.3,
+      "end": 45.76,
+      "speaker": "SPEAKER_00",
+      "text": "Podría confirmarme si... Permítame atender sus dudas.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 47.96,
+      "end": 51.54,
+      "speaker": "SPEAKER_01",
+      "text": "Lo que pasa es que este número, sí, yo lo tengo desde hace rato.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 52.06,
+      "end": 55.58,
+      "speaker": "SPEAKER_01",
+      "text": "Y ha llegado un mensaje que el señor...",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 55.58,
+      "end": 62.16,
+      "speaker": "SPEAKER_01",
+      "text": "Pero no sé... No soy el señor... ¿Sí me entiendes?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 65.18,
+      "end": 67.0,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo perfectamente la situación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 67.0,
+      "end": 68.93,
+      "speaker": "SPEAKER_00",
+      "text": "Si usted no es el señor...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 68.93,
+      "end": 72.29,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces hay un error en nuestros registros de contacto.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 72.37,
+      "end": 74.61,
+      "speaker": "SPEAKER_00",
+      "text": "Le pido disculpas por la molestia.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 74.61,
+      "end": 79.69,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, siempre me ha llegado esa solicitud y siempre me han llamado por eso.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 80.43,
+      "end": 86.53,
+      "speaker": "SPEAKER_01",
+      "text": "Y ahora sí les digo que no tengo ese número de hace rato ya y no soy el C.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 91.76,
+      "end": 93.12,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo completamente, señor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 93.3,
+      "end": 95.66,
+      "speaker": "SPEAKER_00",
+      "text": "Y le pido disculpas por las molestias que esto le ha causado.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 96.0,
+      "end": 99.1,
+      "speaker": "SPEAKER_00",
+      "text": "Voy a actualizar nuestros registros para que no vuelva a recibir llamadas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 99.1,
+      "end": 101.3,
+      "speaker": "SPEAKER_00",
+      "text": "ni mensajes dirigidos al C. en este número.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 101.64,
+      "end": 104.56,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga muy buenas noches y nuevamente disculpas por el inconveniente.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 106.0,
+      "end": 106.3,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 110.12,
+      "end": 111.08,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga muy buena noche.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 111.08,
+      "end": 111.9,
+      "speaker": "SPEAKER_00",
+      "text": "Hasta luego.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 112.22,
+      "end": 112.74,
+      "speaker": "SPEAKER_00",
+      "text": "Gracias.",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi42-b97bdab1-2spk",
+  "original_file_id": "b97bdab1-7884-48dd-8acd-0d8b7b513c67",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

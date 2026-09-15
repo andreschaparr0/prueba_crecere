@@ -1,0 +1,474 @@
+{
+  "file_id": "92778da9-c37a-4eee-9ca5-81f835e7c5a4",
+  "source": "humano",
+  "duration_sec": 176.56,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 12.88,
+      "end": 17.19,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, muy buenos días, ¿con quién?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 24.76,
+      "end": 26.66,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señora, muy bien, gracias a Dios.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 35.38,
+      "end": 39.7,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, ve...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 39.7,
+      "end": 40.4,
+      "speaker": "SPEAKER_00",
+      "text": "¿Señor?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.2,
+      "end": 44.12,
+      "speaker": "SPEAKER_01",
+      "text": "Ven a consultar... No, no sé por qué me están llamando eso,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 44.2,
+      "end": 45.96,
+      "speaker": "SPEAKER_01",
+      "text": "si la vez pasada me llamaron hace como un mes,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 45.96,
+      "end": 49.42,
+      "speaker": "SPEAKER_01",
+      "text": "Yo ya hice la cancelación en totalidad del acuerdo de pago.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 49.52,
+      "end": 50.8,
+      "speaker": "SPEAKER_01",
+      "text": "Hice un acuerdo de pago por dos cuotas.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 51.2,
+      "end": 54.2,
+      "speaker": "SPEAKER_01",
+      "text": "Yo ya cancelé las dos cuotas el mismo día y la misma fecha.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 56.44,
+      "end": 57.9,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo, señor Mauricio.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 58.94,
+      "end": 61.52,
+      "speaker": "SPEAKER_00",
+      "text": "¿Usted algún WhatsApp reportó el pago?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 63.26,
+      "end": 66.7,
+      "speaker": "SPEAKER_01",
+      "text": "Al correo de abogados punto...",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 66.7,
+      "end": 69.3,
+      "speaker": "SPEAKER_01",
+      "text": "El correo que me bota ahí la página de Credivalores.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 70.18,
+      "end": 70.66,
+      "speaker": "SPEAKER_00",
+      "text": "Comprendo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 70.66,
+      "end": 75.14,
+      "speaker": "SPEAKER_00",
+      "text": "Le voy a enviar un WhatsApp para que me reporten los dos pagos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 75.14,
+      "end": 77.26,
+      "speaker": "SPEAKER_00",
+      "text": "para ya hacer el proceso",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 77.26,
+      "end": 78.76,
+      "speaker": "SPEAKER_00",
+      "text": "de paz y salvo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 78.76,
+      "end": 81.24,
+      "speaker": "SPEAKER_00",
+      "text": "y bajarlo del sistema, señor Mauricio",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 81.24,
+      "end": 83.5,
+      "speaker": "SPEAKER_00",
+      "text": "que no le sigamos generando llamadas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 83.5,
+      "end": 84.82,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, qué pena",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 84.82,
+      "end": 87.38,
+      "speaker": "SPEAKER_01",
+      "text": "y quería hacerte esta pregunta, lo que pasa es que a mí me llamaron",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 87.38,
+      "end": 88.88,
+      "speaker": "SPEAKER_01",
+      "text": "el mes pasado y me habían",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 88.88,
+      "end": 91.24,
+      "speaker": "SPEAKER_01",
+      "text": "propuesto un acuerdo de",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 91.24,
+      "end": 93.22,
+      "speaker": "SPEAKER_01",
+      "text": "pago en dos cuotas, uno para",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 93.22,
+      "end": 95.2,
+      "speaker": "SPEAKER_01",
+      "text": "el 30 del mes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 95.2,
+      "end": 96.82,
+      "speaker": "SPEAKER_01",
+      "text": "que pasó y otro para",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 96.82,
+      "end": 99.12,
+      "speaker": "SPEAKER_01",
+      "text": "el final de este mes, pero pues",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 99.12,
+      "end": 101.18,
+      "speaker": "SPEAKER_01",
+      "text": "yo me conseguí la plata y pagué las dos",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 101.18,
+      "end": 101.7,
+      "speaker": "SPEAKER_01",
+      "text": "cuotas",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 101.7,
+      "end": 104.34,
+      "speaker": "SPEAKER_01",
+      "text": "y pues obviamente",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 104.34,
+      "end": 106.8,
+      "speaker": "SPEAKER_01",
+      "text": "dijeron que tocaba y me tocaba cancelar",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 106.8,
+      "end": 109.69,
+      "speaker": "SPEAKER_01",
+      "text": "la cota que estaba ahí reflejada",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 109.69,
+      "end": 111.49,
+      "speaker": "SPEAKER_01",
+      "text": "en el desprendible que me envió",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 111.49,
+      "end": 113.63,
+      "speaker": "SPEAKER_01",
+      "text": "ahí a CREI Valores a un correo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 113.63,
+      "end": 116.01,
+      "speaker": "SPEAKER_01",
+      "text": "y que ellos me enviaron un desprendible, una certificación",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 116.01,
+      "end": 118.01,
+      "speaker": "SPEAKER_01",
+      "text": "de la deuda, yo cancelé esa totalidad",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 118.01,
+      "end": 119.65,
+      "speaker": "SPEAKER_01",
+      "text": "de la deuda neta y",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 119.65,
+      "end": 120.87,
+      "speaker": "SPEAKER_01",
+      "text": "en un solo",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 120.87,
+      "end": 122.23,
+      "speaker": "SPEAKER_01",
+      "text": "pago",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 122.23,
+      "end": 126.07,
+      "speaker": "SPEAKER_01",
+      "text": "y entonces yo ya tengo el voucher y yo envié",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 126.07,
+      "end": 127.83,
+      "speaker": "SPEAKER_01",
+      "text": "eso a un correo de abogados",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 127.83,
+      "end": 129.55,
+      "speaker": "SPEAKER_01",
+      "text": "y eso que me aparecía en la página ahí",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 129.55,
+      "end": 131.25,
+      "speaker": "SPEAKER_01",
+      "text": "de CREI Valores",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 131.25,
+      "end": 133.07,
+      "speaker": "SPEAKER_01",
+      "text": "porque yo estaba por allá",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 133.07,
+      "end": 135.27,
+      "speaker": "SPEAKER_01",
+      "text": "en un... Sí, porque yo estaba en un departamento",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 135.27,
+      "end": 136.91,
+      "speaker": "SPEAKER_01",
+      "text": "de Carurú, que eso es de",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 136.91,
+      "end": 138.97,
+      "speaker": "SPEAKER_01",
+      "text": "Baupés. Allá no tenía acceso",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 138.97,
+      "end": 140.81,
+      "speaker": "SPEAKER_01",
+      "text": "yo a ningún...",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 140.81,
+      "end": 142.87,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, a ningún tipo para hacer esa",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 142.87,
+      "end": 143.39,
+      "speaker": "SPEAKER_01",
+      "text": "cancelación.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 145.86,
+      "end": 146.88,
+      "speaker": "SPEAKER_01",
+      "text": "Busqué la oficina de",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 146.88,
+      "end": 149.22,
+      "speaker": "SPEAKER_01",
+      "text": "Crea y Valores. No encontré oficina de Crea y Valores.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 149.82,
+      "end": 151.12,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, me acerqué",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 151.12,
+      "end": 153.34,
+      "speaker": "SPEAKER_01",
+      "text": "a UNEFETI y mediante el código de convenio",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 153.34,
+      "end": 155.18,
+      "speaker": "SPEAKER_01",
+      "text": "cancelé la totalidad de la deuda",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 155.18,
+      "end": 157.14,
+      "speaker": "SPEAKER_00",
+      "text": "mujer. Perfecto,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 157.22,
+      "end": 159.04,
+      "speaker": "SPEAKER_00",
+      "text": "señor Mauricio. Como le indico, voy a enviarle",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 159.04,
+      "end": 160.78,
+      "speaker": "SPEAKER_00",
+      "text": "un WhatsApp para que me reporte la",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 160.78,
+      "end": 162.28,
+      "speaker": "SPEAKER_00",
+      "text": "conciliación, el soporte de pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 162.28,
+      "end": 164.74,
+      "speaker": "SPEAKER_00",
+      "text": "y ya tramitar su pase salvo, señor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 164.74,
+      "end": 166.76,
+      "speaker": "SPEAKER_01",
+      "text": "Mauricio. Ah, ok, te lo agradezco",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 166.76,
+      "end": 168.86,
+      "speaker": "SPEAKER_01",
+      "text": "mujer. Bueno. De acuerdo.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 169.7,
+      "end": 170.82,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga un excelente día",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 170.82,
+      "end": 172.72,
+      "speaker": "SPEAKER_00",
+      "text": "y quedo pendiente de su consignación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 172.8,
+      "end": 174.46,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, muchas gracias. Espero tu mensaje. Gracias.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 174.54,
+      "end": 176.1,
+      "speaker": "SPEAKER_00",
+      "text": "Buen día. Perfecto, señor Mauricio.",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh33-92778da9-2spk",
+  "original_file_id": "92778da9-c37a-4eee-9ca5-81f835e7c5a4",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

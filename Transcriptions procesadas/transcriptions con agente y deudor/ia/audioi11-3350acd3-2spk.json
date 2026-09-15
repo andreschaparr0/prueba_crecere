@@ -1,0 +1,278 @@
+{
+  "file_id": "3350acd3-f649-47c8-adf6-ce1c08312d8f",
+  "source": "ia",
+  "duration_sec": 185.06,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 29.66,
+      "speaker": "SPEAKER_00",
+      "text": "Aló. Aló. Muy buenos días. Cuénteme. ¿Podría confirmarme si estoy hablando con ***? Sí, señor. ¿Qué necesita? *** le habla *** del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación ***. ¿Cómo se encuentra? Bien, bien. Cuénteme. ¿Qué necesita?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 34.44,
+      "end": 37.36,
+      "speaker": "SPEAKER_00",
+      "text": "Lo llamo porque hoy usted tiene una oportunidad concreta",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 37.36,
+      "end": 39.84,
+      "speaker": "SPEAKER_00",
+      "text": "para dejar resuelto un tema pendiente en muy buenas condiciones.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 39.84,
+      "end": 41.02,
+      "speaker": "SPEAKER_00",
+      "text": "¡Cállate ahí! ¡Cállate poquito! ¡Venga!",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.2,
+      "end": 42.14,
+      "speaker": "SPEAKER_01",
+      "text": "¡Te vas a poner a hacer más para allá!",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 42.86,
+      "end": 43.94,
+      "speaker": "SPEAKER_01",
+      "text": "¡Cuánta gente trabaja, eh!",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 44.06,
+      "end": 44.54,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo dijo?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 47.85,
+      "end": 48.03,
+      "speaker": "SPEAKER_01",
+      "text": "¡Halo!",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 48.89,
+      "end": 50.15,
+      "speaker": "SPEAKER_00",
+      "text": "Gracias por confirmarlo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 50.31,
+      "end": 53.03,
+      "speaker": "SPEAKER_00",
+      "text": "La buena noticia es que hoy puede regularizar su deuda",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 53.03,
+      "end": 56.01,
+      "speaker": "SPEAKER_00",
+      "text": "con un 1% de descuento y quedar al día.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 56.57,
+      "end": 58.85,
+      "speaker": "SPEAKER_00",
+      "text": "Por este motivo queremos poder ofrecerle alternativas",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 58.85,
+      "end": 60.39,
+      "speaker": "SPEAKER_00",
+      "text": "para ponerse al día con su deuda.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 60.71,
+      "end": 61.17,
+      "speaker": "SPEAKER_00",
+      "text": "¿Le interesa?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 61.21,
+      "end": 62.43,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cuánto es ese 1%? ¿Cuánto es?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 63.47,
+      "end": 65.51,
+      "speaker": "SPEAKER_00",
+      "text": "Claro. Permítame atender sus dudas.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 65.93,
+      "end": 71.11,
+      "speaker": "SPEAKER_01",
+      "text": "¿Aló? Ay, ¿quién viene acá ya, wey?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 73.11,
+      "end": 76.55,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, s*****, aquí estoy. Le comento que con el descuento del 1%...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 76.55,
+      "end": 79.37,
+      "speaker": "SPEAKER_01",
+      "text": "Hable más rapidito que estoy ocupado. Si quiere que la tienda hable más rapidito que estoy ocupado.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 83.09,
+      "end": 87.01,
+      "speaker": "SPEAKER_00",
+      "text": "Entendido, s*****. ¿Me permite presentarle la propuesta de acuerdo, entonces?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 89.69,
+      "end": 90.41,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, dígame, dígame.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 92.54,
+      "end": 99.96,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente, s*****. Queremos ofrecerle un descuento del 1% de toda la deuda. Así le condonaríamos un total de...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 99.96,
+      "end": 111.68,
+      "speaker": "SPEAKER_00",
+      "text": "La propuesta es la siguiente. Un pago único de 4.310.000 pesos, con fecha límite el 4 de agosto de 2026. ¿Le parece bien?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 112.58,
+      "end": 113.18,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 115.58,
+      "end": 118.06,
+      "speaker": "SPEAKER_00",
+      "text": "¿Confirma entonces que acepta el acuerdo con un solo pago?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 119.02,
+      "end": 120.8,
+      "speaker": "SPEAKER_01",
+      "text": "Claro, claro. ¿Cómo no?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 124.88,
+      "end": 128.95,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me escucha? ¿Confirma que acepta la propuesta?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 128.95,
+      "end": 132.15,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor. Estoy escuchando. Sí, señor. Sí, señor. Acepto.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 132.15,
+      "end": 138.46,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, ya dejamos registrada la propuesta aceptada",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 138.46,
+      "end": 144.42,
+      "speaker": "SPEAKER_00",
+      "text": "Ahora voy a confirmar el envío de la información del acuerdo y los canales de pago por correo y whatsapp",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 144.42,
+      "end": 156.7,
+      "speaker": "SPEAKER_00",
+      "text": "Hola, sigo en línea",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 156.7,
+      "end": 161.58,
+      "speaker": "SPEAKER_00",
+      "text": "Si me escucha por favor respóndame con un sí, un no o una pregunta breve",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 161.58,
+      "end": 165.36,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede proporcionar un número telefónico por favor?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 168.58,
+      "end": 168.9,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 168.9,
+      "end": 172.54,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede completar el número?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 172.54,
+      "end": 174.96,
+      "speaker": "SPEAKER_00",
+      "text": "Usted me dice 301 y falta más dígitos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 174.96,
+      "end": 177.58,
+      "speaker": "SPEAKER_01",
+      "text": "34-34-776",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 177.58,
+      "end": 182.67,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, ahora necesito su correo electrónico por favor",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi11-3350acd3-2spk",
+  "original_file_id": "3350acd3-f649-47c8-adf6-ce1c08312d8f",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

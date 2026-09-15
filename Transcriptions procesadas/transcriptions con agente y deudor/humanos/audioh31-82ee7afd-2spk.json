@@ -1,0 +1,460 @@
+{
+  "file_id": "82ee7afd-e2d3-4cfe-b82e-f7920f57f7ab",
+  "source": "humano",
+  "duration_sec": 186.02,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 11.63,
+      "end": 15.85,
+      "speaker": "SPEAKER_00",
+      "text": "Buenos días, tengo el gusto de hablar con el señor Enrique Vizcaíl.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 17.31,
+      "end": 18.57,
+      "speaker": "SPEAKER_01",
+      "text": "Hablo con quien tengo el gusto.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 19.21,
+      "end": 20.65,
+      "speaker": "SPEAKER_00",
+      "text": "Habla con el señor Soto.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 22.42,
+      "end": 29.4,
+      "speaker": "SPEAKER_00",
+      "text": "Nosotros somos quienes contamos la cartera de su obligación con el señor Soto, como se encuentra el día de hoy.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 31.18,
+      "end": 32.88,
+      "speaker": "SPEAKER_01",
+      "text": "Bien, gracias, adiós.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 33.42,
+      "end": 41.97,
+      "speaker": "SPEAKER_00",
+      "text": "Me comunico para informarle que a la fecha registra un saldo total de sus dos obligaciones",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.97,
+      "end": 48.1,
+      "speaker": "SPEAKER_00",
+      "text": "por $19,620,732.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 49.04,
+      "end": 53.86,
+      "speaker": "SPEAKER_00",
+      "text": "El día de hoy estamos manejando una campaña para que usted quede al día con sus obligaciones",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 53.86,
+      "end": 56.0,
+      "speaker": "SPEAKER_00",
+      "text": "y es pedir un pasisargo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 57.8,
+      "end": 61.66,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos manejando un 20% de descuento sobre el valor de sus obligaciones,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 61.66,
+      "end": 63.52,
+      "speaker": "SPEAKER_00",
+      "text": "obligaciones, o sea que sus obligaciones",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 63.52,
+      "end": 65.48,
+      "speaker": "SPEAKER_00",
+      "text": "estarían el día de hoy con el descuento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 65.48,
+      "end": 67.44,
+      "speaker": "SPEAKER_00",
+      "text": "en un valor de 15 millones",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 67.44,
+      "end": 69.48,
+      "speaker": "SPEAKER_00",
+      "text": "697 mil",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 69.48,
+      "end": 71.58,
+      "speaker": "SPEAKER_00",
+      "text": "pesos. Este valor lo puede pagar",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 71.58,
+      "end": 73.38,
+      "speaker": "SPEAKER_00",
+      "text": "hasta en tres cuotas. ¿Usted está",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 73.38,
+      "end": 75.38,
+      "speaker": "SPEAKER_00",
+      "text": "interesado en aplicar a este descuento?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 77.17,
+      "end": 78.23,
+      "speaker": "SPEAKER_01",
+      "text": "No, la verdad no,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 78.33,
+      "end": 79.95,
+      "speaker": "SPEAKER_01",
+      "text": "porque ya me hicieron una propuesta mejor.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 81.62,
+      "end": 82.18,
+      "speaker": "SPEAKER_00",
+      "text": "Comprendo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 82.5,
+      "end": 84.3,
+      "speaker": "SPEAKER_00",
+      "text": "¿Qué propuesta le hicieron y",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 84.3,
+      "end": 85.58,
+      "speaker": "SPEAKER_00",
+      "text": "quién lo llamó?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 86.73,
+      "end": 88.95,
+      "speaker": "SPEAKER_01",
+      "text": "Me llamó una empresa",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 88.95,
+      "end": 90.09,
+      "speaker": "SPEAKER_01",
+      "text": "que se llama",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 90.09,
+      "end": 91.55,
+      "speaker": "SPEAKER_01",
+      "text": "también",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 91.55,
+      "end": 93.31,
+      "speaker": "SPEAKER_01",
+      "text": "de relato, algo así",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 93.31,
+      "end": 96.11,
+      "speaker": "SPEAKER_01",
+      "text": "y me propuso pagar",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 96.11,
+      "end": 97.65,
+      "speaker": "SPEAKER_01",
+      "text": "8 millones de pesos en cuotas",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 97.65,
+      "end": 99.81,
+      "speaker": "SPEAKER_01",
+      "text": "en 10 cuotas",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 99.81,
+      "end": 101.31,
+      "speaker": "SPEAKER_01",
+      "text": "entonces estamos ahí aguardando",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 101.31,
+      "end": 102.87,
+      "speaker": "SPEAKER_00",
+      "text": "pero",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 102.87,
+      "end": 106.28,
+      "speaker": "SPEAKER_00",
+      "text": "esto es la casa",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 106.28,
+      "end": 108.7,
+      "speaker": "SPEAKER_00",
+      "text": "que actualmente tiene su ubicación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 108.7,
+      "end": 109.84,
+      "speaker": "SPEAKER_00",
+      "text": "somos todos un",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 109.84,
+      "end": 113.1,
+      "speaker": "SPEAKER_01",
+      "text": "un pacifista",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 113.1,
+      "end": 115.1,
+      "speaker": "SPEAKER_01",
+      "text": "me llamó alguien de ustedes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 115.1,
+      "end": 117.06,
+      "speaker": "SPEAKER_01",
+      "text": "comprendemos",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 117.06,
+      "end": 118.76,
+      "speaker": "SPEAKER_01",
+      "text": "estoy esperando la llamada",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 118.76,
+      "end": 120.18,
+      "speaker": "SPEAKER_01",
+      "text": "para confirmar",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 120.18,
+      "end": 123.76,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo, pero es que usted tiene dos obligaciones con nosotros",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 123.76,
+      "end": 126.7,
+      "speaker": "SPEAKER_01",
+      "text": "Yo sé que tengo dos obligaciones",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 126.7,
+      "end": 128.48,
+      "speaker": "SPEAKER_01",
+      "text": "Y por eso una sola cartera",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 128.48,
+      "end": 130.2,
+      "speaker": "SPEAKER_01",
+      "text": "Yo hablé todo eso con él",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 130.2,
+      "end": 132.94,
+      "speaker": "SPEAKER_00",
+      "text": "Comprendemos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 132.94,
+      "end": 134.52,
+      "speaker": "SPEAKER_00",
+      "text": "Pero como le indico",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 134.52,
+      "end": 136.9,
+      "speaker": "SPEAKER_00",
+      "text": "El máximo descuento autorizado",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 136.9,
+      "end": 139.16,
+      "speaker": "SPEAKER_00",
+      "text": "Es el 20% de descuento sobre el valor",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 139.16,
+      "end": 139.76,
+      "speaker": "SPEAKER_00",
+      "text": "No, no, no",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 139.76,
+      "end": 143.5,
+      "speaker": "SPEAKER_01",
+      "text": "Yo hablé otra cosa con un compañero de usted",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 143.5,
+      "end": 145.16,
+      "speaker": "SPEAKER_01",
+      "text": "Pero cuando él me llame",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 145.16,
+      "end": 147.5,
+      "speaker": "SPEAKER_01",
+      "text": "Él quedó en llamarme esta semana",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 147.5,
+      "end": 148.6,
+      "speaker": "SPEAKER_01",
+      "text": "No te preocupes",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 148.6,
+      "end": 150.34,
+      "speaker": "SPEAKER_00",
+      "text": "Comprendemos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 150.34,
+      "end": 154.02,
+      "speaker": "SPEAKER_00",
+      "text": "Porque también podemos llegar a un acuerdo de largo plazo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 154.02,
+      "end": 157.34,
+      "speaker": "SPEAKER_00",
+      "text": "donde usted va a pagar la totalidad de sus obligaciones.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 158.28,
+      "end": 162.18,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, vuelvo y te repito, ya yo quedé con un acuerdo con él,",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 162.3,
+      "end": 163.46,
+      "speaker": "SPEAKER_01",
+      "text": "entonces esperemos que él me llame.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 164.2,
+      "end": 167.04,
+      "speaker": "SPEAKER_01",
+      "text": "Ya pagar lo que tú me estás diciendo ya es otra cosa.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 167.64,
+      "end": 169.22,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces no puedo ya acudir contigo.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 171.72,
+      "end": 175.68,
+      "speaker": "SPEAKER_00",
+      "text": "Como le indico, quizás hicieron un acuerdo por una sola obligación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 176.36,
+      "end": 178.42,
+      "speaker": "SPEAKER_00",
+      "text": "Porque usted tiene dos obligaciones con nosotros.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 178.42,
+      "end": 179.24,
+      "speaker": "SPEAKER_00",
+      "text": "No, negativo, por las dos obligaciones.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 182.82,
+      "end": 183.3,
+      "speaker": "SPEAKER_00",
+      "text": "Entendemos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 184.28,
+      "end": 186.04,
+      "speaker": "SPEAKER_00",
+      "text": "Pero como le indico, o sea, el máximo...",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh31-82ee7afd-2spk",
+  "original_file_id": "82ee7afd-e2d3-4cfe-b82e-f7920f57f7ab",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

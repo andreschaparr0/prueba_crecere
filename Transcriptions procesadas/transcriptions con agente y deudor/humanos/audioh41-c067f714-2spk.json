@@ -1,0 +1,124 @@
+{
+  "file_id": "c067f714-3f61-478d-90da-b366c1f4da54",
+  "source": "humano",
+  "duration_sec": 88.44,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 4.34,
+      "end": 34.42,
+      "speaker": "SPEAKER_01",
+      "text": "Aló, aló, aló, buenos días, buenos días, me comunico con el señor José Torres, señor José cómo está, me estoy comunicando de parte del ORO del área de conciliación de crédito para Banco Bogotá en referencia a un acuerdo de juego que se tiene programado para el día de hoy, de dos cuotas, la primera cuota está por un valor de 580 mil pesos, me confirmaría si este acuerdo fue enviado a su correo electrónico y recibió el mismo,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 34.42,
+      "end": 40.66,
+      "speaker": "SPEAKER_00",
+      "text": "El correo, si no es que yo restauré todo lo del correo y necesitaría los medios de pago",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 40.66,
+      "end": 47.02,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, o sea, solicitaría, el correo es torresgoesjose.com",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 47.02,
+      "end": 48.14,
+      "speaker": "SPEAKER_00",
+      "text": "Si, señorita",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 48.14,
+      "end": 54.38,
+      "speaker": "SPEAKER_01",
+      "text": "Si usted gusta se lo puede solicitar a través de PDF al área de documentación para que sea remitido a través de PDF",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 54.38,
+      "end": 61.54,
+      "speaker": "SPEAKER_01",
+      "text": "Y allí va a encontrar los medios de pago, recuerde que Logrocin es su plataforma para que usted pueda ingresar y generar su pago correspondiente",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 61.54,
+      "end": 66.2,
+      "speaker": "SPEAKER_00",
+      "text": "¿Listo? Entonces me confirmaría su pago para el día de hoy",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 66.2,
+      "end": 70.12,
+      "speaker": "SPEAKER_01",
+      "text": "y ya le solicito como tal su respectivo acuerdo de enviar algo a...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 70.12,
+      "end": 70.56,
+      "speaker": "SPEAKER_01",
+      "text": "¿Listo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 72.16,
+      "end": 72.9,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, señor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 73.08,
+      "end": 74.6,
+      "speaker": "SPEAKER_01",
+      "text": "José, muchas gracias por atender la llamada.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 74.7,
+      "end": 77.16,
+      "speaker": "SPEAKER_01",
+      "text": "Por favor, hacer envío del soporte a través del correo...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 77.16,
+      "end": 78.84,
+      "speaker": "SPEAKER_01",
+      "text": "que se le va a hacer el envío del acuerdo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 78.92,
+      "end": 79.1,
+      "speaker": "SPEAKER_01",
+      "text": "¿Listo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 79.64,
+      "end": 80.42,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, claro.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 80.96,
+      "end": 82.94,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, que estén muy bien. Hasta luego.",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioh41-c067f714-2spk",
+  "original_file_id": "c067f714-3f61-478d-90da-b366c1f4da54",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

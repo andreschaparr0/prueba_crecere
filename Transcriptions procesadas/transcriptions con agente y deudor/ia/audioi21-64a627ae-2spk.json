@@ -1,0 +1,152 @@
+{
+  "file_id": "64a627ae-0339-4595-a414-21ed0c641d16",
+  "source": "ia",
+  "duration_sec": 99.42,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "speaker": "SPEAKER_01",
+      "text": "su mensaje.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 3.88,
+      "end": 5.34,
+      "speaker": "SPEAKER_01",
+      "text": "Aló, muy buenos días.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 13.32,
+      "end": 14.52,
+      "speaker": "SPEAKER_01",
+      "text": "Podría confirmarme si estoy",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 14.52,
+      "end": 16.02,
+      "speaker": "SPEAKER_01",
+      "text": "hablando con Diego Fernando Lombana.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 23.94,
+      "end": 25.18,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Lombana, ¿me escucha?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 25.5,
+      "end": 27.4,
+      "speaker": "SPEAKER_01",
+      "text": "Podría confirmarme si estoy hablando con Diego",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 27.4,
+      "end": 36.44,
+      "speaker": "SPEAKER_01",
+      "text": "Fernando Lombana. Aló.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 36.94,
+      "end": 37.94,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Lombana, ¿sigue ahí?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 38.26,
+      "end": 40.38,
+      "speaker": "SPEAKER_01",
+      "text": "Necesito confirmar si hablo con Diego Fernando",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 40.38,
+      "end": 41.68,
+      "speaker": "SPEAKER_01",
+      "text": "Lombana para poder continuar.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 49.48,
+      "end": 51.12,
+      "speaker": "SPEAKER_01",
+      "text": "Aló. Señor Lombana,",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 51.12,
+      "end": 53.16,
+      "speaker": "SPEAKER_01",
+      "text": "¿sigue ahí? Si no escucho su confirmación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 53.16,
+      "end": 55.06,
+      "speaker": "SPEAKER_01",
+      "text": "de que es Diego Fernando Lombana, no",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 55.06,
+      "end": 56.42,
+      "speaker": "SPEAKER_01",
+      "text": "podré continuar con la llamada.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 62.22,
+      "end": 63.8,
+      "speaker": "SPEAKER_00",
+      "text": "Su grabación llegó al tiempo",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 63.8,
+      "end": 70.76,
+      "speaker": "SPEAKER_00",
+      "text": "Para evitar, marque 1. Para enviar, marque 2. Para las opciones de entrega, marque 3.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 83.64,
+      "end": 87.7,
+      "speaker": "SPEAKER_00",
+      "text": "Parece que hay un problema con la línea. Le pregunto nuevamente, ¿podría confirmar...",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 87.7,
+      "end": 93.14,
+      "speaker": "SPEAKER_00",
+      "text": "Para evitar, marque 1. Para enviar, marque 2. Para las opciones de entrega, marque 3.",
+      "rol": "INCIERTO"
+    },
+    {
+      "start": 93.14,
+      "end": 98.41,
+      "speaker": "SPEAKER_01",
+      "text": "Parece que la llamada se ha desviado a un sistema de grabación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 98.41,
+      "end": 98.93,
+      "speaker": "SPEAKER_00",
+      "text": "Adiós",
+      "rol": "INCIERTO"
+    }
+  ],
+  "short_id": "audioi21-64a627ae-2spk",
+  "original_file_id": "64a627ae-0339-4595-a414-21ed0c641d16",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}

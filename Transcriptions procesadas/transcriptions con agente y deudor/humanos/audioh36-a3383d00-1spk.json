@@ -1,0 +1,229 @@
+{
+  "file_id": "a3383d00-b984-4cb8-845b-77e19c520ffd",
+  "source": "humano",
+  "duration_sec": 135.16,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 12.02,
+      "end": 27.15,
+      "speaker": "SPEAKER_01",
+      "text": "Hola, ¿qué tal? ¿Cómo está? Le habla Daniela. Me comunico de Solución. Nosotros somos quienes actualmente compramos la cartera de solicitación pendiente con el banco. ¿Cómo se encuentra el día de hoy?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 27.91,
+      "end": 28.35,
+      "speaker": "SPEAKER_01",
+      "text": "Bien.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 29.92,
+      "end": 41.88,
+      "speaker": "SPEAKER_01",
+      "text": "Estoy llamando debido al compromiso de pago que Sumerce tenía para el día 13 de junio y que no nos registró el dicho pago en el sistema. Quisiera confirmar con Sumerce por qué motivo no podemos hacer el pago.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 41.88,
+      "end": 57.43,
+      "speaker": "SPEAKER_01",
+      "text": "Lo que pasa es que me enfermé y entonces todavía estoy así como enferma, entonces tuve que gastar en algunos medicamentos y eso fue lo que me pasó.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 58.39,
+      "end": 62.67,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, señorita. ¿Cómo ha pensado solucionar el tema de la obligación pendiente?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 62.67,
+      "end": 81.21,
+      "speaker": "SPEAKER_01",
+      "text": "Pues yo estaba pensando, no, o sea, mi intención es realmente cancelar, pero no, no sé, ahorita no, o sea, ahorita prácticamente lo que me llegó me tocó gastarlo en mi salud, y tengo algunas cositas también pendientes, no sé si me den otra tregua o algo así.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 81.21,
+      "end": 83.28,
+      "speaker": "SPEAKER_01",
+      "text": "pues",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 83.28,
+      "end": 85.76,
+      "speaker": "SPEAKER_01",
+      "text": "la verdad manejamos un beneficio especial",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 85.76,
+      "end": 88.0,
+      "speaker": "SPEAKER_01",
+      "text": "digamos que en este caso",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 88.0,
+      "end": 89.9,
+      "speaker": "SPEAKER_01",
+      "text": "un descuento y todo, pero pues la idea sería",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 89.9,
+      "end": 91.96,
+      "speaker": "SPEAKER_01",
+      "text": "si poderla ayudar, podría hacer el",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 91.96,
+      "end": 93.52,
+      "speaker": "SPEAKER_01",
+      "text": "pago, si quiere yo le extiendo el plazo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 93.52,
+      "end": 95.38,
+      "speaker": "SPEAKER_01",
+      "text": "ahorita para el día 10 de julio",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 95.38,
+      "end": 97.66,
+      "speaker": "SPEAKER_01",
+      "text": "para este viernes",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 97.66,
+      "end": 99.56,
+      "speaker": "SPEAKER_01",
+      "text": "si",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 99.56,
+      "end": 102.74,
+      "speaker": "SPEAKER_01",
+      "text": "si, para el 10 de julio podría hacer",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 102.74,
+      "end": 104.5,
+      "speaker": "SPEAKER_01",
+      "text": "el pago de los 400 mil pesos",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 104.5,
+      "end": 106.35,
+      "speaker": "SPEAKER_01",
+      "text": "¿y ahora?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 108.62,
+      "end": 110.44,
+      "speaker": "SPEAKER_01",
+      "text": "listo Sumerze, entonces yo quedo",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 110.44,
+      "end": 112.56,
+      "speaker": "SPEAKER_01",
+      "text": "atenta al envío del comprobante de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 112.56,
+      "end": 115.4,
+      "speaker": "SPEAKER_01",
+      "text": "yo le voy a escribir por whatsapp para recordarle",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 115.4,
+      "end": 116.3,
+      "speaker": "SPEAKER_01",
+      "text": "los medios de pago",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 116.3,
+      "end": 119.06,
+      "speaker": "SPEAKER_01",
+      "text": "y espero que sin embargo cualquier situación",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 119.06,
+      "end": 120.92,
+      "speaker": "SPEAKER_01",
+      "text": "adversa que se le esté generando",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 120.92,
+      "end": 123.28,
+      "speaker": "SPEAKER_01",
+      "text": "pues usted se mejore y se solucione",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 123.28,
+      "end": 126.2,
+      "speaker": "SPEAKER_01",
+      "text": "si señorita",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 126.2,
+      "end": 127.66,
+      "speaker": "SPEAKER_01",
+      "text": "muchas gracias por la información",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 127.66,
+      "end": 128.68,
+      "speaker": "SPEAKER_01",
+      "text": "Dios la bendiga",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 128.68,
+      "end": 131.9,
+      "speaker": "SPEAKER_01",
+      "text": "Dios la bendiga y gracias por atender mi llamada",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 131.9,
+      "end": 132.4,
+      "speaker": "SPEAKER_01",
+      "text": "hasta luego",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 132.4,
+      "end": 134.12,
+      "speaker": "SPEAKER_01",
+      "text": "un saludo",
+      "rol": "DEUDOR"
+    }
+  ],
+  "short_id": "audioh36-a3383d00-1spk",
+  "original_file_id": "a3383d00-b984-4cb8-845b-77e19c520ffd",
+  "metodo_asignacion_rol": "llm_por_segmento"
+}

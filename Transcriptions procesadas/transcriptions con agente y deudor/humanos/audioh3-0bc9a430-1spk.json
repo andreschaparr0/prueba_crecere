@@ -1,0 +1,110 @@
+{
+  "file_id": "0bc9a430-bdcd-44a7-a92d-e71dc33c8ad5",
+  "source": "humano",
+  "duration_sec": 105.64,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 50.74,
+      "end": 53.02,
+      "speaker": "SPEAKER_00",
+      "text": "No se lo entiende nada, se escucha súper bajito.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 53.28,
+      "end": 54.08,
+      "speaker": "SPEAKER_00",
+      "text": "No, o sea, no lo entiendo.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 54.6,
+      "end": 59.52,
+      "speaker": "SPEAKER_00",
+      "text": "Está en la madrugada con Don Luis, a ver, dos, dos, tres, cuatro...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 59.52,
+      "end": 62.36,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, no, señorita, en el momento él no se encuentra, ¿como para qué sería?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 71.14,
+      "end": 73.88,
+      "speaker": "SPEAKER_00",
+      "text": "Usted habló con él y él le dijo que lo llamara como en este horario.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 73.96,
+      "end": 75.28,
+      "speaker": "SPEAKER_00",
+      "text": "¿Y eso como para qué sería, señorita?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 75.76,
+      "end": 79.7,
+      "speaker": "SPEAKER_00",
+      "text": "Estaba cerca del Banco Bogotá.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 80.28,
+      "end": 83.08,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, del Banco Bogotá.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 83.68,
+      "end": 86.32,
+      "speaker": "SPEAKER_00",
+      "text": "Pero, chica, la verdad es que en el momento él no se encuentra.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 86.56,
+      "end": 87.22,
+      "speaker": "SPEAKER_00",
+      "text": "Ven, mami, ven.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 88.26,
+      "end": 89.84,
+      "speaker": "SPEAKER_00",
+      "text": "¿Y a qué hora lo puedo llamar?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 89.84,
+      "end": 95.28,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno señorita, él se fue por allá a ver una entrevista de trabajo, no sabría decirle",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 95.28,
+      "end": 98.85,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, sí señora, muchísimas gracias, muy amable",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 98.85,
+      "end": 100.83,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, sí señorita, hasta luego",
+      "rol": "DEUDOR"
+    }
+  ],
+  "short_id": "audioh3-0bc9a430-1spk",
+  "original_file_id": "0bc9a430-bdcd-44a7-a92d-e71dc33c8ad5",
+  "metodo_asignacion_rol": "llm_por_segmento"
+}

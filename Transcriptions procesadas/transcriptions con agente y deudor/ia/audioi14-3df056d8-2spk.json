@@ -1,0 +1,243 @@
+{
+  "file_id": "3df056d8-c16b-4665-bc8b-4c1456ed8592",
+  "source": "ia",
+  "duration_sec": 107.28,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 3.02,
+      "end": 4.2,
+      "speaker": "SPEAKER_01",
+      "text": "Muy buenos días.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 5.08,
+      "end": 5.28,
+      "speaker": "SPEAKER_00",
+      "text": "Sí.",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 6.77,
+      "end": 7.63,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas, por favor.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 9.03,
+      "end": 10.11,
+      "speaker": "SPEAKER_00",
+      "text": "¿De parte de quién?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 11.1,
+      "end": 14.57,
+      "speaker": "SPEAKER_01",
+      "text": "Estamos llamando por motivo de un proceso legal en curso.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 15.33,
+      "end": 18.11,
+      "speaker": "SPEAKER_01",
+      "text": "Por confidencialidad, necesito que por favor me valide si es usted.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 19.96,
+      "end": 21.76,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor. ¿Con quién hablo?",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 24.26,
+      "end": 24.82,
+      "speaker": "SPEAKER_01",
+      "text": "Habla.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 27.13,
+      "end": 29.11,
+      "speaker": "SPEAKER_01",
+      "text": "Le llamo por motivo de su obligación.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 30.43,
+      "end": 32.09,
+      "speaker": "SPEAKER_01",
+      "text": "Referente a un carteratiz.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 33.21,
+      "end": 33.73,
+      "speaker": "SPEAKER_01",
+      "text": "Origen.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 34.43,
+      "end": 35.29,
+      "speaker": "SPEAKER_01",
+      "text": "04 Migrado.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 35.29,
+      "end": 39.11,
+      "speaker": "SPEAKER_01",
+      "text": "Lo llamo del área de embargos, judicializaciones y alivios financieros",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 39.11,
+      "end": 40.43,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo me le vas a...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 40.43,
+      "end": 43.27,
+      "speaker": "SPEAKER_00",
+      "text": "Bien",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 43.27,
+      "end": 47.43,
+      "speaker": "SPEAKER_01",
+      "text": "Le informo que la deuda fue originada con...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 47.99,
+      "end": 49.81,
+      "speaker": "SPEAKER_01",
+      "text": "Y actualmente...",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 49.81,
+      "end": 51.21,
+      "speaker": "SPEAKER_01",
+      "text": "Es la entidad dueña de la misma",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 51.21,
+      "end": 54.45,
+      "speaker": "SPEAKER_01",
+      "text": "Con un valor total de 3.160.000 pesos",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 54.45,
+      "end": 57.83,
+      "speaker": "SPEAKER_01",
+      "text": "Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 57.83,
+      "end": 61.63,
+      "speaker": "SPEAKER_01",
+      "text": "Y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 61.63,
+      "end": 65.11,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me permite comentarle sobre la propuesta de pago que le tenemos?",
+      "rol": "DEUDOR"
+    },
+    {
+      "start": 67.75,
+      "end": 68.03,
+      "speaker": "SPEAKER_01",
+      "text": "No",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 69.65,
+      "end": 75.21,
+      "speaker": "SPEAKER_01",
+      "text": "Entiendo que esta situación no sea agradable, sin embargo es importante que charlemos para que la situación no se nos salga de manos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 75.79,
+      "end": 78.03,
+      "speaker": "SPEAKER_01",
+      "text": "Para poder ayudarle arranquemos por un breve registro.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 78.67,
+      "end": 82.31,
+      "speaker": "SPEAKER_01",
+      "text": "Dígame la principal razón por la que no quiere o no puede llegar a un acuerdo hoy.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 83.33,
+      "end": 84.25,
+      "speaker": "SPEAKER_01",
+      "text": "No tengo trabajo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 87.25,
+      "end": 88.57,
+      "speaker": "SPEAKER_01",
+      "text": "De verdad créame que le entiendo.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 89.27,
+      "end": 89.97,
+      "speaker": "SPEAKER_01",
+      "text": "Sé que no es fácil.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 90.69,
+      "end": 97.75,
+      "speaker": "SPEAKER_01",
+      "text": "Vea, como muestra de comprensión con la situación, puedo ayudarle con el máximo descuento que manejo, que sería del 7% de toda la deuda.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 98.61,
+      "end": 100.47,
+      "speaker": "SPEAKER_01",
+      "text": "Y le comento la propuesta completa.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 100.85,
+      "end": 103.91,
+      "speaker": "SPEAKER_01",
+      "text": "Con este descuento le puedo ahorrar 220.000 pesos.",
+      "rol": "AGENTE"
+    },
+    {
+      "start": 104.23,
+      "end": 107.27,
+      "speaker": "SPEAKER_01",
+      "text": "Así, ya no debería 3.160.000 pesos.",
+      "rol": "AGENTE"
+    }
+  ],
+  "short_id": "audioi14-3df056d8-2spk",
+  "original_file_id": "3df056d8-c16b-4665-bc8b-4c1456ed8592",
+  "metodo_asignacion_rol": "llm_por_llamada"
+}
