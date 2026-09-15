@@ -1,0 +1,93 @@
+{
+  "file_id": "0bc9a430-bdcd-44a7-a92d-e71dc33c8ad5",
+  "source": "humano",
+  "duration_sec": 105.64,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 50.74,
+      "end": 53.02,
+      "speaker": "SPEAKER_00",
+      "text": "No se lo entiende nada, se escucha súper bajito."
+    },
+    {
+      "start": 53.28,
+      "end": 54.08,
+      "speaker": "SPEAKER_00",
+      "text": "No, o sea, no lo entiendo."
+    },
+    {
+      "start": 54.6,
+      "end": 59.52,
+      "speaker": "SPEAKER_00",
+      "text": "Está en la madrugada con Don Luis, a ver, dos, dos, tres, cuatro..."
+    },
+    {
+      "start": 59.52,
+      "end": 62.36,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, no, señorita, en el momento él no se encuentra, ¿como para qué sería?"
+    },
+    {
+      "start": 71.14,
+      "end": 73.88,
+      "speaker": "SPEAKER_00",
+      "text": "Usted habló con él y él le dijo que lo llamara como en este horario."
+    },
+    {
+      "start": 73.96,
+      "end": 75.28,
+      "speaker": "SPEAKER_00",
+      "text": "¿Y eso como para qué sería, señorita?"
+    },
+    {
+      "start": 75.76,
+      "end": 79.7,
+      "speaker": "SPEAKER_00",
+      "text": "Estaba cerca del Banco Bogotá."
+    },
+    {
+      "start": 80.28,
+      "end": 83.08,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, del Banco Bogotá."
+    },
+    {
+      "start": 83.68,
+      "end": 86.32,
+      "speaker": "SPEAKER_00",
+      "text": "Pero, chica, la verdad es que en el momento él no se encuentra."
+    },
+    {
+      "start": 86.56,
+      "end": 87.22,
+      "speaker": "SPEAKER_00",
+      "text": "Ven, mami, ven."
+    },
+    {
+      "start": 88.26,
+      "end": 89.84,
+      "speaker": "SPEAKER_00",
+      "text": "¿Y a qué hora lo puedo llamar?"
+    },
+    {
+      "start": 89.84,
+      "end": 95.28,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno señorita, él se fue por allá a ver una entrevista de trabajo, no sabría decirle"
+    },
+    {
+      "start": 95.28,
+      "end": 98.85,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, sí señora, muchísimas gracias, muy amable"
+    },
+    {
+      "start": 98.85,
+      "end": 100.83,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, sí señorita, hasta luego"
+    }
+  ]
+}

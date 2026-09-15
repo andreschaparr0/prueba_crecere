@@ -1,0 +1,93 @@
+{
+  "file_id": "c3d816dd-e0cc-46ef-b2db-a7d31a0bd587",
+  "source": "ia",
+  "duration_sec": 68.08,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 4.14,
+      "end": 5.64,
+      "speaker": "SPEAKER_01",
+      "text": "Aló, muy buenos días."
+    },
+    {
+      "start": 10.8,
+      "end": 11.78,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas, por favor."
+    },
+    {
+      "start": 20.31,
+      "end": 26.42,
+      "speaker": "SPEAKER_01",
+      "text": "Le hablo del área de embargos, judicializaciones y alivios financieros."
+    },
+    {
+      "start": 26.86,
+      "end": 27.86,
+      "speaker": "SPEAKER_01",
+      "text": "Le llamo por su obligación."
+    },
+    {
+      "start": 28.54,
+      "end": 29.76,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo me le va, señor Álvarez?"
+    },
+    {
+      "start": 32.08,
+      "end": 33.0,
+      "speaker": "SPEAKER_01",
+      "text": "No soy el señor."
+    },
+    {
+      "start": 35.54,
+      "end": 39.22,
+      "speaker": "SPEAKER_00",
+      "text": "El motivo de mi llamada es informarle sobre una deuda pendiente que usted tiene."
+    },
+    {
+      "start": 39.64,
+      "end": 40.64,
+      "speaker": "SPEAKER_00",
+      "text": "Esta obligación..."
+    },
+    {
+      "start": 40.64,
+      "end": 42.18,
+      "speaker": "SPEAKER_01",
+      "text": "No soy..."
+    },
+    {
+      "start": 42.18,
+      "end": 45.92,
+      "speaker": "SPEAKER_00",
+      "text": "Permítame atender sus dudas."
+    },
+    {
+      "start": 56.4,
+      "end": 59.79,
+      "speaker": "SPEAKER_01",
+      "text": "Buenos días."
+    },
+    {
+      "start": 60.38,
+      "end": 61.5,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces no es..."
+    },
+    {
+      "start": 61.5,
+      "end": 65.39,
+      "speaker": "SPEAKER_01",
+      "text": "No, señor."
+    },
+    {
+      "start": 67.64,
+      "end": 68.06,
+      "speaker": "SPEAKER_01",
+      "text": "Entiendo."
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "file_id": "380f5075-47be-435f-b595-7e2c48dbb21b",
+  "source": "humano",
+  "duration_sec": 74.56,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 9.04,
+      "end": 10.72,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes, por favor"
+    },
+    {
+      "start": 10.72,
+      "end": 13.52,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, con él"
+    },
+    {
+      "start": 13.52,
+      "end": 16.23,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo está? Le habla Daniela"
+    },
+    {
+      "start": 16.23,
+      "end": 18.93,
+      "speaker": "SPEAKER_01",
+      "text": "Me comunico de Reconectemos por el tema de su obligación"
+    },
+    {
+      "start": 18.93,
+      "end": 19.89,
+      "speaker": "SPEAKER_01",
+      "text": "Con el banco"
+    },
+    {
+      "start": 19.89,
+      "end": 21.8,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo se encuentra el día de hoy?"
+    },
+    {
+      "start": 23.47,
+      "end": 24.69,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, pero nunca me llegó la"
+    },
+    {
+      "start": 24.69,
+      "end": 25.83,
+      "speaker": "SPEAKER_00",
+      "text": "A mi WhatsApp"
+    },
+    {
+      "start": 25.83,
+      "end": 29.53,
+      "speaker": "SPEAKER_01",
+      "text": "A este mismo número"
+    },
+    {
+      "start": 29.53,
+      "end": 31.05,
+      "speaker": "SPEAKER_01",
+      "text": "Acá estoy viendo el chat"
+    },
+    {
+      "start": 31.05,
+      "end": 33.18,
+      "speaker": "SPEAKER_00",
+      "text": "Ya ahorita reviso"
+    },
+    {
+      "start": 33.18,
+      "end": 33.98,
+      "speaker": "SPEAKER_00",
+      "text": "Porque no vi"
+    },
+    {
+      "start": 33.98,
+      "end": 37.12,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, ahí está el acuerdo de pago formalizado"
+    },
+    {
+      "start": 37.12,
+      "end": 39.0,
+      "speaker": "SPEAKER_01",
+      "text": "Igual yo ya le voy a escribir nuevamente por WhatsApp"
+    },
+    {
+      "start": 39.0,
+      "end": 41.14,
+      "speaker": "SPEAKER_01",
+      "text": "Porque la idea es que quede cancelado"
+    },
+    {
+      "start": 41.14,
+      "end": 42.76,
+      "speaker": "SPEAKER_01",
+      "text": "dentro del tiempo establecido"
+    },
+    {
+      "start": 42.76,
+      "end": 45.14,
+      "speaker": "SPEAKER_01",
+      "text": "la fecha límite de pago es mañana 15"
+    },
+    {
+      "start": 45.14,
+      "end": 47.36,
+      "speaker": "SPEAKER_01",
+      "text": "lo estamos llamando para recordarle el compromiso"
+    },
+    {
+      "start": 47.36,
+      "end": 48.56,
+      "speaker": "SPEAKER_01",
+      "text": "de pago, listo, entonces"
+    },
+    {
+      "start": 48.56,
+      "end": 50.58,
+      "speaker": "SPEAKER_01",
+      "text": "le recuerdo el valor de la cuota"
+    },
+    {
+      "start": 50.58,
+      "end": 53.54,
+      "speaker": "SPEAKER_01",
+      "text": "está por 281.036"
+    },
+    {
+      "start": 53.54,
+      "end": 55.16,
+      "speaker": "SPEAKER_01",
+      "text": "pesos, son 18"
+    },
+    {
+      "start": 55.16,
+      "end": 57.14,
+      "speaker": "SPEAKER_01",
+      "text": "cuotas y la fecha máxima de pago"
+    },
+    {
+      "start": 57.14,
+      "end": 58.86,
+      "speaker": "SPEAKER_01",
+      "text": "sería mañana, pues en horas de la mañana"
+    },
+    {
+      "start": 58.86,
+      "end": 60.72,
+      "speaker": "SPEAKER_01",
+      "text": "porque recordemos que es hasta"
+    },
+    {
+      "start": 60.72,
+      "end": 62.4,
+      "speaker": "SPEAKER_01",
+      "text": "mediodía, está habilitado"
+    },
+    {
+      "start": 62.4,
+      "end": 64.9,
+      "speaker": "SPEAKER_01",
+      "text": "la gestión para poder hacer"
+    },
+    {
+      "start": 64.9,
+      "end": 65.74,
+      "speaker": "SPEAKER_01",
+      "text": "los pagos, listo"
+    },
+    {
+      "start": 65.74,
+      "end": 68.72,
+      "speaker": "SPEAKER_01",
+      "text": "yo le voy a escribir nuevamente"
+    },
+    {
+      "start": 68.72,
+      "end": 70.62,
+      "speaker": "SPEAKER_01",
+      "text": "que va a atentar el envío del comprobante de pago"
+    },
+    {
+      "start": 70.62,
+      "end": 71.86,
+      "speaker": "SPEAKER_01",
+      "text": "que tenga una excelente tarde"
+    },
+    {
+      "start": 71.86,
+      "end": 72.82,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "file_id": "0c6ada7d-d8c5-4840-ae79-0d8d573183dc",
+  "source": "humano",
+  "duration_sec": 141.48,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 40.24,
+      "end": 42.14,
+      "speaker": "SPEAKER_01",
+      "text": "Después del tono, grabe su mensaje."
+    },
+    {
+      "start": 42.66,
+      "end": 106.38,
+      "speaker": "SPEAKER_01",
+      "text": "Su grabación llegó al tiempo límite."
+    },
+    {
+      "start": 106.78,
+      "end": 108.48,
+      "speaker": "SPEAKER_01",
+      "text": "Para editar, marque 1."
+    },
+    {
+      "start": 108.72,
+      "end": 110.32,
+      "speaker": "SPEAKER_01",
+      "text": "Para enviar, marque 2."
+    },
+    {
+      "start": 110.56,
+      "end": 112.84,
+      "speaker": "SPEAKER_01",
+      "text": "Para las opciones de entrega, marque 3."
+    },
+    {
+      "start": 117.94,
+      "end": 119.68,
+      "speaker": "SPEAKER_01",
+      "text": "Para editar, marque 1."
+    },
+    {
+      "start": 119.94,
+      "end": 121.5,
+      "speaker": "SPEAKER_01",
+      "text": "Para enviar, marque 2."
+    },
+    {
+      "start": 121.74,
+      "end": 124.02,
+      "speaker": "SPEAKER_01",
+      "text": "Para las opciones de entrega, marque 3."
+    },
+    {
+      "start": 129.12,
+      "end": 130.86,
+      "speaker": "SPEAKER_01",
+      "text": "Para editar, marque 1."
+    },
+    {
+      "start": 131.12,
+      "end": 132.7,
+      "speaker": "SPEAKER_01",
+      "text": "Para enviar, marque 2."
+    },
+    {
+      "start": 132.94,
+      "end": 135.24,
+      "speaker": "SPEAKER_01",
+      "text": "Para las opciones de entrega, marque 3."
+    },
+    {
+      "start": 140.73,
+      "end": 141.33,
+      "speaker": "SPEAKER_01",
+      "text": "Adiós."
+    }
+  ]
+}

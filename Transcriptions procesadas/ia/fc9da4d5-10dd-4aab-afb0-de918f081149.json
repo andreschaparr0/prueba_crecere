@@ -1,0 +1,123 @@
+{
+  "file_id": "fc9da4d5-10dd-4aab-afb0-de918f081149",
+  "source": "ia",
+  "duration_sec": 85.22,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 2.99,
+      "end": 3.47,
+      "speaker": "SPEAKER_01",
+      "text": "Aló."
+    },
+    {
+      "start": 6.2,
+      "end": 7.46,
+      "speaker": "SPEAKER_00",
+      "text": "Aló. Muy buenos días."
+    },
+    {
+      "start": 8.41,
+      "end": 8.91,
+      "speaker": "SPEAKER_01",
+      "text": "Buenos días."
+    },
+    {
+      "start": 10.62,
+      "end": 11.88,
+      "speaker": "SPEAKER_00",
+      "text": "Buenas. Por favor, coj***."
+    },
+    {
+      "start": 13.39,
+      "end": 14.53,
+      "speaker": "SPEAKER_01",
+      "text": "No, señor, estoy equivocado."
+    },
+    {
+      "start": 16.7,
+      "end": 20.44,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos llamando a coj*** por motivo de un proceso legal en curso."
+    },
+    {
+      "start": 21.58,
+      "end": 24.78,
+      "speaker": "SPEAKER_00",
+      "text": "Por confidencialidad, necesito que por favor me valide si es su c***."
+    },
+    {
+      "start": 27.4,
+      "end": 28.78,
+      "speaker": "SPEAKER_01",
+      "text": "No, señor, está equivocado."
+    },
+    {
+      "start": 33.1,
+      "end": 33.58,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo."
+    },
+    {
+      "start": 33.98,
+      "end": 36.26,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede indicar con quién tengo el gusto de hablar entonces?"
+    },
+    {
+      "start": 38.24,
+      "end": 38.92,
+      "speaker": "SPEAKER_01",
+      "text": "¿Con quién, hermano?"
+    },
+    {
+      "start": 41.54,
+      "end": 43.92,
+      "speaker": "SPEAKER_00",
+      "text": "Le comento que es su c***."
+    },
+    {
+      "start": 43.92,
+      "end": 46.9,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos buscando a la *** por un asunto importante."
+    },
+    {
+      "start": 47.4,
+      "end": 49.48,
+      "speaker": "SPEAKER_00",
+      "text": "¿Usted tiene algún contacto donde la pueda ubicar?"
+    },
+    {
+      "start": 58.47,
+      "end": 65.51,
+      "speaker": "SPEAKER_00",
+      "text": "Le explico."
+    },
+    {
+      "start": 66.25,
+      "end": 73.54,
+      "speaker": "SPEAKER_00",
+      "text": "Soy *** y estamos tratando de localizar a *** por un asunto pendiente con ***."
+    },
+    {
+      "start": 73.78,
+      "end": 77.98,
+      "speaker": "SPEAKER_00",
+      "text": "Como usted confirma que no es ella, voy a registrar que no fue posible contactarla en este número."
+    },
+    {
+      "start": 78.4,
+      "end": 80.26,
+      "speaker": "SPEAKER_00",
+      "text": "Muchas gracias por su tiempo y que tenga buen día."
+    },
+    {
+      "start": 82.79,
+      "end": 86.68,
+      "speaker": "SPEAKER_00",
+      "text": "que"
+    }
+  ]
+}

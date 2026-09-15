@@ -1,0 +1,147 @@
+{
+  "file_id": "19b3eddf-e2d6-4b68-befc-bdb10a10719a",
+  "source": "ia",
+  "duration_sec": 92.1,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 2.13,
+      "end": 2.77,
+      "speaker": "SPEAKER_01",
+      "text": "¿Aló?"
+    },
+    {
+      "start": 3.37,
+      "end": 6.08,
+      "speaker": "SPEAKER_00",
+      "text": "¿Aló? Muy buenos días."
+    },
+    {
+      "start": 7.1,
+      "end": 8.16,
+      "speaker": "SPEAKER_00",
+      "text": "Buenas, por favor."
+    },
+    {
+      "start": 8.84,
+      "end": 11.36,
+      "speaker": "SPEAKER_01",
+      "text": "¿Con ella?"
+    },
+    {
+      "start": 14.22,
+      "end": 20.04,
+      "speaker": "SPEAKER_00",
+      "text": "Le llamo por motivo de su obligación con refinancia referente a un producto financiero."
+    },
+    {
+      "start": 20.7,
+      "end": 24.32,
+      "speaker": "SPEAKER_00",
+      "text": "Lo llamo del área de embargos, judicializaciones y alivios financieros."
+    },
+    {
+      "start": 24.7,
+      "end": 25.26,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo me le va a hacer?"
+    },
+    {
+      "start": 26.27,
+      "end": 27.89,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor, cuéntamelo."
+    },
+    {
+      "start": 28.39,
+      "end": 29.05,
+      "speaker": "SPEAKER_01",
+      "text": "Bien, gracias."
+    },
+    {
+      "start": 30.74,
+      "end": 34.62,
+      "speaker": "SPEAKER_00",
+      "text": "La deuda que usted tenía con refinancia fue comprada por..."
+    },
+    {
+      "start": 34.62,
+      "end": 35.96,
+      "speaker": "SPEAKER_00",
+      "text": "¿Quiénes son los dueños actuales?"
+    },
+    {
+      "start": 37.72,
+      "end": 41.42,
+      "speaker": "SPEAKER_00",
+      "text": "La deuda total actual es de 12.740.000 pesos."
+    },
+    {
+      "start": 41.76,
+      "end": 44.86,
+      "speaker": "SPEAKER_00",
+      "text": "Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento,"
+    },
+    {
+      "start": 45.14,
+      "end": 48.64,
+      "speaker": "SPEAKER_00",
+      "text": "y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros."
+    },
+    {
+      "start": 51.6,
+      "end": 53.06,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me permite comentarles algo?"
+    },
+    {
+      "start": 56.14,
+      "end": 58.1,
+      "speaker": "SPEAKER_01",
+      "text": "Dígame, dígame que le estoy poniendo cuidado."
+    },
+    {
+      "start": 60.04,
+      "end": 63.88,
+      "speaker": "SPEAKER_00",
+      "text": "La propuesta consiste en un descuento significativo sobre el valor total de la deuda"
+    },
+    {
+      "start": 63.88,
+      "end": 66.86,
+      "speaker": "SPEAKER_00",
+      "text": "para que usted pueda cancelarla de inmediato o en cuotas muy accesibles,"
+    },
+    {
+      "start": 66.86,
+      "end": 71.16,
+      "speaker": "SPEAKER_00",
+      "text": "accesibles, evitando así que iniciemos un proceso legal que le traería costos adicionales"
+    },
+    {
+      "start": 71.16,
+      "end": 74.78,
+      "speaker": "SPEAKER_00",
+      "text": "y problemas jurídicos. ¿Le gustaría que le explique los detalles de este acuerdo o"
+    },
+    {
+      "start": 74.78,
+      "end": 77.1,
+      "speaker": "SPEAKER_00",
+      "text": "tiene alguna duda sobre la deuda antes de continuar?"
+    },
+    {
+      "start": 77.12,
+      "end": 81.1,
+      "speaker": "SPEAKER_01",
+      "text": "Esa deuda, esa deuda es... ¿De qué deuda me estás hablando tú?"
+    },
+    {
+      "start": 84.27,
+      "end": 85.59,
+      "speaker": "SPEAKER_00",
+      "text": "Permítame atender sus dudas..."
+    }
+  ]
+}

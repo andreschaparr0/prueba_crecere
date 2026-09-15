@@ -1,0 +1,285 @@
+{
+  "file_id": "3056dcb7-265d-42d8-a3c6-8bb2200860de",
+  "source": "ia",
+  "duration_sec": 222.88,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 4.82,
+      "end": 39.22,
+      "speaker": "SPEAKER_00",
+      "text": "Hola. Muy buenos días. Sí. Buenas, por favor. ¿De quién? Estamos llamando a por motivo de un proceso legal en curso. Por confidencialidad, necesito que le hable del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación con banco. ¿Cómo se encuentra? Muy bien."
+    },
+    {
+      "start": 39.22,
+      "end": 49.4,
+      "speaker": "SPEAKER_00",
+      "text": "Le cuento que muchas personas en una situación parecida a la suya ya lograron ponerse al día y seguir tranquilas."
+    },
+    {
+      "start": 49.72,
+      "end": 51.1,
+      "speaker": "SPEAKER_00",
+      "text": "Me gustaría que usted también pueda."
+    },
+    {
+      "start": 51.96,
+      "end": 53.12,
+      "speaker": "SPEAKER_00",
+      "text": "Le puedo contar en un momento."
+    },
+    {
+      "start": 58.06,
+      "end": 64.44,
+      "speaker": "SPEAKER_00",
+      "text": "Como ya lo han hecho muchos clientes en su misma situación, regularizar esta obligación hoy es más sencillo de lo que parece."
+    },
+    {
+      "start": 65.22,
+      "end": 68.96,
+      "speaker": "SPEAKER_00",
+      "text": "Por este motivo queremos poder ofrecerle alternativas para ponerse al día con su deuda."
+    },
+    {
+      "start": 69.2,
+      "end": 69.68,
+      "speaker": "SPEAKER_00",
+      "text": "¿Le interesa?"
+    },
+    {
+      "start": 70.56,
+      "end": 70.84,
+      "speaker": "SPEAKER_00",
+      "text": "Sí."
+    },
+    {
+      "start": 72.24,
+      "end": 72.76,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente."
+    },
+    {
+      "start": 74.01,
+      "end": 77.65,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos ofrecerle un descuento del 16% de toda la deuda."
+    },
+    {
+      "start": 78.37,
+      "end": 82.81,
+      "speaker": "SPEAKER_00",
+      "text": "Con el descuento ya no debería 70.000 pesos, sino solo 60.000 pesos."
+    },
+    {
+      "start": 83.37,
+      "end": 87.26,
+      "speaker": "SPEAKER_00",
+      "text": "Es una propuesta por tiempo limitado que vencería hoy mismo."
+    },
+    {
+      "start": 87.64,
+      "end": 92.44,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?"
+    },
+    {
+      "start": 93.3,
+      "end": 93.54,
+      "speaker": "SPEAKER_00",
+      "text": "Sí."
+    },
+    {
+      "start": 96.22,
+      "end": 96.7,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto."
+    },
+    {
+      "start": 97.37,
+      "end": 100.55,
+      "speaker": "SPEAKER_00",
+      "text": "Tenemos la opción de pagar en una sola cuota antes del 13 de agosto."
+    },
+    {
+      "start": 100.93,
+      "end": 101.47,
+      "speaker": "SPEAKER_00",
+      "text": "¿Le es posible?"
+    },
+    {
+      "start": 103.87,
+      "end": 106.05,
+      "speaker": "SPEAKER_01",
+      "text": "Antes del 13..."
+    },
+    {
+      "start": 106.05,
+      "end": 107.62,
+      "speaker": "SPEAKER_01",
+      "text": "Sí."
+    },
+    {
+      "start": 107.62,
+      "end": 114.06,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me confirma entonces que acepta el acuerdo en una sola cuota para antes del 13 de agosto?"
+    },
+    {
+      "start": 114.94,
+      "end": 115.2,
+      "speaker": "SPEAKER_01",
+      "text": "Sí"
+    },
+    {
+      "start": 115.2,
+      "end": 129.16,
+      "speaker": "SPEAKER_00",
+      "text": "Me alegra que lleguemos a este acuerdo de pago y que pueda aprovechar el descuento del 16%"
+    },
+    {
+      "start": 129.16,
+      "end": 135.18,
+      "speaker": "SPEAKER_00",
+      "text": "Me autoriza de enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp"
+    },
+    {
+      "start": 135.18,
+      "end": 139.98,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto"
+    },
+    {
+      "start": 139.98,
+      "end": 148.02,
+      "speaker": "SPEAKER_00",
+      "text": "Primero necesito confirmar con el señor Sánchez"
+    },
+    {
+      "start": 148.02,
+      "end": 151.37,
+      "speaker": "SPEAKER_00",
+      "text": "Por favor me confirme usted la fecha de pago"
+    },
+    {
+      "start": 151.37,
+      "end": 155.15,
+      "speaker": "SPEAKER_00",
+      "text": "Es antes del 13 de agosto de 2026, ¿correcto?"
+    },
+    {
+      "start": 155.23,
+      "end": 156.51,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí."
+    },
+    {
+      "start": 158.39,
+      "end": 161.59,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto. Ahora necesito un número telefónico alternativo suyo."
+    },
+    {
+      "start": 162.89,
+      "end": 163.81,
+      "speaker": "SPEAKER_01",
+      "text": "No, yo lo tengo este."
+    },
+    {
+      "start": 166.29,
+      "end": 168.63,
+      "speaker": "SPEAKER_00",
+      "text": "Entendido. ¿Me confirma su correo electrónico?"
+    },
+    {
+      "start": 169.9,
+      "end": 173.22,
+      "speaker": "SPEAKER_01",
+      "text": "Al... con C01-GMA.com"
+    },
+    {
+      "start": 173.22,
+      "end": 179.66,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto. Anotado. ¿Me confirma su dirección completa incluyendo la ciudad?"
+    },
+    {
+      "start": 181.47,
+      "end": 185.12,
+      "speaker": "SPEAKER_01",
+      "text": "Ese... la carga tiene nomenclatura."
+    },
+    {
+      "start": 185.12,
+      "end": 188.38,
+      "speaker": "SPEAKER_00",
+      "text": "¿Y la ciudad, señor Sánchez?"
+    },
+    {
+      "start": 189.26,
+      "end": 189.74,
+      "speaker": "SPEAKER_01",
+      "text": "Allí"
+    },
+    {
+      "start": 189.74,
+      "end": 193.16,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto"
+    },
+    {
+      "start": 193.16,
+      "end": 195.24,
+      "speaker": "SPEAKER_00",
+      "text": "¿Por qué canal prefiere ser contactado primero?"
+    },
+    {
+      "start": 195.92,
+      "end": 197.6,
+      "speaker": "SPEAKER_00",
+      "text": "¿WhatsApp o correo electrónico?"
+    },
+    {
+      "start": 198.87,
+      "end": 199.31,
+      "speaker": "SPEAKER_01",
+      "text": "WhatsApp"
+    },
+    {
+      "start": 199.31,
+      "end": 204.93,
+      "speaker": "SPEAKER_00",
+      "text": "El sistema le confirmará ahora el cierre del acuerdo"
+    },
+    {
+      "start": 204.93,
+      "end": 209.7,
+      "speaker": "SPEAKER_00",
+      "text": "Para finalizar le informo que esta llamada fue grabada y monitoreada"
+    },
+    {
+      "start": 209.7,
+      "end": 215.82,
+      "speaker": "SPEAKER_00",
+      "text": "Todos los datos acá compartidos serán analizados y tratados bajo la ley 1581 de 2012"
+    },
+    {
+      "start": 215.82,
+      "end": 218.58,
+      "speaker": "SPEAKER_00",
+      "text": "Enviaremos la documentación próximamente"
+    },
+    {
+      "start": 218.58,
+      "end": 220.84,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga un buen día, señor Sánchez"
+    },
+    {
+      "start": 220.84,
+      "end": 221.68,
+      "speaker": "SPEAKER_00",
+      "text": "Hasta luego."
+    }
+  ]
+}

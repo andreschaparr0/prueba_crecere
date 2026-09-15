@@ -1,0 +1,111 @@
+{
+  "file_id": "edbc4154-c6ce-4a77-b899-caf949e1815a",
+  "source": "ia",
+  "duration_sec": 107.4,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 3.75,
+      "end": 5.31,
+      "speaker": "SPEAKER_00",
+      "text": "Aló, muy buenos días."
+    },
+    {
+      "start": 12.85,
+      "end": 13.75,
+      "speaker": "SPEAKER_00",
+      "text": "Buenas, por favor."
+    },
+    {
+      "start": 19.18,
+      "end": 24.54,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me escucha?"
+    },
+    {
+      "start": 32.98,
+      "end": 34.04,
+      "speaker": "SPEAKER_00",
+      "text": "Señor López, ¿está ahí?"
+    },
+    {
+      "start": 36.35,
+      "end": 45.34,
+      "speaker": "SPEAKER_00",
+      "text": "Si no me confirma si es usted, no podré continuar con la llamada."
+    },
+    {
+      "start": 45.76,
+      "end": 45.98,
+      "speaker": "SPEAKER_00",
+      "text": "Es usted."
+    },
+    {
+      "start": 55.91,
+      "end": 57.27,
+      "speaker": "SPEAKER_00",
+      "text": "Parece que no hay respuesta."
+    },
+    {
+      "start": 57.63,
+      "end": 60.37,
+      "speaker": "SPEAKER_00",
+      "text": "Si no confirma su identidad, tendré que finalizar la llamada."
+    },
+    {
+      "start": 60.75,
+      "end": 61.37,
+      "speaker": "SPEAKER_00",
+      "text": "¿Está usted ahí?"
+    },
+    {
+      "start": 62.89,
+      "end": 73.0,
+      "speaker": "SPEAKER_00",
+      "text": "Al no recibir respuesta, voy a proceder a finalizar la llamada."
+    },
+    {
+      "start": 73.02,
+      "end": 74.04,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga buen día."
+    },
+    {
+      "start": 74.62,
+      "end": 84.73,
+      "speaker": "SPEAKER_00",
+      "text": "Como no recibo respuesta, voy a colgar."
+    },
+    {
+      "start": 85.05,
+      "end": 85.75,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga buen día."
+    },
+    {
+      "start": 87.48,
+      "end": 96.68,
+      "speaker": "SPEAKER_00",
+      "text": "Al no obtener respuesta, finalizo la gestión."
+    },
+    {
+      "start": 96.98,
+      "end": 97.7,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga buen día."
+    },
+    {
+      "start": 102.15,
+      "end": 102.93,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me escucha ahora?"
+    },
+    {
+      "start": 103.45,
+      "end": 106.03,
+      "speaker": "SPEAKER_00",
+      "text": "Voy a confirmar si es usted para poder hablar de su situación."
+    }
+  ]
+}

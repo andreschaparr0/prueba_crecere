@@ -1,0 +1,147 @@
+{
+  "file_id": "74aa7e2d-4d44-45cc-a3e5-97fb9383a960",
+  "source": "humano",
+  "duration_sec": 118.26,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 11.22,
+      "end": 34.04,
+      "speaker": "SPEAKER_01",
+      "text": "Hola. Señor Franco, ¿cómo está? Es que me estoy comunicando. Bien, bien. Sí, señor Franco, para indicarle que el comité me dio la aprobación de generar los pagos, se envió 23 cuotas, le aprobaron por cuotas de 102 mil pesos. ¿Le es viable de esta manera? ¿De cuánto? De 102 mil pesos aproximadamente. Ah, sí."
+    },
+    {
+      "start": 34.04,
+      "end": 49.7,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, listo. Entonces, por favor, para concretar este acuerdo, me confirma, por favor, su correo electrónico para hacer envío del documento de manera formal a su correo el día de mañana o el día sábado, o el día lunes, por favor."
+    },
+    {
+      "start": 49.92,
+      "end": 57.67,
+      "speaker": "SPEAKER_01",
+      "text": "Se va. 1427526.com"
+    },
+    {
+      "start": 57.67,
+      "end": 65.66,
+      "speaker": "SPEAKER_01",
+      "text": "Bien. Me indica, por favor, sobre qué fecha estaría generando los pagos de estas cuotas."
+    },
+    {
+      "start": 65.66,
+      "end": 66.9,
+      "speaker": "SPEAKER_01",
+      "text": "¿A finales de mes?"
+    },
+    {
+      "start": 68.04,
+      "end": 69.9,
+      "speaker": "SPEAKER_01",
+      "text": "¿Para los 30 de cada mes?"
+    },
+    {
+      "start": 70.64,
+      "end": 70.96,
+      "speaker": "SPEAKER_01",
+      "text": "Sí."
+    },
+    {
+      "start": 71.74,
+      "end": 79.08,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, entonces va a quedar el acuerdo por el valor de 2.236.000 pesos aproximadamente,"
+    },
+    {
+      "start": 79.08,
+      "end": 85.08,
+      "speaker": "SPEAKER_01",
+      "text": "con cuotas avaladas por comité, 23 cuotas de 102.000 pesos aproximadamente,"
+    },
+    {
+      "start": 86.06,
+      "end": 88.32,
+      "speaker": "SPEAKER_01",
+      "text": "para los 30 de cada mes, ¿es correcto?"
+    },
+    {
+      "start": 88.96,
+      "end": 89.54,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señora."
+    },
+    {
+      "start": 91.28,
+      "end": 94.68,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, no siendo más, muchas gracias por haber atendido mi llamada."
+    },
+    {
+      "start": 94.68,
+      "end": 97.02,
+      "speaker": "SPEAKER_01",
+      "text": "cualquier duda o inquietud yo le estaría comunicando"
+    },
+    {
+      "start": 97.02,
+      "end": 98.26,
+      "speaker": "SPEAKER_01",
+      "text": "vía whatsapp para hacer"
+    },
+    {
+      "start": 98.26,
+      "end": 100.64,
+      "speaker": "SPEAKER_01",
+      "text": "la entrega y la confirmación del respectivo"
+    },
+    {
+      "start": 100.64,
+      "end": 102.58,
+      "speaker": "SPEAKER_01",
+      "text": "documento a su correo, listo"
+    },
+    {
+      "start": 102.58,
+      "end": 104.52,
+      "speaker": "SPEAKER_01",
+      "text": "aquí van a encontrar los medios de pago y todo"
+    },
+    {
+      "start": 104.52,
+      "end": 106.62,
+      "speaker": "SPEAKER_01",
+      "text": "lo requerido y términos y condiciones referentes"
+    },
+    {
+      "start": 106.62,
+      "end": 108.36,
+      "speaker": "SPEAKER_01",
+      "text": "al acuerdo, por favor, total cumplimiento"
+    },
+    {
+      "start": 108.36,
+      "end": 110.04,
+      "speaker": "SPEAKER_01",
+      "text": "porque esto fue aprobado por comité"
+    },
+    {
+      "start": 110.04,
+      "end": 113.06,
+      "speaker": "SPEAKER_01",
+      "text": "listo, bueno"
+    },
+    {
+      "start": 113.06,
+      "end": 115.12,
+      "speaker": "SPEAKER_01",
+      "text": "señor, si hay alguna duda o pregunta que tenga"
+    },
+    {
+      "start": 115.12,
+      "end": 115.68,
+      "speaker": "SPEAKER_01",
+      "text": "en el momento"
+    }
+  ]
+}

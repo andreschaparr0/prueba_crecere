@@ -1,0 +1,255 @@
+{
+  "file_id": "66c2db61-5a3d-4020-a90a-007a029d0879",
+  "source": "humano",
+  "duration_sec": 137.76,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 16.4,
+      "end": 16.88,
+      "speaker": "SPEAKER_00",
+      "text": "¿Hablo?"
+    },
+    {
+      "start": 17.93,
+      "end": 20.21,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes, señor."
+    },
+    {
+      "start": 20.45,
+      "end": 24.48,
+      "speaker": "SPEAKER_01",
+      "text": "¿Qué gusto?"
+    },
+    {
+      "start": 24.96,
+      "end": 28.31,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo se encuentra el día de hoy?"
+    },
+    {
+      "start": 28.73,
+      "end": 30.34,
+      "speaker": "SPEAKER_01",
+      "text": "Muy bien, gracias a Dios."
+    },
+    {
+      "start": 31.1,
+      "end": 40.31,
+      "speaker": "SPEAKER_01",
+      "text": "Nos comunicamos referente a su obligación para recordar su compromiso de pago para el día de hoy por 145 mil pesos."
+    },
+    {
+      "start": 40.97,
+      "end": 42.17,
+      "speaker": "SPEAKER_01",
+      "text": "¿El acuerdo de pago?"
+    },
+    {
+      "start": 43.21,
+      "end": 44.37,
+      "speaker": "SPEAKER_01",
+      "text": "145 mil pesos."
+    },
+    {
+      "start": 46.52,
+      "end": 49.08,
+      "speaker": "SPEAKER_01",
+      "text": "El acuerdo de pago fue enviado a su correo."
+    },
+    {
+      "start": 49.08,
+      "end": 51.2,
+      "speaker": "SPEAKER_01",
+      "text": "¿Usted recibió este acuerdo de pago?"
+    },
+    {
+      "start": 53.3,
+      "end": 54.38,
+      "speaker": "SPEAKER_01",
+      "text": "¿A mi correo?"
+    },
+    {
+      "start": 54.38,
+      "end": 58.72,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, sí señora, su correo fue enviado al acuerdo de pago"
+    },
+    {
+      "start": 58.72,
+      "end": 60.58,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, creo que sí"
+    },
+    {
+      "start": 60.58,
+      "end": 62.56,
+      "speaker": "SPEAKER_01",
+      "text": "Sí"
+    },
+    {
+      "start": 62.56,
+      "end": 65.72,
+      "speaker": "SPEAKER_01",
+      "text": "Su correo es"
+    },
+    {
+      "start": 65.72,
+      "end": 67.9,
+      "speaker": "SPEAKER_01",
+      "text": "permítame"
+    },
+    {
+      "start": 67.9,
+      "end": 69.94,
+      "speaker": "SPEAKER_01",
+      "text": "L"
+    },
+    {
+      "start": 69.94,
+      "end": 72.34,
+      "speaker": "SPEAKER_01",
+      "text": "4539"
+    },
+    {
+      "start": 72.34,
+      "end": 73.48,
+      "speaker": "SPEAKER_01",
+      "text": "403"
+    },
+    {
+      "start": 73.48,
+      "end": 76.72,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, correcto"
+    },
+    {
+      "start": 76.72,
+      "end": 78.68,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto, este correo nosotros enviamos"
+    },
+    {
+      "start": 78.68,
+      "end": 79.74,
+      "speaker": "SPEAKER_01",
+      "text": "el acuerdo de pago"
+    },
+    {
+      "start": 79.74,
+      "end": 82.22,
+      "speaker": "SPEAKER_01",
+      "text": "en este acuerdo de pago va el método de pago"
+    },
+    {
+      "start": 82.22,
+      "end": 84.22,
+      "speaker": "SPEAKER_01",
+      "text": "al cual usted debe realizar su pago"
+    },
+    {
+      "start": 85.08,
+      "end": 86.82,
+      "speaker": "SPEAKER_01",
+      "text": "¿Estaría realizando el pago el día de hoy?"
+    },
+    {
+      "start": 89.57,
+      "end": 95.33,
+      "speaker": "SPEAKER_01",
+      "text": "El día de hoy quizás no es posible porque en el cuarto me encuentro y se me hace imposible acceder hasta allá,"
+    },
+    {
+      "start": 95.49,
+      "end": 99.15,
+      "speaker": "SPEAKER_01",
+      "text": "pero mañana a las horas de la mañana yo creo que sí estaría acercándome a la oficina."
+    },
+    {
+      "start": 101.24,
+      "end": 106.12,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, pero usted debe realizar el pago a través de la plataforma, no es necesario ir a la oficina."
+    },
+    {
+      "start": 107.02,
+      "end": 112.68,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, ok, ok, ok. Entonces apenas tengo un tiempito yo me meto a la plataforma y lo digito."
+    },
+    {
+      "start": 112.68,
+      "end": 115.0,
+      "speaker": "SPEAKER_01",
+      "text": "perfecto, quedamos pendientes"
+    },
+    {
+      "start": 115.0,
+      "end": 117.06,
+      "speaker": "SPEAKER_01",
+      "text": "de su soporte de pago para hacer"
+    },
+    {
+      "start": 117.06,
+      "end": 118.92,
+      "speaker": "SPEAKER_01",
+      "text": "bueno, la aplicación en el sistema ya queda"
+    },
+    {
+      "start": 118.92,
+      "end": 120.98,
+      "speaker": "SPEAKER_01",
+      "text": "se va a hacer el pago en línea por medio de la"
+    },
+    {
+      "start": 120.98,
+      "end": 122.02,
+      "speaker": "SPEAKER_01",
+      "text": "plataforma de logo"
+    },
+    {
+      "start": 122.02,
+      "end": 123.98,
+      "speaker": "SPEAKER_00",
+      "text": "ok, muchísimas gracias"
+    },
+    {
+      "start": 123.98,
+      "end": 126.38,
+      "speaker": "SPEAKER_01",
+      "text": "quedamos pendientes del soporte de pago al WhatsApp"
+    },
+    {
+      "start": 126.38,
+      "end": 129.64,
+      "speaker": "SPEAKER_01",
+      "text": "315-182-69-63"
+    },
+    {
+      "start": 129.64,
+      "end": 131.13,
+      "speaker": "SPEAKER_01",
+      "text": "ok"
+    },
+    {
+      "start": 131.13,
+      "end": 132.13,
+      "speaker": "SPEAKER_01",
+      "text": "muchas gracias"
+    },
+    {
+      "start": 132.13,
+      "end": 135.15,
+      "speaker": "SPEAKER_01",
+      "text": "perfecto, señor Luis, que tenga un excelente día"
+    },
+    {
+      "start": 135.15,
+      "end": 136.53,
+      "speaker": "SPEAKER_01",
+      "text": "igualmente"
+    }
+  ]
+}

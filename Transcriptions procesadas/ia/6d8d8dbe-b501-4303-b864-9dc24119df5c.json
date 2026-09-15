@@ -1,0 +1,171 @@
+{
+  "file_id": "6d8d8dbe-b501-4303-b864-9dc24119df5c",
+  "source": "ia",
+  "duration_sec": 112.82,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 1.01,
+      "end": 8.72,
+      "speaker": "SPEAKER_00",
+      "text": "Aló. Muy buenos días."
+    },
+    {
+      "start": 10.06,
+      "end": 11.02,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes."
+    },
+    {
+      "start": 11.74,
+      "end": 13.38,
+      "speaker": "SPEAKER_00",
+      "text": "Por favor."
+    },
+    {
+      "start": 15.63,
+      "end": 16.35,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, con él habla."
+    },
+    {
+      "start": 17.5,
+      "end": 19.68,
+      "speaker": "SPEAKER_00",
+      "text": "Disculpe, no entendí bien. Me podría confirmar."
+    },
+    {
+      "start": 20.42,
+      "end": 22.75,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, con él habla."
+    },
+    {
+      "start": 23.03,
+      "end": 27.69,
+      "speaker": "SPEAKER_00",
+      "text": "Le habla del área de embargos, judicializaciones y alivios financieros."
+    },
+    {
+      "start": 28.15,
+      "end": 29.17,
+      "speaker": "SPEAKER_00",
+      "text": "Le llamo por tu obligación."
+    },
+    {
+      "start": 29.93,
+      "end": 30.89,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo me le vas?"
+    },
+    {
+      "start": 32.16,
+      "end": 33.4,
+      "speaker": "SPEAKER_01",
+      "text": "Con Sintegru, ¿qué es eso?"
+    },
+    {
+      "start": 34.0,
+      "end": 36.7,
+      "speaker": "SPEAKER_00",
+      "text": "Para atender sus dudas."
+    },
+    {
+      "start": 39.44,
+      "end": 40.54,
+      "speaker": "SPEAKER_01",
+      "text": "Por eso, sí, dígame."
+    },
+    {
+      "start": 42.29,
+      "end": 42.73,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente."
+    },
+    {
+      "start": 43.45,
+      "end": 46.59,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos ofrecerle un descuento del 26% de toda la deuda."
+    },
+    {
+      "start": 47.05,
+      "end": 50.33,
+      "speaker": "SPEAKER_00",
+      "text": "Con el descuento ya no debería 3.460.000 pesos,"
+    },
+    {
+      "start": 50.73,
+      "end": 53.21,
+      "speaker": "SPEAKER_00",
+      "text": "sino solo 2.560.000 pesos."
+    },
+    {
+      "start": 54.28,
+      "end": 56.86,
+      "speaker": "SPEAKER_00",
+      "text": "Es una propuesta por tiempo limitado que vencería hoy mismo."
+    },
+    {
+      "start": 57.26,
+      "end": 60.5,
+      "speaker": "SPEAKER_00",
+      "text": "Me puede indicar con un sí o un no si le interesa este descuento"
+    },
+    {
+      "start": 60.5,
+      "end": 61.78,
+      "speaker": "SPEAKER_00",
+      "text": "y hacemos un acuerdo de pago."
+    },
+    {
+      "start": 71.63,
+      "end": 73.71,
+      "speaker": "SPEAKER_00",
+      "text": "Me alegra que lleguemos a este acuerdo de pago"
+    },
+    {
+      "start": 73.71,
+      "end": 74.65,
+      "speaker": "SPEAKER_00",
+      "text": "y que pueda aprovechar el descuento."
+    },
+    {
+      "start": 74.65,
+      "end": 75.91,
+      "speaker": "SPEAKER_01",
+      "text": "Señor, señor, sí, señor, pero ¿qué?"
+    },
+    {
+      "start": 75.91,
+      "end": 98.96,
+      "speaker": "SPEAKER_00",
+      "text": "es la entidad dueña de su obligación financiera"
+    },
+    {
+      "start": 98.96,
+      "end": 100.98,
+      "speaker": "SPEAKER_00",
+      "text": "que se originó con Credi Valores, Credi Servicios."
+    },
+    {
+      "start": 101.42,
+      "end": 103.36,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos ofreciéndole esta oportunidad de descuento"
+    },
+    {
+      "start": 103.36,
+      "end": 104.6,
+      "speaker": "SPEAKER_00",
+      "text": "para regularizar su situación."
+    },
+    {
+      "start": 105.16,
+      "end": 107.16,
+      "speaker": "SPEAKER_00",
+      "text": "¿Acepta entonces el acuerdo de pago que le presenté?"
+    }
+  ]
+}

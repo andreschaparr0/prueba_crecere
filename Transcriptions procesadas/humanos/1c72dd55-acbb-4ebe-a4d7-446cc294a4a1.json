@@ -1,0 +1,351 @@
+{
+  "file_id": "1c72dd55-acbb-4ebe-a4d7-446cc294a4a1",
+  "source": "humano",
+  "duration_sec": 224.62,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 14.45,
+      "end": 19.44,
+      "speaker": "SPEAKER_01",
+      "text": "Hola, buenas tardes, tengo gusto de hablar con la de..."
+    },
+    {
+      "start": 19.44,
+      "end": 23.01,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo se habla? Cuénteme."
+    },
+    {
+      "start": 23.69,
+      "end": 30.06,
+      "speaker": "SPEAKER_01",
+      "text": "Le hablo de... casa de cobranza autorizada por... como se encuentra el día de hoy."
+    },
+    {
+      "start": 31.08,
+      "end": 33.4,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias a Dios, bien, sí, dígame."
+    },
+    {
+      "start": 34.28,
+      "end": 41.78,
+      "speaker": "SPEAKER_01",
+      "text": "El motivo de mi llamada es brindarle una excelente alternativa sobre su obligación y borrar su historial negativo ante centrales de riesgo."
+    },
+    {
+      "start": 41.78,
+      "end": 51.74,
+      "speaker": "SPEAKER_01",
+      "text": "Su obligación a la fecha suma un monto total de 1.229.000 pesos"
+    },
+    {
+      "start": 51.74,
+      "end": 57.33,
+      "speaker": "SPEAKER_01",
+      "text": "El día de hoy tenemos opciones de pago para que usted quede al día con su obligación"
+    },
+    {
+      "start": 57.33,
+      "end": 64.05,
+      "speaker": "SPEAKER_01",
+      "text": "Tenemos una opción de pago con descuento, un pago único de 1.050.000 pesos"
+    },
+    {
+      "start": 64.05,
+      "end": 70.71,
+      "speaker": "SPEAKER_01",
+      "text": "Si usted queda al día con sus obligaciones o puede pagar a cuotas pagando el total de su deuda"
+    },
+    {
+      "start": 70.71,
+      "end": 73.28,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cuál de las dos opciones?"
+    },
+    {
+      "start": 73.52,
+      "end": 76.36,
+      "speaker": "SPEAKER_01",
+      "text": "Me serviría en cuotas"
+    },
+    {
+      "start": 76.36,
+      "end": 78.74,
+      "speaker": "SPEAKER_01",
+      "text": "¿Le serviría en cuotas?"
+    },
+    {
+      "start": 79.16,
+      "end": 79.34,
+      "speaker": "SPEAKER_01",
+      "text": "Sí"
+    },
+    {
+      "start": 79.34,
+      "end": 80.24,
+      "speaker": "SPEAKER_01",
+      "text": "De acuerdo, señor"
+    },
+    {
+      "start": 80.24,
+      "end": 82.32,
+      "speaker": "SPEAKER_01",
+      "text": "Permítame un momento, ya valido"
+    },
+    {
+      "start": 82.32,
+      "end": 84.74,
+      "speaker": "SPEAKER_01",
+      "text": "¿En cuántas cuotas nos dejan dividir?"
+    },
+    {
+      "start": 85.32,
+      "end": 96.82,
+      "speaker": "SPEAKER_01",
+      "text": "Nos lo dejan dividir en tres cuotas"
+    },
+    {
+      "start": 96.82,
+      "end": 99.48,
+      "speaker": "SPEAKER_01",
+      "text": "En 1.229.000 pesos"
+    },
+    {
+      "start": 99.48,
+      "end": 103.64,
+      "speaker": "SPEAKER_01",
+      "text": "Cada cuota le quedaría por 410.000 pesos"
+    },
+    {
+      "start": 103.64,
+      "end": 105.42,
+      "speaker": "SPEAKER_01",
+      "text": "¿Está usted de acuerdo?"
+    },
+    {
+      "start": 105.86,
+      "end": 107.58,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, no, no, no"
+    },
+    {
+      "start": 107.58,
+      "end": 109.78,
+      "speaker": "SPEAKER_01",
+      "text": "Me queda imposible, Pablo"
+    },
+    {
+      "start": 109.78,
+      "end": 111.62,
+      "speaker": "SPEAKER_01",
+      "text": "para reunir ese monto."
+    },
+    {
+      "start": 112.9,
+      "end": 117.18,
+      "speaker": "SPEAKER_01",
+      "text": "Y sería a las cuotas máximas que tenga."
+    },
+    {
+      "start": 118.04,
+      "end": 120.94,
+      "speaker": "SPEAKER_01",
+      "text": "Esas son las cuotas máximas que no nos dejan dividirse."
+    },
+    {
+      "start": 121.73,
+      "end": 124.73,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cuánto usted podría comprometerse a pagar mensualmente?"
+    },
+    {
+      "start": 124.75,
+      "end": 131.97,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, no, yo ahorita sería por allá mínimo a 10 cuotas o 12."
+    },
+    {
+      "start": 134.02,
+      "end": 137.52,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cuánto usted podría comprometerse a pagar mensualmente?"
+    },
+    {
+      "start": 139.24,
+      "end": 142.24,
+      "speaker": "SPEAKER_01",
+      "text": "Pues el monto 100 mil pesos mensuales."
+    },
+    {
+      "start": 142.44,
+      "end": 154.47,
+      "speaker": "SPEAKER_01",
+      "text": "Para poderlo pasar por comité, por lo menos unos 200 mil pesos, a ver si no lo aprueban."
+    },
+    {
+      "start": 154.47,
+      "end": 165.99,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, no. No, la verdad, no, no, no, no. No tengo capacidad para ese monto mensual, la verdad. ¿Para qué me comprometo para quedar mal?"
+    },
+    {
+      "start": 169.57,
+      "end": 173.97,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, señor. Voy a pasarlo por comité, señor, y me estaría comunicando nuevamente."
+    },
+    {
+      "start": 173.97,
+      "end": 175.91,
+      "speaker": "SPEAKER_01",
+      "text": "nuevamente. Bueno, si es tan"
+    },
+    {
+      "start": 175.91,
+      "end": 177.13,
+      "speaker": "SPEAKER_01",
+      "text": "amable, me escribes por"
+    },
+    {
+      "start": 177.13,
+      "end": 179.93,
+      "speaker": "SPEAKER_01",
+      "text": "porque es que mantengo"
+    },
+    {
+      "start": 179.93,
+      "end": 181.41,
+      "speaker": "SPEAKER_01",
+      "text": "a veces como ocupado y no"
+    },
+    {
+      "start": 181.41,
+      "end": 183.65,
+      "speaker": "SPEAKER_01",
+      "text": "les contesto cuando me llaman, ¿no? Yo"
+    },
+    {
+      "start": 183.65,
+      "end": 185.53,
+      "speaker": "SPEAKER_01",
+      "text": "por favor. Comprendo, señor."
+    },
+    {
+      "start": 185.99,
+      "end": 188.66,
+      "speaker": "SPEAKER_01",
+      "text": "Sí. Entiendo,"
+    },
+    {
+      "start": 188.82,
+      "end": 189.86,
+      "speaker": "SPEAKER_01",
+      "text": "señor. Yo lo paso"
+    },
+    {
+      "start": 189.86,
+      "end": 191.82,
+      "speaker": "SPEAKER_01",
+      "text": "y si no me contesta por"
+    },
+    {
+      "start": 191.82,
+      "end": 194.22,
+      "speaker": "SPEAKER_01",
+      "text": "este medio, me comunico"
+    },
+    {
+      "start": 194.22,
+      "end": 196.8,
+      "speaker": "SPEAKER_01",
+      "text": "y le doy la respuesta, señor. Bueno, listo."
+    },
+    {
+      "start": 196.86,
+      "end": 198.54,
+      "speaker": "SPEAKER_01",
+      "text": "Muchas gracias. Si nos aprueban el"
+    },
+    {
+      "start": 198.54,
+      "end": 200.64,
+      "speaker": "SPEAKER_01",
+      "text": "pago de cien mil pesos para cuando"
+    },
+    {
+      "start": 200.64,
+      "end": 202.36,
+      "speaker": "SPEAKER_01",
+      "text": "usted realice, sería el primer pago."
+    },
+    {
+      "start": 203.08,
+      "end": 204.7,
+      "speaker": "SPEAKER_01",
+      "text": "Para el máximo el quince"
+    },
+    {
+      "start": 204.7,
+      "end": 206.38,
+      "speaker": "SPEAKER_01",
+      "text": "de este mes de julio"
+    },
+    {
+      "start": 206.38,
+      "end": 208.16,
+      "speaker": "SPEAKER_01",
+      "text": "el 15 de julio, perfecto"
+    },
+    {
+      "start": 208.16,
+      "end": 210.8,
+      "speaker": "SPEAKER_01",
+      "text": "serían los 15 de cada mes"
+    },
+    {
+      "start": 210.8,
+      "end": 212.42,
+      "speaker": "SPEAKER_01",
+      "text": "de acuerdo señor"
+    },
+    {
+      "start": 212.42,
+      "end": 214.67,
+      "speaker": "SPEAKER_01",
+      "text": "gracias"
+    },
+    {
+      "start": 214.67,
+      "end": 216.21,
+      "speaker": "SPEAKER_01",
+      "text": "gracias por atender la llamada"
+    },
+    {
+      "start": 216.21,
+      "end": 217.67,
+      "speaker": "SPEAKER_01",
+      "text": "recuerde que le hablo Marisa"
+    },
+    {
+      "start": 217.67,
+      "end": 220.03,
+      "speaker": "SPEAKER_01",
+      "text": "que tenga una excelente tarde"
+    },
+    {
+      "start": 220.03,
+      "end": 221.51,
+      "speaker": "SPEAKER_01",
+      "text": "bueno, muchas gracias"
+    },
+    {
+      "start": 221.51,
+      "end": 222.41,
+      "speaker": "SPEAKER_01",
+      "text": "hasta luego"
+    }
+  ]
+}

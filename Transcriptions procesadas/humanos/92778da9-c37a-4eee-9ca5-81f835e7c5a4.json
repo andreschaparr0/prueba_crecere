@@ -1,0 +1,405 @@
+{
+  "file_id": "92778da9-c37a-4eee-9ca5-81f835e7c5a4",
+  "source": "humano",
+  "duration_sec": 176.56,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 12.88,
+      "end": 17.19,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, muy buenos días, ¿con quién?"
+    },
+    {
+      "start": 24.76,
+      "end": 26.66,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señora, muy bien, gracias a Dios."
+    },
+    {
+      "start": 35.38,
+      "end": 39.7,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, ve..."
+    },
+    {
+      "start": 39.7,
+      "end": 40.4,
+      "speaker": "SPEAKER_00",
+      "text": "¿Señor?"
+    },
+    {
+      "start": 41.2,
+      "end": 44.12,
+      "speaker": "SPEAKER_01",
+      "text": "Ven a consultar... No, no sé por qué me están llamando eso,"
+    },
+    {
+      "start": 44.2,
+      "end": 45.96,
+      "speaker": "SPEAKER_01",
+      "text": "si la vez pasada me llamaron hace como un mes,"
+    },
+    {
+      "start": 45.96,
+      "end": 49.42,
+      "speaker": "SPEAKER_01",
+      "text": "Yo ya hice la cancelación en totalidad del acuerdo de pago."
+    },
+    {
+      "start": 49.52,
+      "end": 50.8,
+      "speaker": "SPEAKER_01",
+      "text": "Hice un acuerdo de pago por dos cuotas."
+    },
+    {
+      "start": 51.2,
+      "end": 54.2,
+      "speaker": "SPEAKER_01",
+      "text": "Yo ya cancelé las dos cuotas el mismo día y la misma fecha."
+    },
+    {
+      "start": 56.44,
+      "end": 57.9,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo, señor Mauricio."
+    },
+    {
+      "start": 58.94,
+      "end": 61.52,
+      "speaker": "SPEAKER_00",
+      "text": "¿Usted algún WhatsApp reportó el pago?"
+    },
+    {
+      "start": 63.26,
+      "end": 66.7,
+      "speaker": "SPEAKER_01",
+      "text": "Al correo de abogados punto..."
+    },
+    {
+      "start": 66.7,
+      "end": 69.3,
+      "speaker": "SPEAKER_01",
+      "text": "El correo que me bota ahí la página de Credivalores."
+    },
+    {
+      "start": 70.18,
+      "end": 70.66,
+      "speaker": "SPEAKER_00",
+      "text": "Comprendo."
+    },
+    {
+      "start": 70.66,
+      "end": 75.14,
+      "speaker": "SPEAKER_00",
+      "text": "Le voy a enviar un WhatsApp para que me reporten los dos pagos"
+    },
+    {
+      "start": 75.14,
+      "end": 77.26,
+      "speaker": "SPEAKER_00",
+      "text": "para ya hacer el proceso"
+    },
+    {
+      "start": 77.26,
+      "end": 78.76,
+      "speaker": "SPEAKER_00",
+      "text": "de paz y salvo"
+    },
+    {
+      "start": 78.76,
+      "end": 81.24,
+      "speaker": "SPEAKER_00",
+      "text": "y bajarlo del sistema, señor Mauricio"
+    },
+    {
+      "start": 81.24,
+      "end": 83.5,
+      "speaker": "SPEAKER_00",
+      "text": "que no le sigamos generando llamadas"
+    },
+    {
+      "start": 83.5,
+      "end": 84.82,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, qué pena"
+    },
+    {
+      "start": 84.82,
+      "end": 87.38,
+      "speaker": "SPEAKER_01",
+      "text": "y quería hacerte esta pregunta, lo que pasa es que a mí me llamaron"
+    },
+    {
+      "start": 87.38,
+      "end": 88.88,
+      "speaker": "SPEAKER_01",
+      "text": "el mes pasado y me habían"
+    },
+    {
+      "start": 88.88,
+      "end": 91.24,
+      "speaker": "SPEAKER_01",
+      "text": "propuesto un acuerdo de"
+    },
+    {
+      "start": 91.24,
+      "end": 93.22,
+      "speaker": "SPEAKER_01",
+      "text": "pago en dos cuotas, uno para"
+    },
+    {
+      "start": 93.22,
+      "end": 95.2,
+      "speaker": "SPEAKER_01",
+      "text": "el 30 del mes"
+    },
+    {
+      "start": 95.2,
+      "end": 96.82,
+      "speaker": "SPEAKER_01",
+      "text": "que pasó y otro para"
+    },
+    {
+      "start": 96.82,
+      "end": 99.12,
+      "speaker": "SPEAKER_01",
+      "text": "el final de este mes, pero pues"
+    },
+    {
+      "start": 99.12,
+      "end": 101.18,
+      "speaker": "SPEAKER_01",
+      "text": "yo me conseguí la plata y pagué las dos"
+    },
+    {
+      "start": 101.18,
+      "end": 101.7,
+      "speaker": "SPEAKER_01",
+      "text": "cuotas"
+    },
+    {
+      "start": 101.7,
+      "end": 104.34,
+      "speaker": "SPEAKER_01",
+      "text": "y pues obviamente"
+    },
+    {
+      "start": 104.34,
+      "end": 106.8,
+      "speaker": "SPEAKER_01",
+      "text": "dijeron que tocaba y me tocaba cancelar"
+    },
+    {
+      "start": 106.8,
+      "end": 109.69,
+      "speaker": "SPEAKER_01",
+      "text": "la cota que estaba ahí reflejada"
+    },
+    {
+      "start": 109.69,
+      "end": 111.49,
+      "speaker": "SPEAKER_01",
+      "text": "en el desprendible que me envió"
+    },
+    {
+      "start": 111.49,
+      "end": 113.63,
+      "speaker": "SPEAKER_01",
+      "text": "ahí a CREI Valores a un correo"
+    },
+    {
+      "start": 113.63,
+      "end": 116.01,
+      "speaker": "SPEAKER_01",
+      "text": "y que ellos me enviaron un desprendible, una certificación"
+    },
+    {
+      "start": 116.01,
+      "end": 118.01,
+      "speaker": "SPEAKER_01",
+      "text": "de la deuda, yo cancelé esa totalidad"
+    },
+    {
+      "start": 118.01,
+      "end": 119.65,
+      "speaker": "SPEAKER_01",
+      "text": "de la deuda neta y"
+    },
+    {
+      "start": 119.65,
+      "end": 120.87,
+      "speaker": "SPEAKER_01",
+      "text": "en un solo"
+    },
+    {
+      "start": 120.87,
+      "end": 122.23,
+      "speaker": "SPEAKER_01",
+      "text": "pago"
+    },
+    {
+      "start": 122.23,
+      "end": 126.07,
+      "speaker": "SPEAKER_01",
+      "text": "y entonces yo ya tengo el voucher y yo envié"
+    },
+    {
+      "start": 126.07,
+      "end": 127.83,
+      "speaker": "SPEAKER_01",
+      "text": "eso a un correo de abogados"
+    },
+    {
+      "start": 127.83,
+      "end": 129.55,
+      "speaker": "SPEAKER_01",
+      "text": "y eso que me aparecía en la página ahí"
+    },
+    {
+      "start": 129.55,
+      "end": 131.25,
+      "speaker": "SPEAKER_01",
+      "text": "de CREI Valores"
+    },
+    {
+      "start": 131.25,
+      "end": 133.07,
+      "speaker": "SPEAKER_01",
+      "text": "porque yo estaba por allá"
+    },
+    {
+      "start": 133.07,
+      "end": 135.27,
+      "speaker": "SPEAKER_01",
+      "text": "en un... Sí, porque yo estaba en un departamento"
+    },
+    {
+      "start": 135.27,
+      "end": 136.91,
+      "speaker": "SPEAKER_01",
+      "text": "de Carurú, que eso es de"
+    },
+    {
+      "start": 136.91,
+      "end": 138.97,
+      "speaker": "SPEAKER_01",
+      "text": "Baupés. Allá no tenía acceso"
+    },
+    {
+      "start": 138.97,
+      "end": 140.81,
+      "speaker": "SPEAKER_01",
+      "text": "yo a ningún..."
+    },
+    {
+      "start": 140.81,
+      "end": 142.87,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, a ningún tipo para hacer esa"
+    },
+    {
+      "start": 142.87,
+      "end": 143.39,
+      "speaker": "SPEAKER_01",
+      "text": "cancelación."
+    },
+    {
+      "start": 145.86,
+      "end": 146.88,
+      "speaker": "SPEAKER_01",
+      "text": "Busqué la oficina de"
+    },
+    {
+      "start": 146.88,
+      "end": 149.22,
+      "speaker": "SPEAKER_01",
+      "text": "Crea y Valores. No encontré oficina de Crea y Valores."
+    },
+    {
+      "start": 149.82,
+      "end": 151.12,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, me acerqué"
+    },
+    {
+      "start": 151.12,
+      "end": 153.34,
+      "speaker": "SPEAKER_01",
+      "text": "a UNEFETI y mediante el código de convenio"
+    },
+    {
+      "start": 153.34,
+      "end": 155.18,
+      "speaker": "SPEAKER_01",
+      "text": "cancelé la totalidad de la deuda"
+    },
+    {
+      "start": 155.18,
+      "end": 157.14,
+      "speaker": "SPEAKER_00",
+      "text": "mujer. Perfecto,"
+    },
+    {
+      "start": 157.22,
+      "end": 159.04,
+      "speaker": "SPEAKER_00",
+      "text": "señor Mauricio. Como le indico, voy a enviarle"
+    },
+    {
+      "start": 159.04,
+      "end": 160.78,
+      "speaker": "SPEAKER_00",
+      "text": "un WhatsApp para que me reporte la"
+    },
+    {
+      "start": 160.78,
+      "end": 162.28,
+      "speaker": "SPEAKER_00",
+      "text": "conciliación, el soporte de pago."
+    },
+    {
+      "start": 162.28,
+      "end": 164.74,
+      "speaker": "SPEAKER_00",
+      "text": "y ya tramitar su pase salvo, señor"
+    },
+    {
+      "start": 164.74,
+      "end": 166.76,
+      "speaker": "SPEAKER_01",
+      "text": "Mauricio. Ah, ok, te lo agradezco"
+    },
+    {
+      "start": 166.76,
+      "end": 168.86,
+      "speaker": "SPEAKER_01",
+      "text": "mujer. Bueno. De acuerdo."
+    },
+    {
+      "start": 169.7,
+      "end": 170.82,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga un excelente día"
+    },
+    {
+      "start": 170.82,
+      "end": 172.72,
+      "speaker": "SPEAKER_00",
+      "text": "y quedo pendiente de su consignación."
+    },
+    {
+      "start": 172.8,
+      "end": 174.46,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, muchas gracias. Espero tu mensaje. Gracias."
+    },
+    {
+      "start": 174.54,
+      "end": 176.1,
+      "speaker": "SPEAKER_00",
+      "text": "Buen día. Perfecto, señor Mauricio."
+    }
+  ]
+}
