@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Gestión de cobranza: Humanos vs. IA — Creceré AI</title>
+<style>
+  :root{
+    --pink:#F26ECF;
+    --purple:#7047EB;
+    --deep:#4E2AAE;
+    --pink-soft:#F9BCE8;
+    --bg-soft:#FDEDF9;
+    --ink:#202020;
+    --muted:#757275;
+    --white:#FFFFFF;
+    --line:#E9E4EF;
+    --success:#2F8F6B;
+  }
+
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0;
+    background:#f5f3f8;
+    color:var(--ink);
+    font-family:Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height:1.45;
+  }
+
+  .page{
+    width:min(1000px, calc(100% - 32px));
+    margin:24px auto;
+    background:var(--white);
+    border:1px solid #eeeaf2;
+    border-radius:24px;
+    box-shadow:0 18px 50px rgba(58, 34, 95, .10);
+    overflow:hidden;
+  }
+
+  /* ---------- Encabezado / hero ---------- */
+  .hero{
+    padding:34px 40px 26px;
+    background:
+      radial-gradient(circle at 88% 12%, rgba(242,110,207,.20), transparent 26%),
+      radial-gradient(circle at 10% 90%, rgba(112,71,235,.12), transparent 30%),
+      linear-gradient(135deg, #ffffff 0%, #fbf8ff 100%);
+    border-bottom:1px solid var(--line);
+  }
+
+  .brand-row{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:16px;
+    margin-bottom:14px;
+  }
+
+  .eyebrow{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    padding:7px 12px;
+    border-radius:999px;
+    background:var(--bg-soft);
+    color:var(--deep);
+    font-size:11px;
+    font-weight:800;
+    letter-spacing:.07em;
+    text-transform:uppercase;
+  }
+
+  .author-chip{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    padding:6px 14px 6px 6px;
+    border-radius:999px;
+    background:#fff;
+    border:1px solid var(--line);
+    box-shadow:0 4px 14px rgba(58,34,95,.06);
+  }
+
+  .author-avatar{
+    width:34px;
+    height:34px;
+    border-radius:50%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#fff;
+    font-weight:800;
+    font-size:13px;
+    background:linear-gradient(135deg,var(--pink),var(--purple));
+    flex-shrink:0;
+  }
+
+  .author-text{
+    line-height:1.25;
+  }
+
+  .author-text strong{
+    display:block;
+    font-size:12.5px;
+    color:var(--ink);
+  }
+
+  .author-text a{
+    font-size:11.5px;
+    color:var(--muted);
+    text-decoration:none;
+  }
+
+  .author-text a:hover{ color:var(--deep); }
+
+  h1{
+    margin:6px 0 8px;
+    font-size:clamp(22px, 3vw, 30px);
+    line-height:1.15;
+    letter-spacing:-.02em;
+    max-width:720px;
+  }
+
+  .hero p.subtitle{
+    margin:0;
+    max-width:640px;
+    font-size:13px;
+    color:var(--muted);
+  }
+
+  /* ---------- Cuerpo ---------- */
+  .content{padding:26px 40px 30px}
+
+  .context-box{
+    padding:20px 22px;
+    border:1px solid rgba(112,71,235,.16);
+    border-radius:18px;
+    background:
+      radial-gradient(circle at 100% 0%, rgba(242,110,207,.10), transparent 28%),
+      linear-gradient(135deg, rgba(112,71,235,.05), rgba(242,110,207,.04));
+    margin-bottom:22px;
+  }
+
+  .context-box h2{margin:0 0 8px}
+
+  .context-box p{
+    margin:0 0 10px;
+    font-size:13px;
+    line-height:1.6;
+    color:#474249;
+  }
+
+  .context-box p:last-child{margin-bottom:0}
+  .context-box strong{color:var(--ink)}
+
+  .link-pills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-top:10px;
+  }
+
+  .link-pill{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    padding:7px 12px;
+    border-radius:999px;
+    background:#fff;
+    border:1px solid var(--line);
+    font-size:12px;
+    font-weight:600;
+    color:var(--deep);
+    text-decoration:none;
+    transition:border-color .15s ease;
+  }
+
+  .link-pill:hover{ border-color:var(--purple); }
+
+  .section{margin-top:22px}
+  .section:first-child{margin-top:0}
+
+  .section-head{
+    display:flex;
+    align-items:flex-start;
+    gap:12px;
+    margin-bottom:12px;
+  }
+
+  .num{
+    min-width:28px;
+    height:28px;
+    border-radius:9px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:white;
+    background:linear-gradient(135deg,var(--purple),var(--deep));
+    font-weight:800;
+    font-size:12.5px;
+    box-shadow:0 6px 14px rgba(112,71,235,.20);
+    flex-shrink:0;
+  }
+
+  h2{
+    margin:0;
+    font-size:16px;
+    letter-spacing:-.01em;
+  }
+
+  .lead{color:var(--muted); margin:0 0 10px; font-size:12.5px}
+
+  .placeholder{
+    border:1.5px dashed #ddd6e6;
+    background:#fbfaff;
+    color:var(--muted);
+    font-size:12px;
+    padding:16px;
+    border-radius:14px;
+    text-align:center;
+  }
+
+  /* ---------- Pie de página / repo ---------- */
+  .repo-cta{
+    margin-top:22px;
+    padding:16px 20px;
+    border-radius:16px;
+    background:var(--ink);
+    color:#fff;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:16px;
+  }
+
+  .repo-cta strong{ display:block; font-size:13px; margin-bottom:2px }
+  .repo-cta small{ color:#cfc9d6; font-size:11.5px }
+
+  .repo-cta a{
+    color:#fff;
+    text-decoration:none;
+    background:linear-gradient(135deg,var(--pink),var(--purple));
+    padding:9px 14px;
+    border-radius:10px;
+    font-weight:800;
+    font-size:12px;
+    white-space:nowrap;
+  }
+
+  footer.report-footer{
+    padding:14px 40px 20px;
+    border-top:1px solid var(--line);
+    font-size:11px;
+    color:var(--muted);
+    display:flex;
+    justify-content:space-between;
+  }
+
+  /* ---------- Impresión: forzar 2 páginas A4 ---------- */
+  @media print{
+    @page{ size:A4; margin:8mm }
+    body{ background:#fff }
+    .page{
+      width:100%;
+      margin:0;
+      border:none;
+      border-radius:0;
+      box-shadow:none;
+      page-break-after:always;
+    }
+    .page:last-child{ page-break-after:auto }
+  }
+
+  @media (max-width:720px){
+    .hero,.content,footer.report-footer{padding-left:20px;padding-right:20px}
+    .brand-row{flex-direction:column-reverse; align-items:flex-start}
+    .repo-cta{flex-direction:column; align-items:flex-start}
+  }
+</style>
+</head>
+<body>
+
+  <!-- ============================================================ -->
+  <!-- PÁGINA 1                                                      -->
+  <!-- ============================================================ -->
+  <div class="page">
+    <header class="hero">
+      <div class="brand-row">
+        <div class="eyebrow">Creceré AI · Prueba técnica</div>
+        <div class="author-chip">
+          <div class="author-avatar">AC</div>
+          <div class="author-text">
+            <strong>Andrés Felipe Chaparro</strong>
+            <a href="https://github.com/andreschaparr0" target="_blank" rel="noopener">github.com/andreschaparr0</a>
+          </div>
+        </div>
+      </div>
+      <h1>Gestión de cobranza: Humanos vs. Agentes de IA</h1>
+      <p class="subtitle">Comparación cuantitativa del desempeño de agentes humanos y de IA en gestiones telefónicas de cobranza.</p>
+    </header>
+
+    <div class="content">
+      <div class="context-box">
+        <h2>Introducción</h2>
+        <p>
+          Este reporte compara el desempeño de agentes humanos y agentes de IA en gestiones
+          telefónicas de cobranza, a partir de una muestra de 100 llamadas (50 humanas y 50 de IA).
+          Cada audio fue transcrito y diarizado (Whisper <em>large-v3</em> + <code>pyannote.audio</code>),
+          y luego se asignó el rol de <strong>agente</strong> o <strong>deudor</strong> a cada segmento
+          de la conversación para poder construir variables comparables entre los dos grupos.
+        </p>
+        <p>El detalle del pipeline —transcripción, diarización, limpieza y asignación de roles— está documentado en los cuadernos del repositorio:</p>
+        <div class="link-pills">
+          <a class="link-pill" href="https://github.com/andreschaparr0/prueba_crecere/blob/main/Scripts/transcription.ipynb" target="_blank" rel="noopener">📓 transcription.ipynb</a>
+          <a class="link-pill" href="https://github.com/andreschaparr0/prueba_crecere/blob/main/Scripts/renombrar_transcripciones.ipynb" target="_blank" rel="noopener">📓 renombrar_transcripciones.ipynb</a>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="section-head"><div class="num">1</div><h2>Preguntas, hipótesis y decisiones analíticas</h2></div>
+        <div class="placeholder">Próximamente: qué queremos entender, qué variables se construyeron y qué hipótesis se contrastaron.</div>
+      </div>
+
+      <div class="section">
+        <div class="section-head"><div class="num">2</div><h2>Comparación Humanos vs. IA — Indicadores clave</h2></div>
+        <div class="placeholder">Próximamente: tarjetas KPI (contactabilidad, efectividad, compromiso de pago, duración, etc.) y gráficos comparativos.</div>
+      </div>
+    </div>
+
+    <footer class="report-footer">
+      <span>Creceré AI · Prueba técnica</span>
+      <span>1 / 2</span>
+    </footer>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- PÁGINA 2                                                      -->
+  <!-- ============================================================ -->
+  <div class="page">
+    <div class="content" style="padding-top:32px">
+      <div class="section" style="margin-top:0">
+        <div class="section-head"><div class="num">3</div><h2>Hallazgos clave</h2></div>
+        <div class="placeholder">Próximamente: entre 3 y 7 hallazgos accionables, sustentados en datos.</div>
+      </div>
+
+      <div class="section">
+        <div class="section-head"><div class="num">4</div><h2>Conducta y oportunidades de mejora</h2></div>
+        <div class="placeholder">Próximamente: qué hace mejor cada grupo y qué cambiaría para acercar sus resultados.</div>
+      </div>
+
+      <div class="repo-cta">
+        <div>
+          <strong>Repositorio del proyecto</strong>
+          <small>Código, construcción de variables y análisis estadístico completo.</small>
+        </div>
+        <a href="https://github.com/andreschaparr0/prueba_crecere" target="_blank" rel="noopener">Ver repositorio →</a>
+      </div>
+    </div>
+
+    <footer class="report-footer">
+      <span>Andrés Felipe Chaparro</span>
+      <span>2 / 2</span>
+    </footer>
+  </div>
+
+</body>
+</html>
