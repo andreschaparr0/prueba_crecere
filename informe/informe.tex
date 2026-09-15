@@ -35,8 +35,10 @@ El dataset para esta prueba técnica consiste en 100 grabaciones de cobranza tel
 
 El análisis responde tres preguntas: \textbf{(i)} quién cierra más y mejor, \textbf{(ii)} qué
 conductas explican la diferencia y \textbf{(iii)} qué tendría que cambiar para acercar los
-resultados. De ahí se derivan siete hipótesis, cada una atada a una variable medible sobre la
-transcripción:
+resultados. De ahí se derivan cuatro hipótesis, cada una atada a una variable medible sobre la
+transcripción. Se priorizaron las que se pueden calcular de forma determinística sobre tiempos
+y metadatos (no sobre la aparición de palabras sueltas, un método menos robusto porque no
+verifica el sentido de la frase):
 
 \begin{table}[h]
 \centering\small
@@ -47,22 +49,18 @@ transcripción:
 \midrule
 H1 & La IA responde más lento y rompe el ritmo & \texttt{latencia\_agente\_med}, \texttt{silencio\_pct} \\
 H2 & La IA sustituye persuasión por presión legal & \texttt{n\_presion\_legal} \\
-H3 & La IA verbaliza empatía sin traducirla en concesiones & \texttt{n\_empatia}, \texttt{n\_empatia\_con\_concesion} \\
-H4 & La IA gasta turnos pidiendo permiso en vez de negociar & \texttt{n\_gates}, \texttt{time\_to\_offer\_seg} \\
-H5 & El humano cierra la operación (dice cómo pagar); la IA solo cierra el acuerdo & \texttt{menciona\_canal\_pago}, \texttt{menciona\_cifra} \\
-H6 & La IA cumple el protocolo de apertura con más consistencia & \texttt{se\_identifica}, \texttt{verifica\_identidad} \\
-H7 & La llamada de IA es estructuralmente más auditable & \texttt{diarizacion\_colapsada} \\
+H3 & La IA cumple el protocolo de apertura con más consistencia & \texttt{se\_identifica}, \texttt{verifica\_identidad} \\
+H4 & La llamada de IA es estructuralmente más auditable & \texttt{diarizacion\_colapsada} \\
 \bottomrule
 \end{tabular}
 \end{table}
 \vspace{-10pt}
 
-\textbf{Variables construidas.} Cada llamada se resume en una fila con 37 variables agrupadas
-en seis bloques: ritmo conversacional (latencias, silencio, turnos, velocidad), reparto de
-habla, conducta del agente (presión, empatía, permisos, muletillas), oferta y cierre, protocolo
-de apertura y calidad de la medición. La unidad de análisis es el \textbf{turno} --- segmentos
-consecutivos del mismo rol agrupados --- y no el fragmento de Whisper, que parte frases a mitad
-e infla cualquier conteo.
+\textbf{Variables construidas.} Cada llamada se resume en una fila con 23 variables: ritmo
+conversacional (latencias, silencio, turnos, velocidad), reparto de habla, presión/urgencia,
+protocolo de apertura y calidad de la medición. La unidad de análisis es el \textbf{turno} ---
+segmentos consecutivos del mismo rol agrupados --- y no el fragmento de Whisper, que parte
+frases a mitad e infla cualquier conteo.
 
 \textbf{Cómo se prueban.} Mann-Whitney para las variables continuas (no exige normalidad y
 resiste el outlier de 20 minutos que hay entre las llamadas humanas) y prueba de proporciones
