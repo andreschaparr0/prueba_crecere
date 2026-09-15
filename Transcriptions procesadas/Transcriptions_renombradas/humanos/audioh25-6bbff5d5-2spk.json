@@ -1,0 +1,605 @@
+{
+  "file_id": "6bbff5d5-7d85-4587-94d9-4e44d4e4055b",
+  "source": "humano",
+  "duration_sec": 294.54,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 7.73,
+      "end": 20.39,
+      "speaker": "SPEAKER_01",
+      "text": "a lo muy buenos días a lo cómico como esas solucionar es que me comunico con usted para"
+    },
+    {
+      "start": 20.39,
+      "end": 25.49,
+      "speaker": "SPEAKER_01",
+      "text": "confirmar un acuerdo de pago que se realiza durante estos días tiene en cuenta eso"
+    },
+    {
+      "start": 29.76,
+      "end": 36.46,
+      "speaker": "SPEAKER_01",
+      "text": "qué solución es que en el sistema el sistema me informa que usted realiza un acuerdo de pago de"
+    },
+    {
+      "start": 36.46,
+      "end": 38.6,
+      "speaker": "SPEAKER_01",
+      "text": "250 mil pesos mensuales"
+    },
+    {
+      "start": 38.6,
+      "end": 40.52,
+      "speaker": "SPEAKER_01",
+      "text": "y la primera cota queda"
+    },
+    {
+      "start": 40.52,
+      "end": 41.68,
+      "speaker": "SPEAKER_01",
+      "text": "para el 30 de julio"
+    },
+    {
+      "start": 41.68,
+      "end": 44.68,
+      "speaker": "SPEAKER_01",
+      "text": "me convenio con usted para informarle si ya le llegó la información"
+    },
+    {
+      "start": 44.68,
+      "end": 46.26,
+      "speaker": "SPEAKER_01",
+      "text": "del acuerdo de pago formalizado"
+    },
+    {
+      "start": 46.26,
+      "end": 47.98,
+      "speaker": "SPEAKER_01",
+      "text": "el documento, no le ha llegado"
+    },
+    {
+      "start": 47.98,
+      "end": 49.9,
+      "speaker": "SPEAKER_01",
+      "text": "en el correo o por whatsapp"
+    },
+    {
+      "start": 49.9,
+      "end": 52.16,
+      "speaker": "SPEAKER_01",
+      "text": "no, no me ha llegado nada"
+    },
+    {
+      "start": 52.16,
+      "end": 54.77,
+      "speaker": "SPEAKER_01",
+      "text": "listo señor, entonces"
+    },
+    {
+      "start": 54.77,
+      "end": 57.17,
+      "speaker": "SPEAKER_01",
+      "text": "le recuerdo que en unos pocos"
+    },
+    {
+      "start": 57.17,
+      "end": 59.03,
+      "speaker": "SPEAKER_01",
+      "text": "minutos te voy a enviar entonces el acuerdo"
+    },
+    {
+      "start": 59.03,
+      "end": 61.37,
+      "speaker": "SPEAKER_01",
+      "text": "de pago formalizado que usted realizó por vía llamada"
+    },
+    {
+      "start": 61.37,
+      "end": 63.6,
+      "speaker": "SPEAKER_01",
+      "text": "exactamente"
+    },
+    {
+      "start": 63.6,
+      "end": 65.54,
+      "speaker": "SPEAKER_01",
+      "text": "el día"
+    },
+    {
+      "start": 65.54,
+      "end": 67.14,
+      "speaker": "SPEAKER_01",
+      "text": "21 de julio"
+    },
+    {
+      "start": 67.14,
+      "end": 69.44,
+      "speaker": "SPEAKER_01",
+      "text": "a las 3 y 24"
+    },
+    {
+      "start": 69.44,
+      "end": 72.24,
+      "speaker": "SPEAKER_01",
+      "text": "te recuerdo"
+    },
+    {
+      "start": 72.24,
+      "end": 74.54,
+      "speaker": "SPEAKER_01",
+      "text": "que es un acuerdo de pago formalizado"
+    },
+    {
+      "start": 74.54,
+      "end": 77.08,
+      "speaker": "SPEAKER_01",
+      "text": "por un valor de 4.240.000"
+    },
+    {
+      "start": 77.08,
+      "end": 78.02,
+      "speaker": "SPEAKER_01",
+      "text": "donde usted propuso"
+    },
+    {
+      "start": 78.02,
+      "end": 80.16,
+      "speaker": "SPEAKER_01",
+      "text": "cancelar 250.000 pagos mensuales"
+    },
+    {
+      "start": 80.16,
+      "end": 82.14,
+      "speaker": "SPEAKER_01",
+      "text": "si desea de pronto alguna pregunta"
+    },
+    {
+      "start": 82.14,
+      "end": 83.8,
+      "speaker": "SPEAKER_01",
+      "text": "o tiene alguna cuestión"
+    },
+    {
+      "start": 83.8,
+      "end": 85.06,
+      "speaker": "SPEAKER_01",
+      "text": "que quiera realizarme"
+    },
+    {
+      "start": 85.06,
+      "end": 87.5,
+      "speaker": "SPEAKER_01",
+      "text": "¿tiene alguna duda sobre esto?"
+    },
+    {
+      "start": 89.6,
+      "end": 90.4,
+      "speaker": "SPEAKER_01",
+      "text": "no, no"
+    },
+    {
+      "start": 90.4,
+      "end": 92.09,
+      "speaker": "SPEAKER_01",
+      "text": "ok, eso es"
+    },
+    {
+      "start": 92.09,
+      "end": 95.91,
+      "speaker": "SPEAKER_01",
+      "text": "entonces te voy a enviar la información por correo"
+    },
+    {
+      "start": 95.91,
+      "end": 97.33,
+      "speaker": "SPEAKER_01",
+      "text": "te puedo enviar el correo"
+    },
+    {
+      "start": 97.33,
+      "end": 99.27,
+      "speaker": "SPEAKER_01",
+      "text": "que tú me dijiste, ¿me lo puedes"
+    },
+    {
+      "start": 99.27,
+      "end": 101.69,
+      "speaker": "SPEAKER_01",
+      "text": "confirmar? ¿Termina en 62.15?"
+    },
+    {
+      "start": 102.43,
+      "end": 103.83,
+      "speaker": "SPEAKER_01",
+      "text": "Sí."
+    },
+    {
+      "start": 105.15,
+      "end": 106.67,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me confirmas el correo, por favor?"
+    },
+    {
+      "start": 107.29,
+      "end": 110.4,
+      "speaker": "SPEAKER_00",
+      "text": "0.62.15"
+    },
+    {
+      "start": 110.4,
+      "end": 111.62,
+      "speaker": "SPEAKER_00",
+      "text": "arroba gmail.com"
+    },
+    {
+      "start": 111.62,
+      "end": 114.08,
+      "speaker": "SPEAKER_01",
+      "text": "Ve a 0, ajá, exactamente."
+    },
+    {
+      "start": 114.74,
+      "end": 115.98,
+      "speaker": "SPEAKER_01",
+      "text": "Listo. Entonces,"
+    },
+    {
+      "start": 116.16,
+      "end": 118.04,
+      "speaker": "SPEAKER_01",
+      "text": "¿por WhatsApp también? ¿Ese número tiene WhatsApp?"
+    },
+    {
+      "start": 119.53,
+      "end": 120.17,
+      "speaker": "SPEAKER_01",
+      "text": "Así es."
+    },
+    {
+      "start": 120.97,
+      "end": 122.11,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, entonces se va a enviar"
+    },
+    {
+      "start": 122.11,
+      "end": 124.15,
+      "speaker": "SPEAKER_01",
+      "text": "el acuerdo de pago ya formalizado"
+    },
+    {
+      "start": 124.15,
+      "end": 126.31,
+      "speaker": "SPEAKER_01",
+      "text": "para que, por favor, lo tengas en cuenta"
+    },
+    {
+      "start": 126.31,
+      "end": 128.23,
+      "speaker": "SPEAKER_01",
+      "text": "y una vez que realices el pago"
+    },
+    {
+      "start": 128.23,
+      "end": 129.15,
+      "speaker": "SPEAKER_01",
+      "text": "de la primera cuota,"
+    },
+    {
+      "start": 129.15,
+      "end": 133.01,
+      "speaker": "SPEAKER_01",
+      "text": "Lo debes, por favor, confirmar por ahí"
+    },
+    {
+      "start": 133.01,
+      "end": 135.13,
+      "speaker": "SPEAKER_01",
+      "text": "Y hacer el comprobante del pago, por favor"
+    },
+    {
+      "start": 135.13,
+      "end": 138.78,
+      "speaker": "SPEAKER_01",
+      "text": "Ya sea una foto o ya sea legible"
+    },
+    {
+      "start": 138.78,
+      "end": 141.38,
+      "speaker": "SPEAKER_01",
+      "text": "Si de pronto haces alguna transferencia"
+    },
+    {
+      "start": 141.38,
+      "end": 142.7,
+      "speaker": "SPEAKER_01",
+      "text": "Pues también lo haces de esa manera"
+    },
+    {
+      "start": 142.7,
+      "end": 146.3,
+      "speaker": "SPEAKER_01",
+      "text": "¿Tiene alguna pregunta?"
+    },
+    {
+      "start": 149.47,
+      "end": 151.17,
+      "speaker": "SPEAKER_00",
+      "text": "Ese mensaje de texto que dice"
+    },
+    {
+      "start": 151.17,
+      "end": 155.94,
+      "speaker": "SPEAKER_00",
+      "text": "301-19-8350"
+    },
+    {
+      "start": 155.94,
+      "end": 161.44,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, los mensajes de texto"
+    },
+    {
+      "start": 161.44,
+      "end": 163.9,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, eso es del área de mensajería"
+    },
+    {
+      "start": 163.9,
+      "end": 165.42,
+      "speaker": "SPEAKER_01",
+      "text": "Que están realizando"
+    },
+    {
+      "start": 165.42,
+      "end": 168.28,
+      "speaker": "SPEAKER_01",
+      "text": "Pero en este caso pues como tú ya hiciste un acuerdo de pago"
+    },
+    {
+      "start": 168.28,
+      "end": 170.0,
+      "speaker": "SPEAKER_01",
+      "text": "Tengo que informarle al área de mensajería"
+    },
+    {
+      "start": 170.0,
+      "end": 172.1,
+      "speaker": "SPEAKER_01",
+      "text": "Pues de que no te lleguen más los mensajes"
+    },
+    {
+      "start": 172.1,
+      "end": 174.7,
+      "speaker": "SPEAKER_01",
+      "text": "Porque ya tienes un acuerdo de pago ya formalizado"
+    },
+    {
+      "start": 174.7,
+      "end": 177.06,
+      "speaker": "SPEAKER_01",
+      "text": "Que tú realizaste el día 21 de julio"
+    },
+    {
+      "start": 177.06,
+      "end": 178.84,
+      "speaker": "SPEAKER_01",
+      "text": "Debe ser que alguna vez"
+    },
+    {
+      "start": 178.84,
+      "end": 180.42,
+      "speaker": "SPEAKER_01",
+      "text": "Pues ellos ya no tienen reportado eso"
+    },
+    {
+      "start": 180.42,
+      "end": 182.66,
+      "speaker": "SPEAKER_01",
+      "text": "Debido a que no te han enviado pues el acuerdo de pago"
+    },
+    {
+      "start": 182.66,
+      "end": 184.38,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces ahorita reporto"
+    },
+    {
+      "start": 184.38,
+      "end": 186.64,
+      "speaker": "SPEAKER_01",
+      "text": "Esa cuestión para que no te lleguen más mensajes"
+    },
+    {
+      "start": 186.64,
+      "end": 189.74,
+      "speaker": "SPEAKER_01",
+      "text": "Y porque pues ya te van a enviar el acuerdo de pago formalizado"
+    },
+    {
+      "start": 189.74,
+      "end": 191.15,
+      "speaker": "SPEAKER_01",
+      "text": "¿Listo?"
+    },
+    {
+      "start": 192.4,
+      "end": 193.24,
+      "speaker": "SPEAKER_01",
+      "text": "¿Otra pregunta?"
+    },
+    {
+      "start": 195.28,
+      "end": 196.12,
+      "speaker": "SPEAKER_00",
+      "text": "No, no, gracias"
+    },
+    {
+      "start": 196.12,
+      "end": 198.6,
+      "speaker": "SPEAKER_01",
+      "text": "Para que tenga en cuenta"
+    },
+    {
+      "start": 198.6,
+      "end": 200.26,
+      "speaker": "SPEAKER_01",
+      "text": "De que una vez que usted realice"
+    },
+    {
+      "start": 200.26,
+      "end": 202.82,
+      "speaker": "SPEAKER_01",
+      "text": "El pago de la totalidad"
+    },
+    {
+      "start": 202.82,
+      "end": 203.58,
+      "speaker": "SPEAKER_01",
+      "text": "De este acuerdo"
+    },
+    {
+      "start": 203.58,
+      "end": 205.62,
+      "speaker": "SPEAKER_01",
+      "text": "Se le entregará el PASI salvo"
+    },
+    {
+      "start": 205.62,
+      "end": 207.38,
+      "speaker": "SPEAKER_01",
+      "text": "Usted también saldrá pues"
+    },
+    {
+      "start": 207.38,
+      "end": 208.92,
+      "speaker": "SPEAKER_01",
+      "text": "De las entradas de riesgo"
+    },
+    {
+      "start": 208.92,
+      "end": 210.78,
+      "speaker": "SPEAKER_01",
+      "text": "Ese reporte negativo que usted tiene"
+    },
+    {
+      "start": 210.78,
+      "end": 213.26,
+      "speaker": "SPEAKER_01",
+      "text": "Pues quedará totalmente limpio"
+    },
+    {
+      "start": 213.26,
+      "end": 217.02,
+      "speaker": "SPEAKER_01",
+      "text": "También si de pronto usted desea"
+    },
+    {
+      "start": 217.02,
+      "end": 218.96,
+      "speaker": "SPEAKER_01",
+      "text": "Si le presenta alguna oportunidad"
+    },
+    {
+      "start": 218.96,
+      "end": 221.86,
+      "speaker": "SPEAKER_01",
+      "text": "De cancelar más de 250 mil pesos"
+    },
+    {
+      "start": 221.86,
+      "end": 222.88,
+      "speaker": "SPEAKER_01",
+      "text": "Lo puede hacer"
+    },
+    {
+      "start": 222.88,
+      "end": 223.94,
+      "speaker": "SPEAKER_01",
+      "text": "No hay ningún problema"
+    },
+    {
+      "start": 223.94,
+      "end": 234.96,
+      "speaker": "SPEAKER_01",
+      "text": "Si usted de pronto se le presenta la oportunidad de cancelar la totalidad, así lleve tres cuotas y de pronto tiene el restante, también lo puede hacer, no hay ningún problema."
+    },
+    {
+      "start": 236.28,
+      "end": 251.78,
+      "speaker": "SPEAKER_01",
+      "text": "La cuota va a quedar mensual para fin de cada mes, entonces para que también lo tengan en cuenta, pero si usted desea de pronto cancelar, es que de pronto el 15 de agosto tengo la cuota, lo puedo cancelar, lo puede hacer."
+    },
+    {
+      "start": 251.78,
+      "end": 258.58,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, esta información se la digo para que lo tenga claro y pues pronto no se le vaya a generar alguna duda, ¿listo?"
+    },
+    {
+      "start": 259.16,
+      "end": 261.88,
+      "speaker": "SPEAKER_00",
+      "text": "Igual ahí en el WhatsApp me llega el número de cuenta y todo, ¿cierto?"
+    },
+    {
+      "start": 262.64,
+      "end": 269.78,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor. En el acuerdo de pago que se le formaliza, se le entregará toda la información de los medios de pago autorizados."
+    },
+    {
+      "start": 272.02,
+      "end": 273.1,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, perfecto."
+    },
+    {
+      "start": 273.84,
+      "end": 279.5,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, señor Bryan. Voy a amarle por atender la llamada. Recuerde que esta llamada está monitoreada, está grabada."
+    },
+    {
+      "start": 279.5,
+      "end": 282.36,
+      "speaker": "SPEAKER_01",
+      "text": "cualquier cosa que necesite"
+    },
+    {
+      "start": 282.36,
+      "end": 283.48,
+      "speaker": "SPEAKER_01",
+      "text": "recuerde que mi nombre es"
+    },
+    {
+      "start": 283.48,
+      "end": 286.44,
+      "speaker": "SPEAKER_01",
+      "text": "asesor de SolucionarCop y estamos aquí presentes"
+    },
+    {
+      "start": 286.44,
+      "end": 288.56,
+      "speaker": "SPEAKER_01",
+      "text": "para colaborarle, que tenga un feliz día"
+    },
+    {
+      "start": 288.56,
+      "end": 291.86,
+      "speaker": "SPEAKER_00",
+      "text": "gracias igualmente"
+    },
+    {
+      "start": 291.86,
+      "end": 293.61,
+      "speaker": "SPEAKER_01",
+      "text": "con gusto"
+    }
+  ],
+  "short_id": "audioh25-6bbff5d5-2spk",
+  "original_file_id": "6bbff5d5-7d85-4587-94d9-4e44d4e4055b"
+}

@@ -1,0 +1,1715 @@
+{
+  "file_id": "74b16f62-f04d-42c8-9872-ea9b9ed1dd75",
+  "source": "humano",
+  "duration_sec": 643.48,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 15.28,
+      "end": 15.76,
+      "speaker": "SPEAKER_01",
+      "text": "¡Halo!"
+    },
+    {
+      "start": 16.24,
+      "end": 17.76,
+      "speaker": "SPEAKER_00",
+      "text": "Muy buenos días, ¿fue la otra móvil?"
+    },
+    {
+      "start": 18.82,
+      "end": 20.94,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor."
+    },
+    {
+      "start": 22.39,
+      "end": 23.61,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo me le va? Mi saludo."
+    },
+    {
+      "start": 24.55,
+      "end": 28.19,
+      "speaker": "SPEAKER_00",
+      "text": "Me comunico de TIS."
+    },
+    {
+      "start": 28.71,
+      "end": 32.19,
+      "speaker": "SPEAKER_00",
+      "text": "Nosotros somos quienes compramos la cartera de su obligación pendiente con crédito y valores."
+    },
+    {
+      "start": 32.37,
+      "end": 32.79,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo está usted?"
+    },
+    {
+      "start": 34.37,
+      "end": 35.09,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señor."
+    },
+    {
+      "start": 35.77,
+      "end": 36.85,
+      "speaker": "SPEAKER_00",
+      "text": "Me alegra bastante."
+    },
+    {
+      "start": 38.39,
+      "end": 45.29,
+      "speaker": "SPEAKER_00",
+      "text": "Brevemente motivo mi llamada para informarle que a la fecha registramos un saldo actual de 2.487.000 pesos."
+    },
+    {
+      "start": 45.29,
+      "end": 47.95,
+      "speaker": "SPEAKER_00",
+      "text": "Nuestro propósito es brindarle una ayuda financiera"
+    },
+    {
+      "start": 47.95,
+      "end": 49.51,
+      "speaker": "SPEAKER_00",
+      "text": "Para dejar al día esta mora"
+    },
+    {
+      "start": 49.51,
+      "end": 51.45,
+      "speaker": "SPEAKER_00",
+      "text": "Y poder despedirles el pasisal"
+    },
+    {
+      "start": 51.45,
+      "end": 54.49,
+      "speaker": "SPEAKER_00",
+      "text": "Y sacar el reporte negativo de centrales de riesgo"
+    },
+    {
+      "start": 54.49,
+      "end": 55.49,
+      "speaker": "SPEAKER_00",
+      "text": "Y no se quiera"
+    },
+    {
+      "start": 55.49,
+      "end": 57.27,
+      "speaker": "SPEAKER_00",
+      "text": "Esa es la primera alternativa que le tengo"
+    },
+    {
+      "start": 57.27,
+      "end": 59.63,
+      "speaker": "SPEAKER_01",
+      "text": "Pero porque"
+    },
+    {
+      "start": 59.63,
+      "end": 60.97,
+      "speaker": "SPEAKER_01",
+      "text": "No es que vuelvo y le repito"
+    },
+    {
+      "start": 60.97,
+      "end": 63.27,
+      "speaker": "SPEAKER_01",
+      "text": "¿Por qué cobran todo eso si yo"
+    },
+    {
+      "start": 63.27,
+      "end": 65.57,
+      "speaker": "SPEAKER_01",
+      "text": "El año pasado quedé debiendo"
+    },
+    {
+      "start": 65.57,
+      "end": 66.35,
+      "speaker": "SPEAKER_01",
+      "text": "A trescientos"
+    },
+    {
+      "start": 66.35,
+      "end": 68.33,
+      "speaker": "SPEAKER_01",
+      "text": "Trecientos veinte mil pesos"
+    },
+    {
+      "start": 68.33,
+      "end": 70.19,
+      "speaker": "SPEAKER_01",
+      "text": "¿Y por qué va en todo eso?"
+    },
+    {
+      "start": 71.65,
+      "end": 72.19,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora"
+    },
+    {
+      "start": 72.19,
+      "end": 75.53,
+      "speaker": "SPEAKER_00",
+      "text": "¿A usted le pidieron algún documento en Credival?"
+    },
+    {
+      "start": 75.61,
+      "end": 77.49,
+      "speaker": "SPEAKER_00",
+      "text": "dolores, acerca de esa mora?"
+    },
+    {
+      "start": 78.93,
+      "end": 84.45,
+      "speaker": "SPEAKER_01",
+      "text": "Es que, es que, o sea, en ese, el año pasado, en mayo, me dejaron ese, ese, eso, eso, en"
+    },
+    {
+      "start": 84.45,
+      "end": 90.47,
+      "speaker": "SPEAKER_01",
+      "text": "seiscientos, en seiscientos cuarenta mil, y yo pagué trescientos veinte, y quedó trescientos"
+    },
+    {
+      "start": 90.47,
+      "end": 93.35,
+      "speaker": "SPEAKER_01",
+      "text": "veinte mil, ¿y por qué, por qué me cobran todo eso, señor?"
+    },
+    {
+      "start": 94.35,
+      "end": 100.21,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señora, lo que se supone es que yo hago referencia a una tarjeta que prácticamente"
+    },
+    {
+      "start": 100.21,
+      "end": 102.27,
+      "speaker": "SPEAKER_00",
+      "text": "que se entregó desde hace ya unos"
+    },
+    {
+      "start": 102.27,
+      "end": 103.97,
+      "speaker": "SPEAKER_00",
+      "text": "añitos, desde el pasado"
+    },
+    {
+      "start": 103.97,
+      "end": 106.51,
+      "speaker": "SPEAKER_00",
+      "text": "agosto, 19 de agosto"
+    },
+    {
+      "start": 106.51,
+      "end": 107.51,
+      "speaker": "SPEAKER_00",
+      "text": "del 2015."
+    },
+    {
+      "start": 108.19,
+      "end": 110.41,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces, en ese"
+    },
+    {
+      "start": 110.41,
+      "end": 112.13,
+      "speaker": "SPEAKER_00",
+      "text": "momento, esa tarjeta"
+    },
+    {
+      "start": 112.13,
+      "end": 113.59,
+      "speaker": "SPEAKER_00",
+      "text": "la mora que cogió"
+    },
+    {
+      "start": 113.59,
+      "end": 116.09,
+      "speaker": "SPEAKER_00",
+      "text": "fue de un valor de"
+    },
+    {
+      "start": 116.09,
+      "end": 118.73,
+      "speaker": "SPEAKER_00",
+      "text": "1.695.000"
+    },
+    {
+      "start": 118.73,
+      "end": 119.03,
+      "speaker": "SPEAKER_00",
+      "text": "pesos."
+    },
+    {
+      "start": 119.03,
+      "end": 121.03,
+      "speaker": "SPEAKER_00",
+      "text": "1.695.000 pesos."
+    },
+    {
+      "start": 121.93,
+      "end": 122.61,
+      "speaker": "SPEAKER_00",
+      "text": "Señora,"
+    },
+    {
+      "start": 123.23,
+      "end": 124.59,
+      "speaker": "SPEAKER_00",
+      "text": "a través de los años,"
+    },
+    {
+      "start": 124.91,
+      "end": 127.09,
+      "speaker": "SPEAKER_00",
+      "text": "esta mora ha ido incrementando"
+    },
+    {
+      "start": 127.09,
+      "end": 128.83,
+      "speaker": "SPEAKER_00",
+      "text": "su valor en intereses"
+    },
+    {
+      "start": 128.83,
+      "end": 130.95,
+      "speaker": "SPEAKER_00",
+      "text": "corrientes, intereses moratorios,"
+    },
+    {
+      "start": 131.45,
+      "end": 133.11,
+      "speaker": "SPEAKER_00",
+      "text": "otros cargos, los temporarios"
+    },
+    {
+      "start": 133.11,
+      "end": 135.07,
+      "speaker": "SPEAKER_00",
+      "text": "de COE, y por eso es que"
+    },
+    {
+      "start": 135.07,
+      "end": 136.59,
+      "speaker": "SPEAKER_00",
+      "text": "la deuda está en"
+    },
+    {
+      "start": 136.59,
+      "end": 139.61,
+      "speaker": "SPEAKER_00",
+      "text": "2.487.000 pesos."
+    },
+    {
+      "start": 140.21,
+      "end": 140.61,
+      "speaker": "SPEAKER_00",
+      "text": "Señora,"
+    },
+    {
+      "start": 141.05,
+      "end": 143.15,
+      "speaker": "SPEAKER_00",
+      "text": "sin embargo, me dice usted que el año pasado"
+    },
+    {
+      "start": 143.15,
+      "end": 144.73,
+      "speaker": "SPEAKER_00",
+      "text": "se comunicaron con usted y"
+    },
+    {
+      "start": 144.73,
+      "end": 146.73,
+      "speaker": "SPEAKER_00",
+      "text": "llegaron a un acuerdo de pagar solamente"
+    },
+    {
+      "start": 146.73,
+      "end": 147.75,
+      "speaker": "SPEAKER_00",
+      "text": "600.000 pesos."
+    },
+    {
+      "start": 148.77,
+      "end": 149.99,
+      "speaker": "SPEAKER_01",
+      "text": "640.000."
+    },
+    {
+      "start": 150.89,
+      "end": 152.13,
+      "speaker": "SPEAKER_00",
+      "text": "640.000 pesos."
+    },
+    {
+      "start": 152.13,
+      "end": 154.17,
+      "speaker": "SPEAKER_00",
+      "text": "Y usted realizó un solo"
+    },
+    {
+      "start": 154.17,
+      "end": 155.81,
+      "speaker": "SPEAKER_00",
+      "text": "pago o realizó los dos pagos?"
+    },
+    {
+      "start": 156.51,
+      "end": 157.33,
+      "speaker": "SPEAKER_01",
+      "text": "Un solo pago."
+    },
+    {
+      "start": 157.33,
+      "end": 168.92,
+      "speaker": "SPEAKER_01",
+      "text": "No, pues yo quede de pagar"
+    },
+    {
+      "start": 168.92,
+      "end": 170.96,
+      "speaker": "SPEAKER_01",
+      "text": "pero en ese entonces mi esposo"
+    },
+    {
+      "start": 170.96,
+      "end": 172.26,
+      "speaker": "SPEAKER_01",
+      "text": "tocó que operarlo"
+    },
+    {
+      "start": 172.26,
+      "end": 174.54,
+      "speaker": "SPEAKER_01",
+      "text": "y no pude pagar"
+    },
+    {
+      "start": 174.54,
+      "end": 176.82,
+      "speaker": "SPEAKER_01",
+      "text": "entonces ¿por qué van a subir"
+    },
+    {
+      "start": 176.82,
+      "end": 177.4,
+      "speaker": "SPEAKER_01",
+      "text": "a todo esto?"
+    },
+    {
+      "start": 178.74,
+      "end": 180.66,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora, lo que sucede"
+    },
+    {
+      "start": 180.66,
+      "end": 181.82,
+      "speaker": "SPEAKER_00",
+      "text": "muy seguramente"
+    },
+    {
+      "start": 181.82,
+      "end": 184.66,
+      "speaker": "SPEAKER_00",
+      "text": "lo que pasa es que"
+    },
+    {
+      "start": 184.66,
+      "end": 186.2,
+      "speaker": "SPEAKER_00",
+      "text": "cuando llegamos a un acuerdo"
+    },
+    {
+      "start": 186.2,
+      "end": 188.44,
+      "speaker": "SPEAKER_00",
+      "text": "el punto de pago es"
+    },
+    {
+      "start": 188.44,
+      "end": 189.98,
+      "speaker": "SPEAKER_00",
+      "text": "para condonar ya bien si"
+    },
+    {
+      "start": 189.98,
+      "end": 192.16,
+      "speaker": "SPEAKER_00",
+      "text": "lo demás es que"
+    },
+    {
+      "start": 192.16,
+      "end": 193.2,
+      "speaker": "SPEAKER_00",
+      "text": "se quita el acuerdo"
+    },
+    {
+      "start": 193.2,
+      "end": 194.82,
+      "speaker": "SPEAKER_00",
+      "text": "si usted quiere"
+    },
+    {
+      "start": 194.82,
+      "end": 197.9,
+      "speaker": "SPEAKER_00",
+      "text": "digamos un ejemplo"
+    },
+    {
+      "start": 197.9,
+      "end": 200.3,
+      "speaker": "SPEAKER_00",
+      "text": "yo hoy le digo cancele 500 mil"
+    },
+    {
+      "start": 200.3,
+      "end": 202.28,
+      "speaker": "SPEAKER_00",
+      "text": "pesos y dejamos todo el día, un ejemplo"
+    },
+    {
+      "start": 202.28,
+      "end": 204.32,
+      "speaker": "SPEAKER_00",
+      "text": "entonces si llegamos"
+    },
+    {
+      "start": 204.32,
+      "end": 206.38,
+      "speaker": "SPEAKER_00",
+      "text": "a ese acuerdo yo espero que usted cancele"
+    },
+    {
+      "start": 206.38,
+      "end": 208.32,
+      "speaker": "SPEAKER_00",
+      "text": "los 500, si de pronto"
+    },
+    {
+      "start": 208.32,
+      "end": 209.66,
+      "speaker": "SPEAKER_00",
+      "text": "usted te lo cancele los 200"
+    },
+    {
+      "start": 209.66,
+      "end": 211.94,
+      "speaker": "SPEAKER_00",
+      "text": "pues ese acuerdo ya no es válido"
+    },
+    {
+      "start": 211.94,
+      "end": 213.6,
+      "speaker": "SPEAKER_00",
+      "text": "señor, la acusación"
+    },
+    {
+      "start": 213.6,
+      "end": 218.38,
+      "speaker": "SPEAKER_00",
+      "text": "Si de pronto tiene usted algo por escrito o algo, yo con mucho gusto lo puedo instalar."
+    },
+    {
+      "start": 219.12,
+      "end": 223.24,
+      "speaker": "SPEAKER_00",
+      "text": "El acuerdo que yo tengo es pagar lo que se juegue en ese momento capital"
+    },
+    {
+      "start": 223.24,
+      "end": 228.28,
+      "speaker": "SPEAKER_00",
+      "text": "y poder evitar la llamadera, poder que usted en este caso pueda evitarse"
+    },
+    {
+      "start": 228.28,
+      "end": 232.12,
+      "speaker": "SPEAKER_00",
+      "text": "cualquier tipo de inicio de proceso legal ya con nosotros, con CES."
+    },
+    {
+      "start": 233.87,
+      "end": 237.77,
+      "speaker": "SPEAKER_01",
+      "text": "Pero ¿cuál proceso, señor? Que si yo no quede viendo sino 320 mil pesos,"
+    },
+    {
+      "start": 237.87,
+      "end": 240.93,
+      "speaker": "SPEAKER_01",
+      "text": "¿qué proceso le van a hacer a una persona por 320 mil pesos?"
+    },
+    {
+      "start": 240.93,
+      "end": 244.01,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora, lo que sucede es que en su momento"
+    },
+    {
+      "start": 244.01,
+      "end": 245.35,
+      "speaker": "SPEAKER_00",
+      "text": "para el año que usted"
+    },
+    {
+      "start": 245.35,
+      "end": 247.65,
+      "speaker": "SPEAKER_00",
+      "text": "utilizó la tarjeta, eso fue"
+    },
+    {
+      "start": 247.65,
+      "end": 248.65,
+      "speaker": "SPEAKER_00",
+      "text": "un valor que usted"
+    },
+    {
+      "start": 248.65,
+      "end": 251.73,
+      "speaker": "SPEAKER_00",
+      "text": "en su saldo, de acuerdo a sus cuentas"
+    },
+    {
+      "start": 251.73,
+      "end": 253.81,
+      "speaker": "SPEAKER_00",
+      "text": "sin embargo, esto genera"
+    },
+    {
+      "start": 253.81,
+      "end": 255.95,
+      "speaker": "SPEAKER_00",
+      "text": "intereses, genera gastos moratorios"
+    },
+    {
+      "start": 255.95,
+      "end": 257.71,
+      "speaker": "SPEAKER_00",
+      "text": "y demás con el transcurso de los días"
+    },
+    {
+      "start": 257.71,
+      "end": 258.79,
+      "speaker": "SPEAKER_00",
+      "text": "¿Sí señora?"
+    },
+    {
+      "start": 260.13,
+      "end": 261.79,
+      "speaker": "SPEAKER_00",
+      "text": "lastimosamente son las deudas"
+    },
+    {
+      "start": 261.79,
+      "end": 263.85,
+      "speaker": "SPEAKER_00",
+      "text": "que en nuestro país, cuando uno adquiere"
+    },
+    {
+      "start": 263.85,
+      "end": 265.75,
+      "speaker": "SPEAKER_00",
+      "text": "un producto financiero"
+    },
+    {
+      "start": 265.75,
+      "end": 266.77,
+      "speaker": "SPEAKER_00",
+      "text": "¿Sí señora?"
+    },
+    {
+      "start": 266.81,
+      "end": 269.29,
+      "speaker": "SPEAKER_01",
+      "text": "Yo soy una persona totalmente"
+    },
+    {
+      "start": 269.29,
+      "end": 272.01,
+      "speaker": "SPEAKER_01",
+      "text": "madre, o sea, cabeza de familia"
+    },
+    {
+      "start": 272.01,
+      "end": 274.01,
+      "speaker": "SPEAKER_01",
+      "text": "porque mi esposo, él es"
+    },
+    {
+      "start": 274.01,
+      "end": 275.05,
+      "speaker": "SPEAKER_01",
+      "text": "enfermo de la cadera"
+    },
+    {
+      "start": 275.05,
+      "end": 277.73,
+      "speaker": "SPEAKER_01",
+      "text": "y yo no tengo con qué pagar"
+    },
+    {
+      "start": 277.73,
+      "end": 279.57,
+      "speaker": "SPEAKER_01",
+      "text": "un poco de empleados"
+    },
+    {
+      "start": 279.57,
+      "end": 281.75,
+      "speaker": "SPEAKER_01",
+      "text": "de una plata que no debo, debo ser"
+    },
+    {
+      "start": 281.75,
+      "end": 283.05,
+      "speaker": "SPEAKER_01",
+      "text": "de 320 mil pesos"
+    },
+    {
+      "start": 283.05,
+      "end": 284.84,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora, y"
+    },
+    {
+      "start": 284.84,
+      "end": 288.24,
+      "speaker": "SPEAKER_00",
+      "text": "hacia el año cuando empezamos"
+    },
+    {
+      "start": 288.24,
+      "end": 290.08,
+      "speaker": "SPEAKER_00",
+      "text": "a generar los cobros por el tema"
+    },
+    {
+      "start": 290.08,
+      "end": 290.76,
+      "speaker": "SPEAKER_00",
+      "text": "del incumplimiento"
+    },
+    {
+      "start": 290.76,
+      "end": 293.97,
+      "speaker": "SPEAKER_00",
+      "text": "¿Usted"
+    },
+    {
+      "start": 293.97,
+      "end": 296.33,
+      "speaker": "SPEAKER_00",
+      "text": "cuál era el monto que realmente"
+    },
+    {
+      "start": 296.33,
+      "end": 296.73,
+      "speaker": "SPEAKER_00",
+      "text": "tenía?"
+    },
+    {
+      "start": 296.73,
+      "end": 299.37,
+      "speaker": "SPEAKER_00",
+      "text": "o que usted por ejemplo diga"
+    },
+    {
+      "start": 299.37,
+      "end": 302.75,
+      "speaker": "SPEAKER_01",
+      "text": "pero si es que"
+    },
+    {
+      "start": 302.75,
+      "end": 305.65,
+      "speaker": "SPEAKER_01",
+      "text": "es que yo he pagado y he pagado y he pagado"
+    },
+    {
+      "start": 305.65,
+      "end": 307.67,
+      "speaker": "SPEAKER_01",
+      "text": "y nunca borran, cada que me llaman"
+    },
+    {
+      "start": 307.67,
+      "end": 311.73,
+      "speaker": "SPEAKER_01",
+      "text": "entonces no ha servido"
+    },
+    {
+      "start": 311.73,
+      "end": 314.23,
+      "speaker": "SPEAKER_01",
+      "text": "de nada, toda la plata que yo he pagado no ha servido de nada"
+    },
+    {
+      "start": 314.23,
+      "end": 317.59,
+      "speaker": "SPEAKER_00",
+      "text": "pues mi señora, de pronto le digo eso"
+    },
+    {
+      "start": 317.59,
+      "end": 321.01,
+      "speaker": "SPEAKER_00",
+      "text": "si de pronto, por ejemplo, se llega a un acuerdo de pago"
+    },
+    {
+      "start": 321.01,
+      "end": 323.59,
+      "speaker": "SPEAKER_00",
+      "text": "de la entidad, en este caso"
+    },
+    {
+      "start": 323.59,
+      "end": 326.05,
+      "speaker": "SPEAKER_00",
+      "text": "Credivalorios, nosotros que ya compramos su cartera"
+    },
+    {
+      "start": 326.05,
+      "end": 328.03,
+      "speaker": "SPEAKER_00",
+      "text": "la idea es cumplir el acuerdo"
+    },
+    {
+      "start": 328.03,
+      "end": 330.65,
+      "speaker": "SPEAKER_00",
+      "text": "un ejemplo, yo le digo"
+    },
+    {
+      "start": 330.65,
+      "end": 332.37,
+      "speaker": "SPEAKER_00",
+      "text": "para liquidar esto son"
+    },
+    {
+      "start": 332.37,
+      "end": 334.51,
+      "speaker": "SPEAKER_00",
+      "text": "12 cuotas de 200 mil pesos"
+    },
+    {
+      "start": 334.51,
+      "end": 335.97,
+      "speaker": "SPEAKER_00",
+      "text": "lo que esperamos es que"
+    },
+    {
+      "start": 335.97,
+      "end": 339.03,
+      "speaker": "SPEAKER_00",
+      "text": "frenamos interés y frenamos todo"
+    },
+    {
+      "start": 339.03,
+      "end": 340.99,
+      "speaker": "SPEAKER_00",
+      "text": "y se cumplan los 200 mil pesos"
+    },
+    {
+      "start": 340.99,
+      "end": 342.39,
+      "speaker": "SPEAKER_00",
+      "text": "con unas cosas que usted"
+    },
+    {
+      "start": 342.39,
+      "end": 344.75,
+      "speaker": "SPEAKER_00",
+      "text": "deje de cumplir, pues lastimosamente"
+    },
+    {
+      "start": 344.75,
+      "end": 346.41,
+      "speaker": "SPEAKER_00",
+      "text": "el acuerdo"
+    },
+    {
+      "start": 346.41,
+      "end": 348.81,
+      "speaker": "SPEAKER_00",
+      "text": "y los intereses se siguen generando y demás"
+    },
+    {
+      "start": 348.81,
+      "end": 352.73,
+      "speaker": "SPEAKER_00",
+      "text": "no, pero muy terrible"
+    },
+    {
+      "start": 352.73,
+      "end": 355.05,
+      "speaker": "SPEAKER_01",
+      "text": "muy terrible porque son muy abusivos"
+    },
+    {
+      "start": 355.05,
+      "end": 361.89,
+      "speaker": "SPEAKER_01",
+      "text": "O sea, de verdad, uno quiere pagar y todo, pero es que son muy abusivos."
+    },
+    {
+      "start": 362.01,
+      "end": 364.49,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo van a cobrar por 300 mil, por 2 millones y pucho?"
+    },
+    {
+      "start": 366.02,
+      "end": 370.52,
+      "speaker": "SPEAKER_00",
+      "text": "Señora, aquí me registra que la deuda del pago a capital de esa tarjeta"
+    },
+    {
+      "start": 370.52,
+      "end": 373.84,
+      "speaker": "SPEAKER_00",
+      "text": "era de 1 millón 697 mil pesos."
+    },
+    {
+      "start": 374.84,
+      "end": 377.94,
+      "speaker": "SPEAKER_00",
+      "text": "No sé si la persona que tenga algún extracto, algún documento,"
+    },
+    {
+      "start": 377.96,
+      "end": 379.88,
+      "speaker": "SPEAKER_00",
+      "text": "donde diga que solamente debe ese valor."
+    },
+    {
+      "start": 381.2,
+      "end": 382.28,
+      "speaker": "SPEAKER_01",
+      "text": "Nada, es que a mí..."
+    },
+    {
+      "start": 382.28,
+      "end": 385.58,
+      "speaker": "SPEAKER_01",
+      "text": "es que a mi no me han dado"
+    },
+    {
+      "start": 385.58,
+      "end": 387.06,
+      "speaker": "SPEAKER_01",
+      "text": "nada ni nada de papeles"
+    },
+    {
+      "start": 387.06,
+      "end": 388.86,
+      "speaker": "SPEAKER_01",
+      "text": "simplemente pagué esa vez"
+    },
+    {
+      "start": 388.86,
+      "end": 391.6,
+      "speaker": "SPEAKER_01",
+      "text": "esos 320 mil pesos en efecti"
+    },
+    {
+      "start": 391.6,
+      "end": 391.92,
+      "speaker": "SPEAKER_01",
+      "text": "y ya"
+    },
+    {
+      "start": 391.92,
+      "end": 396.52,
+      "speaker": "SPEAKER_00",
+      "text": "y en ese caso"
+    },
+    {
+      "start": 396.52,
+      "end": 399.22,
+      "speaker": "SPEAKER_00",
+      "text": "lo más importante"
+    },
+    {
+      "start": 399.22,
+      "end": 401.34,
+      "speaker": "SPEAKER_00",
+      "text": "y recuerdo lo de frente también yo le digo"
+    },
+    {
+      "start": 401.34,
+      "end": 403.24,
+      "speaker": "SPEAKER_00",
+      "text": "es que cuando se realiza un acuerdo"
+    },
+    {
+      "start": 403.24,
+      "end": 404.84,
+      "speaker": "SPEAKER_00",
+      "text": "nosotros primero, por ejemplo"
+    },
+    {
+      "start": 404.84,
+      "end": 407.0,
+      "speaker": "SPEAKER_00",
+      "text": "usted me dice, yo voy a pagar 200"
+    },
+    {
+      "start": 407.0,
+      "end": 409.08,
+      "speaker": "SPEAKER_00",
+      "text": "permítame por favor, yo le envío"
+    },
+    {
+      "start": 409.08,
+      "end": 410.46,
+      "speaker": "SPEAKER_00",
+      "text": "por correo electrónico"
+    },
+    {
+      "start": 410.46,
+      "end": 413.56,
+      "speaker": "SPEAKER_00",
+      "text": "le envío el acuerdo y que usted esté"
+    },
+    {
+      "start": 413.56,
+      "end": 415.74,
+      "speaker": "SPEAKER_00",
+      "text": "ahí sí como dice, que usted esté de acuerdo"
+    },
+    {
+      "start": 415.74,
+      "end": 417.94,
+      "speaker": "SPEAKER_00",
+      "text": "porque todo por escrito"
+    },
+    {
+      "start": 417.94,
+      "end": 419.44,
+      "speaker": "SPEAKER_00",
+      "text": "queda más bonito porque es una manera"
+    },
+    {
+      "start": 419.44,
+      "end": 421.88,
+      "speaker": "SPEAKER_00",
+      "text": "de que después, ay que es que me llamaron"
+    },
+    {
+      "start": 421.88,
+      "end": 423.6,
+      "speaker": "SPEAKER_00",
+      "text": "no, acá tengo mi pasisal"
+    },
+    {
+      "start": 423.6,
+      "end": 425.0,
+      "speaker": "SPEAKER_00",
+      "text": "tengo el acuerdo que yo hice"
+    },
+    {
+      "start": 425.0,
+      "end": 427.4,
+      "speaker": "SPEAKER_00",
+      "text": "porque digamos que hay que hacer las cosas"
+    },
+    {
+      "start": 427.4,
+      "end": 428.06,
+      "speaker": "SPEAKER_00",
+      "text": "al derecho"
+    },
+    {
+      "start": 428.06,
+      "end": 431.38,
+      "speaker": "SPEAKER_00",
+      "text": "lastimosamente aquí lo que yo encuentro"
+    },
+    {
+      "start": 431.38,
+      "end": 433.56,
+      "speaker": "SPEAKER_00",
+      "text": "es que la información que tengo"
+    },
+    {
+      "start": 433.56,
+      "end": 436.58,
+      "speaker": "SPEAKER_00",
+      "text": "del pago a capital es de 1.696.000 pesos"
+    },
+    {
+      "start": 436.58,
+      "end": 437.78,
+      "speaker": "SPEAKER_00",
+      "text": "que fue lo que"
+    },
+    {
+      "start": 437.78,
+      "end": 439.1,
+      "speaker": "SPEAKER_00",
+      "text": "en su momento quedó en mora"
+    },
+    {
+      "start": 439.1,
+      "end": 441.38,
+      "speaker": "SPEAKER_00",
+      "text": "y esto ha acumulado intereses"
+    },
+    {
+      "start": 441.38,
+      "end": 442.34,
+      "speaker": "SPEAKER_01",
+      "text": "pero cuál"
+    },
+    {
+      "start": 442.34,
+      "end": 442.9,
+      "speaker": "SPEAKER_01",
+      "text": "pero cuál"
+    },
+    {
+      "start": 442.9,
+      "end": 443.5,
+      "speaker": "SPEAKER_01",
+      "text": "pero cuál"
+    },
+    {
+      "start": 443.5,
+      "end": 445.14,
+      "speaker": "SPEAKER_01",
+      "text": "cuál millón y seiscientos"
+    },
+    {
+      "start": 445.14,
+      "end": 445.64,
+      "speaker": "SPEAKER_01",
+      "text": "si es que"
+    },
+    {
+      "start": 445.64,
+      "end": 447.08,
+      "speaker": "SPEAKER_01",
+      "text": "yo esa vez no me entregaron"
+    },
+    {
+      "start": 447.08,
+      "end": 448.22,
+      "speaker": "SPEAKER_01",
+      "text": "sino un millón de pesos"
+    },
+    {
+      "start": 448.22,
+      "end": 449.7,
+      "speaker": "SPEAKER_01",
+      "text": "y todo lo que he pagado"
+    },
+    {
+      "start": 449.7,
+      "end": 450.8,
+      "speaker": "SPEAKER_01",
+      "text": "todo lo que"
+    },
+    {
+      "start": 450.8,
+      "end": 451.86,
+      "speaker": "SPEAKER_01",
+      "text": "he pagado más de"
+    },
+    {
+      "start": 451.86,
+      "end": 452.4,
+      "speaker": "SPEAKER_01",
+      "text": "más mejor"
+    },
+    {
+      "start": 452.4,
+      "end": 454.44,
+      "speaker": "SPEAKER_01",
+      "text": "creo que unas cuatro veces"
+    },
+    {
+      "start": 454.44,
+      "end": 454.92,
+      "speaker": "SPEAKER_01",
+      "text": "esa plata"
+    },
+    {
+      "start": 454.92,
+      "end": 456.2,
+      "speaker": "SPEAKER_01",
+      "text": "y nunca borran"
+    },
+    {
+      "start": 456.2,
+      "end": 458.58,
+      "speaker": "SPEAKER_00",
+      "text": "señora"
+    },
+    {
+      "start": 458.58,
+      "end": 459.3,
+      "speaker": "SPEAKER_00",
+      "text": "de pronto"
+    },
+    {
+      "start": 459.3,
+      "end": 459.9,
+      "speaker": "SPEAKER_00",
+      "text": "de pronto"
+    },
+    {
+      "start": 459.9,
+      "end": 460.56,
+      "speaker": "SPEAKER_00",
+      "text": "yo hago"
+    },
+    {
+      "start": 460.56,
+      "end": 461.56,
+      "speaker": "SPEAKER_00",
+      "text": "hago referencia"
+    },
+    {
+      "start": 461.56,
+      "end": 462.88,
+      "speaker": "SPEAKER_00",
+      "text": "en algún momento"
+    },
+    {
+      "start": 462.88,
+      "end": 463.74,
+      "speaker": "SPEAKER_00",
+      "text": "usted se comunicó"
+    },
+    {
+      "start": 463.74,
+      "end": 464.64,
+      "speaker": "SPEAKER_00",
+      "text": "con credivalores"
+    },
+    {
+      "start": 464.64,
+      "end": 465.26,
+      "speaker": "SPEAKER_00",
+      "text": "o credivalores"
+    },
+    {
+      "start": 465.26,
+      "end": 466.14,
+      "speaker": "SPEAKER_00",
+      "text": "se comunicó con usted"
+    },
+    {
+      "start": 466.14,
+      "end": 466.46,
+      "speaker": "SPEAKER_00",
+      "text": "en ese"
+    },
+    {
+      "start": 466.46,
+      "end": 468.1,
+      "speaker": "SPEAKER_00",
+      "text": "sí"
+    },
+    {
+      "start": 468.1,
+      "end": 468.8,
+      "speaker": "SPEAKER_01",
+      "text": "sí señor"
+    },
+    {
+      "start": 468.8,
+      "end": 470.28,
+      "speaker": "SPEAKER_00",
+      "text": "Exactamente"
+    },
+    {
+      "start": 470.28,
+      "end": 472.66,
+      "speaker": "SPEAKER_00",
+      "text": "Hacia el año 2015"
+    },
+    {
+      "start": 472.66,
+      "end": 474.7,
+      "speaker": "SPEAKER_00",
+      "text": "Que estamos hablando ya casi 11 años"
+    },
+    {
+      "start": 474.7,
+      "end": 476.96,
+      "speaker": "SPEAKER_00",
+      "text": "¿Sumerces a algún tipo de"
+    },
+    {
+      "start": 476.96,
+      "end": 478.14,
+      "speaker": "SPEAKER_00",
+      "text": "Carta de crédito"
+    },
+    {
+      "start": 478.14,
+      "end": 480.04,
+      "speaker": "SPEAKER_00",
+      "text": "Un tipo de préstamo con ellos?"
+    },
+    {
+      "start": 481.06,
+      "end": 482.64,
+      "speaker": "SPEAKER_01",
+      "text": "Nada, nada, desde esa vez que me dieron"
+    },
+    {
+      "start": 482.64,
+      "end": 483.4,
+      "speaker": "SPEAKER_01",
+      "text": "Esa plata ni más"
+    },
+    {
+      "start": 483.4,
+      "end": 485.4,
+      "speaker": "SPEAKER_01",
+      "text": "Con lo que le quitan a uno"
+    },
+    {
+      "start": 485.4,
+      "end": 488.2,
+      "speaker": "SPEAKER_01",
+      "text": "Y llaman que iba a sacar más plata"
+    },
+    {
+      "start": 488.2,
+      "end": 490.9,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora"
+    },
+    {
+      "start": 490.9,
+      "end": 492.26,
+      "speaker": "SPEAKER_00",
+      "text": "Porque en ese caso"
+    },
+    {
+      "start": 492.26,
+      "end": 494.94,
+      "speaker": "SPEAKER_00",
+      "text": "Si usted tiene, digamos en ese caso"
+    },
+    {
+      "start": 494.94,
+      "end": 497.42,
+      "speaker": "SPEAKER_00",
+      "text": "Algún tipo de soporte o comprobante"
+    },
+    {
+      "start": 497.42,
+      "end": 499.16,
+      "speaker": "SPEAKER_00",
+      "text": "Con mucho gusto yo podría escalar"
+    },
+    {
+      "start": 499.16,
+      "end": 501.7,
+      "speaker": "SPEAKER_00",
+      "text": "pero actualmente la deuda"
+    },
+    {
+      "start": 501.7,
+      "end": 503.0,
+      "speaker": "SPEAKER_00",
+      "text": "y el reporte negativo"
+    },
+    {
+      "start": 503.0,
+      "end": 505.76,
+      "speaker": "SPEAKER_00",
+      "text": "me ronda por este monto"
+    },
+    {
+      "start": 505.76,
+      "end": 506.0,
+      "speaker": "SPEAKER_00",
+      "text": "igual"
+    },
+    {
+      "start": 506.0,
+      "end": 507.26,
+      "speaker": "SPEAKER_01",
+      "text": "es más"
+    },
+    {
+      "start": 507.26,
+      "end": 511.16,
+      "speaker": "SPEAKER_01",
+      "text": "tras de que me han quitado"
+    },
+    {
+      "start": 511.16,
+      "end": 513.34,
+      "speaker": "SPEAKER_01",
+      "text": "todo lo que se les ha dado la gana"
+    },
+    {
+      "start": 513.34,
+      "end": 515.5,
+      "speaker": "SPEAKER_01",
+      "text": "ahorita me dejaron"
+    },
+    {
+      "start": 515.5,
+      "end": 516.02,
+      "speaker": "SPEAKER_01",
+      "text": "me dejaron"
+    },
+    {
+      "start": 516.02,
+      "end": 518.88,
+      "speaker": "SPEAKER_01",
+      "text": "en ceros porque no puedo sacar"
+    },
+    {
+      "start": 518.88,
+      "end": 520.62,
+      "speaker": "SPEAKER_01",
+      "text": "un crédito de ningún lado"
+    },
+    {
+      "start": 520.62,
+      "end": 522.94,
+      "speaker": "SPEAKER_01",
+      "text": "entonces que hago"
+    },
+    {
+      "start": 522.94,
+      "end": 524.51,
+      "speaker": "SPEAKER_00",
+      "text": "señor"
+    },
+    {
+      "start": 524.51,
+      "end": 526.57,
+      "speaker": "SPEAKER_00",
+      "text": "en ese caso"
+    },
+    {
+      "start": 526.57,
+      "end": 529.15,
+      "speaker": "SPEAKER_00",
+      "text": "¿tiene algún soporte o comprobante"
+    },
+    {
+      "start": 529.15,
+      "end": 531.61,
+      "speaker": "SPEAKER_00",
+      "text": "de lo que se le envolvió en ese momento?"
+    },
+    {
+      "start": 534.13,
+      "end": 535.83,
+      "speaker": "SPEAKER_01",
+      "text": "Esa vez me mandaron un papelito,"
+    },
+    {
+      "start": 535.99,
+      "end": 537.13,
+      "speaker": "SPEAKER_01",
+      "text": "pero la verdad, la verdad,"
+    },
+    {
+      "start": 537.23,
+      "end": 539.87,
+      "speaker": "SPEAKER_01",
+      "text": "ni siquiera sé dónde lo dejé."
+    },
+    {
+      "start": 541.71,
+      "end": 542.71,
+      "speaker": "SPEAKER_00",
+      "text": "Vamos con lo siguiente."
+    },
+    {
+      "start": 544.65,
+      "end": 545.61,
+      "speaker": "SPEAKER_00",
+      "text": "Yo le voy a escribir..."
+    },
+    {
+      "start": 546.67,
+      "end": 548.07,
+      "speaker": "SPEAKER_00",
+      "text": "¿Tiene WhatsApp en esta línea?"
+    },
+    {
+      "start": 549.79,
+      "end": 550.15,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señor."
+    },
+    {
+      "start": 550.53,
+      "end": 552.55,
+      "speaker": "SPEAKER_00",
+      "text": "Si llega a encontrar algún tipo de soporte,"
+    },
+    {
+      "start": 552.65,
+      "end": 553.55,
+      "speaker": "SPEAKER_00",
+      "text": "algún tipo de evidencia,"
+    },
+    {
+      "start": 553.59,
+      "end": 554.33,
+      "speaker": "SPEAKER_00",
+      "text": "me la puede enviar."
+    },
+    {
+      "start": 554.45,
+      "end": 555.77,
+      "speaker": "SPEAKER_00",
+      "text": "Yo con mucho gusto la puedo escalar."
+    },
+    {
+      "start": 556.13,
+      "end": 557.33,
+      "speaker": "SPEAKER_00",
+      "text": "Y de paso me voy a mirar"
+    },
+    {
+      "start": 557.33,
+      "end": 560.41,
+      "speaker": "SPEAKER_00",
+      "text": "con nuestra área financiera"
+    },
+    {
+      "start": 560.41,
+      "end": 562.67,
+      "speaker": "SPEAKER_00",
+      "text": "qué tipo de posibilidades o alternativas"
+    },
+    {
+      "start": 562.67,
+      "end": 563.51,
+      "speaker": "SPEAKER_00",
+      "text": "le podemos brindar"
+    },
+    {
+      "start": 563.51,
+      "end": 565.95,
+      "speaker": "SPEAKER_00",
+      "text": "para poder congelar primero los intereses"
+    },
+    {
+      "start": 565.95,
+      "end": 566.99,
+      "speaker": "SPEAKER_00",
+      "text": "que no sigan subiendo"
+    },
+    {
+      "start": 566.99,
+      "end": 569.21,
+      "speaker": "SPEAKER_00",
+      "text": "y poder brindarle un alivio financiero"
+    },
+    {
+      "start": 569.21,
+      "end": 571.27,
+      "speaker": "SPEAKER_00",
+      "text": "cosa de que pueda ofrecerse a la empresa"
+    },
+    {
+      "start": 571.27,
+      "end": 573.49,
+      "speaker": "SPEAKER_00",
+      "text": "pero también necesito por favor"
+    },
+    {
+      "start": 573.49,
+      "end": 574.55,
+      "speaker": "SPEAKER_00",
+      "text": "que su merced verifique"
+    },
+    {
+      "start": 574.55,
+      "end": 576.11,
+      "speaker": "SPEAKER_00",
+      "text": "si tiene algún documento o algo"
+    },
+    {
+      "start": 576.11,
+      "end": 577.45,
+      "speaker": "SPEAKER_00",
+      "text": "de que está debilitado"
+    },
+    {
+      "start": 577.45,
+      "end": 581.51,
+      "speaker": "SPEAKER_00",
+      "text": "600 mil pesos"
+    },
+    {
+      "start": 581.51,
+      "end": 582.65,
+      "speaker": "SPEAKER_00",
+      "text": "que me indica usted"
+    },
+    {
+      "start": 582.65,
+      "end": 585.75,
+      "speaker": "SPEAKER_01",
+      "text": "Sí señor, yo los cancelé"
+    },
+    {
+      "start": 585.75,
+      "end": 591.48,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora, no, cuando usted me indica"
+    },
+    {
+      "start": 591.48,
+      "end": 593.34,
+      "speaker": "SPEAKER_00",
+      "text": "que lo único que usted debía"
+    },
+    {
+      "start": 593.34,
+      "end": 594.86,
+      "speaker": "SPEAKER_00",
+      "text": "o lo único capital que le"
+    },
+    {
+      "start": 594.86,
+      "end": 596.7,
+      "speaker": "SPEAKER_00",
+      "text": "quedó pendiente, fueron"
+    },
+    {
+      "start": 596.7,
+      "end": 599.22,
+      "speaker": "SPEAKER_00",
+      "text": "trescientos y pico veinte pesos"
+    },
+    {
+      "start": 599.22,
+      "end": 600.52,
+      "speaker": "SPEAKER_00",
+      "text": "Sí"
+    },
+    {
+      "start": 600.52,
+      "end": 602.86,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora, entonces si de pronto"
+    },
+    {
+      "start": 602.86,
+      "end": 604.26,
+      "speaker": "SPEAKER_00",
+      "text": "vamos a iniciar la conversación"
+    },
+    {
+      "start": 604.26,
+      "end": 606.32,
+      "speaker": "SPEAKER_00",
+      "text": "y espérense que"
+    },
+    {
+      "start": 606.32,
+      "end": 609.46,
+      "speaker": "SPEAKER_00",
+      "text": "si no, yo le voy a enviar"
+    },
+    {
+      "start": 609.46,
+      "end": 610.94,
+      "speaker": "SPEAKER_00",
+      "text": "todas las propuestas y miramos a ver"
+    },
+    {
+      "start": 610.94,
+      "end": 613.1,
+      "speaker": "SPEAKER_00",
+      "text": "qué podemos acertar y cosas"
+    },
+    {
+      "start": 613.1,
+      "end": 615.16,
+      "speaker": "SPEAKER_00",
+      "text": "que evitemos todo este tema engorroso, ¿bueno?"
+    },
+    {
+      "start": 616.52,
+      "end": 618.16,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor, porque es que, o sea,"
+    },
+    {
+      "start": 618.58,
+      "end": 620.2,
+      "speaker": "SPEAKER_01",
+      "text": "créame que en ningún banco,"
+    },
+    {
+      "start": 620.36,
+      "end": 622.36,
+      "speaker": "SPEAKER_01",
+      "text": "en ninguna entidad, están"
+    },
+    {
+      "start": 622.36,
+      "end": 624.32,
+      "speaker": "SPEAKER_01",
+      "text": "cobrando así, como, como,"
+    },
+    {
+      "start": 624.42,
+      "end": 626.42,
+      "speaker": "SPEAKER_01",
+      "text": "como, como, como allá,"
+    },
+    {
+      "start": 626.56,
+      "end": 627.78,
+      "speaker": "SPEAKER_01",
+      "text": "allá en el..."
+    },
+    {
+      "start": 627.78,
+      "end": 631.88,
+      "speaker": "SPEAKER_00",
+      "text": "No, y el propósito nuestro siempre va a ser"
+    },
+    {
+      "start": 631.88,
+      "end": 633.76,
+      "speaker": "SPEAKER_00",
+      "text": "poder ayudar a las personas. Pues así"
+    },
+    {
+      "start": 633.76,
+      "end": 635.76,
+      "speaker": "SPEAKER_00",
+      "text": "quedaríamos, mis... Le agradezco mucho su"
+    },
+    {
+      "start": 635.76,
+      "end": 637.26,
+      "speaker": "SPEAKER_00",
+      "text": "tiempo, que pase buen día. Hasta luego."
+    },
+    {
+      "start": 638.84,
+      "end": 639.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, sí, señor."
+    }
+  ],
+  "short_id": "audioh28-74b16f62-2spk",
+  "original_file_id": "74b16f62-f04d-42c8-9872-ea9b9ed1dd75"
+}

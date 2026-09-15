@@ -1,0 +1,491 @@
+{
+  "file_id": "77d258d0-9b2e-4086-b624-f280eed0957b",
+  "source": "humano",
+  "duration_sec": 283.16,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 12.34,
+      "end": 15.75,
+      "speaker": "SPEAKER_01",
+      "text": "Buenos días, hablo con el señor"
+    },
+    {
+      "start": 15.75,
+      "end": 18.9,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora"
+    },
+    {
+      "start": 18.9,
+      "end": 20.62,
+      "speaker": "SPEAKER_01",
+      "text": "Habla con el señor"
+    },
+    {
+      "start": 20.62,
+      "end": 24.66,
+      "speaker": "SPEAKER_01",
+      "text": "Nos comunicamos referente a su obligación con el señor"
+    },
+    {
+      "start": 24.66,
+      "end": 27.69,
+      "speaker": "SPEAKER_00",
+      "text": "V.U.V.A. como se encuentra el día de hoy"
+    },
+    {
+      "start": 27.69,
+      "end": 29.39,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, soy ocupado, señora"
+    },
+    {
+      "start": 29.39,
+      "end": 31.51,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede llamar por ahí a la una?"
+    },
+    {
+      "start": 32.49,
+      "end": 33.07,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo señor"
+    },
+    {
+      "start": 33.07,
+      "end": 34.87,
+      "speaker": "SPEAKER_01",
+      "text": "No nos demoramos nada"
+    },
+    {
+      "start": 34.87,
+      "end": 37.39,
+      "speaker": "SPEAKER_01",
+      "text": "Solo llamo para verificar que usted realizó el pago"
+    },
+    {
+      "start": 37.39,
+      "end": 40.01,
+      "speaker": "SPEAKER_01",
+      "text": "Según compromiso de pago el día 31 de julio"
+    },
+    {
+      "start": 40.01,
+      "end": 41.51,
+      "speaker": "SPEAKER_01",
+      "text": "Por 88 mil pesos"
+    },
+    {
+      "start": 41.51,
+      "end": 45.63,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora"
+    },
+    {
+      "start": 45.63,
+      "end": 47.6,
+      "speaker": "SPEAKER_01",
+      "text": "Realizó el pago"
+    },
+    {
+      "start": 47.6,
+      "end": 60.59,
+      "speaker": "SPEAKER_00",
+      "text": "la verdad no porque motivos porque como yo trabajo en la rusa y fue madre y le voy a"
+    },
+    {
+      "start": 60.59,
+      "end": 65.69,
+      "speaker": "SPEAKER_00",
+      "text": "pagar cuando que creo que era eso tocaba un viernes cierto si el viernes pasado por eso"
+    },
+    {
+      "start": 65.69,
+      "end": 72.17,
+      "speaker": "SPEAKER_00",
+      "text": "pero yo había hablado con el señor y tocaba el tocaba pagarlo el sábado y yo cuando cuando me"
+    },
+    {
+      "start": 72.17,
+      "end": 77.03,
+      "speaker": "SPEAKER_00",
+      "text": "acordé ya era por la tarde y como salgo siempre tarde y ya se me había gastado toda la plata"
+    },
+    {
+      "start": 77.03,
+      "end": 83.02,
+      "speaker": "SPEAKER_01",
+      "text": "¿O sea que no va a realizar el pago el día de hoy para el cumplimiento de este acuerdo?"
+    },
+    {
+      "start": 84.3,
+      "end": 88.04,
+      "speaker": "SPEAKER_00",
+      "text": "Pues, pues la verdad, la verdad en este momento no tengo plata"
+    },
+    {
+      "start": 88.04,
+      "end": 94.67,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, ¿o sea que cancelamos el acuerdo de pago y va a perder los beneficios que adquirió?"
+    },
+    {
+      "start": 95.89,
+      "end": 103.51,
+      "speaker": "SPEAKER_00",
+      "text": "Y digamos un ejemplo, es que ellos me pagan hasta el, este sábado no, es que donde yo trabajo pagan es como quincenal"
+    },
+    {
+      "start": 103.51,
+      "end": 110.22,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, ¿o sea que si usted podría realizar el pago para el día 15 de agosto?"
+    },
+    {
+      "start": 110.52,
+      "end": 115.38,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señora, sin falta. Y antes, a ver si me queda más, le podría abonar algo más."
+    },
+    {
+      "start": 116.6,
+      "end": 122.04,
+      "speaker": "SPEAKER_01",
+      "text": "De acuerdo, señor. Entonces vamos a pasar su acuerdo de pago para el día 15 de agosto."
+    },
+    {
+      "start": 123.1,
+      "end": 130.18,
+      "speaker": "SPEAKER_01",
+      "text": "Por $28,000 quedamos pendientes del suporte de pago vía WhatsApp para aplicarlo al sistema."
+    },
+    {
+      "start": 130.88,
+      "end": 135.86,
+      "speaker": "SPEAKER_01",
+      "text": "Yo voy a volver a enviar el acuerdo de pago con la nueva fecha el 15 de agosto,"
+    },
+    {
+      "start": 135.86,
+      "end": 138.58,
+      "speaker": "SPEAKER_01",
+      "text": "pero es importante dar cumplimiento a este acuerdo"
+    },
+    {
+      "start": 138.58,
+      "end": 141.18,
+      "speaker": "SPEAKER_01",
+      "text": "si no pierdes los beneficios"
+    },
+    {
+      "start": 141.18,
+      "end": 142.98,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señora, es que le iba a preguntar"
+    },
+    {
+      "start": 142.98,
+      "end": 144.12,
+      "speaker": "SPEAKER_00",
+      "text": "¿y este sábado a qué estamos?"
+    },
+    {
+      "start": 145.04,
+      "end": 148.0,
+      "speaker": "SPEAKER_01",
+      "text": "Este sábado estamos a 8 de agosto"
+    },
+    {
+      "start": 148.0,
+      "end": 150.32,
+      "speaker": "SPEAKER_00",
+      "text": "No, sí, entonces el otro sábado, el 15"
+    },
+    {
+      "start": 150.32,
+      "end": 151.54,
+      "speaker": "SPEAKER_00",
+      "text": "dice su merced, sin falta"
+    },
+    {
+      "start": 151.54,
+      "end": 153.8,
+      "speaker": "SPEAKER_00",
+      "text": "y eso se puede ir abonando más"
+    },
+    {
+      "start": 153.8,
+      "end": 154.82,
+      "speaker": "SPEAKER_00",
+      "text": "o cómo es la vuelta ahí"
+    },
+    {
+      "start": 154.82,
+      "end": 156.45,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, claro, digamos"
+    },
+    {
+      "start": 156.45,
+      "end": 160.17,
+      "speaker": "SPEAKER_01",
+      "text": "este acuerdo quedó a 15 cuotas"
+    },
+    {
+      "start": 160.17,
+      "end": 162.67,
+      "speaker": "SPEAKER_01",
+      "text": "perdón, a 15 cuotas, sí"
+    },
+    {
+      "start": 162.67,
+      "end": 164.53,
+      "speaker": "SPEAKER_01",
+      "text": "de 88 mil pesos"
+    },
+    {
+      "start": 164.53,
+      "end": 169.13,
+      "speaker": "SPEAKER_01",
+      "text": "para pagar un total de 1.220.000, que es el total de su obligación."
+    },
+    {
+      "start": 169.57,
+      "end": 176.87,
+      "speaker": "SPEAKER_01",
+      "text": "Pero si usted puede pagar, digamos, de a 200, de 150, pues va bajando más rápido la deuda"
+    },
+    {
+      "start": 176.87,
+      "end": 181.21,
+      "speaker": "SPEAKER_01",
+      "text": "apenas usted acabe de pagar el total de la obligación, ya que haría pasisalgo,"
+    },
+    {
+      "start": 181.53,
+      "end": 183.05,
+      "speaker": "SPEAKER_01",
+      "text": "y se despide su pasisalgo."
+    },
+    {
+      "start": 183.83,
+      "end": 188.69,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, y sí, señora, y te le voy a preguntar, ¿y ese reportado cuánto demora para quitárselo a uno?"
+    },
+    {
+      "start": 188.85,
+      "end": 194.56,
+      "speaker": "SPEAKER_01",
+      "text": "El reporte negativo, antes de que se diga, digamos, acaba de pagar ahorita en el mes de agosto,"
+    },
+    {
+      "start": 194.56,
+      "end": 196.54,
+      "speaker": "SPEAKER_01",
+      "text": "digamos que usted pagó toda la totalidad"
+    },
+    {
+      "start": 196.54,
+      "end": 198.62,
+      "speaker": "SPEAKER_01",
+      "text": "su reporte negativo"
+    },
+    {
+      "start": 198.62,
+      "end": 199.68,
+      "speaker": "SPEAKER_01",
+      "text": "en el mes"
+    },
+    {
+      "start": 199.68,
+      "end": 202.54,
+      "speaker": "SPEAKER_01",
+      "text": "en octubre ya podría usted"
+    },
+    {
+      "start": 202.54,
+      "end": 203.92,
+      "speaker": "SPEAKER_01",
+      "text": "realizar créditos sin ningún"
+    },
+    {
+      "start": 203.92,
+      "end": 205.54,
+      "speaker": "SPEAKER_01",
+      "text": "inconveniente"
+    },
+    {
+      "start": 205.54,
+      "end": 208.34,
+      "speaker": "SPEAKER_01",
+      "text": "es como un mes que queda para"
+    },
+    {
+      "start": 208.34,
+      "end": 210.64,
+      "speaker": "SPEAKER_01",
+      "text": "nosotros poder levantar el reporte"
+    },
+    {
+      "start": 210.64,
+      "end": 212.48,
+      "speaker": "SPEAKER_01",
+      "text": "negativo y ya el siguiente mes"
+    },
+    {
+      "start": 212.48,
+      "end": 214.44,
+      "speaker": "SPEAKER_01",
+      "text": "usted ya puede hacer créditos con su"
+    },
+    {
+      "start": 214.44,
+      "end": 215.48,
+      "speaker": "SPEAKER_01",
+      "text": "pasisalgo y todo"
+    },
+    {
+      "start": 215.48,
+      "end": 217.8,
+      "speaker": "SPEAKER_00",
+      "text": "bueno, sí señora, muchísimas gracias"
+    },
+    {
+      "start": 217.8,
+      "end": 219.42,
+      "speaker": "SPEAKER_01",
+      "text": "perfecto"
+    },
+    {
+      "start": 219.42,
+      "end": 222.88,
+      "speaker": "SPEAKER_01",
+      "text": "su acuerdo de pago queda para el día 15 de agosto"
+    },
+    {
+      "start": 222.88,
+      "end": 224.62,
+      "speaker": "SPEAKER_01",
+      "text": "por 88 mil pesos"
+    },
+    {
+      "start": 224.62,
+      "end": 227.04,
+      "speaker": "SPEAKER_01",
+      "text": "voy a enviarle nuevamente el acuerdo"
+    },
+    {
+      "start": 227.04,
+      "end": 228.72,
+      "speaker": "SPEAKER_01",
+      "text": "de pago, su número whatsapp es"
+    },
+    {
+      "start": 228.72,
+      "end": 231.04,
+      "speaker": "SPEAKER_01",
+      "text": "314-427-6092"
+    },
+    {
+      "start": 231.66,
+      "end": 233.88,
+      "speaker": "SPEAKER_00",
+      "text": "si señora"
+    },
+    {
+      "start": 233.88,
+      "end": 235.74,
+      "speaker": "SPEAKER_01",
+      "text": "perfecto"
+    },
+    {
+      "start": 235.74,
+      "end": 237.34,
+      "speaker": "SPEAKER_01",
+      "text": "a este whatsapp vuelvo y le envío"
+    },
+    {
+      "start": 237.34,
+      "end": 239.6,
+      "speaker": "SPEAKER_01",
+      "text": "el acuerdo de pago con fecha 15 de agosto"
+    },
+    {
+      "start": 239.6,
+      "end": 241.74,
+      "speaker": "SPEAKER_01",
+      "text": "y quedo pendiente de su soporte"
+    },
+    {
+      "start": 241.74,
+      "end": 242.34,
+      "speaker": "SPEAKER_01",
+      "text": "ese día"
+    },
+    {
+      "start": 242.34,
+      "end": 244.9,
+      "speaker": "SPEAKER_00",
+      "text": "bueno si señora muchísimas gracias"
+    },
+    {
+      "start": 244.9,
+      "end": 247.28,
+      "speaker": "SPEAKER_00",
+      "text": "y es donde se pide cuando uno paga"
+    },
+    {
+      "start": 247.28,
+      "end": 249.7,
+      "speaker": "SPEAKER_00",
+      "text": "la cota se lo van a ir"
+    },
+    {
+      "start": 249.7,
+      "end": 250.94,
+      "speaker": "SPEAKER_00",
+      "text": "donde mismo paga o como es"
+    },
+    {
+      "start": 250.94,
+      "end": 266.74,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, claro, se puede pagar por experti o un corresponsal bancario. En el momento de usted realizar el pago, le van a entregar el recibo de pago. Entonces, este recibo que le entregan, usted le toma foto y me lo envía a mi hijo hasta que le envío el acuerdo."
+    },
+    {
+      "start": 267.62,
+      "end": 269.04,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, bueno, muchísimas gracias."
+    },
+    {
+      "start": 270.14,
+      "end": 278.52,
+      "speaker": "SPEAKER_01",
+      "text": "Perfecto, señor Edison. Para mí es un placer ayudarle a recuperar su tranquilidad financiera. Le abro la boca y que tenga un excelente día."
+    },
+    {
+      "start": 278.96,
+      "end": 280.16,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, lo mismo. Hasta luego."
+    },
+    {
+      "start": 280.78,
+      "end": 281.34,
+      "speaker": "SPEAKER_01",
+      "text": "Hasta luego."
+    },
+    {
+      "start": 281.9,
+      "end": 282.7,
+      "speaker": "SPEAKER_00",
+      "text": "Hasta luego."
+    }
+  ],
+  "short_id": "audioh29-77d258d0-2spk",
+  "original_file_id": "77d258d0-9b2e-4086-b624-f280eed0957b"
+}

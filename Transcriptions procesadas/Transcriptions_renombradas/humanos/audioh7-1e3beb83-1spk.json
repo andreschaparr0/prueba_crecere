@@ -1,0 +1,257 @@
+{
+  "file_id": "1e3beb83-824b-4ad5-8483-f4ff6ea3c05e",
+  "source": "humano",
+  "duration_sec": 160.76,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 14.7,
+      "end": 33.54,
+      "speaker": "SPEAKER_01",
+      "text": "Buenas tardes, ¿cómo se encuentra el día de hoy?"
+    },
+    {
+      "start": 34.5,
+      "end": 35.28,
+      "speaker": "SPEAKER_01",
+      "text": "Muy bien, ¿y usted?"
+    },
+    {
+      "start": 35.98,
+      "end": 37.0,
+      "speaker": "SPEAKER_01",
+      "text": "Bien, gracias."
+    },
+    {
+      "start": 38.32,
+      "end": 45.8,
+      "speaker": "SPEAKER_01",
+      "text": "El día de hoy me estoy comunicando referente a un compromiso de pago que se tenía para el día 15 de agosto por 60 mil pesos,"
+    },
+    {
+      "start": 46.34,
+      "end": 51.76,
+      "speaker": "SPEAKER_01",
+      "text": "según su obligación, que estamos baleando en el sistema y no hemos reflejado su pago."
+    },
+    {
+      "start": 51.88,
+      "end": 52.9,
+      "speaker": "SPEAKER_01",
+      "text": "¿Usted realizó este pago?"
+    },
+    {
+      "start": 54.55,
+      "end": 56.79,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, no, no, no, en el momento todavía no lo ha realizado."
+    },
+    {
+      "start": 56.79,
+      "end": 60.06,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, señor Alejandro, ¿por qué motivo?"
+    },
+    {
+      "start": 61.12,
+      "end": 65.08,
+      "speaker": "SPEAKER_01",
+      "text": "Porque no pude conseguir la plata porque estoy desempleado en el momento"
+    },
+    {
+      "start": 65.08,
+      "end": 70.49,
+      "speaker": "SPEAKER_01",
+      "text": "Señor, pero esta es la oportunidad de que usted quede al día con su obligación"
+    },
+    {
+      "start": 70.49,
+      "end": 73.31,
+      "speaker": "SPEAKER_01",
+      "text": "Ya son 60 mil pesos y ya quedaría a paz y salvo"
+    },
+    {
+      "start": 73.31,
+      "end": 74.81,
+      "speaker": "SPEAKER_01",
+      "text": "¿Son cuántos?"
+    },
+    {
+      "start": 75.21,
+      "end": 76.59,
+      "speaker": "SPEAKER_01",
+      "text": "60 mil pesos, señor"
+    },
+    {
+      "start": 76.59,
+      "end": 79.75,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, ok, ok"
+    },
+    {
+      "start": 79.75,
+      "end": 85.2,
+      "speaker": "SPEAKER_01",
+      "text": "Nosotros a su WhatsApp como a su correo electrónico enviamos el acuerdo de pago"
+    },
+    {
+      "start": 85.2,
+      "end": 86.18,
+      "speaker": "SPEAKER_01",
+      "text": "¿Lo recibió, señor?"
+    },
+    {
+      "start": 87.95,
+      "end": 89.13,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, sí, yo lo recibí"
+    },
+    {
+      "start": 89.13,
+      "end": 92.95,
+      "speaker": "SPEAKER_01",
+      "text": "¿De acuerdo? ¿Se realizaría el pago el día de hoy?"
+    },
+    {
+      "start": 94.59,
+      "end": 99.51,
+      "speaker": "SPEAKER_01",
+      "text": "No, así como le digo que estoy desempleado, me... no, es que me queda difícil en el momento"
+    },
+    {
+      "start": 99.51,
+      "end": 108.18,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendemos, señor... pero usted se le aplicó un descuento sobre el valor de su deuda y con solo 60 mil pesos quedaría el día"
+    },
+    {
+      "start": 108.18,
+      "end": 112.58,
+      "speaker": "SPEAKER_01",
+      "text": "¿Para cuándo se podría realizar este pago para no que no pierda los beneficios?"
+    },
+    {
+      "start": 113.46,
+      "end": 118.74,
+      "speaker": "SPEAKER_01",
+      "text": "¿Será que no se podría para el 30? Que le paguen a mi hermanito y yo al igual que nos preste"
+    },
+    {
+      "start": 118.74,
+      "end": 121.32,
+      "speaker": "SPEAKER_01",
+      "text": "por el 30 de este mes"
+    },
+    {
+      "start": 121.32,
+      "end": 123.56,
+      "speaker": "SPEAKER_01",
+      "text": "comprendo"
+    },
+    {
+      "start": 123.56,
+      "end": 126.1,
+      "speaker": "SPEAKER_01",
+      "text": "correremos la fecha para el día 30"
+    },
+    {
+      "start": 126.1,
+      "end": 127.92,
+      "speaker": "SPEAKER_01",
+      "text": "pero es importante dar cumplimiento"
+    },
+    {
+      "start": 127.92,
+      "end": 129.24,
+      "speaker": "SPEAKER_01",
+      "text": "el día 30 de agosto"
+    },
+    {
+      "start": 129.24,
+      "end": 131.86,
+      "speaker": "SPEAKER_01",
+      "text": "a este acuerdo de pago porque si no"
+    },
+    {
+      "start": 131.86,
+      "end": 133.84,
+      "speaker": "SPEAKER_01",
+      "text": "ya se cancelará y usted perderá"
+    },
+    {
+      "start": 133.84,
+      "end": 135.54,
+      "speaker": "SPEAKER_01",
+      "text": "todos los beneficios y seguirá reportado"
+    },
+    {
+      "start": 135.54,
+      "end": 136.8,
+      "speaker": "SPEAKER_01",
+      "text": "ante centrales de riesgo"
+    },
+    {
+      "start": 136.8,
+      "end": 139.33,
+      "speaker": "SPEAKER_01",
+      "text": "listo Alex"
+    },
+    {
+      "start": 139.33,
+      "end": 143.52,
+      "speaker": "SPEAKER_01",
+      "text": "voy a correr su fecha para el día 30 de agosto"
+    },
+    {
+      "start": 143.52,
+      "end": 145.06,
+      "speaker": "SPEAKER_01",
+      "text": "y quedo pendiente del soporte de pago"
+    },
+    {
+      "start": 145.06,
+      "end": 147.49,
+      "speaker": "SPEAKER_01",
+      "text": "listo Alex"
+    },
+    {
+      "start": 147.49,
+      "end": 149.17,
+      "speaker": "SPEAKER_01",
+      "text": "perfecto"
+    },
+    {
+      "start": 149.17,
+      "end": 151.21,
+      "speaker": "SPEAKER_01",
+      "text": "que tenga un excelente día"
+    },
+    {
+      "start": 151.21,
+      "end": 152.61,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias Lomino"
+    },
+    {
+      "start": 152.61,
+      "end": 154.7,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias, hasta luego"
+    },
+    {
+      "start": 154.7,
+      "end": 156.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hasta luego"
+    },
+    {
+      "start": 156.0,
+      "end": 157.34,
+      "speaker": "SPEAKER_01",
+      "text": "Te amo"
+    }
+  ],
+  "short_id": "audioh7-1e3beb83-1spk",
+  "original_file_id": "1e3beb83-824b-4ad5-8483-f4ff6ea3c05e"
+}

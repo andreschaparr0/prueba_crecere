@@ -1,0 +1,125 @@
+{
+  "file_id": "32616618-6ce3-484f-a1d9-c014394a3492",
+  "source": "ia",
+  "duration_sec": 66.6,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 1.58,
+      "end": 2.34,
+      "speaker": "SPEAKER_01",
+      "text": "Buenos días."
+    },
+    {
+      "start": 4.41,
+      "end": 5.59,
+      "speaker": "SPEAKER_00",
+      "text": "Aló, muy buenos días."
+    },
+    {
+      "start": 8.5,
+      "end": 9.36,
+      "speaker": "SPEAKER_00",
+      "text": "Buenas, por favor."
+    },
+    {
+      "start": 11.75,
+      "end": 12.49,
+      "speaker": "SPEAKER_01",
+      "text": "No, aquí."
+    },
+    {
+      "start": 14.02,
+      "end": 17.92,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos llamando por motivo de un proceso legal."
+    },
+    {
+      "start": 18.12,
+      "end": 20.98,
+      "speaker": "SPEAKER_01",
+      "text": "Pero está equivocado. Este teléfono..."
+    },
+    {
+      "start": 25.78,
+      "end": 26.42,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo."
+    },
+    {
+      "start": 27.16,
+      "end": 28.1,
+      "speaker": "SPEAKER_00",
+      "text": "Disculpe la confusión."
+    },
+    {
+      "start": 28.42,
+      "end": 32.27,
+      "speaker": "SPEAKER_00",
+      "text": "¿Conoce a la... o tiene algún contacto con ella?"
+    },
+    {
+      "start": 32.57,
+      "end": 34.49,
+      "speaker": "SPEAKER_01",
+      "text": "No, ni sé quién será ese diablo."
+    },
+    {
+      "start": 37.74,
+      "end": 38.24,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto."
+    },
+    {
+      "start": 39.99,
+      "end": 40.37,
+      "speaker": "SPEAKER_01",
+      "text": "Ajá."
+    },
+    {
+      "start": 42.59,
+      "end": 43.07,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo."
+    },
+    {
+      "start": 46.17,
+      "end": 47.13,
+      "speaker": "SPEAKER_00",
+      "text": "Agradezco su tiempo."
+    },
+    {
+      "start": 47.13,
+      "end": 50.93,
+      "speaker": "SPEAKER_00",
+      "text": "Vamos a actualizar nuestros registros. Que tenga un buen día."
+    },
+    {
+      "start": 51.94,
+      "end": 52.82,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, que se lleve."
+    },
+    {
+      "start": 54.45,
+      "end": 56.67,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga un excelente día. Hasta luego."
+    },
+    {
+      "start": 57.31,
+      "end": 58.69,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo que más bien dices que coja?"
+    },
+    {
+      "start": 63.07,
+      "end": 66.28,
+      "speaker": "SPEAKER_00",
+      "text": "Mi nombre es ***. ¿Con quién tengo el gusto de hablar?"
+    }
+  ],
+  "short_id": "audioi10-32616618-2spk",
+  "original_file_id": "32616618-6ce3-484f-a1d9-c014394a3492"
+}

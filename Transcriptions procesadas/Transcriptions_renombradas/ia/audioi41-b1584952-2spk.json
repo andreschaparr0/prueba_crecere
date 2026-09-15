@@ -1,0 +1,119 @@
+{
+  "file_id": "b1584952-7de1-4cc6-a83a-9fffa0f747cb",
+  "source": "ia",
+  "duration_sec": 104.52,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 9.38,
+      "speaker": "SPEAKER_00",
+      "text": "Aló, aló, muy buenos días. ¿Podría confirmarme si estoy hablando con ******?"
+    },
+    {
+      "start": 10.29,
+      "end": 11.97,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, con ella hablo."
+    },
+    {
+      "start": 15.65,
+      "end": 24.32,
+      "speaker": "SPEAKER_01",
+      "text": "Lea ****** del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación ******. ¿Cómo se encuentra?"
+    },
+    {
+      "start": 25.43,
+      "end": 26.39,
+      "speaker": "SPEAKER_00",
+      "text": "Bien, sí señor."
+    },
+    {
+      "start": 26.95,
+      "end": 37.09,
+      "speaker": "SPEAKER_01",
+      "text": "Le cuento que muchas personas en una situación parecida a la suya ya lograron ponerse al día y seguir tranquilas."
+    },
+    {
+      "start": 37.09,
+      "end": 41.83,
+      "speaker": "SPEAKER_01",
+      "text": "tranquilas. Me gustaría que usted también pueda. ¿Le puedo contar en un momento de qué se trata?"
+    },
+    {
+      "start": 43.36,
+      "end": 44.2,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor."
+    },
+    {
+      "start": 49.49,
+      "end": 53.47,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias por confirmarlo. Como ya lo han hecho muchos clientes en su misma situación,"
+    },
+    {
+      "start": 53.89,
+      "end": 58.27,
+      "speaker": "SPEAKER_01",
+      "text": "regularizar esta obligación hoy es más sencillo de lo que parece. Por este motivo,"
+    },
+    {
+      "start": 58.39,
+      "end": 62.23,
+      "speaker": "SPEAKER_01",
+      "text": "queremos poder ofrecerle alternativas para ponerse al día con su deuda. ¿Le interesa?"
+    },
+    {
+      "start": 63.37,
+      "end": 64.21,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señor."
+    },
+    {
+      "start": 65.32,
+      "end": 71.83,
+      "speaker": "SPEAKER_01",
+      "text": "Excelente, señor. Queremos ofrecerle un descuento del 0% de toda la deuda. Así,"
+    },
+    {
+      "start": 71.83,
+      "end": 77.11,
+      "speaker": "SPEAKER_01",
+      "text": "le condonaríamos un total de 0 pesos. Con el descuento ya no debería 800 mil pesos,"
+    },
+    {
+      "start": 77.31,
+      "end": 82.85,
+      "speaker": "SPEAKER_01",
+      "text": "sino solo 800 mil pesos. Además, le puedo dejar la opción de pago aprobada por el sistema. Si"
+    },
+    {
+      "start": 82.85,
+      "end": 88.05,
+      "speaker": "SPEAKER_01",
+      "text": "queda en pago único, sería un solo pago de 400 mil pesos. Si queda en cuotas, el sistema le"
+    },
+    {
+      "start": 88.05,
+      "end": 95.93,
+      "speaker": "SPEAKER_01",
+      "text": "confirmará la cantidad exacta de cuotas y el valor de cada una. Es una propuesta por tiempo limitado"
+    },
+    {
+      "start": 95.93,
+      "end": 101.83,
+      "speaker": "SPEAKER_01",
+      "text": "que vencería hoy mismo. Me puede indicar con un sí o un no si le interesa este descuento y hacemos"
+    },
+    {
+      "start": 101.83,
+      "end": 102.73,
+      "speaker": "SPEAKER_01",
+      "text": "este acuerdo de pago."
+    }
+  ],
+  "short_id": "audioi41-b1584952-2spk",
+  "original_file_id": "b1584952-7de1-4cc6-a83a-9fffa0f747cb"
+}

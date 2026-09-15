@@ -1,0 +1,107 @@
+{
+  "file_id": "0aef8aeb-0086-4f38-b53d-a771fc949c2b",
+  "source": "ia",
+  "duration_sec": 83.4,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 0.11,
+      "end": 34.05,
+      "speaker": "SPEAKER_00",
+      "text": "Aló, aló, muy buenos días, buenas, por favor, quién la llama, estamos llamando por motivo de un proceso legal en curso, por confidencialidad necesito que por favor me valide si es su, sí señora, la orden, habla, le llamo por motivo de su obligación, lo llamo del área de embargos, judicializaciones y alivios financieros,"
+    },
+    {
+      "start": 34.05,
+      "end": 35.05,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo me le va a hacer?"
+    },
+    {
+      "start": 35.55,
+      "end": 39.14,
+      "speaker": "SPEAKER_01",
+      "text": "Todo bien, gracias a Dios. Aliviado."
+    },
+    {
+      "start": 40.31,
+      "end": 41.03,
+      "speaker": "SPEAKER_01",
+      "text": "Excelente, señor."
+    },
+    {
+      "start": 41.74,
+      "end": 45.24,
+      "speaker": "SPEAKER_01",
+      "text": "Queremos ofrecerle un descuento del 33% de toda la deuda."
+    },
+    {
+      "start": 45.8,
+      "end": 49.04,
+      "speaker": "SPEAKER_01",
+      "text": "Así le condonaríamos un total de 2.380.000 pesos."
+    },
+    {
+      "start": 49.72,
+      "end": 55.64,
+      "speaker": "SPEAKER_01",
+      "text": "Con el descuento, ya no debería 7.200.000 pesos, sino solo 4.820.000 pesos."
+    },
+    {
+      "start": 56.4,
+      "end": 58.52,
+      "speaker": "SPEAKER_01",
+      "text": "Además, le puedo dejar que pague hasta en tres cuotas."
+    },
+    {
+      "start": 58.88,
+      "end": 63.58,
+      "speaker": "SPEAKER_01",
+      "text": "Así, serían tres pagos mensuales, de 1.610.000 pesos cada uno."
+    },
+    {
+      "start": 64.56,
+      "end": 65.02,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me recuerdas?"
+    },
+    {
+      "start": 65.36,
+      "end": 68.18,
+      "speaker": "SPEAKER_01",
+      "text": "Es una propuesta por tiempo limitado que vencería hoy mismo."
+    },
+    {
+      "start": 68.74,
+      "end": 72.22,
+      "speaker": "SPEAKER_01",
+      "text": "¿Me puede indicar con un sí o un no si le interesa este descuento?"
+    },
+    {
+      "start": 72.32,
+      "end": 74.94,
+      "speaker": "SPEAKER_01",
+      "text": "No, no podría acceder ahora mismo."
+    },
+    {
+      "start": 76.98,
+      "end": 77.38,
+      "speaker": "SPEAKER_01",
+      "text": "Entiendo."
+    },
+    {
+      "start": 78.47,
+      "end": 80.33,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cuánto podría pagar mensualmente entonces?"
+    },
+    {
+      "start": 80.67,
+      "end": 83.39,
+      "speaker": "SPEAKER_01",
+      "text": "Recuerde que el mínimo del acuerdo es de 4.800.000."
+    }
+  ],
+  "short_id": "audioi2-0aef8aeb-2spk",
+  "original_file_id": "0aef8aeb-0086-4f38-b53d-a771fc949c2b"
+}

@@ -1,0 +1,647 @@
+{
+  "file_id": "0445c357-e465-49ae-8067-bfa91d11b532",
+  "source": "humano",
+  "duration_sec": 309.52,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 17.14,
+      "end": 18.1,
+      "speaker": "SPEAKER_00",
+      "text": "Hablo con las..."
+    },
+    {
+      "start": 18.1,
+      "end": 21.76,
+      "speaker": "SPEAKER_00",
+      "text": "¿Quién la necesita?"
+    },
+    {
+      "start": 22.54,
+      "end": 24.56,
+      "speaker": "SPEAKER_00",
+      "text": "Eh, mire, mucho gusto. Mi nombre es..."
+    },
+    {
+      "start": 24.56,
+      "end": 25.52,
+      "speaker": "SPEAKER_00",
+      "text": "Me comunico..."
+    },
+    {
+      "start": 25.52,
+      "end": 29.82,
+      "speaker": "SPEAKER_00",
+      "text": "Nos comunicamos porque realizamos un acuerdo de pago con ella"
+    },
+    {
+      "start": 29.82,
+      "end": 32.44,
+      "speaker": "SPEAKER_00",
+      "text": "y para hoy tenemos la cuota estipulada."
+    },
+    {
+      "start": 32.6,
+      "end": 35.52,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos confirmar si contamos con este pago para el día de hoy."
+    },
+    {
+      "start": 38.88,
+      "end": 39.8,
+      "speaker": "SPEAKER_00",
+      "text": "¿Al día de hoy?"
+    },
+    {
+      "start": 41.86,
+      "end": 43.44,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cuándo podemos contar con el pago?"
+    },
+    {
+      "start": 43.44,
+      "end": 44.68,
+      "speaker": "SPEAKER_00",
+      "text": "La cuota está por..."
+    },
+    {
+      "start": 44.68,
+      "end": 47.98,
+      "speaker": "SPEAKER_00",
+      "text": "El acuerdo está por 800 mil pesos, dos cuotas,"
+    },
+    {
+      "start": 48.54,
+      "end": 51.06,
+      "speaker": "SPEAKER_00",
+      "text": "cada una por 400 mil pesos."
+    },
+    {
+      "start": 51.06,
+      "end": 53.5,
+      "speaker": "SPEAKER_00",
+      "text": "queremos confirmar que pues que fecha"
+    },
+    {
+      "start": 53.5,
+      "end": 55.28,
+      "speaker": "SPEAKER_00",
+      "text": "dentro del mes puede realizar el pago"
+    },
+    {
+      "start": 55.28,
+      "end": 58.84,
+      "speaker": "SPEAKER_01",
+      "text": "si para el otro"
+    },
+    {
+      "start": 58.84,
+      "end": 59.38,
+      "speaker": "SPEAKER_00",
+      "text": "mes"
+    },
+    {
+      "start": 59.38,
+      "end": 62.74,
+      "speaker": "SPEAKER_00",
+      "text": "y este mes puedes hacer uno a uno para mantener"
+    },
+    {
+      "start": 62.74,
+      "end": 64.52,
+      "speaker": "SPEAKER_00",
+      "text": "el descuento de 100 mil pesos"
+    },
+    {
+      "start": 64.52,
+      "end": 66.58,
+      "speaker": "SPEAKER_00",
+      "text": "estos 100 mil pesos se descuentan al valor"
+    },
+    {
+      "start": 66.58,
+      "end": 68.64,
+      "speaker": "SPEAKER_00",
+      "text": "y pues se disminuye la cuota"
+    },
+    {
+      "start": 68.64,
+      "end": 69.84,
+      "speaker": "SPEAKER_00",
+      "text": "para el próximo mes"
+    },
+    {
+      "start": 69.84,
+      "end": 73.01,
+      "speaker": "SPEAKER_01",
+      "text": "no porque ahorita no tengo"
+    },
+    {
+      "start": 73.01,
+      "end": 75.27,
+      "speaker": "SPEAKER_01",
+      "text": "tengo que esperar después de fin"
+    },
+    {
+      "start": 75.27,
+      "end": 76.99,
+      "speaker": "SPEAKER_01",
+      "text": "de mes si me cae plata"
+    },
+    {
+      "start": 76.99,
+      "end": 79.17,
+      "speaker": "SPEAKER_01",
+      "text": "para ir sin mirar"
+    },
+    {
+      "start": 79.17,
+      "end": 81.03,
+      "speaker": "SPEAKER_01",
+      "text": "es decir"
+    },
+    {
+      "start": 81.03,
+      "end": 83.01,
+      "speaker": "SPEAKER_00",
+      "text": "ok"
+    },
+    {
+      "start": 83.37,
+      "end": 89.47,
+      "speaker": "SPEAKER_00",
+      "text": "Tú vas a empezar plan de abonos por un no con un valor en específico."
+    },
+    {
+      "start": 89.57,
+      "end": 95.27,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, es para validar en el sistema porque acá en el sistema te aparecen dos pagos cada uno de 400 mil pesos."
+    },
+    {
+      "start": 95.89,
+      "end": 101.05,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces, pues, si de pronto no cuentas con el dinero, vas a empezar a incumplir la fecha de pago."
+    },
+    {
+      "start": 101.59,
+      "end": 108.61,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces, no sé si de pronto te puedo ofertar un plan de pagos donde la cuota quede como un poquito más baja para que lo puedas cancelar."
+    },
+    {
+      "start": 109.89,
+      "end": 110.97,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, claro."
+    },
+    {
+      "start": 110.97,
+      "end": 124.19,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, mira, entonces te podemos ofrecer un plan de pago de cuotas a seis cuotas, cada una por un valor de $133,300. ¿Ese valor te queda asequible?"
+    },
+    {
+      "start": 125.58,
+      "end": 126.9,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, claro."
+    },
+    {
+      "start": 127.62,
+      "end": 140.54,
+      "speaker": "SPEAKER_00",
+      "text": "Listo. Entonces, estos $133,000 puedes cancelar la primera cuota el 31 de julio y te quedaría el 30 de cada mes. 31 de julio, de agosto, septiembre y así sucesivamente."
+    },
+    {
+      "start": 143.5,
+      "end": 147.24,
+      "speaker": "SPEAKER_01",
+      "text": "Eh, podría ser como para los cinco."
+    },
+    {
+      "start": 148.86,
+      "end": 150.18,
+      "speaker": "SPEAKER_01",
+      "text": "¿Los cinco? Ok."
+    },
+    {
+      "start": 151.26,
+      "end": 156.42,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, más bien te pases la fecha del mes, iniciando el mes."
+    },
+    {
+      "start": 157.24,
+      "end": 160.08,
+      "speaker": "SPEAKER_00",
+      "text": "Ok, bueno, te voy a dejar entonces el pago de los cinco."
+    },
+    {
+      "start": 160.84,
+      "end": 164.84,
+      "speaker": "SPEAKER_00",
+      "text": "En este caso, iniciarías entonces plan de pago el 5 de agosto."
+    },
+    {
+      "start": 164.84,
+      "end": 166.6,
+      "speaker": "SPEAKER_00",
+      "text": "Es de gran importancia el cumplimiento."
+    },
+    {
+      "start": 167.32,
+      "end": 172.14,
+      "speaker": "SPEAKER_00",
+      "text": "Te quedan seis cuotas, cada una por 533.300, ¿bueno?"
+    },
+    {
+      "start": 172.14,
+      "end": 175.69,
+      "speaker": "SPEAKER_00",
+      "text": "133.300"
+    },
+    {
+      "start": 175.69,
+      "end": 177.05,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí señora"
+    },
+    {
+      "start": 177.05,
+      "end": 178.51,
+      "speaker": "SPEAKER_00",
+      "text": "Este pago lo puedes realizar"
+    },
+    {
+      "start": 178.51,
+      "end": 180.27,
+      "speaker": "SPEAKER_00",
+      "text": "Por medio de"
+    },
+    {
+      "start": 180.27,
+      "end": 182.01,
+      "speaker": "SPEAKER_00",
+      "text": "O por medio de"
+    },
+    {
+      "start": 182.01,
+      "end": 184.29,
+      "speaker": "SPEAKER_00",
+      "text": "Con el número de convenio en referencia"
+    },
+    {
+      "start": 184.29,
+      "end": 185.81,
+      "speaker": "SPEAKER_00",
+      "text": "Vas a colocar tu número de cédula"
+    },
+    {
+      "start": 185.81,
+      "end": 188.41,
+      "speaker": "SPEAKER_00",
+      "text": "El acuerdo te llega actualizado el día de hoy"
+    },
+    {
+      "start": 188.41,
+      "end": 189.97,
+      "speaker": "SPEAKER_00",
+      "text": "En el transcurso pues del día"
+    },
+    {
+      "start": 189.97,
+      "end": 191.55,
+      "speaker": "SPEAKER_00",
+      "text": "Te llega actualizado a tu WhatsApp"
+    },
+    {
+      "start": 191.55,
+      "end": 193.87,
+      "speaker": "SPEAKER_00",
+      "text": "Indicando pues las seis cuotas y cada una"
+    },
+    {
+      "start": 193.87,
+      "end": 195.19,
+      "speaker": "SPEAKER_00",
+      "text": "Por 133.300"
+    },
+    {
+      "start": 195.19,
+      "end": 198.27,
+      "speaker": "SPEAKER_01",
+      "text": "Al WhatsApp y yo pago"
+    },
+    {
+      "start": 198.27,
+      "end": 199.59,
+      "speaker": "SPEAKER_01",
+      "text": "Por el FETI"
+    },
+    {
+      "start": 199.59,
+      "end": 202.05,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí señora, ahí con el número de tu cédula"
+    },
+    {
+      "start": 202.05,
+      "end": 204.23,
+      "speaker": "SPEAKER_00",
+      "text": "e indicas el valor, obviamente en algunos"
+    },
+    {
+      "start": 204.23,
+      "end": 205.81,
+      "speaker": "SPEAKER_00",
+      "text": "casos te van a aparecer otros valores"
+    },
+    {
+      "start": 205.81,
+      "end": 207.91,
+      "speaker": "SPEAKER_00",
+      "text": "como inferiores o superiores"
+    },
+    {
+      "start": 207.91,
+      "end": 210.05,
+      "speaker": "SPEAKER_00",
+      "text": "solamente le dices a la cajera que lo"
+    },
+    {
+      "start": 210.05,
+      "end": 211.93,
+      "speaker": "SPEAKER_00",
+      "text": "modifique al valor de la cuota porque"
+    },
+    {
+      "start": 211.93,
+      "end": 213.91,
+      "speaker": "SPEAKER_00",
+      "text": "muchas veces esos valores que aparecen ahí"
+    },
+    {
+      "start": 213.91,
+      "end": 216.09,
+      "speaker": "SPEAKER_00",
+      "text": "son las cuotas que vienen o que han"
+    },
+    {
+      "start": 216.09,
+      "end": 218.31,
+      "speaker": "SPEAKER_00",
+      "text": "venido cancelando pues anteriormente"
+    },
+    {
+      "start": 218.31,
+      "end": 220.25,
+      "speaker": "SPEAKER_00",
+      "text": "cuando iniciaron con el crédito, bueno"
+    },
+    {
+      "start": 220.25,
+      "end": 222.65,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, bueno, es seguro"
+    },
+    {
+      "start": 222.65,
+      "end": 224.19,
+      "speaker": "SPEAKER_00",
+      "text": "Señora"
+    },
+    {
+      "start": 224.19,
+      "end": 226.31,
+      "speaker": "SPEAKER_00",
+      "text": "Es seguro"
+    },
+    {
+      "start": 226.31,
+      "end": 228.95,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí señora, ahí con el número de convenio"
+    },
+    {
+      "start": 228.95,
+      "end": 230.21,
+      "speaker": "SPEAKER_00",
+      "text": "te dicen Luxury"
+    },
+    {
+      "start": 230.21,
+      "end": 233.33,
+      "speaker": "SPEAKER_00",
+      "text": "es la compañía nueva dueña de la cartera"
+    },
+    {
+      "start": 233.33,
+      "end": 235.54,
+      "speaker": "SPEAKER_00",
+      "text": "entonces ahí"
+    },
+    {
+      "start": 235.54,
+      "end": 237.54,
+      "speaker": "SPEAKER_00",
+      "text": "te va a aparecer un convenio llamado Luxury"
+    },
+    {
+      "start": 237.54,
+      "end": 238.74,
+      "speaker": "SPEAKER_00",
+      "text": "y ahí te dicen que"
+    },
+    {
+      "start": 238.74,
+      "end": 241.97,
+      "speaker": "SPEAKER_00",
+      "text": "y ahí ya con tu número de cédula"
+    },
+    {
+      "start": 241.97,
+      "end": 242.53,
+      "speaker": "SPEAKER_00",
+      "text": "aparece"
+    },
+    {
+      "start": 242.53,
+      "end": 246.14,
+      "speaker": "SPEAKER_00",
+      "text": "y doy la cuota, son seis cuotas"
+    },
+    {
+      "start": 246.14,
+      "end": 248.16,
+      "speaker": "SPEAKER_00",
+      "text": "sí, son seis cuotas, cada una"
+    },
+    {
+      "start": 248.16,
+      "end": 249.84,
+      "speaker": "SPEAKER_00",
+      "text": "de 133.300"
+    },
+    {
+      "start": 249.84,
+      "end": 252.65,
+      "speaker": "SPEAKER_00",
+      "text": "ah bueno, ok, me parece"
+    },
+    {
+      "start": 252.65,
+      "end": 253.33,
+      "speaker": "SPEAKER_00",
+      "text": "bien"
+    },
+    {
+      "start": 253.33,
+      "end": 255.97,
+      "speaker": "SPEAKER_00",
+      "text": "cuando cancelas nos envías"
+    },
+    {
+      "start": 255.97,
+      "end": 258.07,
+      "speaker": "SPEAKER_00",
+      "text": "al WhatsApp que te llega"
+    },
+    {
+      "start": 258.07,
+      "end": 260.51,
+      "speaker": "SPEAKER_00",
+      "text": "el acuerdo de pago, nos envías"
+    },
+    {
+      "start": 260.51,
+      "end": 262.23,
+      "speaker": "SPEAKER_00",
+      "text": "es el soporte de pago para la aplicación."
+    },
+    {
+      "start": 263.33,
+      "end": 264.95,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, bueno, ¿y eso dónde queda?"
+    },
+    {
+      "start": 266.72,
+      "end": 269.5,
+      "speaker": "SPEAKER_01",
+      "text": "¿La compañía, la cartera de...?"
+    },
+    {
+      "start": 269.5,
+      "end": 273.9,
+      "speaker": "SPEAKER_00",
+      "text": "En este momento queda en la ciudad de..."
+    },
+    {
+      "start": 273.9,
+      "end": 275.9,
+      "speaker": "SPEAKER_00",
+      "text": "Nosotros estamos operando vía llamada,"
+    },
+    {
+      "start": 275.9,
+      "end": 279.36,
+      "speaker": "SPEAKER_00",
+      "text": "ya si tú quieres investigar todo el tema de la compañía y demás,"
+    },
+    {
+      "start": 279.68,
+      "end": 280.54,
+      "speaker": "SPEAKER_00",
+      "text": "te puedo enviar el..."
+    },
+    {
+      "start": 280.54,
+      "end": 282.86,
+      "speaker": "SPEAKER_00",
+      "text": "Lo puedes verificar en..."
+    },
+    {
+      "start": 282.86,
+      "end": 284.9,
+      "speaker": "SPEAKER_00",
+      "text": "Que es el registro empresarial único,"
+    },
+    {
+      "start": 285.26,
+      "end": 288.62,
+      "speaker": "SPEAKER_00",
+      "text": "ahí puedes validar la matrícula que esté activa"
+    },
+    {
+      "start": 288.62,
+      "end": 290.08,
+      "speaker": "SPEAKER_00",
+      "text": "y pues toda nuestra razón social,"
+    },
+    {
+      "start": 290.08,
+      "end": 292.26,
+      "speaker": "SPEAKER_00",
+      "text": "también nuestros números de contacto."
+    },
+    {
+      "start": 293.24,
+      "end": 295.28,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, bueno, me puede enviar ahí entonces."
+    },
+    {
+      "start": 295.82,
+      "end": 298.6,
+      "speaker": "SPEAKER_00",
+      "text": "Y dentro del acuerdo de pago está toda la información de la empresa."
+    },
+    {
+      "start": 298.8,
+      "end": 299.7,
+      "speaker": "SPEAKER_00",
+      "text": "Ahí está el..."
+    },
+    {
+      "start": 299.7,
+      "end": 300.24,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, ok."
+    },
+    {
+      "start": 300.24,
+      "end": 301.74,
+      "speaker": "SPEAKER_00",
+      "text": "Las líneas de comunicación, ¿bueno?"
+    },
+    {
+      "start": 302.32,
+      "end": 303.56,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, perfecto."
+    },
+    {
+      "start": 304.02,
+      "end": 306.56,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, muchas gracias, que estén muy bien y quedamos atentos al pago."
+    },
+    {
+      "start": 306.86,
+      "end": 307.4,
+      "speaker": "SPEAKER_00",
+      "text": "Hasta el día."
+    },
+    {
+      "start": 307.62,
+      "end": 309.02,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, sí, señorita, gracias."
+    }
+  ],
+  "short_id": "audioh1-0445c357-2spk",
+  "original_file_id": "0445c357-e465-49ae-8067-bfa91d11b532"
+}

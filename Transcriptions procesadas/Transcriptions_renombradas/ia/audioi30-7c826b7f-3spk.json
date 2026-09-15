@@ -1,0 +1,455 @@
+{
+  "file_id": "7c826b7f-a4cb-44ce-9461-533e1368ce1d",
+  "source": "ia",
+  "duration_sec": 320.04,
+  "language": "es",
+  "n_speakers_detected": 3,
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 1.12,
+      "speaker": "SPEAKER_01",
+      "text": "Aló."
+    },
+    {
+      "start": 3.23,
+      "end": 4.47,
+      "speaker": "SPEAKER_00",
+      "text": "Aló, muy buenos días."
+    },
+    {
+      "start": 5.43,
+      "end": 5.79,
+      "speaker": "SPEAKER_01",
+      "text": "Buen día."
+    },
+    {
+      "start": 7.01,
+      "end": 9.29,
+      "speaker": "SPEAKER_00",
+      "text": "¿Podría confirmarme si estoy hablando con..."
+    },
+    {
+      "start": 9.29,
+      "end": 11.98,
+      "speaker": "SPEAKER_01",
+      "text": "¿De parte de...?"
+    },
+    {
+      "start": 11.98,
+      "end": 14.84,
+      "speaker": "SPEAKER_00",
+      "text": "Señor Fry, le habl..."
+    },
+    {
+      "start": 14.84,
+      "end": 19.47,
+      "speaker": "SPEAKER_00",
+      "text": "...del área de embargos, judicializaciones y alivios financieros."
+    },
+    {
+      "start": 19.47,
+      "end": 21.73,
+      "speaker": "SPEAKER_00",
+      "text": "Le llamo por su obligación con banco de..."
+    },
+    {
+      "start": 21.73,
+      "end": 22.8,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo se encuentra?"
+    },
+    {
+      "start": 24.16,
+      "end": 26.34,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor, bien, un poquito ocupado trabajando, dígame."
+    },
+    {
+      "start": 30.33,
+      "end": 30.61,
+      "speaker": "SPEAKER_01",
+      "text": "Aló."
+    },
+    {
+      "start": 33.48,
+      "end": 35.04,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo perfectamente..."
+    },
+    {
+      "start": 35.04,
+      "end": 37.41,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señor Fry, disculpe."
+    },
+    {
+      "start": 37.41,
+      "end": 39.75,
+      "speaker": "SPEAKER_00",
+      "text": "Le decía que entiendo que está ocupado trabajando."
+    },
+    {
+      "start": 40.25,
+      "end": 44.53,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me permite contarle sobre una propuesta de alivio financiero que tenemos disponible para su obligación?"
+    },
+    {
+      "start": 45.39,
+      "end": 46.11,
+      "speaker": "SPEAKER_01",
+      "text": "Claro, cuénteme."
+    },
+    {
+      "start": 48.21,
+      "end": 52.83,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, señor Fry. Tenemos una excelente propuesta con un descuento significativo sobre su deuda."
+    },
+    {
+      "start": 53.09,
+      "end": 56.69,
+      "speaker": "SPEAKER_00",
+      "text": "Le voy a presentar los detalles exactos del beneficio que podemos ofrecerle ahora mismo."
+    },
+    {
+      "start": 57.09,
+      "end": 57.77,
+      "speaker": "SPEAKER_00",
+      "text": "Propuesta de alivio financiero."
+    },
+    {
+      "start": 59.22,
+      "end": 61.36,
+      "speaker": "SPEAKER_00",
+      "text": "Disculpe, señor Fry, no le entendí bien esa palabra."
+    },
+    {
+      "start": 62.94,
+      "end": 63.42,
+      "speaker": "SPEAKER_00",
+      "text": "¿Aló?"
+    },
+    {
+      "start": 65.28,
+      "end": 66.62,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señor Fry, lo escucho."
+    },
+    {
+      "start": 66.96,
+      "end": 68.24,
+      "speaker": "SPEAKER_00",
+      "text": "¿Podría repetirme lo que me dijo?"
+    },
+    {
+      "start": 69.71,
+      "end": 72.49,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, no, no dije nada. Estaba hablando con una jefa."
+    },
+    {
+      "start": 75.94,
+      "end": 77.66,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, perfecto. Entiendo, señor Fry."
+    },
+    {
+      "start": 77.98,
+      "end": 81.64,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me permite entonces presentarle la propuesta de alivio financiero que tenemos para usted?"
+    },
+    {
+      "start": 82.44,
+      "end": 82.9,
+      "speaker": "SPEAKER_00",
+      "text": "Dígame."
+    },
+    {
+      "start": 84.96,
+      "end": 86.96,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente. Le presento nuestra propuesta."
+    },
+    {
+      "start": 87.56,
+      "end": 91.04,
+      "speaker": "SPEAKER_00",
+      "text": "Su deuda actual es de 1.270.000 pesos."
+    },
+    {
+      "start": 91.5,
+      "end": 95.46,
+      "speaker": "SPEAKER_00",
+      "text": "Tenemos autorizado ofrecerle un descuento del 23% sobre el capital,"
+    },
+    {
+      "start": 95.46,
+      "end": 98.26,
+      "speaker": "SPEAKER_00",
+      "text": "lo que representa un ahorro de 300.000 pesos."
+    },
+    {
+      "start": 98.54,
+      "end": 101.86,
+      "speaker": "SPEAKER_00",
+      "text": "Con este descuento, usted pagaría 980.000 pesos en total."
+    },
+    {
+      "start": 101.86,
+      "end": 119.98,
+      "speaker": "SPEAKER_00",
+      "text": "Le ofrecemos las siguientes opciones de pago. Una cuota de $980,000. Dos cuotas de $490,000 cada una. Tres cuotas de $330,000 cada una. La primera cuota debe pagarse antes del 31 de agosto. ¿Cuál opción le conviene más, señor Fray?"
+    },
+    {
+      "start": 120.86,
+      "end": 122.28,
+      "speaker": "SPEAKER_01",
+      "text": "La máxima son tres cuotas."
+    },
+    {
+      "start": 124.59,
+      "end": 125.67,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, señor Fray."
+    },
+    {
+      "start": 126.05,
+      "end": 130.17,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, te estoy preguntando. Que si la máxima son tres cuotas."
+    },
+    {
+      "start": 132.13,
+      "end": 133.85,
+      "speaker": "SPEAKER_00",
+      "text": "Exacto, señor Fray. Así es."
+    },
+    {
+      "start": 133.85,
+      "end": 134.23,
+      "speaker": "SPEAKER_00",
+      "text": "¿De cuánto?"
+    },
+    {
+      "start": 135.95,
+      "end": 143.73,
+      "speaker": "SPEAKER_00",
+      "text": "Claro, ya le doy los números exactos. La opción de tres cuotas es de $330,000 pesos cada una. Esto le da la flexibilidad que necesite."
+    },
+    {
+      "start": 145.22,
+      "end": 147.72,
+      "speaker": "SPEAKER_00",
+      "text": "Por supuesto, señor Frye, tome el tiempo que necesite."
+    },
+    {
+      "start": 152.34,
+      "end": 153.78,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, estoy aquí esperándolo."
+    },
+    {
+      "start": 162.32,
+      "end": 165.26,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Frye, me dices que tres cuotas."
+    },
+    {
+      "start": 167.43,
+      "end": 172.41,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, señor Frye, tres cuotas de $330,000 pesos cada cuota."
+    },
+    {
+      "start": 172.41,
+      "end": 180.94,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, ¿para qué día sería la primera? Me dices el 31 de agosto, ¿sí?"
+    },
+    {
+      "start": 182.95,
+      "end": 183.89,
+      "speaker": "SPEAKER_00",
+      "text": "Exacto, señor Fray"
+    },
+    {
+      "start": 183.89,
+      "end": 186.99,
+      "speaker": "SPEAKER_00",
+      "text": "La primera cuota sería más tardar el 31 de agosto"
+    },
+    {
+      "start": 186.99,
+      "end": 188.97,
+      "speaker": "SPEAKER_00",
+      "text": "¿Le parece bien esta opción de tres cuotas?"
+    },
+    {
+      "start": 190.18,
+      "end": 190.56,
+      "speaker": "SPEAKER_00",
+      "text": "Sí"
+    },
+    {
+      "start": 190.56,
+      "end": 193.86,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, señor Fray"
+    },
+    {
+      "start": 193.86,
+      "end": 195.16,
+      "speaker": "SPEAKER_00",
+      "text": "Para confirmar el acuerdo"
+    },
+    {
+      "start": 195.16,
+      "end": 198.68,
+      "speaker": "SPEAKER_00",
+      "text": "Son tres cuotas de 330 mil pesos cada una"
+    },
+    {
+      "start": 198.68,
+      "end": 200.98,
+      "speaker": "SPEAKER_00",
+      "text": "Para un total de 980 mil pesos"
+    },
+    {
+      "start": 200.98,
+      "end": 203.56,
+      "speaker": "SPEAKER_00",
+      "text": "Con la primera cuota, el 31 de agosto"
+    },
+    {
+      "start": 203.56,
+      "end": 205.42,
+      "speaker": "SPEAKER_00",
+      "text": "¿Está de acuerdo con estos términos?"
+    },
+    {
+      "start": 206.06,
+      "end": 206.5,
+      "speaker": "SPEAKER_00",
+      "text": "Sí."
+    },
+    {
+      "start": 214.7,
+      "end": 218.36,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente, señor Frye. ¿Y las otras dos cuotas, para qué fechas las programamos?"
+    },
+    {
+      "start": 220.85,
+      "end": 224.35,
+      "speaker": "SPEAKER_01",
+      "text": "Yo creería que me quedaría mejor igual, de 31 a 31 de mes."
+    },
+    {
+      "start": 226.51,
+      "end": 228.73,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, señor Frye. Entonces quedamos así."
+    },
+    {
+      "start": 229.39,
+      "end": 233.13,
+      "speaker": "SPEAKER_00",
+      "text": "Primera cuota, el 31 de agosto. Segunda cuota, el 30 de septiembre."
+    },
+    {
+      "start": 233.45,
+      "end": 236.77,
+      "speaker": "SPEAKER_00",
+      "text": "Y tercera cuota, el 31 de octubre. ¿Le confirma estas fechas?"
+    },
+    {
+      "start": 238.04,
+      "end": 238.48,
+      "speaker": "UNKNOWN",
+      "text": "Sí."
+    },
+    {
+      "start": 245.43,
+      "end": 248.87,
+      "speaker": "SPEAKER_00",
+      "text": "Señor Frye, sigue ahí. ¿Le confirma estas fechas para las cuotas?"
+    },
+    {
+      "start": 249.59,
+      "end": 250.03,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor."
+    },
+    {
+      "start": 252.04,
+      "end": 254.74,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente, señor Frye. Su acuerdo queda confirmado."
+    },
+    {
+      "start": 255.16,
+      "end": 257.74,
+      "speaker": "SPEAKER_00",
+      "text": "Tres cuotas de 330 mil pesos cada una."
+    },
+    {
+      "start": 258.06,
+      "end": 263.34,
+      "speaker": "SPEAKER_00",
+      "text": "La primera el 31 de agosto, la segunda el 30 de septiembre y la tercera el 31 de octubre."
+    },
+    {
+      "start": 263.76,
+      "end": 267.1,
+      "speaker": "SPEAKER_00",
+      "text": "¿Necesita que le enviemos algún recordatorio o tiene alguna pregunta adicional?"
+    },
+    {
+      "start": 269.35,
+      "end": 274.93,
+      "speaker": "SPEAKER_01",
+      "text": "Digamos, este acuerdo se enviaría por mediante correo, whatsapp."
+    },
+    {
+      "start": 275.87,
+      "end": 279.35,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo me puedo cerciorar yo que sí me están llamando del banco?"
+    },
+    {
+      "start": 279.35,
+      "end": 300.6,
+      "speaker": "SPEAKER_00",
+      "text": "Señor Fry, entiendo su preocupación. Le comento que soy un asistente virtual automatizado de F-Factoring, que es la empresa que maneja su cartera. El acuerdo se documenta directamente en nuestro sistema cuando usted confirma los términos, como acabamos de hacer. Para cualquier consulta sobre el acuerdo puede comunicarse directamente con nosotros. ¿Tiene alguna otra pregunta sobre el proceso de pago?"
+    },
+    {
+      "start": 301.92,
+      "end": 302.14,
+      "speaker": "SPEAKER_01",
+      "text": "No."
+    },
+    {
+      "start": 304.41,
+      "end": 307.15,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, señor Fry. Su acuerdo está confirmado entonces."
+    },
+    {
+      "start": 307.89,
+      "end": 311.35,
+      "speaker": "SPEAKER_00",
+      "text": "Entonces, muchas gracias por su tiempo y que tenga un excelente día."
+    },
+    {
+      "start": 313.09,
+      "end": 313.77,
+      "speaker": "SPEAKER_01",
+      "text": "Vale, gracias."
+    }
+  ],
+  "short_id": "audioi30-7c826b7f-3spk",
+  "original_file_id": "7c826b7f-a4cb-44ce-9461-533e1368ce1d"
+}

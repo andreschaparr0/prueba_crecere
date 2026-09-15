@@ -1,0 +1,365 @@
+{
+  "file_id": "eaaa5092-71c6-47ba-8c34-9fa95854812a",
+  "source": "humano",
+  "duration_sec": 209.58,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 11.15,
+      "end": 38.12,
+      "speaker": "SPEAKER_01",
+      "text": "Buenos días. Tengo el gusto de hablar con el señor. Sí, con él. Mucho gusto. Habla con Marita. Es casa de cobranza autorizada por CREDI Valores. ¿Cómo se encuentra el día de hoy? Sí. Señor Más, el día de hoy me estoy comunicando referente a su obligación con CREDI Valores para validar si usted realizó el pago según acuerdo de pago que tenía. No, mi amor, no me sirvió ese acuerdo de pago."
+    },
+    {
+      "start": 38.12,
+      "end": 40.42,
+      "speaker": "SPEAKER_01",
+      "text": "¿Por qué, señor Mas?"
+    },
+    {
+      "start": 40.44,
+      "end": 42.24,
+      "speaker": "SPEAKER_01",
+      "text": "Usted llegó a un acuerdo de un pago único"
+    },
+    {
+      "start": 42.24,
+      "end": 44.3,
+      "speaker": "SPEAKER_01",
+      "text": "de 7.410.000 para"
+    },
+    {
+      "start": 44.3,
+      "end": 48.44,
+      "speaker": "SPEAKER_01",
+      "text": "¿Por qué no tengo los 7 millones de precios?"
+    },
+    {
+      "start": 50.46,
+      "end": 51.64,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, señor Mas"
+    },
+    {
+      "start": 51.64,
+      "end": 53.28,
+      "speaker": "SPEAKER_01",
+      "text": "¿O sea que desea un acuerdo"
+    },
+    {
+      "start": 53.28,
+      "end": 55.16,
+      "speaker": "SPEAKER_01",
+      "text": "a largo plazo para pagar a cuotas"
+    },
+    {
+      "start": 55.16,
+      "end": 56.58,
+      "speaker": "SPEAKER_01",
+      "text": "para que le quede facilidad de pago?"
+    },
+    {
+      "start": 59.16,
+      "end": 60.02,
+      "speaker": "SPEAKER_01",
+      "text": "¿Y cómo sería?"
+    },
+    {
+      "start": 61.24,
+      "end": 62.46,
+      "speaker": "SPEAKER_01",
+      "text": "De acuerdo, señor Mas"
+    },
+    {
+      "start": 62.46,
+      "end": 65.19,
+      "speaker": "SPEAKER_01",
+      "text": "El máximo que nos dejan dividirlo"
+    },
+    {
+      "start": 65.19,
+      "end": 66.99,
+      "speaker": "SPEAKER_01",
+      "text": "son 12 cuotas para que se le quede"
+    },
+    {
+      "start": 66.99,
+      "end": 68.05,
+      "speaker": "SPEAKER_01",
+      "text": "facilidad de pago"
+    },
+    {
+      "start": 68.05,
+      "end": 71.41,
+      "speaker": "SPEAKER_01",
+      "text": "El valor de su obligación está"
+    },
+    {
+      "start": 71.41,
+      "end": 72.43,
+      "speaker": "SPEAKER_01",
+      "text": "en siete millones"
+    },
+    {
+      "start": 72.43,
+      "end": 74.9,
+      "speaker": "SPEAKER_01",
+      "text": "quinientos setenta y"
+    },
+    {
+      "start": 74.9,
+      "end": 77.12,
+      "speaker": "SPEAKER_01",
+      "text": "seis mil cuatrocientos pesos"
+    },
+    {
+      "start": 77.12,
+      "end": 79.3,
+      "speaker": "SPEAKER_01",
+      "text": "y dándose cuotas"
+    },
+    {
+      "start": 79.3,
+      "end": 81.3,
+      "speaker": "SPEAKER_01",
+      "text": "cada cuota de caridad por seiscientos"
+    },
+    {
+      "start": 81.3,
+      "end": 82.7,
+      "speaker": "SPEAKER_01",
+      "text": "treinta y dos mil pesos"
+    },
+    {
+      "start": 82.7,
+      "end": 86.16,
+      "speaker": "SPEAKER_01",
+      "text": "¿está usted de acuerdo señor Mas?"
+    },
+    {
+      "start": 87.22,
+      "end": 88.86,
+      "speaker": "SPEAKER_01",
+      "text": "No, no me da porque yo en este momento"
+    },
+    {
+      "start": 88.86,
+      "end": 91.02,
+      "speaker": "SPEAKER_01",
+      "text": "estoy desempleado"
+    },
+    {
+      "start": 91.02,
+      "end": 93.22,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo"
+    },
+    {
+      "start": 93.22,
+      "end": 95.18,
+      "speaker": "SPEAKER_01",
+      "text": "señor Mas y porque anteriormente llegó a un"
+    },
+    {
+      "start": 95.18,
+      "end": 97.22,
+      "speaker": "SPEAKER_01",
+      "text": "acuerdo de pago de siete millones cuatrocientos"
+    },
+    {
+      "start": 97.76,
+      "end": 99.77,
+      "speaker": "SPEAKER_01",
+      "text": "porque estaba ocupado"
+    },
+    {
+      "start": 99.77,
+      "end": 101.21,
+      "speaker": "SPEAKER_01",
+      "text": "casi no entendía lo que me decían"
+    },
+    {
+      "start": 101.21,
+      "end": 103.45,
+      "speaker": "SPEAKER_01",
+      "text": "había una calamidad y no entendía casi"
+    },
+    {
+      "start": 103.45,
+      "end": 106.25,
+      "speaker": "SPEAKER_01",
+      "text": "Yo por salir rápido de la llamada."
+    },
+    {
+      "start": 108.47,
+      "end": 111.87,
+      "speaker": "SPEAKER_01",
+      "text": "Señor Masi, ¿cuánto se podría usted comprometer a pagar mes a mes?"
+    },
+    {
+      "start": 111.97,
+      "end": 113.75,
+      "speaker": "SPEAKER_01",
+      "text": "Lo podríamos validar con comité."
+    },
+    {
+      "start": 118.78,
+      "end": 119.26,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cuánto?"
+    },
+    {
+      "start": 119.9,
+      "end": 120.58,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, sí, señor."
+    },
+    {
+      "start": 120.7,
+      "end": 123.06,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cuánto se puede comprometer a pagar usted mes a mes"
+    },
+    {
+      "start": 123.06,
+      "end": 124.9,
+      "speaker": "SPEAKER_01",
+      "text": "si lo podríamos validar con comité?"
+    },
+    {
+      "start": 132.5,
+      "end": 133.82,
+      "speaker": "SPEAKER_01",
+      "text": "Para no quedarles mal como..."
+    },
+    {
+      "start": 135.16,
+      "end": 138.88,
+      "speaker": "SPEAKER_01",
+      "text": "¿Se puede apoyar 200 mil pesos mensuales?"
+    },
+    {
+      "start": 143.54,
+      "end": 146.8,
+      "speaker": "SPEAKER_01",
+      "text": "Sería muy bajita la cuota y no nos lo aprobaría el comité."
+    },
+    {
+      "start": 146.8,
+      "end": 149.73,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces, dígame, ¿cuánto sería lo mínimo?"
+    },
+    {
+      "start": 152.68,
+      "end": 154.06,
+      "speaker": "SPEAKER_01",
+      "text": "Podríamos pasar por comité"
+    },
+    {
+      "start": 154.06,
+      "end": 155.68,
+      "speaker": "SPEAKER_01",
+      "text": "350 mil pesos"
+    },
+    {
+      "start": 155.68,
+      "end": 158.16,
+      "speaker": "SPEAKER_01",
+      "text": "¿Y podría comprometerse a pagar eso?"
+    },
+    {
+      "start": 162.23,
+      "end": 162.93,
+      "speaker": "SPEAKER_01",
+      "text": "Y 300"
+    },
+    {
+      "start": 162.93,
+      "end": 166.64,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, voy a pasarlo"
+    },
+    {
+      "start": 166.64,
+      "end": 168.56,
+      "speaker": "SPEAKER_01",
+      "text": "por comité por 300, señor"
+    },
+    {
+      "start": 168.56,
+      "end": 170.88,
+      "speaker": "SPEAKER_01",
+      "text": "más, y apenas tengo una respuesta"
+    },
+    {
+      "start": 170.88,
+      "end": 172.26,
+      "speaker": "SPEAKER_01",
+      "text": "yo me comunico nuevamente"
+    },
+    {
+      "start": 172.26,
+      "end": 174.96,
+      "speaker": "SPEAKER_01",
+      "text": "¿Para qué día usted realizaría el primer pago?"
+    },
+    {
+      "start": 176.83,
+      "end": 177.35,
+      "speaker": "SPEAKER_01",
+      "text": "Primeros"
+    },
+    {
+      "start": 177.35,
+      "end": 178.17,
+      "speaker": "SPEAKER_01",
+      "text": "días del mes"
+    },
+    {
+      "start": 178.17,
+      "end": 182.1,
+      "speaker": "SPEAKER_01",
+      "text": "O sea, que antes del 30 de julio"
+    },
+    {
+      "start": 182.1,
+      "end": 183.62,
+      "speaker": "SPEAKER_01",
+      "text": "usted no podría realizar ningún pago"
+    },
+    {
+      "start": 183.62,
+      "end": 187.14,
+      "speaker": "SPEAKER_01",
+      "text": "No, mi amor, no me comprometo. Desde el 1 al 5, sí."
+    },
+    {
+      "start": 188.69,
+      "end": 197.11,
+      "speaker": "SPEAKER_01",
+      "text": "Comprendo, señor Mastro. Es su situación. Voy a pasarlo por comité para los primeros días de agosto. A más tardar el día 5 de agosto la primera cuota."
+    },
+    {
+      "start": 198.02,
+      "end": 198.38,
+      "speaker": "SPEAKER_01",
+      "text": "Ok."
+    },
+    {
+      "start": 199.26,
+      "end": 203.39,
+      "speaker": "SPEAKER_01",
+      "text": "De acuerdo, señor Mastro. Apenas tengo una respuesta, me comunico nuevamente con usted."
+    },
+    {
+      "start": 203.89,
+      "end": 205.97,
+      "speaker": "SPEAKER_01",
+      "text": "Que tenga un excelente día."
+    }
+  ],
+  "short_id": "audioh48-eaaa5092-1spk",
+  "original_file_id": "eaaa5092-71c6-47ba-8c34-9fa95854812a"
+}

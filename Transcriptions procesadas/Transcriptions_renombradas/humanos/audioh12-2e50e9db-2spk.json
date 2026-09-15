@@ -1,0 +1,221 @@
+{
+  "file_id": "2e50e9db-53c9-4472-ad05-1ba1032dd707",
+  "source": "humano",
+  "duration_sec": 123.4,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 8.66,
+      "end": 11.6,
+      "speaker": "SPEAKER_00",
+      "text": "Buenos días, tengo el gusto de hablar con el señor"
+    },
+    {
+      "start": 11.6,
+      "end": 14.52,
+      "speaker": "SPEAKER_01",
+      "text": "¿Con él?"
+    },
+    {
+      "start": 15.6,
+      "end": 17.14,
+      "speaker": "SPEAKER_00",
+      "text": "Mucho gusto, habla con el señor"
+    },
+    {
+      "start": 17.14,
+      "end": 19.75,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo se encuentra el día de hoy?"
+    },
+    {
+      "start": 20.31,
+      "end": 22.31,
+      "speaker": "SPEAKER_01",
+      "text": "Bien, señora, gracias a Dios"
+    },
+    {
+      "start": 22.31,
+      "end": 27.25,
+      "speaker": "SPEAKER_00",
+      "text": "Estoy comunicando para informarle que su correo electrónico"
+    },
+    {
+      "start": 27.25,
+      "end": 32.8,
+      "speaker": "SPEAKER_00",
+      "text": "fue enviado al acuerdo de pago de manera formal"
+    },
+    {
+      "start": 32.8,
+      "end": 36.18,
+      "speaker": "SPEAKER_00",
+      "text": "Por favor, me confirma si usted recibió el acuerdo de pago"
+    },
+    {
+      "start": 36.18,
+      "end": 39.4,
+      "speaker": "SPEAKER_01",
+      "text": "No, no he visto el correo porque ese..."
+    },
+    {
+      "start": 39.4,
+      "end": 47.83,
+      "speaker": "SPEAKER_01",
+      "text": "Y ya, me tocaría revisar porque como yo soy de corazón a veredas, no tengo la disponibilidad de revisar."
+    },
+    {
+      "start": 49.08,
+      "end": 55.84,
+      "speaker": "SPEAKER_00",
+      "text": "Comprendo, porque ese compromiso de pago estaba para el día 25 de julio por 1.272.500."
+    },
+    {
+      "start": 57.04,
+      "end": 62.6,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, escucha, yo hablé con la gente porque es que yo necesito ponerme a revisar algo con usted"
+    },
+    {
+      "start": 62.6,
+      "end": 66.88,
+      "speaker": "SPEAKER_01",
+      "text": "para solucionar el tema todo de data credit y de todo."
+    },
+    {
+      "start": 67.5,
+      "end": 68.6,
+      "speaker": "SPEAKER_00",
+      "text": "Claro que sí, señor."
+    },
+    {
+      "start": 68.6,
+      "end": 71.95,
+      "speaker": "SPEAKER_00",
+      "text": "Sentía que verificara"
+    },
+    {
+      "start": 71.95,
+      "end": 73.89,
+      "speaker": "SPEAKER_00",
+      "text": "Si llegó el acuerdo de pago"
+    },
+    {
+      "start": 73.89,
+      "end": 76.25,
+      "speaker": "SPEAKER_00",
+      "text": "Y quedó pendiente del soporte de pago"
+    },
+    {
+      "start": 76.25,
+      "end": 77.95,
+      "speaker": "SPEAKER_00",
+      "text": "Al día 30 de junio"
+    },
+    {
+      "start": 77.95,
+      "end": 80.29,
+      "speaker": "SPEAKER_00",
+      "text": "Para poder sostener el acuerdo de pago"
+    },
+    {
+      "start": 80.29,
+      "end": 85.32,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, no, es como en este momento"
+    },
+    {
+      "start": 85.32,
+      "end": 87.22,
+      "speaker": "SPEAKER_01",
+      "text": "Estoy de viaje y estoy"
+    },
+    {
+      "start": 87.22,
+      "end": 90.71,
+      "speaker": "SPEAKER_01",
+      "text": "Por acá, mejor dicho"
+    },
+    {
+      "start": 90.71,
+      "end": 91.71,
+      "speaker": "SPEAKER_01",
+      "text": "Como se dice"
+    },
+    {
+      "start": 91.71,
+      "end": 94.3,
+      "speaker": "SPEAKER_01",
+      "text": "Mirando cómo hago"
+    },
+    {
+      "start": 94.3,
+      "end": 95.56,
+      "speaker": "SPEAKER_01",
+      "text": "Para poder llegar"
+    },
+    {
+      "start": 95.56,
+      "end": 99.22,
+      "speaker": "SPEAKER_00",
+      "text": "Me podría llamar el día 30 de junio"
+    },
+    {
+      "start": 99.22,
+      "end": 100.92,
+      "speaker": "SPEAKER_00",
+      "text": "Si podría realizar el pago"
+    },
+    {
+      "start": 100.92,
+      "end": 104.98,
+      "speaker": "SPEAKER_01",
+      "text": "¿Podrían llamar más tardecito para poder"
+    },
+    {
+      "start": 104.98,
+      "end": 106.36,
+      "speaker": "SPEAKER_01",
+      "text": "Comunicarme bien con usted?"
+    },
+    {
+      "start": 108.32,
+      "end": 110.12,
+      "speaker": "SPEAKER_00",
+      "text": "Comprendo, no me podría comunicar"
+    },
+    {
+      "start": 110.12,
+      "end": 111.04,
+      "speaker": "SPEAKER_00",
+      "text": "Dentro de una hora"
+    },
+    {
+      "start": 111.04,
+      "end": 114.4,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, al menos para yo ubicarme"
+    },
+    {
+      "start": 114.4,
+      "end": 115.58,
+      "speaker": "SPEAKER_01",
+      "text": "Porque estoy en carretera"
+    },
+    {
+      "start": 115.58,
+      "end": 117.54,
+      "speaker": "SPEAKER_00",
+      "text": "De acuerdo"
+    },
+    {
+      "start": 117.54,
+      "end": 120.83,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga una excelente tarde"
+    }
+  ],
+  "short_id": "audioh12-2e50e9db-2spk",
+  "original_file_id": "2e50e9db-53c9-4472-ad05-1ba1032dd707"
+}

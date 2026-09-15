@@ -1,0 +1,383 @@
+{
+  "file_id": "bdc7c768-e08e-4ce8-9e8e-ebb3618d311f",
+  "source": "ia",
+  "duration_sec": 263.72,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 4.94,
+      "end": 5.94,
+      "speaker": "SPEAKER_00",
+      "text": "Muy buenos días."
+    },
+    {
+      "start": 9.09,
+      "end": 9.77,
+      "speaker": "SPEAKER_00",
+      "text": "Por favor."
+    },
+    {
+      "start": 12.55,
+      "end": 13.59,
+      "speaker": "SPEAKER_01",
+      "text": "¿Soy parte de quién?"
+    },
+    {
+      "start": 14.95,
+      "end": 17.75,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos llamando por motivo de un proceso legal en curso."
+    },
+    {
+      "start": 18.19,
+      "end": 20.67,
+      "speaker": "SPEAKER_00",
+      "text": "Por confidencialidad, necesito que por favor me valide si es usted."
+    },
+    {
+      "start": 23.22,
+      "end": 23.98,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, con él."
+    },
+    {
+      "start": 27.94,
+      "end": 31.86,
+      "speaker": "SPEAKER_00",
+      "text": "Del área de embargos, judicializaciones y alivios financieros."
+    },
+    {
+      "start": 32.28,
+      "end": 33.28,
+      "speaker": "SPEAKER_00",
+      "text": "Le llamo por su obligación."
+    },
+    {
+      "start": 34.04,
+      "end": 35.38,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo me le va, señor Barón?"
+    },
+    {
+      "start": 36.52,
+      "end": 36.88,
+      "speaker": "SPEAKER_01",
+      "text": "Bien."
+    },
+    {
+      "start": 40.2,
+      "end": 42.62,
+      "speaker": "SPEAKER_00",
+      "text": "La entidad con quien se originó la deuda es"
+    },
+    {
+      "start": 42.62,
+      "end": 44.26,
+      "speaker": "SPEAKER_00",
+      "text": "y actualmente"
+    },
+    {
+      "start": 44.26,
+      "end": 48.06,
+      "speaker": "SPEAKER_00",
+      "text": "Es la dueña de la deuda por un total de 590 mil pesos."
+    },
+    {
+      "start": 48.2,
+      "end": 51.94,
+      "speaker": "SPEAKER_00",
+      "text": "Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento."
+    },
+    {
+      "start": 52.3,
+      "end": 55.92,
+      "speaker": "SPEAKER_00",
+      "text": "Y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros."
+    },
+    {
+      "start": 56.83,
+      "end": 59.37,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me permite comentarle sobre la propuesta de pago que le tenemos?"
+    },
+    {
+      "start": 61.86,
+      "end": 62.46,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor."
+    },
+    {
+      "start": 65.38,
+      "end": 68.14,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos ofrecerle un descuento del 5% de toda la deuda."
+    },
+    {
+      "start": 68.58,
+      "end": 72.86,
+      "speaker": "SPEAKER_00",
+      "text": "Con el descuento ya no debería 590 mil pesos, sino solo 560 mil pesos."
+    },
+    {
+      "start": 73.93,
+      "end": 76.47,
+      "speaker": "SPEAKER_00",
+      "text": "Es una propuesta por tiempo limitado que vencería hoy mismo."
+    },
+    {
+      "start": 76.47,
+      "end": 81.29,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede vindicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?"
+    },
+    {
+      "start": 84.7,
+      "end": 88.62,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, amigo, pues me interesa. La verdad me interesa soldar eso, hermano, pero ahorita no puedo."
+    },
+    {
+      "start": 90.89,
+      "end": 91.89,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo perfectamente."
+    },
+    {
+      "start": 92.73,
+      "end": 95.43,
+      "speaker": "SPEAKER_00",
+      "text": "Cuénteme qué es lo que le impide comprometerse en este momento."
+    },
+    {
+      "start": 98.46,
+      "end": 104.64,
+      "speaker": "SPEAKER_01",
+      "text": "Que tengo múltiples problemas financieros por ahí en el momento,"
+    },
+    {
+      "start": 104.78,
+      "end": 110.34,
+      "speaker": "SPEAKER_01",
+      "text": "entonces no tengo liquidez ahorita para solucionar ese tema, pero sí me interesa solucionarlo, claro."
+    },
+    {
+      "start": 112.85,
+      "end": 113.77,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo su situación."
+    },
+    {
+      "start": 113.77,
+      "end": 120.61,
+      "speaker": "SPEAKER_00",
+      "text": "La propuesta que tenemos disponible es de una sola cuota de 560 mil pesos, con fecha de pago antes del 31 de julio."
+    },
+    {
+      "start": 120.95,
+      "end": 124.43,
+      "speaker": "SPEAKER_00",
+      "text": "¿Hay alguna posibilidad de que pueda comprometerse con ese valor antes de que termine el mes?"
+    },
+    {
+      "start": 126.6,
+      "end": 130.04,
+      "speaker": "SPEAKER_01",
+      "text": "¿Antes de terminar este mes? ¿Estamos a 20? ¿Qué es que estamos? ¿22?"
+    },
+    {
+      "start": 133.46,
+      "end": 134.98,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos a 23 de julio."
+    },
+    {
+      "start": 135.67,
+      "end": 138.71,
+      "speaker": "SPEAKER_00",
+      "text": "¿Le quedarían hasta el 31 de julio para realizar el pago?"
+    },
+    {
+      "start": 143.18,
+      "end": 149.74,
+      "speaker": "SPEAKER_01",
+      "text": "Pues me interesa, la verdad sí me interesa, pues déjeme entonces a yo como obrego a solucionar y claro."
+    },
+    {
+      "start": 152.75,
+      "end": 157.77,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me confirma entonces con un sí que acepta el acuerdo por la opción de una sola cuota antes del 31 de julio?"
+    },
+    {
+      "start": 159.85,
+      "end": 162.47,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, sí, señor. ¿A qué punto tienen las oficinas ustedes?"
+    },
+    {
+      "start": 166.29,
+      "end": 167.41,
+      "speaker": "SPEAKER_00",
+      "text": "Confirmo entonces el acuerdo."
+    },
+    {
+      "start": 167.79,
+      "end": 171.79,
+      "speaker": "SPEAKER_00",
+      "text": "Me alegra que lleguemos a este acuerdo de pago y que pueda aprovechar el descuento del 5%."
+    },
+    {
+      "start": 171.79,
+      "end": 176.41,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me autoriza a enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp?"
+    },
+    {
+      "start": 178.55,
+      "end": 179.43,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, sí, señor."
+    },
+    {
+      "start": 183.42,
+      "end": 183.92,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, señor."
+    },
+    {
+      "start": 184.5,
+      "end": 187.54,
+      "speaker": "SPEAKER_00",
+      "text": "Primero necesito confirmar con usted la fecha de pago de la primera cuota."
+    },
+    {
+      "start": 187.54,
+      "end": 190.72,
+      "speaker": "SPEAKER_00",
+      "text": "Sería el 26 de julio de 2026"
+    },
+    {
+      "start": 190.72,
+      "end": 192.02,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me confirma esa fecha?"
+    },
+    {
+      "start": 194.65,
+      "end": 197.11,
+      "speaker": "SPEAKER_01",
+      "text": "26, uno dice que hasta el 31 hay plazo"
+    },
+    {
+      "start": 197.11,
+      "end": 201.79,
+      "speaker": "SPEAKER_00",
+      "text": "Tiene razón"
+    },
+    {
+      "start": 201.79,
+      "end": 205.17,
+      "speaker": "SPEAKER_00",
+      "text": "Tiene hasta el 31 de julio para realizar el pago"
+    },
+    {
+      "start": 205.17,
+      "end": 207.47,
+      "speaker": "SPEAKER_00",
+      "text": "La fecha que le sugiero es el 26 de julio"
+    },
+    {
+      "start": 207.47,
+      "end": 209.65,
+      "speaker": "SPEAKER_00",
+      "text": "Pero puede ser cualquier día hasta el 31"
+    },
+    {
+      "start": 209.65,
+      "end": 211.03,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cuál fecha prefiere usted?"
+    },
+    {
+      "start": 212.86,
+      "end": 213.58,
+      "speaker": "SPEAKER_01",
+      "text": "El 31"
+    },
+    {
+      "start": 213.58,
+      "end": 219.08,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, se..."
+    },
+    {
+      "start": 219.08,
+      "end": 221.88,
+      "speaker": "SPEAKER_00",
+      "text": "Confirmó entonces el 31 de julio como fecha de pago"
+    },
+    {
+      "start": 221.88,
+      "end": 225.44,
+      "speaker": "SPEAKER_00",
+      "text": "Ahora necesito solicitarle un número telefónico alternativo para contactarlo"
+    },
+    {
+      "start": 228.57,
+      "end": 229.45,
+      "speaker": "SPEAKER_01",
+      "text": "Este mismo número."
+    },
+    {
+      "start": 233.26,
+      "end": 233.62,
+      "speaker": "SPEAKER_00",
+      "text": "Entendido."
+    },
+    {
+      "start": 234.19,
+      "end": 235.93,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede confirmar su correo electrónico?"
+    },
+    {
+      "start": 239.1,
+      "end": 241.36,
+      "speaker": "SPEAKER_01",
+      "text": "No, por este medio me puede..."
+    },
+    {
+      "start": 241.36,
+      "end": 247.38,
+      "speaker": "SPEAKER_00",
+      "text": "Necesito que me proporcione su correo electrónico para enviarle la información del acuerdo."
+    },
+    {
+      "start": 252.62,
+      "end": 253.94,
+      "speaker": "SPEAKER_01",
+      "text": "¿A dónde quedan las oficinas aquí?"
+    },
+    {
+      "start": 254.74,
+      "end": 256.16,
+      "speaker": "SPEAKER_01",
+      "text": "Regáleme la dirección, hágame el favor."
+    },
+    {
+      "start": 259.16,
+      "end": 261.88,
+      "speaker": "SPEAKER_00",
+      "text": "Necesito su correo electrónico para enviarle los detalles del acuerdo."
+    },
+    {
+      "start": 262.26,
+      "end": 263.72,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede proporcionar su dirección de correo?"
+    }
+  ],
+  "short_id": "audioi43-bdc7c768-2spk",
+  "original_file_id": "bdc7c768-e08e-4ce8-9e8e-ebb3618d311f"
+}

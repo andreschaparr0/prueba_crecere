@@ -1,0 +1,515 @@
+{
+  "file_id": "673f40d5-c6de-4cec-8c52-ad89b8382f38",
+  "source": "ia",
+  "duration_sec": 344.7,
+  "language": "es",
+  "n_speakers_detected": 2,
+  "segments": [
+    {
+      "start": 5.07,
+      "end": 8.38,
+      "speaker": "SPEAKER_00",
+      "text": "Hola, buen día. Hablo con el señor Salazar."
+    },
+    {
+      "start": 11.1,
+      "end": 11.48,
+      "speaker": "SPEAKER_00",
+      "text": "¿Con quién?"
+    },
+    {
+      "start": 13.24,
+      "end": 16.73,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos llamando por motivo de un proceso legal en curso."
+    },
+    {
+      "start": 17.17,
+      "end": 20.27,
+      "speaker": "SPEAKER_00",
+      "text": "Por confidencialidad necesito que por favor me valide si es su..."
+    },
+    {
+      "start": 20.27,
+      "end": 22.97,
+      "speaker": "SPEAKER_01",
+      "text": "¿Con quién hablo?"
+    },
+    {
+      "start": 25.23,
+      "end": 31.02,
+      "speaker": "SPEAKER_00",
+      "text": "A... confirmar si usted es... para poder continuar con el motivo de mi llamada."
+    },
+    {
+      "start": 31.84,
+      "end": 32.98,
+      "speaker": "SPEAKER_01",
+      "text": "¿Y qué reconectemos?"
+    },
+    {
+      "start": 33.62,
+      "end": 39.57,
+      "speaker": "SPEAKER_00",
+      "text": "Es la entidad que actualmente maneja su obligación financiera que se originó..."
+    },
+    {
+      "start": 39.57,
+      "end": 42.37,
+      "speaker": "SPEAKER_00",
+      "text": "¿Podría confirmarme por favor si usted..."
+    },
+    {
+      "start": 42.37,
+      "end": 44.88,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, con él hablan."
+    },
+    {
+      "start": 44.88,
+      "end": 53.04,
+      "speaker": "SPEAKER_00",
+      "text": "Le habla Ricardo, del área de embargos, judicializaciones y alivios financieros."
+    },
+    {
+      "start": 53.46,
+      "end": 54.52,
+      "speaker": "SPEAKER_00",
+      "text": "Le llamo por su obligación."
+    },
+    {
+      "start": 55.46,
+      "end": 56.16,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo me le va?"
+    },
+    {
+      "start": 57.66,
+      "end": 59.5,
+      "speaker": "SPEAKER_01",
+      "text": "Muy bien, ¿y usted qué tal?"
+    },
+    {
+      "start": 61.33,
+      "end": 62.97,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente, muchas gracias por preguntar."
+    },
+    {
+      "start": 63.31,
+      "end": 68.59,
+      "speaker": "SPEAKER_00",
+      "text": "El motivo de mi llamada es informarle sobre una oportunidad que hemos preparado especialmente para usted."
+    },
+    {
+      "start": 69.41,
+      "end": 71.71,
+      "speaker": "SPEAKER_00",
+      "text": "Como entidad dueña de la deuda que se originó,"
+    },
+    {
+      "start": 73.01,
+      "end": 77.05,
+      "speaker": "SPEAKER_00",
+      "text": "desea brindarle una ayuda para evitar un proceso legal muy costoso en tiempo y plata,"
+    },
+    {
+      "start": 77.05,
+      "end": 79.09,
+      "speaker": "SPEAKER_00",
+      "text": "tanto para usted como para nosotros."
+    },
+    {
+      "start": 79.09,
+      "end": 81.87,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me permite comentarle sobre la propuesta de pago que le tenemos?"
+    },
+    {
+      "start": 83.87,
+      "end": 84.83,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, claro."
+    },
+    {
+      "start": 87.24,
+      "end": 87.86,
+      "speaker": "SPEAKER_00",
+      "text": "Excelente, señor."
+    },
+    {
+      "start": 88.43,
+      "end": 91.47,
+      "speaker": "SPEAKER_00",
+      "text": "Queremos ofrecerle un descuento del 0% de toda la deuda."
+    },
+    {
+      "start": 91.87,
+      "end": 93.63,
+      "speaker": "SPEAKER_00",
+      "text": "Así le condonaríamos un total de 0 pesos."
+    },
+    {
+      "start": 94.11,
+      "end": 97.31,
+      "speaker": "SPEAKER_00",
+      "text": "Con el descuento ya no debería 6 millones 590 mil pesos,"
+    },
+    {
+      "start": 97.73,
+      "end": 99.95,
+      "speaker": "SPEAKER_00",
+      "text": "sino solo 6 millones 590 mil pesos."
+    },
+    {
+      "start": 100.45,
+      "end": 103.21,
+      "speaker": "SPEAKER_00",
+      "text": "Además, le puedo dejar que pague hasta en 5 cuotas."
+    },
+    {
+      "start": 103.61,
+      "end": 108.17,
+      "speaker": "SPEAKER_00",
+      "text": "Así serían 5 pagos mensuales, de 1 millón 320 mil pesos cada uno."
+    },
+    {
+      "start": 108.17,
+      "end": 111.98,
+      "speaker": "SPEAKER_00",
+      "text": "Es una propuesta por tiempo limitado que vencería hoy mismo."
+    },
+    {
+      "start": 112.38,
+      "end": 115.48,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me puede indicar con un sí o un no si le interesa este descuento"
+    },
+    {
+      "start": 115.48,
+      "end": 116.8,
+      "speaker": "SPEAKER_00",
+      "text": "y hacemos este acuerdo de pago?"
+    },
+    {
+      "start": 118.0,
+      "end": 118.34,
+      "speaker": "SPEAKER_01",
+      "text": "No."
+    },
+    {
+      "start": 120.88,
+      "end": 121.24,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo."
+    },
+    {
+      "start": 121.96,
+      "end": 124.38,
+      "speaker": "SPEAKER_00",
+      "text": "¿Me podría comentar qué es lo que le preocupa de la propuesta"
+    },
+    {
+      "start": 124.38,
+      "end": 125.5,
+      "speaker": "SPEAKER_00",
+      "text": "para ver cómo le puedo ayudar?"
+    },
+    {
+      "start": 127.14,
+      "end": 127.62,
+      "speaker": "SPEAKER_01",
+      "text": "Desempleo."
+    },
+    {
+      "start": 128.44,
+      "end": 130.26,
+      "speaker": "SPEAKER_01",
+      "text": "Esa es mi situación, de desempleo."
+    },
+    {
+      "start": 131.12,
+      "end": 135.9,
+      "speaker": "SPEAKER_01",
+      "text": "Por eso, en este momento, no me puedo acoger a ningún beneficio."
+    },
+    {
+      "start": 136.16,
+      "end": 138.38,
+      "speaker": "SPEAKER_01",
+      "text": "Hoy en día, no lo puedo hacer."
+    },
+    {
+      "start": 138.38,
+      "end": 142.9,
+      "speaker": "SPEAKER_00",
+      "text": "Lamento mucho su situación señor"
+    },
+    {
+      "start": 142.9,
+      "end": 145.23,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo que es un momento muy difícil"
+    },
+    {
+      "start": 145.23,
+      "end": 148.63,
+      "speaker": "SPEAKER_00",
+      "text": "¿Hay alguna fecha en la que crea que podría retomar este tema con nosotros?"
+    },
+    {
+      "start": 152.12,
+      "end": 154.26,
+      "speaker": "SPEAKER_01",
+      "text": "O sea, yo como lo veo"
+    },
+    {
+      "start": 154.26,
+      "end": 156.32,
+      "speaker": "SPEAKER_01",
+      "text": "Para yo retomar el tema"
+    },
+    {
+      "start": 156.32,
+      "end": 159.6,
+      "speaker": "SPEAKER_01",
+      "text": "Tiene que ser que yo consiga un empleo"
+    },
+    {
+      "start": 159.6,
+      "end": 160.74,
+      "speaker": "SPEAKER_01",
+      "text": "Que tenga un contrato"
+    },
+    {
+      "start": 160.74,
+      "end": 165.07,
+      "speaker": "SPEAKER_01",
+      "text": "Y un salario fijo para poder acogerme algún beneficio"
+    },
+    {
+      "start": 165.07,
+      "end": 167.21,
+      "speaker": "SPEAKER_01",
+      "text": "O alguna negociación con ustedes"
+    },
+    {
+      "start": 167.21,
+      "end": 170.05,
+      "speaker": "SPEAKER_01",
+      "text": "Pero por el momento, mientras esté desempleado"
+    },
+    {
+      "start": 170.05,
+      "end": 171.59,
+      "speaker": "SPEAKER_01",
+      "text": "Muy difícil"
+    },
+    {
+      "start": 171.59,
+      "end": 173.41,
+      "speaker": "SPEAKER_01",
+      "text": "Por el momento no lo podría hacer"
+    },
+    {
+      "start": 173.41,
+      "end": 190.57,
+      "speaker": "SPEAKER_01",
+      "text": "No tengo una fecha, porque la idea mía, lo que yo quisiera es estar empleado hace mucho tiempo, pero en este momento es una fecha que no la tengo a la vista. He repartido muchas rojas de vida, pero hasta el momento ningún resultado."
+    },
+    {
+      "start": 190.57,
+      "end": 208.26,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo. Sin embargo, con este descuento del 0%, su deuda baja de $6.590.000 a $6.590.000 y puede pagarla hasta en cinco cuotas de $1.320.000."
+    },
+    {
+      "start": 209.72,
+      "end": 216.32,
+      "speaker": "SPEAKER_00",
+      "text": "Es el mejor descuento que creo podría conseguir sobre esta deuda. ¿Puedo considerarlo? Por favor, indíqueme sí o no."
+    },
+    {
+      "start": 219.61,
+      "end": 221.19,
+      "speaker": "SPEAKER_01",
+      "text": "Pero es que en este momento no tengo cómo."
+    },
+    {
+      "start": 224.49,
+      "end": 229.77,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo perfectamente, señor. Y lamento la situación por la que está pasando. Siento que estas opciones no le sirvan."
+    },
+    {
+      "start": 230.11,
+      "end": 232.21,
+      "speaker": "SPEAKER_00",
+      "text": "Pero tranquilo, puedo proponerle otra cosa."
+    },
+    {
+      "start": 232.55,
+      "end": 234.43,
+      "speaker": "SPEAKER_00",
+      "text": "Le puedo ofrecer un acuerdo de largo plazo."
+    },
+    {
+      "start": 234.87,
+      "end": 237.35,
+      "speaker": "SPEAKER_00",
+      "text": "No habría descuento, pero usted puede poner el valor de la cuota."
+    },
+    {
+      "start": 237.75,
+      "end": 240.45,
+      "speaker": "SPEAKER_00",
+      "text": "Con esto se para cualquier proceso legal y sobre todo la llamadera."
+    },
+    {
+      "start": 240.91,
+      "end": 245.27,
+      "speaker": "SPEAKER_00",
+      "text": "Para dejar registro, ¿cuánto sería lo máximo que podría pagar mes a mes que se acomode a su presupuesto?"
+    },
+    {
+      "start": 248.18,
+      "end": 253.7,
+      "speaker": "SPEAKER_01",
+      "text": "Te repito, hasta que yo no tenga un empleo con un salario fijo,"
+    },
+    {
+      "start": 253.7,
+      "end": 260.52,
+      "speaker": "SPEAKER_01",
+      "text": "no me puedo en este momento comprometer con una cuota mensual porque no tengo ingresos fijos."
+    },
+    {
+      "start": 262.48,
+      "end": 267.3,
+      "speaker": "SPEAKER_00",
+      "text": "Veo que dada la situación, hoy no se puede comprometer a un acuerdo, ¿correcto?"
+    },
+    {
+      "start": 267.64,
+      "end": 270.14,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, veo que no hemos podido aún llegar a un acuerdo,"
+    },
+    {
+      "start": 270.56,
+      "end": 273.94,
+      "speaker": "SPEAKER_00",
+      "text": "pero entiendo que de todos modos a usted le interesa que solucionemos esto, ¿correcto?"
+    },
+    {
+      "start": 274.26,
+      "end": 278.64,
+      "speaker": "SPEAKER_00",
+      "text": "Podemos sacarlo de centrales, darle un PAS y salvo anticipado, entre otras cosas."
+    },
+    {
+      "start": 279.14,
+      "end": 282.18,
+      "speaker": "SPEAKER_00",
+      "text": "Dígame algo, ¿qué lo motivaría a usted a llegar a un acuerdo de pago?"
+    },
+    {
+      "start": 282.18,
+      "end": 285.8,
+      "speaker": "SPEAKER_00",
+      "text": "¿O qué podríamos hacer desde? Reconectemos para solucionar esto juntos."
+    },
+    {
+      "start": 289.24,
+      "end": 291.66,
+      "speaker": "SPEAKER_01",
+      "text": "Pues la situación está desde mi parte."
+    },
+    {
+      "start": 291.66,
+      "end": 297.32,
+      "speaker": "SPEAKER_01",
+      "text": "O sea, que yo consiga un empleo y tenga un salario fijo para poder hacer alguna negociación."
+    },
+    {
+      "start": 297.7,
+      "end": 305.12,
+      "speaker": "SPEAKER_01",
+      "text": "En este momento, como estoy, estoy maniatado y no tengo campo de acción para poder acogerme a ningún beneficio."
+    },
+    {
+      "start": 305.78,
+      "end": 307.64,
+      "speaker": "SPEAKER_01",
+      "text": "Hasta que no tenga un empleo, no lo puedo hacer."
+    },
+    {
+      "start": 312.06,
+      "end": 313.72,
+      "speaker": "SPEAKER_00",
+      "text": "Entiendo completamente su situación, señor."
+    },
+    {
+      "start": 314.24,
+      "end": 319.88,
+      "speaker": "SPEAKER_00",
+      "text": "Es muy claro que necesita primero estabilizar sus ingresos antes de poder comprometerse con cualquier acuerdo de pago."
+    },
+    {
+      "start": 320.3,
+      "end": 322.92,
+      "speaker": "SPEAKER_00",
+      "text": "Exploraremos estos comentarios y lo estaremos recontactando pronto."
+    },
+    {
+      "start": 322.92,
+      "end": 325.86,
+      "speaker": "SPEAKER_00",
+      "text": "Le deseo mucho éxito en su búsqueda de empleo."
+    },
+    {
+      "start": 325.98,
+      "end": 326.88,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga un buen día."
+    },
+    {
+      "start": 327.9,
+      "end": 328.68,
+      "speaker": "SPEAKER_00",
+      "text": "Hasta luego."
+    },
+    {
+      "start": 329.18,
+      "end": 332.42,
+      "speaker": "SPEAKER_00",
+      "text": "Para finalizar, le informo que esta llamada fue grabada y monitoreada."
+    },
+    {
+      "start": 332.94,
+      "end": 338.22,
+      "speaker": "SPEAKER_00",
+      "text": "Todos los datos acá compartidos serán analizados y tratados bajo la Ley 1581 de 2012."
+    },
+    {
+      "start": 338.76,
+      "end": 340.36,
+      "speaker": "SPEAKER_00",
+      "text": "Quedamos atentos al envío de la documentación."
+    },
+    {
+      "start": 341.26,
+      "end": 342.12,
+      "speaker": "SPEAKER_00",
+      "text": "Que tenga un buen día."
+    },
+    {
+      "start": 342.64,
+      "end": 343.36,
+      "speaker": "SPEAKER_00",
+      "text": "Hasta luego."
+    }
+  ],
+  "short_id": "audioi23-673f40d5-2spk",
+  "original_file_id": "673f40d5-c6de-4cec-8c52-ad89b8382f38"
+}

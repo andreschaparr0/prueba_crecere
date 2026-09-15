@@ -1,0 +1,203 @@
+{
+  "file_id": "50e0f632-d195-4476-b049-3720482d65d9",
+  "source": "humano",
+  "duration_sec": 116.42,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 15.7,
+      "end": 20.6,
+      "speaker": "SPEAKER_01",
+      "text": "Muy buen día, ¿me podría comunicar, por favor, con el señor..."
+    },
+    {
+      "start": 20.6,
+      "end": 28.94,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo me le ha ido?"
+    },
+    {
+      "start": 29.5,
+      "end": 33.48,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, un poco regrado, porque todavía necesitamos una disca."
+    },
+    {
+      "start": 34.32,
+      "end": 38.12,
+      "speaker": "SPEAKER_01",
+      "text": "Gracias, señor. No, precisamente, brevemente, el motivo de mi llamada"
+    },
+    {
+      "start": 38.12,
+      "end": 42.42,
+      "speaker": "SPEAKER_01",
+      "text": "era para confirmar que había realizado el pago del acuerdo,"
+    },
+    {
+      "start": 43.24,
+      "end": 45.7,
+      "speaker": "SPEAKER_01",
+      "text": "el cual ya lo hizo el señor Carlos."
+    },
+    {
+      "start": 46.06,
+      "end": 46.4,
+      "speaker": "SPEAKER_01",
+      "text": "¡Halo!"
+    },
+    {
+      "start": 49.3,
+      "end": 51.14,
+      "speaker": "SPEAKER_01",
+      "text": "Quería confirmar..."
+    },
+    {
+      "start": 51.14,
+      "end": 59.73,
+      "speaker": "SPEAKER_01",
+      "text": "Queríamos confirmar"
+    },
+    {
+      "start": 59.73,
+      "end": 61.57,
+      "speaker": "SPEAKER_01",
+      "text": "Si ya realizó de usted el pago"
+    },
+    {
+      "start": 61.57,
+      "end": 62.69,
+      "speaker": "SPEAKER_01",
+      "text": "El acuerdo"
+    },
+    {
+      "start": 62.69,
+      "end": 64.29,
+      "speaker": "SPEAKER_01",
+      "text": "Yo no he realizado"
+    },
+    {
+      "start": 64.29,
+      "end": 65.59,
+      "speaker": "SPEAKER_01",
+      "text": "Póngame cuidado"
+    },
+    {
+      "start": 65.59,
+      "end": 68.65,
+      "speaker": "SPEAKER_01",
+      "text": "Yo no he realizado ningún pago"
+    },
+    {
+      "start": 68.65,
+      "end": 70.67,
+      "speaker": "SPEAKER_01",
+      "text": "Porque el señor que me llamó que día no se dejó hablar"
+    },
+    {
+      "start": 70.67,
+      "end": 73.23,
+      "speaker": "SPEAKER_01",
+      "text": "Y yo pensé que era que el primer pago"
+    },
+    {
+      "start": 73.23,
+      "end": 75.07,
+      "speaker": "SPEAKER_01",
+      "text": "Lo podía hacer el 20 del otro mes"
+    },
+    {
+      "start": 75.07,
+      "end": 77.67,
+      "speaker": "SPEAKER_01",
+      "text": "Y ya cuando le voy a decir él me colgó"
+    },
+    {
+      "start": 77.67,
+      "end": 79.25,
+      "speaker": "SPEAKER_01",
+      "text": "Y porque para este día no tengo la plata"
+    },
+    {
+      "start": 79.25,
+      "end": 81.81,
+      "speaker": "SPEAKER_01",
+      "text": "Pero para el 20 del otro mes ya puedo comenzar a pagar el primer pago"
+    },
+    {
+      "start": 81.81,
+      "end": 84.15,
+      "speaker": "SPEAKER_01",
+      "text": "Porque el señor no se dejó hablar"
+    },
+    {
+      "start": 84.15,
+      "end": 86.23,
+      "speaker": "SPEAKER_01",
+      "text": "El señor me habló y me dijo que no se dejó hablar nada"
+    },
+    {
+      "start": 86.23,
+      "end": 88.85,
+      "speaker": "SPEAKER_01",
+      "text": "Mmm, sí señor"
+    },
+    {
+      "start": 88.85,
+      "end": 91.57,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces ya voy a notificar al área descargada"
+    },
+    {
+      "start": 91.57,
+      "end": 94.05,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, mi señor, le agradezco mucho"
+    },
+    {
+      "start": 94.05,
+      "end": 106.45,
+      "speaker": "SPEAKER_01",
+      "text": "Y ahorita está aquí la cita médica"
+    },
+    {
+      "start": 106.45,
+      "end": 107.93,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, bueno, sí señor"
+    },
+    {
+      "start": 107.93,
+      "end": 109.15,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, mi señor"
+    },
+    {
+      "start": 109.15,
+      "end": 112.2,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces yo posteriormente voy a comunicarme con usted"
+    },
+    {
+      "start": 112.2,
+      "end": 113.06,
+      "speaker": "SPEAKER_01",
+      "text": "Que esté muy bien"
+    },
+    {
+      "start": 113.06,
+      "end": 115.06,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, señor, gracias"
+    },
+    {
+      "start": 115.06,
+      "end": 116.04,
+      "speaker": "SPEAKER_01",
+      "text": "Hasta luego"
+    }
+  ],
+  "short_id": "audioh18-50e0f632-1spk",
+  "original_file_id": "50e0f632-d195-4476-b049-3720482d65d9"
+}

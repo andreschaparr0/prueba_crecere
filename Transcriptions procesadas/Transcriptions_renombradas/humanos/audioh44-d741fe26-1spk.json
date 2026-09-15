@@ -1,0 +1,563 @@
+{
+  "file_id": "d741fe26-bbd4-41ab-a3c5-0c94791c6a1f",
+  "source": "humano",
+  "duration_sec": 304.24,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 22.22,
+      "end": 23.06,
+      "speaker": "SPEAKER_00",
+      "text": "Buenas tardes."
+    },
+    {
+      "start": 23.44,
+      "end": 27.8,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, con ella."
+    },
+    {
+      "start": 28.52,
+      "end": 32.18,
+      "speaker": "SPEAKER_00",
+      "text": "Señor Evo, a mucho gusto. Le habla Daniela. Me estoy comunicando de Logros."
+    },
+    {
+      "start": 32.6,
+      "end": 36.58,
+      "speaker": "SPEAKER_00",
+      "text": "Nosotros somos quienes actualmente compramos la cartera de su obligación pendiente con el banco."
+    },
+    {
+      "start": 37.02,
+      "end": 38.72,
+      "speaker": "SPEAKER_00",
+      "text": "¿Cómo se encuentra la tarde de hoy?"
+    },
+    {
+      "start": 39.56,
+      "end": 41.18,
+      "speaker": "SPEAKER_00",
+      "text": "Con el caso bien, sí, señora."
+    },
+    {
+      "start": 42.02,
+      "end": 43.86,
+      "speaker": "SPEAKER_00",
+      "text": "Me alegra que se encuentre bien, sí, señora."
+    },
+    {
+      "start": 43.9,
+      "end": 51.14,
+      "speaker": "SPEAKER_00",
+      "text": "Le estoy llamando porque en este momento la deuda no registra con un saldo total de 856.881 pesos."
+    },
+    {
+      "start": 51.14,
+      "end": 55.06,
+      "speaker": "SPEAKER_00",
+      "text": "Estamos manejando una campaña para poder hacer el pago de la obligación"
+    },
+    {
+      "start": 55.06,
+      "end": 57.36,
+      "speaker": "SPEAKER_00",
+      "text": "En un periodo máximo de tres cuotas"
+    },
+    {
+      "start": 57.36,
+      "end": 60.78,
+      "speaker": "SPEAKER_00",
+      "text": "No sé si se encuentra interesante esta oportunidad"
+    },
+    {
+      "start": 60.78,
+      "end": 62.84,
+      "speaker": "SPEAKER_00",
+      "text": "¿Con el banco?"
+    },
+    {
+      "start": 64.02,
+      "end": 65.2,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí señora"
+    },
+    {
+      "start": 65.2,
+      "end": 69.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, la verdad sí quisiera cerrar esa deuda"
+    },
+    {
+      "start": 69.0,
+      "end": 70.24,
+      "speaker": "SPEAKER_00",
+      "text": "Listo"
+    },
+    {
+      "start": 70.24,
+      "end": 78.42,
+      "speaker": "SPEAKER_00",
+      "text": "¿Y usted podría hacer el pago de los 285.627 pesos que día del mes le quedaría bien ahorita para el 15?"
+    },
+    {
+      "start": 79.54,
+      "end": 82.18,
+      "speaker": "SPEAKER_00",
+      "text": "No, ¿sabes para qué día? El 30"
+    },
+    {
+      "start": 82.18,
+      "end": 84.72,
+      "speaker": "SPEAKER_00",
+      "text": "con seguridad yo te puedo dar la primera cuota"
+    },
+    {
+      "start": 84.72,
+      "end": 86.26,
+      "speaker": "SPEAKER_00",
+      "text": "para el 30"
+    },
+    {
+      "start": 86.26,
+      "end": 89.04,
+      "speaker": "SPEAKER_00",
+      "text": "¿ya quedarían tres cuotas"
+    },
+    {
+      "start": 89.04,
+      "end": 90.54,
+      "speaker": "SPEAKER_00",
+      "text": "y ya quedaría cerrada esa deuda"
+    },
+    {
+      "start": 90.54,
+      "end": 91.32,
+      "speaker": "SPEAKER_00",
+      "text": "con usted?"
+    },
+    {
+      "start": 92.0,
+      "end": 94.14,
+      "speaker": "SPEAKER_00",
+      "text": "Sí señora, efectivamente, posterior a ello"
+    },
+    {
+      "start": 94.14,
+      "end": 96.9,
+      "speaker": "SPEAKER_00",
+      "text": "como se nos reporte los pagos"
+    },
+    {
+      "start": 96.9,
+      "end": 98.7,
+      "speaker": "SPEAKER_00",
+      "text": "de igual forma se generan las aplicaciones"
+    },
+    {
+      "start": 98.7,
+      "end": 100.72,
+      "speaker": "SPEAKER_00",
+      "text": "y le vamos a allí cuando"
+    },
+    {
+      "start": 100.72,
+      "end": 102.6,
+      "speaker": "SPEAKER_00",
+      "text": "finalice de pagar, a dar la información"
+    },
+    {
+      "start": 102.6,
+      "end": 104.28,
+      "speaker": "SPEAKER_00",
+      "text": "para que pueda solicitar el respectivo"
+    },
+    {
+      "start": 104.28,
+      "end": 105.36,
+      "speaker": "SPEAKER_00",
+      "text": "por la página"
+    },
+    {
+      "start": 105.36,
+      "end": 109.51,
+      "speaker": "SPEAKER_00",
+      "text": "Vale, sí señora, hazme un favor"
+    },
+    {
+      "start": 109.51,
+      "end": 111.77,
+      "speaker": "SPEAKER_00",
+      "text": "¿y cuánto"
+    },
+    {
+      "start": 111.77,
+      "end": 119.07,
+      "speaker": "SPEAKER_00",
+      "text": "se demora en enviar cuando es un mes de los solicita por la página en más o menos cinco"
+    },
+    {
+      "start": 119.07,
+      "end": 126.36,
+      "speaker": "SPEAKER_00",
+      "text": "días máximo directo no nosotros lo que pasa es que bueno le voy a explicar de pronto si no"
+    },
+    {
+      "start": 126.36,
+      "end": 132.35,
+      "speaker": "SPEAKER_00",
+      "text": "nos logres es una entidad que realiza compra de cartera nosotros somos actualmente los dueños"
+    },
+    {
+      "start": 132.35,
+      "end": 136.37,
+      "speaker": "SPEAKER_00",
+      "text": "de la cartera que quiere decir que somos los acreedores cuando se hace una sesión de cartera"
+    },
+    {
+      "start": 136.37,
+      "end": 141.81,
+      "speaker": "SPEAKER_00",
+      "text": "somos los nuevos acreedores de la deuda por en es quien hace toda la gestión del reporte"
+    },
+    {
+      "start": 141.81,
+      "end": 143.93,
+      "speaker": "SPEAKER_00",
+      "text": "negativo en centrales de riesgo y de igual forma"
+    },
+    {
+      "start": 143.93,
+      "end": 145.93,
+      "speaker": "SPEAKER_00",
+      "text": "pues el tema de los pasisalvos"
+    },
+    {
+      "start": 145.93,
+      "end": 148.15,
+      "speaker": "SPEAKER_00",
+      "text": "cuando se realice el pago para el siguiente"
+    },
+    {
+      "start": 148.15,
+      "end": 149.93,
+      "speaker": "SPEAKER_00",
+      "text": "mes va a quitar el tema"
+    },
+    {
+      "start": 149.93,
+      "end": 152.03,
+      "speaker": "SPEAKER_00",
+      "text": "del reporte negativo en centrales de riesgo"
+    },
+    {
+      "start": 152.03,
+      "end": 153.83,
+      "speaker": "SPEAKER_00",
+      "text": "y de igual forma pues dentro"
+    },
+    {
+      "start": 153.83,
+      "end": 155.49,
+      "speaker": "SPEAKER_00",
+      "text": "tan pronto se aplique el pago"
+    },
+    {
+      "start": 155.49,
+      "end": 156.65,
+      "speaker": "SPEAKER_00",
+      "text": "si el pago es directo"
+    },
+    {
+      "start": 156.65,
+      "end": 160.46,
+      "speaker": "SPEAKER_00",
+      "text": "ya a los tres días usted puede solicitar el pasisalvo"
+    },
+    {
+      "start": 160.46,
+      "end": 161.86,
+      "speaker": "SPEAKER_00",
+      "text": "de una vez por la página"
+    },
+    {
+      "start": 161.86,
+      "end": 164.77,
+      "speaker": "SPEAKER_00",
+      "text": "¿hay posibilidad de que tú me puedas"
+    },
+    {
+      "start": 164.77,
+      "end": 166.37,
+      "speaker": "SPEAKER_00",
+      "text": "enviar información al correo?"
+    },
+    {
+      "start": 167.54,
+      "end": 168.22,
+      "speaker": "SPEAKER_00",
+      "text": "si yo le envío"
+    },
+    {
+      "start": 168.22,
+      "end": 172.6,
+      "speaker": "SPEAKER_00",
+      "text": "la información del acuerdo"
+    },
+    {
+      "start": 172.6,
+      "end": 176.74,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, claro que sí, la información del acuerdo sería enviada al correo"
+    },
+    {
+      "start": 176.74,
+      "end": 180.74,
+      "speaker": "SPEAKER_00",
+      "text": "Igual si usted tiene alguna duda adicional de pronto de la información que yo le estoy dando"
+    },
+    {
+      "start": 180.74,
+      "end": 182.78,
+      "speaker": "SPEAKER_00",
+      "text": "Usted puede corroborar esto mismo en el banco"
+    },
+    {
+      "start": 182.78,
+      "end": 183.8,
+      "speaker": "SPEAKER_00",
+      "text": "¿Listo?"
+    },
+    {
+      "start": 184.8,
+      "end": 185.8,
+      "speaker": "SPEAKER_00",
+      "text": "Vale, sí señora"
+    },
+    {
+      "start": 185.8,
+      "end": 188.48,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, entonces quiero confirmarle su correo"
+    },
+    {
+      "start": 188.48,
+      "end": 189.98,
+      "speaker": "SPEAKER_00",
+      "text": "O el que nos registra acá en el sistema"
+    },
+    {
+      "start": 189.98,
+      "end": 195.26,
+      "speaker": "SPEAKER_00",
+      "text": "Es ivjuta.ba.gmail.com"
+    },
+    {
+      "start": 195.26,
+      "end": 197.92,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, ese es mi correo, sí señora"
+    },
+    {
+      "start": 197.92,
+      "end": 199.92,
+      "speaker": "SPEAKER_00",
+      "text": "Listo, entonces vamos a poner"
+    },
+    {
+      "start": 199.92,
+      "end": 204.44,
+      "speaker": "SPEAKER_00",
+      "text": "Igual, si es mi WhatsApp, por medio de WhatsApp también nos podemos comunicar."
+    },
+    {
+      "start": 205.64,
+      "end": 210.02,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto, sí señora. Entonces también por WhatsApp estaríamos comunicándonos."
+    },
+    {
+      "start": 211.36,
+      "end": 214.88,
+      "speaker": "SPEAKER_00",
+      "text": "Bueno, se lo voy a dejar por el 31 porque el 30 es un domingo."
+    },
+    {
+      "start": 216.03,
+      "end": 216.83,
+      "speaker": "SPEAKER_00",
+      "text": "Ah, ya."
+    },
+    {
+      "start": 216.83,
+      "end": 217.83,
+      "speaker": "SPEAKER_00",
+      "text": "Vamos a ver."
+    },
+    {
+      "start": 221.13,
+      "end": 231.46,
+      "speaker": "SPEAKER_00",
+      "text": "285.627 sería el valor de la cuota."
+    },
+    {
+      "start": 231.46,
+      "end": 236.25,
+      "speaker": "SPEAKER_00",
+      "text": "el saldo total está en 800"
+    },
+    {
+      "start": 236.25,
+      "end": 238.63,
+      "speaker": "SPEAKER_00",
+      "text": "856 mil"
+    },
+    {
+      "start": 238.63,
+      "end": 240.19,
+      "speaker": "SPEAKER_00",
+      "text": "881 pesos"
+    },
+    {
+      "start": 240.19,
+      "end": 242.68,
+      "speaker": "SPEAKER_00",
+      "text": "vale"
+    },
+    {
+      "start": 242.68,
+      "end": 245.24,
+      "speaker": "SPEAKER_00",
+      "text": "el 30 de agosto"
+    },
+    {
+      "start": 245.24,
+      "end": 247.7,
+      "speaker": "SPEAKER_00",
+      "text": "el 31 de agosto, el 30 de septiembre"
+    },
+    {
+      "start": 247.7,
+      "end": 249.66,
+      "speaker": "SPEAKER_00",
+      "text": "y el 31 de octubre"
+    },
+    {
+      "start": 249.66,
+      "end": 251.24,
+      "speaker": "SPEAKER_00",
+      "text": "quedarían las fechas de pago, ¿listo?"
+    },
+    {
+      "start": 251.86,
+      "end": 252.12,
+      "speaker": "SPEAKER_00",
+      "text": "vale"
+    },
+    {
+      "start": 252.12,
+      "end": 255.5,
+      "speaker": "SPEAKER_00",
+      "text": "listo, ya quedó creado aquí el acuerdo"
+    },
+    {
+      "start": 255.5,
+      "end": 257.58,
+      "speaker": "SPEAKER_00",
+      "text": "en el sistema, en este caso"
+    },
+    {
+      "start": 257.58,
+      "end": 258.88,
+      "speaker": "SPEAKER_00",
+      "text": "en el transcurso"
+    },
+    {
+      "start": 258.88,
+      "end": 261.24,
+      "speaker": "SPEAKER_00",
+      "text": "del día o mañana"
+    },
+    {
+      "start": 261.24,
+      "end": 263.94,
+      "speaker": "SPEAKER_00",
+      "text": "le estaría llegando directamente al correo electrónico."
+    },
+    {
+      "start": 264.08,
+      "end": 268.22,
+      "speaker": "SPEAKER_00",
+      "text": "Yo ya pues acá generé la aplicación para que le realicemos como tal el envío,"
+    },
+    {
+      "start": 268.78,
+      "end": 270.66,
+      "speaker": "SPEAKER_00",
+      "text": "pero pues sin embargo le puede estar llegando hasta mañana"
+    },
+    {
+      "start": 270.66,
+      "end": 273.0,
+      "speaker": "SPEAKER_00",
+      "text": "por temas de logística de nuestro aplicativo, ¿listo?"
+    },
+    {
+      "start": 273.22,
+      "end": 276.78,
+      "speaker": "SPEAKER_00",
+      "text": "Quiero aclarar que para efectos de seguridad de la llamada"
+    },
+    {
+      "start": 276.78,
+      "end": 278.7,
+      "speaker": "SPEAKER_00",
+      "text": "está siendo grabada y monitoreada,"
+    },
+    {
+      "start": 279.44,
+      "end": 281.36,
+      "speaker": "SPEAKER_00",
+      "text": "para efectos de calidad del servicio,"
+    },
+    {
+      "start": 281.5,
+      "end": 283.28,
+      "speaker": "SPEAKER_00",
+      "text": "para la protección de los datos personales,"
+    },
+    {
+      "start": 283.32,
+      "end": 287.06,
+      "speaker": "SPEAKER_00",
+      "text": "conforme a la ley 1581 del 2012, que es la ley de AVEAS Data."
+    },
+    {
+      "start": 287.48,
+      "end": 290.6,
+      "speaker": "SPEAKER_00",
+      "text": "Quisiera confirmar con su mensaje de información suministrada, Clara."
+    },
+    {
+      "start": 291.24,
+      "end": 294.2,
+      "speaker": "SPEAKER_00",
+      "text": "Sí, sí, señora. Sí, perfecto."
+    },
+    {
+      "start": 294.74,
+      "end": 301.36,
+      "speaker": "SPEAKER_00",
+      "text": "Perfecto. Le agradezco muchísimo por haber atendido mi llamada y le deseo que tenga un excelente resto de tarde, que esté muy bien. Hasta luego."
+    },
+    {
+      "start": 301.76,
+      "end": 303.22,
+      "speaker": "SPEAKER_00",
+      "text": "A ti, gracias. Hasta luego."
+    }
+  ],
+  "short_id": "audioh44-d741fe26-1spk",
+  "original_file_id": "d741fe26-bbd4-41ab-a3c5-0c94791c6a1f"
+}

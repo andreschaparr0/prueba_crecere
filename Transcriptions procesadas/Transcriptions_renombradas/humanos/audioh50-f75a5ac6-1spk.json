@@ -1,0 +1,443 @@
+{
+  "file_id": "f75a5ac6-d705-47f3-9ab1-f9e7aad6eab6",
+  "source": "humano",
+  "duration_sec": 141.12,
+  "language": "es",
+  "n_speakers_detected": 1,
+  "segments": [
+    {
+      "start": 12.82,
+      "end": 13.82,
+      "speaker": "SPEAKER_01",
+      "text": "Aló"
+    },
+    {
+      "start": 14.73,
+      "end": 15.93,
+      "speaker": "SPEAKER_01",
+      "text": "Muy buenos días"
+    },
+    {
+      "start": 16.56,
+      "end": 17.46,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo está?"
+    },
+    {
+      "start": 17.46,
+      "end": 17.96,
+      "speaker": "SPEAKER_01",
+      "text": "Aló, sí"
+    },
+    {
+      "start": 18.96,
+      "end": 19.96,
+      "speaker": "SPEAKER_01",
+      "text": "¿Ya se solucionó el coste?"
+    },
+    {
+      "start": 19.96,
+      "end": 20.96,
+      "speaker": "SPEAKER_01",
+      "text": "Sí, señor"
+    },
+    {
+      "start": 21.46,
+      "end": 22.46,
+      "speaker": "SPEAKER_01",
+      "text": "Ah, qué..."
+    },
+    {
+      "start": 22.46,
+      "end": 23.46,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo está?"
+    },
+    {
+      "start": 23.46,
+      "end": 24.52,
+      "speaker": "SPEAKER_01",
+      "text": "Bien, y usted?"
+    },
+    {
+      "start": 24.52,
+      "end": 25.52,
+      "speaker": "SPEAKER_01",
+      "text": "¿Cómo ha estado?"
+    },
+    {
+      "start": 26.02,
+      "end": 27.02,
+      "speaker": "SPEAKER_01",
+      "text": "Bien"
+    },
+    {
+      "start": 27.02,
+      "end": 27.52,
+      "speaker": "SPEAKER_01",
+      "text": "Pues..."
+    },
+    {
+      "start": 27.52,
+      "end": 28.52,
+      "speaker": "SPEAKER_01",
+      "text": "Pues un poquito triste"
+    },
+    {
+      "start": 28.52,
+      "end": 29.52,
+      "speaker": "SPEAKER_01",
+      "text": "Porque es que no..."
+    },
+    {
+      "start": 29.52,
+      "end": 31.02,
+      "speaker": "SPEAKER_01",
+      "text": "Todavía no me dan plata, hermano"
+    },
+    {
+      "start": 32.02,
+      "end": 32.52,
+      "speaker": "SPEAKER_01",
+      "text": "Dice Mercedes Irak"
+    },
+    {
+      "start": 32.52,
+      "end": 34.02,
+      "speaker": "SPEAKER_01",
+      "text": "Es que le estamos mandando gallo y eso"
+    },
+    {
+      "start": 34.02,
+      "end": 35.02,
+      "speaker": "SPEAKER_01",
+      "text": "Pero no, no"
+    },
+    {
+      "start": 35.02,
+      "end": 36.02,
+      "speaker": "SPEAKER_01",
+      "text": "Se lo juro que no"
+    },
+    {
+      "start": 37.05,
+      "end": 38.05,
+      "speaker": "SPEAKER_01",
+      "text": "Como le decía"
+    },
+    {
+      "start": 38.05,
+      "end": 39.05,
+      "speaker": "SPEAKER_01",
+      "text": "Como había estado sin trabajito"
+    },
+    {
+      "start": 39.05,
+      "end": 39.55,
+      "speaker": "SPEAKER_01",
+      "text": "Y..."
+    },
+    {
+      "start": 39.55,
+      "end": 41.05,
+      "speaker": "SPEAKER_01",
+      "text": "Y pues organicé ahí un algo"
+    },
+    {
+      "start": 41.05,
+      "end": 42.05,
+      "speaker": "SPEAKER_01",
+      "text": "Pero igual no me han pagado"
+    },
+    {
+      "start": 42.05,
+      "end": 43.05,
+      "speaker": "SPEAKER_01",
+      "text": "Y me da pena con ustedes"
+    },
+    {
+      "start": 43.05,
+      "end": 43.97,
+      "speaker": "SPEAKER_01",
+      "text": "con ustedes porque"
+    },
+    {
+      "start": 43.97,
+      "end": 47.01,
+      "speaker": "SPEAKER_01",
+      "text": "yo soy una palabra hermano pero entonces"
+    },
+    {
+      "start": 47.01,
+      "end": 48.49,
+      "speaker": "SPEAKER_01",
+      "text": "no he podido resolver"
+    },
+    {
+      "start": 48.49,
+      "end": 52.14,
+      "speaker": "SPEAKER_01",
+      "text": "no quiero perder el beneficio"
+    },
+    {
+      "start": 52.14,
+      "end": 53.74,
+      "speaker": "SPEAKER_01",
+      "text": "de lo"
+    },
+    {
+      "start": 53.74,
+      "end": 55.02,
+      "speaker": "SPEAKER_01",
+      "text": "que habíamos charlado"
+    },
+    {
+      "start": 55.02,
+      "end": 58.76,
+      "speaker": "SPEAKER_01",
+      "text": "pero es que no sé que más hacer hermano"
+    },
+    {
+      "start": 58.76,
+      "end": 59.88,
+      "speaker": "SPEAKER_01",
+      "text": "y se supone"
+    },
+    {
+      "start": 59.88,
+      "end": 61.5,
+      "speaker": "SPEAKER_01",
+      "text": "que me llegaba"
+    },
+    {
+      "start": 61.5,
+      "end": 64.58,
+      "speaker": "SPEAKER_01",
+      "text": "si, si, si, se supone que me llegaba"
+    },
+    {
+      "start": 64.58,
+      "end": 66.22,
+      "speaker": "SPEAKER_01",
+      "text": "plata ayer"
+    },
+    {
+      "start": 66.22,
+      "end": 68.8,
+      "speaker": "SPEAKER_01",
+      "text": "si, eso"
+    },
+    {
+      "start": 68.8,
+      "end": 70.44,
+      "speaker": "SPEAKER_01",
+      "text": "es lo que usualmente me pasa"
+    },
+    {
+      "start": 70.44,
+      "end": 72.48,
+      "speaker": "SPEAKER_01",
+      "text": "me llega plata a la quincenita pero"
+    },
+    {
+      "start": 72.48,
+      "end": 75.62,
+      "speaker": "SPEAKER_01",
+      "text": "Pero me quedaron mal hermano"
+    },
+    {
+      "start": 75.62,
+      "end": 77.9,
+      "speaker": "SPEAKER_01",
+      "text": "Yo, yo, la intención mía es abonar"
+    },
+    {
+      "start": 77.9,
+      "end": 80.12,
+      "speaker": "SPEAKER_01",
+      "text": "Entre, yo creo que entre hoy y mañana"
+    },
+    {
+      "start": 80.12,
+      "end": 82.3,
+      "speaker": "SPEAKER_01",
+      "text": "Ya, o espero, tengo la esperanza"
+    },
+    {
+      "start": 82.3,
+      "end": 83.18,
+      "speaker": "SPEAKER_01",
+      "text": "De que ya me cuadre"
+    },
+    {
+      "start": 83.18,
+      "end": 85.92,
+      "speaker": "SPEAKER_01",
+      "text": "Y pues abonarle, bueno abonarle no"
+    },
+    {
+      "start": 85.92,
+      "end": 87.88,
+      "speaker": "SPEAKER_01",
+      "text": "Organizarle los 400 y peguele"
+    },
+    {
+      "start": 87.88,
+      "end": 89.22,
+      "speaker": "SPEAKER_01",
+      "text": "Que charlamos"
+    },
+    {
+      "start": 89.22,
+      "end": 91.76,
+      "speaker": "SPEAKER_01",
+      "text": "Entonces"
+    },
+    {
+      "start": 91.76,
+      "end": 94.3,
+      "speaker": "SPEAKER_01",
+      "text": "Podemos, podemos pactar"
+    },
+    {
+      "start": 94.3,
+      "end": 96.44,
+      "speaker": "SPEAKER_01",
+      "text": "El sábado, podemos pactar el sábado"
+    },
+    {
+      "start": 96.44,
+      "end": 97.62,
+      "speaker": "SPEAKER_01",
+      "text": "Fijo, fijo"
+    },
+    {
+      "start": 97.62,
+      "end": 100.08,
+      "speaker": "SPEAKER_01",
+      "text": "De una"
+    },
+    {
+      "start": 100.08,
+      "end": 102.47,
+      "speaker": "SPEAKER_01",
+      "text": "Que pena con su merced"
+    },
+    {
+      "start": 102.47,
+      "end": 104.23,
+      "speaker": "SPEAKER_01",
+      "text": "no, no, vuelvo y digo, no le estamos"
+    },
+    {
+      "start": 104.23,
+      "end": 105.53,
+      "speaker": "SPEAKER_01",
+      "text": "mandando gallo ni nada de eso, sino"
+    },
+    {
+      "start": 105.53,
+      "end": 108.18,
+      "speaker": "SPEAKER_01",
+      "text": "no, pues lo importante es que tengamos"
+    },
+    {
+      "start": 108.18,
+      "end": 110.24,
+      "speaker": "SPEAKER_01",
+      "text": "la comunicación y me haga saber"
+    },
+    {
+      "start": 110.24,
+      "end": 111.76,
+      "speaker": "SPEAKER_01",
+      "text": "pues para yo colaborar"
+    },
+    {
+      "start": 111.76,
+      "end": 113.74,
+      "speaker": "SPEAKER_01",
+      "text": "de una mano, listo"
+    },
+    {
+      "start": 113.74,
+      "end": 116.68,
+      "speaker": "SPEAKER_01",
+      "text": "si usted me hace saber, yo pues ahí le colaboro"
+    },
+    {
+      "start": 116.68,
+      "end": 118.34,
+      "speaker": "SPEAKER_01",
+      "text": "porque pues si no, es que a mí"
+    },
+    {
+      "start": 118.34,
+      "end": 120.34,
+      "speaker": "SPEAKER_01",
+      "text": "la gente me está diciendo, no Johan, el señor que"
+    },
+    {
+      "start": 120.34,
+      "end": 121.98,
+      "speaker": "SPEAKER_01",
+      "text": "el acuerdo entonces lo"
+    },
+    {
+      "start": 121.98,
+      "end": 124.38,
+      "speaker": "SPEAKER_01",
+      "text": "no, espere jefe, yo lo llamo"
+    },
+    {
+      "start": 124.38,
+      "end": 125.24,
+      "speaker": "SPEAKER_01",
+      "text": "a ver qué me dice"
+    },
+    {
+      "start": 125.24,
+      "end": 127.28,
+      "speaker": "SPEAKER_01",
+      "text": "sí"
+    },
+    {
+      "start": 127.28,
+      "end": 129.79,
+      "speaker": "SPEAKER_01",
+      "text": "hágale pa'l sábado entonces"
+    },
+    {
+      "start": 129.79,
+      "end": 132.71,
+      "speaker": "SPEAKER_01",
+      "text": "de una, sí, este sábado"
+    },
+    {
+      "start": 133.27,
+      "end": 134.15,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, perfecto."
+    },
+    {
+      "start": 134.19,
+      "end": 135.41,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, muchas gracias, Manuel."
+    },
+    {
+      "start": 136.01,
+      "end": 138.65,
+      "speaker": "SPEAKER_01",
+      "text": "Bueno, cuando se va a llamar, feliz día."
+    },
+    {
+      "start": 139.33,
+      "end": 139.97,
+      "speaker": "SPEAKER_01",
+      "text": "Listo, bueno, chao."
+    }
+  ],
+  "short_id": "audioh50-f75a5ac6-1spk",
+  "original_file_id": "f75a5ac6-d705-47f3-9ab1-f9e7aad6eab6"
+}
