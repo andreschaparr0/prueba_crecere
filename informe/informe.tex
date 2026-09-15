@@ -64,7 +64,8 @@ IA      & 1 (2\,\%)            & 46 (92\,\%) & 3 (6\,\%) \\
 
 Se analizaron y compararon los resultados de la transcripción con los audios reales y se observo lo siguiente
 \begin{itemize}
-  \item Los casos de un solo hablante se debieron mayoritariamente a errores del modelo, salvo por dos llamadas (una humana y una de IA) que correspondían a buzones de voz reales. Estos dos registros fueron excluidos del análisis para eliminar información irrelevante y asegurar una evaluación limpia de las interacciones.
+  \item Los casos de un solo hablante se debieron mayoritariamente a errores del modelo, salvo por dos llamadas (una humana y una de IA) que correspondían a buzones de voz reales. Estos dos registros fueron excluidos del análisis (como el caso de 0c6ada7d) 
+para eliminar información irrelevante y asegurar una evaluación limpia de las interacciones.
   \item Para el caso de 3 etiquetas son 2 hablantes más una
   etiqueta UNKNOWN, con $<$6\,s de audio en los cuatro casos.
   \item El error se concentra en turnos muy breves ($<$1,5\,s, ej.\ ``sí, con ella''): el
@@ -90,4 +91,20 @@ telefónico, acento y rango vocal similares, lo que dificulta separarlas.
 Asumimos este error que no es sencillo de eliminar por completo, y los modelos usados
 (\texttt{Whisper large-v3}, \texttt{pyannote.audio}) representan el estado del arte
 disponible en código abierto para este tipo de tareas.
+%------------------------------------------------------------------
+\section{Asignación de roles: agente vs.\ deudor}
+
+La diarización etiqueta a los hablantes como \texttt{SPEAKER\_00}/\texttt{SPEAKER\_01}, pero
+esa etiqueta es arbitraria: no indica quién es el agente y quién el deudor, ni significa lo
+mismo entre una llamada y otra. Para resolverlo sin pagar una API, se usaron dos prompts
+copiados manualmente a un LLM de chat (GPT 5.6 Luna), disponibles en el
+repositorio junto al cuaderno de ejecución. El primero se aplicó a las llamadas donde la
+diarización sí detectó dos (o tres) hablantes: a partir de la apertura de la llamada, el
+modelo decide cuál etiqueta corresponde al agente y cuál al deudor. El segundo se aplicó a
+las llamadas donde la diarización colapsó ambas voces en una sola etiqueta: aquí el modelo
+reconstruye el rol segmento por segmento, usando solo el contenido del texto
+(quién pregunta vs.\ quién responde, quién se identifica como empresa vs.\ quién confirma su
+propia identidad). En los casos donde el modelo no tuvo evidencia suficiente, el segmento
+se marca como \texttt{INCIERTO} en vez de forzar una asignación.
+
 \end{document}
