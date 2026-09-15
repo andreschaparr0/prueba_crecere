@@ -22,49 +22,27 @@
 \begin{document}
 
 {\large\bfseries Gestión de cobranza: humanos vs.\ agentes de IA}\hfill
-{\small Andrés Chaparro · Sept.\ 2026}\\[-2pt]
+{\small Andrés Chaparro · crecere AI}\\[-2pt]
 \rule{\textwidth}{0.4pt}
 
 %------------------------------------------------------------------
 \section{Datos}
 
-100 grabaciones de cobranza telefónica (50 humanas, 50 IA), WAV mono 8\,kHz/16\,bit,
-\textbf{381 min} totales. Contenido homogéneo: negociación de una obligación financiera
-(saldo, descuento, cuotas). Todas llevan un \textbf{pitido de censura} que enmascara datos
-personales: protege privacidad, pero añade ruido y trunca texto.
+El dataset para esta prueba técnica consiste en 100 grabaciones de cobranza telefónica (50 humanas y 50 de IA) en en formato WAV mono). Todos los audios tienen un contexto similar: la negociación de una obligación financiera (revisión de saldos, descuentos y cuotas) junto a un pitido que censura palabras por temas de privacidad. 
+%------------------------------------------------------------------
+\section{Procesamiento y pipeline de diarización}
 
-\begin{table}[h]
-\centering\small
-\vspace{-4pt}
-\begin{tabular}{lcccc}
-\toprule
-& \multicolumn{2}{c}{\textbf{Humanos} (n=50)} & \multicolumn{2}{c}{\textbf{IA} (n=50)} \\
-\cmidrule(lr){2-3}\cmidrule(lr){4-5}
-& Media & Mediana & Media & Mediana \\
-\midrule
-Duración (s)          & 238,1 & 171,1 & 219,3 & 149,0 \\
-Segmentos             & 74,0  & 53,0  & 54,1  & 34,5 \\
-Palabras              & 500,4 & 332,5 & 441,0 & 296,5 \\
-Turnos/min\,$^{*}$    & 3,72  & ---   & 4,67  & --- \\
-\bottomrule
-\end{tabular}
-\vspace{-2pt}
-\caption*{\footnotesize $^{*}$Solo llamadas con dos hablantes bien detectados.}
-\end{table}
-\vspace{-10pt}
-
-\begin{itemize}
-  \item \textbf{Dispersión enorme:} de 60\,s a 1.233\,s; la desviación estándar es del
-  orden de la media $\Rightarrow$ se usan medianas, no promedios.
-  \item \textbf{Los humanos hablan más tiempo, la IA alterna más.} Con conversación
-  efectiva, mediana humana \textbf{186\,s} vs.\ \textbf{136,5\,s} en IA; pero la IA
-  registra \textbf{4,67 turnos/min} vs.\ \textbf{3,72}.
-\end{itemize}
+La transcripción se hizo con \textbf{Whisper \texttt{large-v3}}  sobre GPU en Google Colab. La diarización --- decidir quién habla y
+cuándo --- se hizo con \textbf{\texttt{pyannote.audio}}: el modelo segmenta el audio en
+tramos de voz, calcula un (\textit{embedding}) por tramo, y agrupa esas
+huellas por similitud para resolver cuántas personas hablan y a quién pertenece cada tramo.
+Se forzó la solución a dos hablantes (agente y deudor, siempre presentes en este dominio) y
+se ajustó la sensibilidad del agrupamiento para no perder intervenciones cortas.
 
 %------------------------------------------------------------------
 \section{Calidad de la medición}
 
-Los datos \textbf{no se observan, se estiman}: cada variable pasa por dos modelos
+Cada audio pasa por dos modelos
 (transcripción y diarización) y cada uno aporta error. El diagnóstico está en los hablantes
 detectados por llamada, que deberían ser siempre dos:
 
@@ -75,79 +53,41 @@ detectados por llamada, que deberían ser siempre dos:
 \toprule
 & 1 hablante & 2 hablantes & 3 etiquetas \\
 \midrule
-Humanos & \textbf{16} (32\,\%) & 33 (66\,\%) & 1 (2\,\%) \\
-IA      & 1 (2\,\%)            & \textbf{46} (92\,\%) & 3 (6\,\%) \\
+Humanos & 16 (32\,\%) & 33 (66\,\%) & 1 (2\,\%) \\
+IA      & 1 (2\,\%)            & 46 (92\,\%) & 3 (6\,\%) \\
 \bottomrule
 \end{tabular}
 \end{table}
 \vspace{-12pt}
 
+
+
+Se analizaron y compararon los resultados de la transcripción con los audios reales y se observo lo siguiente
 \begin{itemize}
-  \item \textbf{Los 16 casos humanos de 1 hablante no son falta de contacto:} 15 son
-  conversaciones reales cuya diarización colapsó ambas voces (ej.\ \texttt{1c72dd55}:
-  57 segmentos de negociación, todos en una etiqueta). Solo \texttt{0c6ada7d} es buzón real.
-  \item \textbf{Las ``3 etiquetas'' no son un tercer interlocutor:} son 2 hablantes más una
-  etiqueta \texttt{UNKNOWN} residual, con $<$6\,s de audio en los cuatro casos.
-  \item \textbf{El error se concentra en turnos $<$1,5\,s} (``sí, con ella'',
-  ``bien, gracias''). Verificamos que falla la diarización misma, no su combinación con el
-  texto: un fragmento de 0,6\,s genera un \textit{embedding} demasiado corto para separarse
-  del hablante vecino. Limitación conocida del
-  enfoque.\footnote{\href{https://docs.nvidia.com/nemo-framework/user-guide/24.07/nemotoolkit/asr/speaker_diarization/models.html}{NVIDIA NeMo}, diarización. Parafraseado.}
+  \item Los casos de un solo hablante se debieron mayoritariamente a errores del modelo, salvo por dos llamadas (una humana y una de IA) que correspondían a buzones de voz reales. Estos dos registros fueron excluidos del análisis para eliminar información irrelevante y asegurar una evaluación limpia de las interacciones.
+  \item Para el caso de 3 etiquetas son 2 hablantes más una
+  etiqueta UNKNOWN, con $<$6\,s de audio en los cuatro casos.
+  \item El error se concentra en turnos muy breves ($<$1,5\,s, ej.\ ``sí, con ella''): el
+  fragmento de voz es demasiado corto para diferenciarse del hablante vecino con un
+  \textit{embedding} confiable
 \end{itemize}
 
-\textbf{Por qué la IA se diariza mejor (92\,\% vs.\ 66\,\%):} voz sintética de timbre y
-volumen constantes, sin carga emocional $\Rightarrow$ \textit{embedding} compacto y muy
-distinto al humano; en cambio dos humanos comparten canal de 8\,kHz, acento y rango vocal
-similares; además la voz de la IA se inyecta digitalmente, sin micrófono ni ruido de
-\textit{call center}.
-
-\textbf{Consecuencia analítica:} toda métrica que dependa de \emph{quién} habla tiene sesgo
-sistemático contra las llamadas humanas. Esas variables se reportan solo sobre el
-subconjunto con dos hablantes; las basadas en texto agregado usan la muestra completa.
-
-\textbf{Decisiones:} se excluyen del análisis de conducta el buzón humano
-(\texttt{0c6ada7d}) y el no-contacto de IA (\texttt{edbc4154}) --- sin interacción que
-evaluar, aunque sí cuentan como contactabilidad. \textbf{No} se excluyen las 15
-conversaciones mal diarizadas: su texto es válido y descartarlas sesgaría la muestra hacia
-las llamadas más limpias. Pitido de censura y error en turnos breves se asumen como
-limitaciones declaradas.
 
 %------------------------------------------------------------------
-\section{Construcción de la base}
+\section{Limitaciones y error asumido}
 
-Cada \texttt{.wav} se convierte en un JSON con la conversación segmentada
-(\texttt{inicio, fin, hablante, texto}). La unidad es el \textbf{turno}, no la llamada
-agregada: los minutos totales por hablante no permiten medir alternancia, latencia ni
-contexto (``qué respondió el agente \emph{después} de una objeción''). Todo corre en
-\textbf{Google Colab} con GPU T4.
+La transcripción también falla: en tramos con ruido de fondo, personas que contestan
+alejadas del teléfono o hablan muy rápido aparecen palabras sin sentido o fragmentos
+inconexos. Es más frecuente en las llamadas humanas, donde el canal es más ruidoso y
+variable que en las de IA.
 
-\textbf{Transcripción --- Whisper \texttt{large-v3}} vía \texttt{faster-whisper}
-(\texttt{CTranslate2}, \texttt{float16}). Se descartó \texttt{whisperx} por dependencias
-incompatibles con Colab. La elección de \texttt{large-v3} sobre \texttt{small} fue empírica:
-en el mismo audio, \texttt{small} transcribió ``con dos besos y ocho pesos'' donde
-\texttt{large-v3} recuperó ``a ver, dos, dos, tres, cuatro''.
-\begin{itemize}
-  \item \texttt{vad\_filter} con \texttt{threshold=0.2}: con el valor por defecto (0,5) se
-  perdían los primeros 50\,s de llamadas con volumen bajo; desactivarlo producía
-  alucinaciones (texto inventado en inglés sobre silencios).
-  \item \texttt{condition\_on\_previous\_text=False}: evita que un error se propague.
-  \texttt{no\_speech\_threshold=0.6} y \texttt{compression\_ratio\_threshold=2.4}: descartan
-  tramos sin voz y texto repetitivo, síntomas típicos de alucinación.
-\end{itemize}
+La diarización falló de forma marcadamente distinta entre los dos grupos: en humanos el
+error es mucho mayor (32\,\% con un solo hablante) que en IA (2\,\%). La voz sintética de
+la IA tiene timbre y volumen constantes, lo que genera un \textit{embedding} fácil de
+distinguir del interlocutor humano; en cambio, dos voces humanas comparten canal
+telefónico, acento y rango vocal similares, lo que dificulta separarlas.
 
-\textbf{Diarización --- \texttt{pyannote.audio} 3.1.} Tres pasos: segmenta tramos de voz,
-calcula un \textit{embedding} (huella vectorial) por tramo, y los \textbf{agrupa por
-similitud} para resolver quién habla.
-\begin{itemize}
-  \item \texttt{min\_speakers=max\_speakers=2}: el dominio lo garantiza (agente + deudor).
-  \item \texttt{min\_cluster\_size}: 12 (defecto) $\rightarrow$ \textbf{5}. Define cuántos
-  \textit{embeddings} necesita un grupo para ser hablante propio; con 12, las intervenciones
-  breves quedaban absorbidas por el hablante dominante. Con menos de 5 aparecen micro-turnos
-  espurios sin ganar precisión.
-  \item Cada segmento de Whisper recibe el hablante con \textbf{mayor solapamiento
-  temporal}. Se probó asignación palabra por palabra (\texttt{word\_timestamps}): los
-  \textit{timestamps} de palabra resultaron inestables --- turnos de duración cero y
-  etiquetas vacías --- y se descartó.
-\end{itemize}
-
+Asumimos este error que no es sencillo de eliminar por completo, y los modelos usados
+(\texttt{Whisper large-v3}, \texttt{pyannote.audio}) representan el estado del arte
+disponible en código abierto para este tipo de tareas.
 \end{document}
