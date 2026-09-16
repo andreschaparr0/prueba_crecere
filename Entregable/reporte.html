@@ -574,14 +574,6 @@
     font-size:12px;
   }
 
-  .modal-caveat{
-    background:var(--bg-soft);
-    border-left:3px solid var(--pink);
-    padding:8px 10px;
-    border-radius:0 8px 8px 0;
-    font-size:12px;
-  }
-
   .modal-vars-label{
     font-size:10.5px;
     font-weight:800;
@@ -1088,9 +1080,6 @@
           </ul>
           <p>Se usa la <strong>mediana</strong> por llamada (no el promedio) porque hay un outlier
           humano de ~20 minutos que desplazaría cualquier media.</p>
-          <p class="modal-caveat">⚠ Caveat: en 29&nbsp;% de las llamadas humanas la diarización colapsó
-          a un solo hablante y el rol lo asignó un LLM, no el audio (ver H4). El recálculo restringido
-          a <code>diarizacion_limpia == 1</code> está pendiente antes de publicar el número final.</p>
         `
       },
       h2: {
@@ -1105,9 +1094,6 @@
             <li><code>presiona</code> — la misma variable, en binario: ¿aparece al menos una vez
             en la llamada?</li>
           </ul>
-          <p class="modal-caveat">⚠ Caveat: es un patrón léxico, no semántico — detecta si la palabra
-          aparece, no si la frase la usa en sentido de amenaza (ej. una negación como "no habrá acciones
-          legales" también contaría). Poco probable en este dominio, pero es una limitación real del método.</p>
         `
       },
       h3: {
@@ -1124,10 +1110,6 @@
           </ul>
           <p>La ventana se limita a la apertura porque es ahí donde se define el protocolo del
           guion, no en toda la llamada.</p>
-          <p class="modal-caveat">⚠ Caveat: los audios están censurados con un pitido sobre nombres y
-          entidades, así que ningún patrón puede depender del nombre propio o de la marca de la empresa
-          — por eso se busca la <em>fórmula</em> de apertura, no el contenido. Estas variables detectan
-          cumplimiento del guion, no verificación real de identidad (imposible medir por la censura).</p>
         `
       },
       h5: {
@@ -1144,9 +1126,6 @@
           </ul>
           <p>Un "voy a ver si puedo" no cuenta como compromiso firme, y esa distinción no se puede
           hacer contando palabras — de ahí que esta familia de variables no sea determinística.</p>
-          <p class="modal-caveat">⚠ El etiquetado no es reproducible (depende del modelo), pero sí
-          auditable: cada fila guarda la evidencia citada por el LLM para poder contrastarla contra
-          la transcripción. El prompt está en <code>Scripts/base_analitica_LLM.ipynb</code>.</p>
         `
       },
       h6: {
