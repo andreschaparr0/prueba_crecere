@@ -177,6 +177,433 @@
 
   .link-pill:hover{ border-color:var(--purple); }
 
+  /* ---------- Preguntas + tabla de hipótesis ---------- */
+  .q-row{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:8px;
+    margin-bottom:14px;
+  }
+
+  .q-card{
+    border:1px solid var(--line);
+    border-radius:12px;
+    padding:10px 12px;
+    background:#fff;
+    font-size:11.5px;
+    color:#474249;
+  }
+
+  .q-card strong{
+    display:block;
+    font-size:12px;
+    color:var(--deep);
+    margin-bottom:2px;
+  }
+
+  table.hyp-table{
+    width:100%;
+    border-collapse:collapse;
+    font-size:12px;
+    margin-bottom:8px;
+  }
+
+  table.hyp-table th{
+    text-align:left;
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:.04em;
+    color:var(--muted);
+    padding:6px 8px;
+    border-bottom:1.5px solid var(--line);
+  }
+
+  table.hyp-table td{
+    padding:7px 8px;
+    border-bottom:1px solid var(--line);
+    vertical-align:top;
+  }
+
+  table.hyp-table td.hyp-tag{
+    font-weight:800;
+    color:#fff;
+    font-size:10.5px;
+    white-space:nowrap;
+  }
+
+  .hyp-badge{
+    display:inline-block;
+    min-width:24px;
+    text-align:center;
+    padding:3px 7px;
+    border-radius:7px;
+    background:linear-gradient(135deg,var(--purple),var(--deep));
+    color:#fff;
+    cursor:pointer;
+    transition:transform .1s ease, box-shadow .15s ease;
+  }
+
+  td.hyp-tag .hyp-badge:hover{
+    transform:translateY(-1px);
+    box-shadow:0 4px 10px rgba(112,71,235,.35);
+  }
+
+  .info-chip{
+    display:inline-flex;
+    align-items:center;
+    gap:4px;
+    padding:2px 10px;
+    border-radius:999px;
+    background:var(--bg-soft);
+    border:1px solid var(--pink-soft);
+    color:var(--deep);
+    font-weight:700;
+    font-size:12px;
+    cursor:pointer;
+    vertical-align:middle;
+    transition:background .15s ease;
+  }
+
+  .info-chip:hover{ background:var(--pink-soft); }
+
+  /* ---------- Bloques de hipótesis (determinísticas / LLM) ---------- */
+  .hyp-blocks{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:10px;
+  }
+
+  .hyp-block{
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:12px 14px;
+    background:#fff;
+  }
+
+  .block-head{ margin-bottom:8px }
+
+  .block-tag{
+    display:inline-block;
+    padding:3px 9px;
+    border-radius:999px;
+    font-size:10px;
+    font-weight:800;
+    letter-spacing:.05em;
+    text-transform:uppercase;
+    margin-bottom:5px;
+  }
+
+  .block-tag.det{ background:#ede9fb; color:var(--deep) }
+  .block-tag.llm{ background:var(--bg-soft); color:#B0308F }
+
+  .block-sub{
+    display:block;
+    font-size:10.5px;
+    line-height:1.45;
+    color:var(--muted);
+  }
+
+  ul.hyp-list{
+    list-style:none;
+    margin:0;
+    padding:0;
+  }
+
+  ul.hyp-list li{
+    font-size:11.5px;
+    line-height:1.45;
+    color:#39363b;
+    padding:7px 0;
+    border-top:1px solid var(--line);
+  }
+
+  ul.hyp-list li .hyp-badge{ margin-right:5px }
+
+  .vars{
+    display:block;
+    margin-top:4px;
+  }
+
+  .vars code{
+    display:inline-block;
+    background:#f3f0f9;
+    color:#5a5262;
+    padding:1px 5px;
+    border-radius:5px;
+    font-size:9.5px;
+    margin:2px 3px 0 0;
+  }
+
+  li.hyp-note{
+    font-size:10.5px;
+    color:var(--muted);
+  }
+
+  li.hyp-note code{
+    background:#f3f0f9;
+    padding:1px 5px;
+    border-radius:5px;
+    font-size:9.5px;
+  }
+
+  .hyp-badge.plain{ cursor:default; box-shadow:none }
+
+  /* ---------- KPIs de resultados ---------- */
+  .kpi-row{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:8px;
+    margin-bottom:6px;
+  }
+
+  .kpi{
+    border:1px solid var(--line);
+    border-radius:12px;
+    padding:9px 11px;
+    background:linear-gradient(180deg,#fff 0%,#fdfbff 100%);
+    position:relative;
+  }
+
+  .kpi-label{
+    display:block;
+    font-size:9.5px;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+    color:var(--muted);
+    font-weight:700;
+    margin-bottom:3px;
+  }
+
+  .kpi-nums{ display:flex; align-items:baseline; gap:4px }
+  .kpi-h{ font-size:17px; font-weight:800; color:var(--deep); letter-spacing:-.02em }
+  .kpi-vs{ font-size:9px; color:var(--muted) }
+  .kpi-ia{ font-size:17px; font-weight:800; color:var(--pink); letter-spacing:-.02em }
+
+  .bars{ margin-top:5px }
+  .bars i{
+    display:block;
+    height:4px;
+    border-radius:3px;
+    margin-bottom:2px;
+    min-width:2px;
+  }
+  .bar-h{ background:var(--purple) }
+  .bar-ia{ background:var(--pink) }
+
+  .kpi-gap{
+    position:absolute;
+    top:8px;
+    right:10px;
+    font-size:9.5px;
+    font-weight:800;
+    padding:1px 5px;
+    border-radius:5px;
+  }
+  .kpi-gap.down{ background:#e7f5ef; color:var(--success) }
+  .kpi-gap.up{ background:#fdeaf6; color:#B0308F }
+
+  .legend{
+    display:flex;
+    align-items:center;
+    gap:5px;
+    font-size:9.5px;
+    color:var(--muted);
+    margin-bottom:8px;
+  }
+  .legend .dot{ width:7px; height:7px; border-radius:50%; display:inline-block; margin-left:6px }
+  .legend .dot.h{ background:var(--purple); margin-left:0 }
+  .legend .dot.ia{ background:var(--pink) }
+
+  /* ---------- Tabla de resultados ---------- */
+  table.hyp-table.res td{ padding:5px 8px; font-size:11px }
+  table.hyp-table.res td em{ color:var(--muted); font-style:normal; font-size:10px }
+
+  tr.group-row td{
+    background:#f4f1fa;
+    font-size:9.5px;
+    font-weight:800;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+    color:var(--deep);
+    padding:4px 8px !important;
+  }
+  tr.group-row.llm td{ background:var(--bg-soft); color:#B0308F }
+
+  td.hyp-val.gap{ font-size:10px; color:var(--ink) }
+  td.hyp-val.gap.ns{ color:var(--muted); font-weight:600 }
+
+  .foot-note{
+    font-size:9.5px;
+    line-height:1.5;
+    color:var(--muted);
+    margin:6px 0 0;
+  }
+
+  /* ---------- Hallazgos ---------- */
+  ol.find-list{
+    margin:0;
+    padding-left:18px;
+    font-size:11.5px;
+    line-height:1.5;
+  }
+  ol.find-list li{ margin-bottom:4px; color:#39363b }
+  ol.find-list b{ color:var(--deep) }
+
+  /* ---------- Conducta y acciones ---------- */
+  .conduct-row{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:8px;
+    margin-bottom:8px;
+  }
+
+  .conduct-card{
+    border:1px solid var(--line);
+    border-radius:12px;
+    padding:9px 12px;
+    background:#fff;
+  }
+
+  .conduct-tag{
+    display:inline-block;
+    font-size:9.5px;
+    font-weight:800;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+    padding:2px 8px;
+    border-radius:999px;
+    margin-bottom:5px;
+  }
+  .conduct-card.human .conduct-tag{ background:#ede9fb; color:var(--deep) }
+  .conduct-card.ai .conduct-tag{ background:var(--bg-soft); color:#B0308F }
+
+  .conduct-card ul{
+    margin:0;
+    padding-left:15px;
+    font-size:10.5px;
+    line-height:1.5;
+    color:#474249;
+  }
+
+  .actions{
+    border:1px solid rgba(112,71,235,.18);
+    border-radius:12px;
+    padding:10px 12px;
+    background:linear-gradient(135deg, rgba(112,71,235,.05), rgba(242,110,207,.04));
+  }
+
+  .actions-tag{
+    display:block;
+    font-size:9.5px;
+    font-weight:800;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+    color:var(--deep);
+    margin-bottom:5px;
+  }
+
+  .actions ol{
+    margin:0;
+    padding-left:16px;
+    font-size:10.5px;
+    line-height:1.5;
+    color:#474249;
+  }
+  .actions ol li{ margin-bottom:3px }
+  .actions b{ color:var(--ink) }
+
+  /* ---------- Modal de explicación de hipótesis ---------- */
+  .modal-overlay{
+    display:none;
+    position:fixed;
+    inset:0;
+    background:rgba(32,32,32,.55);
+    align-items:center;
+    justify-content:center;
+    z-index:1000;
+    padding:20px;
+  }
+
+  .modal-overlay.open{ display:flex; }
+
+  .modal-box{
+    position:relative;
+    max-width:560px;
+    width:100%;
+    max-height:80vh;
+    overflow-y:auto;
+    background:#fff;
+    border-radius:18px;
+    padding:26px 28px;
+    box-shadow:0 24px 60px rgba(0,0,0,.25);
+  }
+
+  .modal-badge{
+    display:inline-block;
+    padding:4px 10px;
+    border-radius:8px;
+    background:linear-gradient(135deg,var(--purple),var(--deep));
+    color:#fff;
+    font-weight:800;
+    font-size:12px;
+    margin-bottom:10px;
+  }
+
+  .modal-box h3{
+    margin:0 0 12px;
+    font-size:16px;
+    line-height:1.3;
+    color:var(--ink);
+  }
+
+  .modal-box p{
+    font-size:13px;
+    line-height:1.6;
+    color:#474249;
+    margin:0 0 10px;
+  }
+
+  .modal-box p:last-child{ margin-bottom:0 }
+
+  .modal-box code{
+    background:#f3f0f9;
+    padding:1px 5px;
+    border-radius:5px;
+    font-size:12px;
+  }
+
+  .modal-caveat{
+    background:var(--bg-soft);
+    border-left:3px solid var(--pink);
+    padding:8px 10px;
+    border-radius:0 8px 8px 0;
+    font-size:12px;
+  }
+
+  .modal-close{
+    position:absolute;
+    top:16px;
+    right:16px;
+    border:none;
+    background:#f3f0f9;
+    color:var(--muted);
+    width:28px;
+    height:28px;
+    border-radius:50%;
+    cursor:pointer;
+    font-size:13px;
+    line-height:1;
+  }
+
+  .modal-close:hover{ background:var(--pink-soft); color:var(--deep); }
+
+  @media print{
+    .modal-overlay{ display:none !important; }
+  }
+
+  td.hyp-val{ text-align:center; font-weight:700; white-space:nowrap }
+  td.hyp-val.win{ color:var(--deep) }
+
   .section{margin-top:22px}
   .section:first-child{margin-top:0}
 
@@ -209,16 +636,6 @@
   }
 
   .lead{color:var(--muted); margin:0 0 10px; font-size:12.5px}
-
-  .placeholder{
-    border:1.5px dashed #ddd6e6;
-    background:#fbfaff;
-    color:var(--muted);
-    font-size:12px;
-    padding:16px;
-    border-radius:14px;
-    text-align:center;
-  }
 
   /* ---------- Pie de página / repo ---------- */
   .repo-cta{
@@ -269,6 +686,21 @@
       page-break-after:always;
     }
     .page:last-child{ page-break-after:auto }
+
+    /* Compactado para que cada página quepa en un A4 */
+    .hero{ padding:22px 30px 18px }
+    .content{ padding:18px 30px 16px !important }
+    footer.report-footer{ padding:8px 30px 0 }
+    h1{ font-size:24px }
+    .context-box{ padding:14px 16px; margin-bottom:14px }
+    .context-box p{ margin-bottom:7px }
+    .section{ margin-top:14px }
+    .section-head{ margin-bottom:8px }
+    ol.find-list{ font-size:10.5px }
+    ol.find-list li{ margin-bottom:2px }
+    table.hyp-table.res td{ padding:4px 8px }
+    .kpi-row{ margin-bottom:4px }
+    tr, li{ page-break-inside:avoid }
   }
 
   @media (max-width:720px){
@@ -306,8 +738,9 @@
           Este reporte compara el desempeño de agentes humanos y agentes de IA en gestiones
           telefónicas de cobranza, a partir de una muestra de 100 llamadas (50 humanas y 50 de IA).
           Cada audio fue transcrito y diarizado (Whisper <em>large-v3</em> + <code>pyannote.audio</code>),
-          y luego se asignó el rol de <strong>agente</strong> o <strong>deudor</strong> a cada segmento
-          de la conversación para poder construir variables comparables entre los dos grupos.
+          y el rol de <strong>agente</strong> o <strong>deudor</strong> se asignó a cada segmento con
+          ayuda de un <strong>LLM</strong>, para poder construir variables comparables entre los dos
+          grupos. <span class="info-chip" onclick="openHypModal('pipeline')">Detalle ⓘ</span>
         </p>
         <p>El detalle del pipeline —transcripción, diarización, limpieza y asignación de roles— está documentado en los cuadernos del repositorio:</p>
         <div class="link-pills">
@@ -318,13 +751,82 @@
 
       <div class="section">
         <div class="section-head"><div class="num">1</div><h2>Preguntas, hipótesis y decisiones analíticas</h2></div>
-        <div class="placeholder">Próximamente: qué queremos entender, qué variables se construyeron y qué hipótesis se contrastaron.</div>
+
+        <div class="q-row">
+          <div class="q-card"><strong>¿Quién cierra más y mejor?</strong>Resultado de la llamada: compromiso con monto y fecha.</div>
+          <div class="q-card"><strong>¿Por qué?</strong>Qué conductas del agente explican el cierre.</div>
+          <div class="q-card"><strong>¿Qué debería cambiar?</strong>La parte accionable de la comparación.</div>
+        </div>
+
+        <p class="lead" style="margin-bottom:10px">
+          Las hipótesis se dividen en dos bloques según <strong>cómo se mide</strong> cada variable.
+          Ambos parten del <strong>turno</strong> como unidad de análisis: los segmentos consecutivos
+          del mismo rol se agrupan en una intervención continua, porque Whisper corta el audio a
+          mitad de frase y medir sobre fragmentos sueltos infla los conteos.
+        </p>
+
+        <div class="hyp-blocks">
+          <!-- ---------- Bloque A: determinísticas ---------- -->
+          <div class="hyp-block">
+            <div class="block-head">
+              <span class="block-tag det">Determinísticas</span>
+              <span class="block-sub">Tiempos, patrones de texto y metadatos de la transcripción. Mismo insumo → mismo resultado, verificable a mano.</span>
+            </div>
+            <ul class="hyp-list">
+              <li>
+                <span class="hyp-badge" onclick="openHypModal('h1')">H1 ⓘ</span>
+                La IA responde más lento y rompe el ritmo
+                <span class="vars"><code>latencia_agente_med</code><code>silencio_pct</code><code>latencia_deudor_med</code></span>
+              </li>
+              <li>
+                <span class="hyp-badge" onclick="openHypModal('h2')">H2 ⓘ</span>
+                La IA sustituye persuasión por presión legal
+                <span class="vars"><code>n_presion_legal</code><code>presiona</code></span>
+              </li>
+              <li>
+                <span class="hyp-badge" onclick="openHypModal('h3')">H3 ⓘ</span>
+                La IA cumple mejor el protocolo de apertura
+                <span class="vars"><code>se_identifica</code><code>verifica_identidad</code></span>
+              </li>
+              <li>
+                <span class="hyp-badge" onclick="openHypModal('h4')">H4 ⓘ</span>
+                La llamada de IA es estructuralmente más auditable
+                <span class="vars"><code>diarizacion_colapsada</code><code>n_speakers_detected</code></span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- ---------- Bloque B: semánticas (LLM) ---------- -->
+          <div class="hyp-block">
+            <div class="block-head">
+              <span class="block-tag llm">Semánticas · LLM</span>
+              <span class="block-sub">Exigen entender el sentido de la conversación, no contar palabras. Un LLM etiqueta cada llamada y cita la evidencia.</span>
+            </div>
+            <ul class="hyp-list">
+              <li>
+                <span class="hyp-badge" onclick="openHypModal('h5')">H5 ⓘ</span>
+                El humano cierra más compromisos firmes (con monto y fecha)
+                <span class="vars"><code>resultado_final</code><code>compromiso_firme</code></span>
+              </li>
+              <li>
+                <span class="hyp-badge" onclick="openHypModal('h6')">H6 ⓘ</span>
+                Ante una objeción, el humano contraoferta algo concreto más seguido
+                <span class="vars"><code>tipo_objecion_principal</code><code>concesion_ante_objecion</code></span>
+              </li>
+              <li>
+                <span class="hyp-badge" onclick="openHypModal('h7')">H7 ⓘ</span>
+                El humano deja más claro cómo y cuándo pagar
+                <span class="vars"><code>cierre_operativo</code></span>
+              </li>
+              <li class="hyp-note">
+                <code>tono_agente</code> funciona como control semántico de H2: confirma si el
+                exceso de menciones legales se percibe además como un tono más duro.
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
 
-      <div class="section">
-        <div class="section-head"><div class="num">2</div><h2>Comparación Humanos vs. IA — Indicadores clave</h2></div>
-        <div class="placeholder">Próximamente: tarjetas KPI (contactabilidad, efectividad, compromiso de pago, duración, etc.) y gráficos comparativos.</div>
-      </div>
     </div>
 
     <footer class="report-footer">
@@ -339,13 +841,151 @@
   <div class="page">
     <div class="content" style="padding-top:32px">
       <div class="section" style="margin-top:0">
+        <div class="section-head"><div class="num">2</div><h2>Resultados</h2></div>
+
+        <!-- KPIs de cabecera -->
+        <div class="kpi-row">
+          <div class="kpi">
+            <span class="kpi-label">Compromiso firme</span>
+            <div class="kpi-nums"><span class="kpi-h">56 %</span><span class="kpi-vs">vs</span><span class="kpi-ia">25 %</span></div>
+            <div class="bars"><i class="bar-h" style="width:56%"></i><i class="bar-ia" style="width:25%"></i></div>
+            <span class="kpi-gap down">−32 pp</span>
+          </div>
+          <div class="kpi">
+            <span class="kpi-label">Llamada sin desenlace</span>
+            <div class="kpi-nums"><span class="kpi-h">4 %</span><span class="kpi-vs">vs</span><span class="kpi-ia">45 %</span></div>
+            <div class="bars"><i class="bar-h" style="width:4%"></i><i class="bar-ia" style="width:45%"></i></div>
+            <span class="kpi-gap up">+41 pp</span>
+          </div>
+          <div class="kpi">
+            <span class="kpi-label">Cierre operativo</span>
+            <div class="kpi-nums"><span class="kpi-h">56 %</span><span class="kpi-vs">vs</span><span class="kpi-ia">20 %</span></div>
+            <div class="bars"><i class="bar-h" style="width:56%"></i><i class="bar-ia" style="width:20%"></i></div>
+            <span class="kpi-gap down">−36 pp</span>
+          </div>
+          <div class="kpi">
+            <span class="kpi-label">Latencia del agente</span>
+            <div class="kpi-nums"><span class="kpi-h">0,3 s</span><span class="kpi-vs">vs</span><span class="kpi-ia">1,9 s</span></div>
+            <div class="bars"><i class="bar-h" style="width:14%"></i><i class="bar-ia" style="width:100%"></i></div>
+            <span class="kpi-gap up">7×</span>
+          </div>
+        </div>
+        <div class="legend"><span class="dot h"></span>Humano<span class="dot ia"></span>IA</div>
+
+        <table class="hyp-table res">
+          <thead>
+            <tr><th></th><th>Métrica</th><th>Humano</th><th>IA</th><th>Dif.</th></tr>
+          </thead>
+          <tbody>
+            <tr class="group-row"><td colspan="5">Determinísticas — ritmo, lenguaje y protocolo</td></tr>
+            <tr>
+              <td class="hyp-tag" rowspan="2"><span class="hyp-badge plain">H1</span></td>
+              <td>Latencia de respuesta del agente <em>(mediana)</em></td>
+              <td class="hyp-val">0,27 s</td><td class="hyp-val win">1,87 s</td><td class="hyp-val gap">7× ***</td>
+            </tr>
+            <tr>
+              <td>Silencio en la llamada <em>(mediana)</em></td>
+              <td class="hyp-val">16 %</td><td class="hyp-val win">22 %</td><td class="hyp-val gap">+6 pp ***</td>
+            </tr>
+            <tr>
+              <td class="hyp-tag"><span class="hyp-badge plain">H2</span></td>
+              <td>Llamadas con ≥1 mención legal o de urgencia <em>(3× más menciones)</em></td>
+              <td class="hyp-val">33 %</td><td class="hyp-val win">80 %</td><td class="hyp-val gap">+47 pp ***</td>
+            </tr>
+            <tr>
+              <td class="hyp-tag" rowspan="2"><span class="hyp-badge plain">H3</span></td>
+              <td>El agente se identifica en la apertura</td>
+              <td class="hyp-val">60 %</td><td class="hyp-val win">80 %</td><td class="hyp-val gap">+20 pp *</td>
+            </tr>
+            <tr>
+              <td>Verifica identidad del interlocutor</td>
+              <td class="hyp-val">27 %</td><td class="hyp-val win">47 %</td><td class="hyp-val gap ns">+20 pp ns</td>
+            </tr>
+            <tr>
+              <td class="hyp-tag"><span class="hyp-badge plain">H4</span></td>
+              <td>Diarización colapsada a 1 hablante <em>(menos auditable)</em></td>
+              <td class="hyp-val">29 %</td><td class="hyp-val win">0 %</td><td class="hyp-val gap">−29 pp ***</td>
+            </tr>
+
+            <tr class="group-row llm"><td colspan="5">Semánticas (LLM) — resultado de la negociación</td></tr>
+            <tr>
+              <td class="hyp-tag" rowspan="2"><span class="hyp-badge plain">H5</span></td>
+              <td>Cierra compromiso firme <em>(monto y fecha)</em></td>
+              <td class="hyp-val">56 %</td><td class="hyp-val win">25 %</td><td class="hyp-val gap">−32 pp **</td>
+            </tr>
+            <tr>
+              <td>Llamada sin desenlace</td>
+              <td class="hyp-val">4 %</td><td class="hyp-val win">45 %</td><td class="hyp-val gap">+41 pp ***</td>
+            </tr>
+            <tr>
+              <td class="hyp-tag" rowspan="2"><span class="hyp-badge plain">H6</span></td>
+              <td>Concede algo concreto <em>(solo llamadas con objeción)</em></td>
+              <td class="hyp-val">59 %</td><td class="hyp-val win">32 %</td><td class="hyp-val gap">−27 pp *</td>
+            </tr>
+            <tr>
+              <td>Objeción por desconfianza <em>("no reconozco esta deuda")</em></td>
+              <td class="hyp-val">10 %</td><td class="hyp-val win">29 %</td><td class="hyp-val gap">+18 pp *</td>
+            </tr>
+            <tr>
+              <td class="hyp-tag"><span class="hyp-badge plain">H7</span></td>
+              <td>Cierre operativo: cómo, cuándo y dónde pagar</td>
+              <td class="hyp-val">56 %</td><td class="hyp-val win">20 %</td><td class="hyp-val gap">−36 pp ***</td>
+            </tr>
+            <tr>
+              <td class="hyp-tag"><span class="hyp-badge plain">ctrl</span></td>
+              <td>Tono cordial <em>(control semántico de H2)</em></td>
+              <td class="hyp-val">92 %</td><td class="hyp-val win">41 %</td><td class="hyp-val gap">−51 pp ***</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <p class="foot-note">
+          n = 48 humanas / 49 IA · Mann-Whitney y Fisher exacto ·
+          <strong>*</strong> p&lt;0,05 &nbsp;<strong>**</strong> p&lt;0,01 &nbsp;<strong>***</strong> p&lt;0,001 &nbsp;<strong>ns</strong> no significativa ·
+          H1 se sostiene con diarización limpia (0,14 s vs 1,51 s) y H5 con etiquetas de confianza alta (72 % vs 19 %).
+        </p>
+      </div>
+
+      <div class="section">
         <div class="section-head"><div class="num">3</div><h2>Hallazgos clave</h2></div>
-        <div class="placeholder">Próximamente: entre 3 y 7 hallazgos accionables, sustentados en datos.</div>
+        <ol class="find-list">
+          <li><strong>La IA cierra menos de la mitad que un humano.</strong> Compromiso firme con monto y fecha: <b>25 % vs 56 %</b>, una diferencia de <b>31,8 pp</b>.</li>
+          <li><strong>Su problema no es lo que dice, es dónde termina.</strong> El <b>45 %</b> de las llamadas de IA no llega a ningún desenlace, contra el <b>4 %</b> de las humanas: <b>+40,7 pp</b>, el mayor gap del análisis.</li>
+          <li><strong>Cuando acuerda, no aterriza el pago.</strong> Solo el <b>20 %</b> de sus llamadas deja claro cómo, cuándo y dónde pagar, frente al <b>56 %</b> humano (<b>−35,8 pp</b>).</li>
+          <li><strong>Ante una objeción, repite el guion.</strong> El humano contraoferta algo concreto en <b>59 %</b> de las objeciones; la IA en <b>32 %</b> (<b>−26,5 pp</b>).</li>
+          <li><strong>Presiona más y genera más desconfianza.</strong> Menciona lo legal o la urgencia en <b>80 %</b> de sus llamadas (vs <b>33 %</b>) y recibe objeciones de desconfianza en <b>29 %</b> (vs <b>10 %</b>).</li>
+        </ol>
       </div>
 
       <div class="section">
         <div class="section-head"><div class="num">4</div><h2>Conducta y oportunidades de mejora</h2></div>
-        <div class="placeholder">Próximamente: qué hace mejor cada grupo y qué cambiaría para acercar sus resultados.</div>
+        <div class="conduct-row">
+          <div class="conduct-card human">
+            <span class="conduct-tag">Mejor el humano</span>
+            <ul>
+              <li>Negocia: mueve fecha, monto o cuotas ante la objeción.</li>
+              <li>Cierra la operación: deja el canal y la fecha explícitos.</li>
+              <li>Sostiene el ritmo (0,3 s) y el tono cordial (92 %).</li>
+            </ul>
+          </div>
+          <div class="conduct-card ai">
+            <span class="conduct-tag">Mejor la IA</span>
+            <ul>
+              <li>Cumple el protocolo de apertura sin olvidos (80 %).</li>
+              <li>Trazabilidad total: 100 % de audios auditables.</li>
+              <li>Consistencia: cero variación entre llamadas.</li>
+            </ul>
+          </div>
+        </div>
+        <div class="actions">
+          <span class="actions-tag">Qué cambiar para acercar los resultados</span>
+          <ol>
+            <li><b>Forzar el cierre operativo antes de colgar:</b> no terminar sin canal, fecha y monto dichos. Es el arreglo de mayor impacto y el más mecánico (20 % → 56 %).</li>
+            <li><b>Dar a la IA un árbol de concesiones:</b> ante objeción económica debe ofrecer alternativa concreta, no repetir la oferta (32 % → 59 %).</li>
+            <li><b>Bajar la latencia de respuesta</b> hacia el rango humano (&lt;0,5 s): el silencio de ~2 s rompe la conversación y explica buena parte de las llamadas sin desenlace.</li>
+            <li><b>Cambiar presión legal por legitimación temprana:</b> usar su ventaja en identificación para desactivar la desconfianza en vez de escalar la amenaza.</li>
+          </ol>
+        </div>
       </div>
 
       <div class="repo-cta">
@@ -362,6 +1002,164 @@
       <span>2 / 2</span>
     </footer>
   </div>
+
+  <!-- ============================================================ -->
+  <!-- MODAL: explicación de cómo se calculó cada hipótesis          -->
+  <!-- ============================================================ -->
+  <div id="hyp-modal-overlay" class="modal-overlay" onclick="closeHypModal(event)">
+    <div class="modal-box" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="closeHypModal()">✕</button>
+      <div id="hyp-modal-badge" class="modal-badge">H1</div>
+      <h3 id="hyp-modal-title"></h3>
+      <div id="hyp-modal-body"></div>
+    </div>
+  </div>
+
+  <script>
+    const HYP_INFO = {
+      pipeline: {
+        title: "Transcripción, diarización y asignación de rol",
+        body: `
+          <p><strong>Transcripción:</strong> <code>Whisper large-v3</code> corriendo sobre GPU T4
+          en Google Colab (gratuita), aplicado a los 100 audios.</p>
+          <p><strong>Diarización</strong> (decidir quién habla y cuándo): <code>pyannote.audio</code>,
+          forzando la solución a dos hablantes —agente y deudor, siempre presentes en este dominio—
+          y ajustando la sensibilidad para no perder intervenciones cortas.</p>
+          <p><strong>Asignación de rol con LLM:</strong> la etiqueta que asigna la diarización
+          (<code>SPEAKER_00</code>/<code>SPEAKER_01</code>) es arbitraria y no indica por sí sola quién
+          es agente y quién deudor. Para resolverlo se copiaron manualmente dos prompts a un LLM de
+          chat, en lotes: uno para las llamadas donde sí se detectaron 2–3 hablantes (decide el rol a
+          partir de la apertura de la llamada) y otro para las que colapsaron a un solo hablante
+          (reconstruye el rol segmento por segmento, solo con el texto). Las respuestas del LLM se
+          guardaron como JSON y se usaron para traducir cada segmento a <code>AGENTE</code>/<code>DEUDOR</code>.</p>
+          <p>Ambos prompts, tal como se usaron, y el código que aplica sus respuestas están en
+          <code>Scripts/renombrar_transcripciones.ipynb</code>.</p>
+        `
+      },
+      h1: {
+        title: "H1 — La IA responde más lento y rompe el ritmo",
+        body: `
+          <p><strong>Latencia de respuesta:</strong> segundos de silencio entre el final del turno de
+          un rol y el inicio de la respuesta del otro. Se calcula para agente <em>y</em> para deudor a
+          propósito — la del deudor sirve de <strong>control</strong>: si el deudor responde igual de
+          rápido en los dos grupos, la lentitud es del agente de IA y no del canal telefónico.</p>
+          <p>Se usa la <strong>mediana</strong> por llamada (no el promedio) porque hay un outlier
+          humano de ~20 minutos que desplazaría cualquier media. <code>silencio_pct</code> es el
+          porcentaje de la llamada sin voz de ningún rol.</p>
+          <p class="modal-caveat">⚠ Caveat: en 29&nbsp;% de las llamadas humanas la diarización colapsó
+          a un solo hablante y el rol lo asignó un LLM, no el audio (ver H4). El recálculo restringido
+          a <code>diarizacion_limpia == 1</code> está pendiente antes de publicar el número final.</p>
+        `
+      },
+      h2: {
+        title: "H2 — La IA sustituye persuasión por presión legal",
+        body: `
+          <p><strong>Variable léxica</strong> sobre el texto del agente: se cuenta cuántas veces
+          aparece un patrón de consecuencia legal o urgencia artificial —por ejemplo
+          <em>"proceso legal"</em>, <em>"embargo"</em>, <em>"centrales de riesgo"</em>,
+          <em>"última oportunidad"</em>, <em>"se vence"</em>— usando una expresión regular sobre
+          todo el texto de los turnos del agente.</p>
+          <p><code>n_presion_legal</code> es el conteo por llamada (promedio reportado); <code>presiona</code>
+          es la variable binaria (¿aparece al menos una vez?).</p>
+          <p class="modal-caveat">⚠ Caveat: es un patrón léxico, no semántico — detecta si la palabra
+          aparece, no si la frase la usa en sentido de amenaza (ej. una negación como "no habrá acciones
+          legales" también contaría). Poco probable en este dominio, pero es una limitación real del método.</p>
+        `
+      },
+      h3: {
+        title: "H3 — La IA cumple mejor el protocolo de apertura",
+        body: `
+          <p><strong>Ventana de apertura:</strong> el patrón léxico se busca solo en los primeros
+          <strong>5 turnos del agente</strong> (no en toda la llamada), porque es ahí donde se define
+          el protocolo de apertura del guion.</p>
+          <p><code>se_identifica</code>: aparece una fórmula de presentación como <em>"le habla"</em>,
+          <em>"mi nombre es"</em>, <em>"me comunico"</em>, <em>"en nombre de"</em>.</p>
+          <p><code>verifica_identidad</code>: aparece una fórmula de confirmación del interlocutor como
+          <em>"hablo con"</em>, <em>"confirmarme si es"</em>, <em>"con quién tengo"</em>.</p>
+          <p class="modal-caveat">⚠ Caveat: los audios están censurados con un pitido sobre nombres y
+          entidades, así que ningún patrón puede depender del nombre propio o de la marca de la empresa
+          — por eso se busca la <em>fórmula</em> de apertura, no el contenido. Estas variables detectan
+          cumplimiento del guion, no verificación real de identidad (imposible medir por la censura).</p>
+        `
+      },
+      h5: {
+        title: "H5 — El humano cierra más compromisos firmes",
+        body: `
+          <p><strong>Variable semántica.</strong> Un LLM clasifica el desenlace de cada llamada en
+          una de cinco categorías: <code>compromiso_firme</code> (acepta pagar con fecha
+          <em>y</em> monto concretos), <code>compromiso_vago</code>, <code>rechazo</code>,
+          <code>recontacto</code> o <code>sin_conclusion</code>.</p>
+          <p>La métrica principal es la tasa de <code>compromiso_firme</code>: es el único desenlace
+          que se puede cobrar. Un "voy a ver si puedo" no cuenta, y esa distinción no se puede hacer
+          contando palabras — de ahí que esta familia de variables no sea determinística.</p>
+          <p class="modal-caveat">⚠ El etiquetado no es reproducible (depende del modelo), pero sí
+          auditable: cada fila guarda la evidencia citada por el LLM para poder contrastarla contra
+          la transcripción. El prompt está en <code>Scripts/base_analitica_LLM.ipynb</code>.</p>
+        `
+      },
+      h6: {
+        title: "H6 — Ante una objeción, el humano contraoferta algo concreto",
+        body: `
+          <p>Se mide en dos pasos. Primero el LLM identifica la
+          <strong>objeción principal</strong> del deudor: económica, desconocimiento o desconfianza,
+          logística, otra, o sin objeción.</p>
+          <p>Después juzga si el agente respondió con algo <strong>concreto y distinto</strong> a lo
+          ya ofrecido (nueva fecha, nuevo monto, plan de cuotas, descuento) o si repitió lo mismo y
+          solo mostró comprensión.</p>
+          <p>La tasa se calcula <strong>solo sobre las llamadas con objeción real</strong>: en las
+          que no hubo objeción el campo queda vacío, no en cero — un 0 diría "no concedió" cuando no
+          había nada que conceder.</p>
+        `
+      },
+      h7: {
+        title: "H7 — El humano deja más claro cómo y cuándo pagar",
+        body: `
+          <p><strong>Cierre operativo:</strong> al terminar la llamada, ¿quedó claro el canal, la
+          fecha y/o el monto del pago? Un "le enviaremos la información" sin ningún detalle concreto
+          <strong>no</strong> cuenta como cierre.</p>
+          <p>Separa una conversación amable de una gestión que efectivamente termina en un pago: se
+          puede lograr un compromiso y aun así perderlo por no decir dónde pagar.</p>
+        `
+      },
+      h4: {
+        title: "H4 — La llamada de IA es estructuralmente más auditable",
+        body: `
+          <p><strong>Variable de metadatos</strong>, no de contenido: usa <code>n_speakers_detected</code>,
+          el número de hablantes que detectó la diarización (<code>pyannote.audio</code>) en el audio
+          original.</p>
+          <p><code>diarizacion_colapsada</code> = 1 cuando la diarización detectó un solo hablante para
+          toda la llamada (es decir, no logró separar agente y deudor por audio — el rol de cada
+          segmento tuvo que reconstruirse después con un LLM leyendo el texto).</p>
+          <p>La voz sintética de la IA tiene timbre y volumen constantes, lo que genera un
+          <em>embedding</em> fácil de distinguir del interlocutor humano; dos voces humanas comparten
+          canal telefónico, acento y rango vocal similares, lo que dificulta separarlas — de ahí la
+          brecha entre grupos.</p>
+        `
+      },
+    };
+
+    const HYP_BADGE_LABEL = {
+      pipeline: 'MÉTODO',
+      h1: 'H1', h2: 'H2', h3: 'H3', h4: 'H4', h5: 'H5', h6: 'H6', h7: 'H7',
+    };
+
+    function openHypModal(id) {
+      const info = HYP_INFO[id];
+      if (!info) return;
+      document.getElementById('hyp-modal-badge').textContent = HYP_BADGE_LABEL[id] || id.toUpperCase();
+      document.getElementById('hyp-modal-title').textContent = info.title;
+      document.getElementById('hyp-modal-body').innerHTML = info.body;
+      document.getElementById('hyp-modal-overlay').classList.add('open');
+    }
+
+    function closeHypModal(evt) {
+      document.getElementById('hyp-modal-overlay').classList.remove('open');
+    }
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeHypModal();
+    });
+  </script>
 
 </body>
 </html>
