@@ -476,6 +476,8 @@
   }
   .conduct-card.human .conduct-tag{ background:#ede9fb; color:var(--deep) }
   .conduct-card.ai .conduct-tag{ background:var(--bg-soft); color:#B0308F }
+  .conduct-card.desempeno .conduct-tag{ background:#e7f5ef; color:var(--success) }
+  .conduct-card.explicacion .conduct-tag{ background:#fef3e7; color:#B8791E }
 
   .conduct-card ul{
     margin:0;
@@ -950,33 +952,50 @@
       </div>
 
       <div class="section">
-        <div class="section-head"><div class="num">4</div><h2>Conducta y oportunidades de mejora</h2></div>
+        <div class="section-head"><div class="num">4</div><h2>Comparación Humanos vs. IA</h2></div>
+        <p class="lead" style="margin-bottom:8px">
+          Pregunta central: ¿existen diferencias estadísticamente sustentables entre el desempeño
+          de humanos e IA? Sí — en las variables con p&lt;0,05 de la sección anterior.
+        </p>
+
         <div class="conduct-row">
+          <div class="conduct-card desempeno">
+            <span class="conduct-tag">Desempeño</span>
+            <ul>
+              <li>Cierre y cobro: el humano gana en compromiso firme (56 % vs 25 %) y cierre operativo (56 % vs 20 %).</li>
+              <li>Disciplina de guion: la IA gana en protocolo de apertura (80 % vs 60 %) y en llamadas con diarización limpia (78 % vs 60 %).</li>
+            </ul>
+          </div>
+          <div class="conduct-card explicacion">
+            <span class="conduct-tag">Explicación</span>
+            <ul>
+              <li>La brecha en cierre la explican 3 variables: latencia (0,3 s vs 1,9 s), falta de contraoferta ante objeción (32 % vs 59 %) y llamadas sin desenlace (45 % vs 4 %).</li>
+              <li>Más presión legal (80 % vs 33 %) coincide con más desconfianza del deudor (29 % vs 10 %).</li>
+            </ul>
+          </div>
           <div class="conduct-card human">
-            <span class="conduct-tag">Mejor el humano</span>
+            <span class="conduct-tag">Conducta · mejor el humano</span>
             <ul>
               <li>Negocia: mueve fecha, monto o cuotas ante la objeción.</li>
               <li>Cierra la operación: deja el canal y la fecha explícitos.</li>
-              <li>Sostiene un ritmo de conversación más natural (0,3 s de latencia).</li>
             </ul>
           </div>
           <div class="conduct-card ai">
-            <span class="conduct-tag">Mejor la IA</span>
+            <span class="conduct-tag">Conducta · mejor la IA</span>
             <ul>
-              <li>Cumple el protocolo de apertura sin olvidos (80 %).</li>
-              <li>Mejor trazabilidad: más audios auditables que en las llamadas humanas.</li>
-              <li>Más consistencia: menos variación de una llamada a otra.</li>
+              <li>Cumple el protocolo de apertura sin olvidos.</li>
+              <li>Mejor trazabilidad y más consistencia entre llamadas.</li>
             </ul>
           </div>
         </div>
+
         <div class="actions">
-          <span class="actions-tag">Qué cambiar para acercar los resultados</span>
-          <ol>
-            <li><b>Forzar el cierre operativo antes de colgar:</b> no terminar sin canal, fecha y monto dichos. Es el arreglo de mayor impacto y el más mecánico (20 % → 56 %).</li>
-            <li><b>Dar a la IA un árbol de concesiones:</b> ante objeción económica debe ofrecer alternativa concreta, no repetir la oferta (32 % → 59 %).</li>
-            <li><b>Bajar la latencia de respuesta</b> hacia el rango humano (&lt;0,5 s): el silencio de ~2 s rompe la conversación y explica buena parte de las llamadas sin desenlace.</li>
-            <li><b>Cambiar presión legal por legitimación temprana:</b> usar su ventaja en identificación para desactivar la desconfianza en vez de escalar la amenaza.</li>
-          </ol>
+          <span class="actions-tag">Mejora</span>
+          <p style="margin:0;font-size:10.5px;line-height:1.5;color:#474249">
+            El mayor apalancamiento está en las dos variables con mayor brecha y relación directa
+            con el compromiso firme: cerrar cada llamada con canal, fecha y monto explícitos, y
+            ofrecer una alternativa concreta cuando el deudor objeta por razones económicas.
+          </p>
         </div>
       </div>
 
