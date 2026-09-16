@@ -582,6 +582,32 @@
     font-size:12px;
   }
 
+  .modal-vars-label{
+    font-size:10.5px;
+    font-weight:800;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+    color:var(--deep);
+    margin:2px 0 6px;
+  }
+
+  ul.modal-vars{
+    margin:0 0 10px;
+    padding-left:18px;
+    font-size:12.5px;
+    line-height:1.55;
+    color:#474249;
+  }
+
+  ul.modal-vars li{ margin-bottom:5px }
+  ul.modal-vars code{
+    background:#f3f0f9;
+    color:#5a5262;
+    padding:1px 5px;
+    border-radius:5px;
+    font-size:11px;
+  }
+
   .modal-close{
     position:absolute;
     top:16px;
@@ -877,7 +903,7 @@
           <tbody>
             <tr class="group-row"><td colspan="5">Determinísticas — ritmo, lenguaje y protocolo</td></tr>
             <tr>
-              <td class="hyp-tag" rowspan="2"><span class="hyp-badge plain">H1</span></td>
+              <td class="hyp-tag" rowspan="2"><span class="hyp-badge" onclick="openHypModal('h1')">H1 ⓘ</span></td>
               <td>Latencia de respuesta del agente <em>(mediana)</em></td>
               <td class="hyp-val">0,27 s</td><td class="hyp-val win">1,87 s</td><td class="hyp-val gap">7× ***</td>
             </tr>
@@ -886,12 +912,12 @@
               <td class="hyp-val">16 %</td><td class="hyp-val win">22 %</td><td class="hyp-val gap">+6 pp ***</td>
             </tr>
             <tr>
-              <td class="hyp-tag"><span class="hyp-badge plain">H2</span></td>
+              <td class="hyp-tag"><span class="hyp-badge" onclick="openHypModal('h2')">H2 ⓘ</span></td>
               <td>Llamadas con ≥1 mención legal o de urgencia <em>(3× más menciones)</em></td>
               <td class="hyp-val">33 %</td><td class="hyp-val win">80 %</td><td class="hyp-val gap">+47 pp ***</td>
             </tr>
             <tr>
-              <td class="hyp-tag" rowspan="2"><span class="hyp-badge plain">H3</span></td>
+              <td class="hyp-tag" rowspan="2"><span class="hyp-badge" onclick="openHypModal('h3')">H3 ⓘ</span></td>
               <td>El agente se identifica en la apertura</td>
               <td class="hyp-val">60 %</td><td class="hyp-val win">80 %</td><td class="hyp-val gap">+20 pp *</td>
             </tr>
@@ -900,14 +926,14 @@
               <td class="hyp-val">27 %</td><td class="hyp-val win">47 %</td><td class="hyp-val gap ns">+20 pp ns</td>
             </tr>
             <tr>
-              <td class="hyp-tag"><span class="hyp-badge plain">H4</span></td>
+              <td class="hyp-tag"><span class="hyp-badge" onclick="openHypModal('h4')">H4 ⓘ</span></td>
               <td>Diarización colapsada a 1 hablante <em>(menos auditable)</em></td>
               <td class="hyp-val">29 %</td><td class="hyp-val win">0 %</td><td class="hyp-val gap">−29 pp ***</td>
             </tr>
 
             <tr class="group-row llm"><td colspan="5">Semánticas (LLM) — resultado de la negociación</td></tr>
             <tr>
-              <td class="hyp-tag" rowspan="2"><span class="hyp-badge plain">H5</span></td>
+              <td class="hyp-tag" rowspan="2"><span class="hyp-badge" onclick="openHypModal('h5')">H5 ⓘ</span></td>
               <td>Cierra compromiso firme <em>(monto y fecha)</em></td>
               <td class="hyp-val">56 %</td><td class="hyp-val win">25 %</td><td class="hyp-val gap">−32 pp **</td>
             </tr>
@@ -916,7 +942,7 @@
               <td class="hyp-val">4 %</td><td class="hyp-val win">45 %</td><td class="hyp-val gap">+41 pp ***</td>
             </tr>
             <tr>
-              <td class="hyp-tag" rowspan="2"><span class="hyp-badge plain">H6</span></td>
+              <td class="hyp-tag" rowspan="2"><span class="hyp-badge" onclick="openHypModal('h6')">H6 ⓘ</span></td>
               <td>Concede algo concreto <em>(solo llamadas con objeción)</em></td>
               <td class="hyp-val">59 %</td><td class="hyp-val win">32 %</td><td class="hyp-val gap">−27 pp *</td>
             </tr>
@@ -925,7 +951,7 @@
               <td class="hyp-val">10 %</td><td class="hyp-val win">29 %</td><td class="hyp-val gap">+18 pp *</td>
             </tr>
             <tr>
-              <td class="hyp-tag"><span class="hyp-badge plain">H7</span></td>
+              <td class="hyp-tag"><span class="hyp-badge" onclick="openHypModal('h7')">H7 ⓘ</span></td>
               <td>Cierre operativo: cómo, cuándo y dónde pagar</td>
               <td class="hyp-val">56 %</td><td class="hyp-val win">20 %</td><td class="hyp-val gap">−36 pp ***</td>
             </tr>
@@ -1050,13 +1076,18 @@
       h1: {
         title: "H1 — La IA responde más lento y rompe el ritmo",
         body: `
-          <p><strong>Latencia de respuesta:</strong> segundos de silencio entre el final del turno de
-          un rol y el inicio de la respuesta del otro. Se calcula para agente <em>y</em> para deudor a
-          propósito — la del deudor sirve de <strong>control</strong>: si el deudor responde igual de
-          rápido en los dos grupos, la lentitud es del agente de IA y no del canal telefónico.</p>
+          <p class="modal-vars-label">3 variables</p>
+          <ul class="modal-vars">
+            <li><code>latencia_agente_med</code> — mediana, por llamada, de los segundos de
+            silencio entre el final del turno del deudor y el inicio de la respuesta del agente.</li>
+            <li><code>latencia_deudor_med</code> — la misma medición pero al revés (respuesta del
+            deudor). Es el <strong>control</strong>: si también fuera alta en IA, la lentitud sería
+            del canal telefónico, no del agente.</li>
+            <li><code>silencio_pct</code> — porcentaje de la duración total de la llamada sin voz
+            de ningún rol.</li>
+          </ul>
           <p>Se usa la <strong>mediana</strong> por llamada (no el promedio) porque hay un outlier
-          humano de ~20 minutos que desplazaría cualquier media. <code>silencio_pct</code> es el
-          porcentaje de la llamada sin voz de ningún rol.</p>
+          humano de ~20 minutos que desplazaría cualquier media.</p>
           <p class="modal-caveat">⚠ Caveat: en 29&nbsp;% de las llamadas humanas la diarización colapsó
           a un solo hablante y el rol lo asignó un LLM, no el audio (ver H4). El recálculo restringido
           a <code>diarizacion_limpia == 1</code> está pendiente antes de publicar el número final.</p>
@@ -1065,13 +1096,15 @@
       h2: {
         title: "H2 — La IA sustituye persuasión por presión legal",
         body: `
-          <p><strong>Variable léxica</strong> sobre el texto del agente: se cuenta cuántas veces
-          aparece un patrón de consecuencia legal o urgencia artificial —por ejemplo
-          <em>"proceso legal"</em>, <em>"embargo"</em>, <em>"centrales de riesgo"</em>,
-          <em>"última oportunidad"</em>, <em>"se vence"</em>— usando una expresión regular sobre
-          todo el texto de los turnos del agente.</p>
-          <p><code>n_presion_legal</code> es el conteo por llamada (promedio reportado); <code>presiona</code>
-          es la variable binaria (¿aparece al menos una vez?).</p>
+          <p class="modal-vars-label">2 variables</p>
+          <ul class="modal-vars">
+            <li><code>n_presion_legal</code> — conteo, por llamada, de menciones a un patrón de
+            consecuencia legal o urgencia artificial en el texto del agente (expresión regular con
+            términos como <em>"proceso legal"</em>, <em>"embargo"</em>, <em>"centrales de riesgo"</em>,
+            <em>"última oportunidad"</em>, <em>"se vence"</em>).</li>
+            <li><code>presiona</code> — la misma variable, en binario: ¿aparece al menos una vez
+            en la llamada?</li>
+          </ul>
           <p class="modal-caveat">⚠ Caveat: es un patrón léxico, no semántico — detecta si la palabra
           aparece, no si la frase la usa en sentido de amenaza (ej. una negación como "no habrá acciones
           legales" también contaría). Poco probable en este dominio, pero es una limitación real del método.</p>
@@ -1080,13 +1113,17 @@
       h3: {
         title: "H3 — La IA cumple mejor el protocolo de apertura",
         body: `
-          <p><strong>Ventana de apertura:</strong> el patrón léxico se busca solo en los primeros
-          <strong>5 turnos del agente</strong> (no en toda la llamada), porque es ahí donde se define
-          el protocolo de apertura del guion.</p>
-          <p><code>se_identifica</code>: aparece una fórmula de presentación como <em>"le habla"</em>,
-          <em>"mi nombre es"</em>, <em>"me comunico"</em>, <em>"en nombre de"</em>.</p>
-          <p><code>verifica_identidad</code>: aparece una fórmula de confirmación del interlocutor como
-          <em>"hablo con"</em>, <em>"confirmarme si es"</em>, <em>"con quién tengo"</em>.</p>
+          <p class="modal-vars-label">2 variables</p>
+          <ul class="modal-vars">
+            <li><code>se_identifica</code> — busca, solo en los primeros <strong>5 turnos del
+            agente</strong>, una fórmula de presentación como <em>"le habla"</em>,
+            <em>"mi nombre es"</em>, <em>"me comunico"</em>, <em>"en nombre de"</em>.</li>
+            <li><code>verifica_identidad</code> — misma ventana de 5 turnos, buscando una fórmula
+            de confirmación del interlocutor como <em>"hablo con"</em>, <em>"confirmarme si es"</em>,
+            <em>"con quién tengo"</em>.</li>
+          </ul>
+          <p>La ventana se limita a la apertura porque es ahí donde se define el protocolo del
+          guion, no en toda la llamada.</p>
           <p class="modal-caveat">⚠ Caveat: los audios están censurados con un pitido sobre nombres y
           entidades, así que ningún patrón puede depender del nombre propio o de la marca de la empresa
           — por eso se busca la <em>fórmula</em> de apertura, no el contenido. Estas variables detectan
@@ -1096,13 +1133,17 @@
       h5: {
         title: "H5 — El humano cierra más compromisos firmes",
         body: `
-          <p><strong>Variable semántica.</strong> Un LLM clasifica el desenlace de cada llamada en
-          una de cinco categorías: <code>compromiso_firme</code> (acepta pagar con fecha
-          <em>y</em> monto concretos), <code>compromiso_vago</code>, <code>rechazo</code>,
-          <code>recontacto</code> o <code>sin_conclusion</code>.</p>
-          <p>La métrica principal es la tasa de <code>compromiso_firme</code>: es el único desenlace
-          que se puede cobrar. Un "voy a ver si puedo" no cuenta, y esa distinción no se puede hacer
-          contando palabras — de ahí que esta familia de variables no sea determinística.</p>
+          <p class="modal-vars-label">2 variables (1 semántica + su binario)</p>
+          <ul class="modal-vars">
+            <li><code>resultado_final</code> — un LLM clasifica el desenlace de cada llamada en una
+            de cinco categorías: <code>compromiso_firme</code> (acepta pagar con fecha <em>y</em>
+            monto concretos), <code>compromiso_vago</code>, <code>rechazo</code>,
+            <code>recontacto</code> o <code>sin_conclusion</code>.</li>
+            <li><code>compromiso_firme</code> — binaria: 1 si <code>resultado_final</code> quedó en
+            esa categoría. Es el único desenlace que efectivamente se puede cobrar.</li>
+          </ul>
+          <p>Un "voy a ver si puedo" no cuenta como compromiso firme, y esa distinción no se puede
+          hacer contando palabras — de ahí que esta familia de variables no sea determinística.</p>
           <p class="modal-caveat">⚠ El etiquetado no es reproducible (depende del modelo), pero sí
           auditable: cada fila guarda la evidencia citada por el LLM para poder contrastarla contra
           la transcripción. El prompt está en <code>Scripts/base_analitica_LLM.ipynb</code>.</p>
@@ -1111,12 +1152,14 @@
       h6: {
         title: "H6 — Ante una objeción, el humano contraoferta algo concreto",
         body: `
-          <p>Se mide en dos pasos. Primero el LLM identifica la
-          <strong>objeción principal</strong> del deudor: económica, desconocimiento o desconfianza,
-          logística, otra, o sin objeción.</p>
-          <p>Después juzga si el agente respondió con algo <strong>concreto y distinto</strong> a lo
-          ya ofrecido (nueva fecha, nuevo monto, plan de cuotas, descuento) o si repitió lo mismo y
-          solo mostró comprensión.</p>
+          <p class="modal-vars-label">2 variables, en dos pasos</p>
+          <ul class="modal-vars">
+            <li><code>tipo_objecion_principal</code> — el LLM identifica la objeción principal del
+            deudor: económica, desconocimiento o desconfianza, logística, otra, o sin objeción.</li>
+            <li><code>concesion_ante_objecion</code> — el LLM juzga si el agente respondió con algo
+            <strong>concreto y distinto</strong> a lo ya ofrecido (nueva fecha, nuevo monto, plan de
+            cuotas, descuento) o si repitió lo mismo y solo mostró comprensión.</li>
+          </ul>
           <p>La tasa se calcula <strong>solo sobre las llamadas con objeción real</strong>: en las
           que no hubo objeción el campo queda vacío, no en cero — un 0 diría "no concedió" cuando no
           había nada que conceder.</p>
@@ -1125,9 +1168,12 @@
       h7: {
         title: "H7 — El humano deja más claro cómo y cuándo pagar",
         body: `
-          <p><strong>Cierre operativo:</strong> al terminar la llamada, ¿quedó claro el canal, la
-          fecha y/o el monto del pago? Un "le enviaremos la información" sin ningún detalle concreto
-          <strong>no</strong> cuenta como cierre.</p>
+          <p class="modal-vars-label">1 variable</p>
+          <ul class="modal-vars">
+            <li><code>cierre_operativo</code> — el LLM juzga, al terminar la llamada, si quedó claro
+            el canal, la fecha y/o el monto del pago. Un "le enviaremos la información" sin ningún
+            detalle concreto <strong>no</strong> cuenta como cierre.</li>
+          </ul>
           <p>Separa una conversación amable de una gestión que efectivamente termina en un pago: se
           puede lograr un compromiso y aun así perderlo por no decir dónde pagar.</p>
         `
@@ -1135,12 +1181,14 @@
       h4: {
         title: "H4 — La llamada de IA es estructuralmente más auditable",
         body: `
-          <p><strong>Variable de metadatos</strong>, no de contenido: usa <code>n_speakers_detected</code>,
-          el número de hablantes que detectó la diarización (<code>pyannote.audio</code>) en el audio
-          original.</p>
-          <p><code>diarizacion_colapsada</code> = 1 cuando la diarización detectó un solo hablante para
-          toda la llamada (es decir, no logró separar agente y deudor por audio — el rol de cada
-          segmento tuvo que reconstruirse después con un LLM leyendo el texto).</p>
+          <p class="modal-vars-label">2 variables de metadatos, no de contenido</p>
+          <ul class="modal-vars">
+            <li><code>n_speakers_detected</code> — número de hablantes que detectó la diarización
+            (<code>pyannote.audio</code>) en el audio original, antes de cualquier procesamiento.</li>
+            <li><code>diarizacion_colapsada</code> — binaria: 1 cuando <code>n_speakers_detected == 1</code>,
+            es decir, la diarización no logró separar agente y deudor por audio y el rol de cada
+            segmento tuvo que reconstruirse después con un LLM leyendo el texto.</li>
+          </ul>
           <p>La voz sintética de la IA tiene timbre y volumen constantes, lo que genera un
           <em>embedding</em> fácil de distinguir del interlocutor humano; dos voces humanas comparten
           canal telefónico, acento y rango vocal similares, lo que dificulta separarlas — de ahí la
