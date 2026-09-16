@@ -303,6 +303,17 @@
     color:var(--muted);
   }
 
+  .block-link{
+    display:inline-block;
+    margin-left:4px;
+    font-size:10px;
+    font-weight:700;
+    color:var(--deep);
+    text-decoration:none;
+    white-space:nowrap;
+  }
+  .block-link:hover{ text-decoration:underline; }
+
   ul.hyp-list{
     list-style:none;
     margin:0;
@@ -790,7 +801,8 @@
           <div class="hyp-block">
             <div class="block-head">
               <span class="block-tag det">Determinísticas</span>
-              <span class="block-sub">Tiempos, patrones de texto y metadatos de la transcripción. Mismo insumo → mismo resultado, verificable a mano.</span>
+              <span class="block-sub">Tiempos, patrones de texto y metadatos de la transcripción. Mismo insumo → mismo resultado, verificable a mano.
+              <a class="block-link" href="https://github.com/andreschaparr0/prueba_crecere/blob/main/Scripts/base_analitica_deterministica.ipynb" target="_blank" rel="noopener">📓 ver cuaderno</a></span>
             </div>
             <ul class="hyp-list">
               <li>
@@ -820,7 +832,8 @@
           <div class="hyp-block">
             <div class="block-head">
               <span class="block-tag llm">Semánticas · LLM</span>
-              <span class="block-sub">Exigen entender el sentido de la conversación, no contar palabras. Un LLM etiqueta cada llamada y cita la evidencia.</span>
+              <span class="block-sub">Exigen entender el sentido de la conversación, no contar palabras. Un LLM etiqueta cada llamada y cita la evidencia.
+              <a class="block-link" href="https://github.com/andreschaparr0/prueba_crecere/blob/main/Scripts/base_analitica_LLM.ipynb" target="_blank" rel="noopener">📓 ver cuaderno</a></span>
             </div>
             <ul class="hyp-list">
               <li>
