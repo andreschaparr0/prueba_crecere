@@ -56,6 +56,18 @@
     margin-bottom:14px;
   }
 
+  .brand-left{
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+
+  .brand-logo{
+    height:26px;
+    width:auto;
+    display:block;
+  }
+
   .eyebrow{
     display:inline-flex;
     align-items:center;
@@ -737,6 +749,7 @@
   @media (max-width:720px){
     .hero,.content,footer.report-footer{padding-left:20px;padding-right:20px}
     .brand-row{flex-direction:column-reverse; align-items:flex-start}
+    .brand-left{flex-direction:column; align-items:flex-start; gap:6px}
     .repo-cta{flex-direction:column; align-items:flex-start}
   }
 </style>
@@ -749,7 +762,10 @@
   <div class="page">
     <header class="hero">
       <div class="brand-row">
-        <div class="eyebrow">Creceré AI · Prueba técnica</div>
+        <div class="brand-left">
+          <img class="brand-logo" src="logo-crecere.png" alt="Creceré AI" />
+          <div class="eyebrow">Prueba técnica</div>
+        </div>
         <div class="author-chip">
           <div class="author-avatar">AC</div>
           <div class="author-text">
