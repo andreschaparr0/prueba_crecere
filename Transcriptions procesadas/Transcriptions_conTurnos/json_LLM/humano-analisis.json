@@ -183,6 +183,32 @@
       "tono_agente": "cordial"
     },
     {
+      "short_id": "audioh17-440cb585-1spk",
+      "resultado_final": "recontacto",
+      "resultado_evidencia": "dice que gestionará al salir de la situación",
+      "resultado_confianza": "media",
+      "tipo_objecion_principal": "economica",
+      "objecion_evidencia": "gastos por salud de su mamá, no le da",
+      "concesion_ante_objecion": "no",
+      "concesion_evidencia": "agente solo repite beneficios y deja anotación",
+      "cierre_operativo": "no",
+      "cierre_evidencia": "no se fija fecha ni forma de pago",
+      "tono_agente": "cordial"
+    },
+    {
+      "short_id": "audioh18-50e0f632-1spk",
+      "resultado_final": "compromiso_vago",
+      "resultado_evidencia": "dice pagar el 20 del otro mes, sin monto ni cierre",
+      "resultado_confianza": "media",
+      "tipo_objecion_principal": "economica",
+      "objecion_evidencia": "no tiene la plata para la fecha pactada",
+      "concesion_ante_objecion": "no",
+      "concesion_evidencia": "agente solo notifica al área encargada",
+      "cierre_operativo": "no",
+      "cierre_evidencia": "no se confirma monto ni canal de pago",
+      "tono_agente": "cordial"
+    },
+    {
       "short_id": "audioh19-635a7986-1spk",
       "resultado_final": "compromiso_firme",
       "resultado_evidencia": "corre fecha al 30 agosto, paga 1.268.100",

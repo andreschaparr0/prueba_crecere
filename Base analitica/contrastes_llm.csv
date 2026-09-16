@@ -1,7 +1,7 @@
 contraste,variable,humano_exitos,humano_n,humano_pct,ia_exitos,ia_n,ia_pct,dif_pp,p_fisher
-Cierra compromiso firme,resultado_final,27,46,58.7,11,44,25.0,-33.7,0.00146
-Llamada sin conclusión,resultado_final,2,46,4.3,19,44,43.2,38.8,1e-05
-Cierre operativo claro,cierre_operativo,27,46,58.7,9,44,20.5,-38.2,0.00025
-Concede ante objeción,concesion_ante_objecion,23,37,62.2,10,34,29.4,-32.8,0.00862
-Objeción por desconfianza,tipo_objecion_principal,5,46,10.9,12,44,27.3,16.4,0.0609
-Tono cordial,tono_agente,42,46,91.3,20,44,45.5,-45.8,0.0
+Cierra compromiso firme,resultado_final,27,48,56.2,12,49,24.5,-31.8,0.00188
+Llamada sin conclusión,resultado_final,2,48,4.2,22,49,44.9,40.7,0.0
+Cierre operativo claro,cierre_operativo,27,48,56.2,10,49,20.4,-35.8,0.00036
+Concede ante objeción,concesion_ante_objecion,23,39,59.0,12,37,32.4,-26.5,0.02365
+Objeción por desconfianza,tipo_objecion_principal,5,48,10.4,14,49,28.6,18.2,0.03905
+Tono cordial,tono_agente,44,48,91.7,20,49,40.8,-50.9,0.0
