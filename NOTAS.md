@@ -11,7 +11,8 @@ No es un entregable; el entregable es `informe/` + este repositorio.
 |---|---|---|
 | Transcripción + diarización | `Scripts/transcription.ipynb` | `Transcriptions/{humanos,ia}/` |
 | Renombrado, limpieza y asignación de roles | `Scripts/renombrar_transcripciones.ipynb` | `Transcriptions procesadas/transcriptions con agente y deudor/` |
-| Base analítica (una fila por llamada) | `Scripts/base_analitica.ipynb` | `Base analitica/base_analitica.csv` |
+| Base analítica determinística + export de turnos | `Scripts/base_analitica_deterministica.ipynb` | `Base analitica/base_analitica.csv`, `Transcriptions_conTurnos/` |
+| Análisis de variables etiquetadas con LLM | `Scripts/base_analitica_LLM.ipynb` | `Base analitica/base_llm.csv`, `contrastes_llm.csv` |
 
 **Corpus final: 97 llamadas** (48 humanas + 49 IA). Se excluyeron 3 de las 100 originales por
 no contener conversación real (buzón de voz o cuelgue sin respuesta).
@@ -60,6 +61,47 @@ o patrones de texto más específicos y fáciles de verificar a mano.
 - **H2 y H4 son directas de comunicar** sin mayor matiz: la IA presiona más y su llamada es
   100 % auditable automáticamente frente al 71 % de las humanas.
 
+---
+
+## 3b. Variables etiquetadas con LLM (V1, V3, V4, V5, V7)
+
+Etiquetado semántico sobre los turnos exportados, con el prompt que está en
+`Scripts/base_analitica_LLM.ipynb`. **Cobertura actual: 90/97** (humano 46/48, IA 44/49).
+Contrastes con **prueba exacta de Fisher bilateral** (no chi-cuadrado: hay celdas con muy
+pocos casos, ej. `compromiso_vago` = 3 en humanos y 0 en IA).
+
+| Contraste | Humano | IA | Dif. | p |
+|---|---|---|---|---|
+| Cierra compromiso firme | 59 % | **25 %** | −34 pp | 0,0015 ** |
+| Llamada sin conclusión | 4 % | **43 %** | +39 pp | <0,0001 *** |
+| Cierre operativo claro (cómo/cuándo/dónde pagar) | 59 % | **20 %** | −38 pp | 0,0003 *** |
+| Concede ante objeción *(solo llamadas con objeción)* | 62 % | **29 %** | −33 pp | 0,0086 ** |
+| Objeción por desconfianza | 11 % | 27 % | +16 pp | 0,0609 ns |
+| Tono cordial | 91 % | **45 %** | −46 pp | <0,0001 *** |
+
+**Robustez:** restringiendo a las llamadas de confianza `alta` del LLM (70 % de humanas, 86 %
+de IA), el hallazgo central se mantiene y se refuerza: compromiso firme 72 % vs 21 %, p<0,0001.
+
+**Validación del insumo:** cero valores fuera del catálogo de categorías del prompt.
+
+### Lectura
+La IA no pierde por lo que dice, sino por **dónde termina la conversación**: casi la mitad de
+sus llamadas no llegan a ningún desenlace, y cuando logra un acuerdo no aterriza el mecanismo
+de pago. El dato de tono descarta la preocupación inicial de que el LLM etiquetara todo como
+"cordial" por defecto: discrimina bien (IA suena neutra en 52 % vs 9 % de humanos).
+
+### Notas de método
+- `Concede ante objeción` se calcula **excluyendo** `no_aplica`: meter las llamadas sin objeción
+  en el denominador confundiría "no concedió" con "no tuvo nada que conceder".
+- Se binariza cada contraste en vez de testear la tabla 2×5 completa: una tabla responde "¿las
+  distribuciones difieren?", que no es accionable; binarizar da diferencia en puntos
+  porcentuales, directamente comunicable.
+- Ojo: **V4 y V5 recuperan, bien hechas, dos de las hipótesis léxicas descartadas** (empatía con
+  concesión y canal de pago). Ahora se juzgan por sentido y ambas salieron significativas,
+  cuando en su versión léxica eran débiles o ruidosas.
+
+---
+
 ### Hipótesis descartadas (referencia, no se usan en el informe)
 Quedan documentadas por si conviene retomarlas más adelante, pero no forman parte del análisis
 principal porque su método (buscar palabras sin verificar el sentido de la frase) es poco
@@ -91,11 +133,16 @@ robusto:
 
 ## 5. Pendiente
 
-- [ ] **Etiquetado semántico con LLM** (un solo pase, cuatro variables): resultado final de la
-      llamada, tipo de objeción, si el agente respondió con contraoferta concreta, y si hubo
-      cierre operativo. Es el insumo que falta para responder "quién es más efectivo".
-- [ ] **Notebook de análisis estadístico** para H1–H4: Mann-Whitney + proporciones, tamaños de
-      efecto, recálculo de H1 sobre el subconjunto de diarización limpia.
+- [x] **Etiquetado semántico con LLM** — hecho para 90/97 llamadas, analizado en
+      `base_analitica_LLM.ipynb`.
+- [ ] **Completar el etiquetado:** faltan 2 humanas (`audioh17-440cb585`, `audioh18-50e0f632`)
+      y 5 de IA (`audioi16-41269351`, `audioi17-449d76a1`, `audioi18-589afa5a`,
+      `audioi19-5a16e288`, `audioi20-631a4d16`).
+- [ ] **Auditar a mano 3-4 etiquetas del LLM** contra su transcripción, para confirmar que el
+      criterio se sostiene en todo el lote y no solo en los primeros casos.
+- [ ] **Notebook de análisis estadístico** para H1–H4 (las determinísticas): Mann-Whitney +
+      proporciones, tamaños de efecto, recálculo de H1 sobre el subconjunto de diarización
+      limpia.
 - [ ] **Modelo explicativo:** regresión logística humano/IA para ver qué variables pesan más
       (el objetivo son los coeficientes, no el accuracy).
 - [ ] **Reporte final** (HTML o PDF, pendiente de confirmar con Creceré): máx. 2 páginas.
