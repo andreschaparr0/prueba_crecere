@@ -54,12 +54,29 @@ o patrones de texto más específicos y fáciles de verificar a mano.
 | **H4** | La llamada de IA es más auditable | diarización colapsada a 1 hablante | 29 % | **0 %** |
 
 ### Lectura rápida
-- **H1 es el hallazgo más fuerte y más comunicable:** ≈7x de diferencia en latencia. Pendiente
-  recalcular sobre diarización limpia antes de publicarlo (ver caveats).
+- **H1 es el hallazgo más fuerte y más comunicable:** ≈7x de diferencia en latencia.
 - **H3 salió al revés de lo esperado** y a favor de la IA: cumple el guion de apertura con más
   consistencia que el humano. Es el mejor material para "¿qué hace mejor la IA?".
 - **H2 y H4 son directas de comunicar** sin mayor matiz: la IA presiona más y su llamada es
   100 % auditable automáticamente frente al 71 % de las humanas.
+
+### Tests de hipótesis (Mann-Whitney para H1, Fisher exacto para H2-H4)
+Confirmadas las 4, con p < 0,05 en todos los casos (implementación en la última celda de
+`base_analitica_deterministica.ipynb`, solo librería estándar):
+
+| Hipótesis | p |
+|---|---|
+| H1 — latencia agente | p < 0,0001 |
+| H1 — control: latencia deudor (también difiere, pero menos) | p < 0,0001 |
+| H1 — restringido a `diarizacion_limpia==1` (mediana IA baja a 1,51s pero se sostiene) | p < 0,0001 |
+| H2 — presiona | p < 0,0001 |
+| H3 — se identifica | p = 0,048 |
+| H3 — verifica identidad | p = 0,059 (al límite, no significativa al 5%) |
+| H4 — diarización colapsada | p < 0,0001 |
+
+Nota de lenguaje para el reporte: el formato pedido por la prueba es "X% vs Y%, Z pp" —
+el p-valor no va en el reporte de 2 páginas, es respaldo del repositorio (a lo sumo un `*`
+al lado del dato).
 
 ---
 
@@ -140,9 +157,8 @@ robusto:
       `audioi19-5a16e288`, `audioi20-631a4d16`).
 - [ ] **Auditar a mano 3-4 etiquetas del LLM** contra su transcripción, para confirmar que el
       criterio se sostiene en todo el lote y no solo en los primeros casos.
-- [ ] **Notebook de análisis estadístico** para H1–H4 (las determinísticas): Mann-Whitney +
-      proporciones, tamaños de efecto, recálculo de H1 sobre el subconjunto de diarización
-      limpia.
+- [x] **Tests de hipótesis para H1–H4** — hecho, ver arriba y última celda de
+      `base_analitica_deterministica.ipynb`.
 - [ ] **Modelo explicativo:** regresión logística humano/IA para ver qué variables pesan más
       (el objetivo son los coeficientes, no el accuracy).
 - [ ] **Reporte final** (HTML o PDF, pendiente de confirmar con Creceré): máx. 2 páginas.
