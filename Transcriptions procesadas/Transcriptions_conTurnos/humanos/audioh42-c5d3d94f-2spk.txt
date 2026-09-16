@@ -1,0 +1,29 @@
+LLAMADA: audioh42-c5d3d94f-2spk (humano)
+
+AGENTE: Buenas tardes.
+
+DEUDOR: Sí.
+
+AGENTE: Ángel Alberto Ortiz.
+
+DEUDOR: Sí.
+
+AGENTE: Justo, señor Ángel, le hablo a Joan. Reconciliación de logros, factores y representaciones. ¿Cómo está?
+
+DEUDOR: Bien, gracias a Dios. Hija, no sé si me puede llamar más tarde. Ahorita estoy ocupado.
+
+AGENTE: Perfecto. De igual manera, le voy a dejar una notificación vía WhatsApp para poder brindar la información a través de este medio.
+
+DEUDOR: Bueno, de hecho, no sé si la envío dentro de un ratito. Estoy instalando el WhatsApp en otro dispositivo.
+
+AGENTE: Perfecto, listo, sí, señor.
+
+DEUDOR: Deje nomás llegar la información y se me borra Del dispositivo viejo
+
+AGENTE: Bueno, listo, sí señor Tú te salen dentro de un rato
+
+DEUDOR: Vale, vale
+
+AGENTE: Bueno, hasta luego
+
+DEUDOR: Hasta luego

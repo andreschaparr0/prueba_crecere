@@ -1,0 +1,29 @@
+LLAMADA: audioi10-32616618-2spk (ia)
+
+DEUDOR: Buenos días.
+
+AGENTE: Aló, muy buenos días. Buenas, por favor.
+
+DEUDOR: No, aquí.
+
+AGENTE: Estamos llamando por motivo de un proceso legal.
+
+DEUDOR: Pero está equivocado. Este teléfono...
+
+AGENTE: Entiendo. Disculpe la confusión. ¿Conoce a la... o tiene algún contacto con ella?
+
+DEUDOR: No, ni sé quién será ese diablo.
+
+AGENTE: Perfecto.
+
+DEUDOR: Ajá.
+
+AGENTE: Entiendo. Agradezco su tiempo. Vamos a actualizar nuestros registros. Que tenga un buen día.
+
+DEUDOR: Bueno, que se lleve.
+
+AGENTE: Que tenga un excelente día. Hasta luego.
+
+DEUDOR: ¿Cómo que más bien dices que coja?
+
+AGENTE: Mi nombre es ***. ¿Con quién tengo el gusto de hablar?

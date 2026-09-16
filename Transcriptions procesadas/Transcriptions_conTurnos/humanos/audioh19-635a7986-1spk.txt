@@ -1,0 +1,41 @@
+LLAMADA: audioh19-635a7986-1spk (humano)
+
+AGENTE: Hola, buenos días. Buenos días, tengo el gusto de hablar con usted.
+
+DEUDOR: Sí, señorita.
+
+AGENTE: Mucho gusto, habla con usted. Soy López Patricio y nos comunicamos referente a su obligación, compadre, como se encuentra el día de hoy.
+
+DEUDOR: Sí, señorita.
+
+AGENTE: Estamos validando nuestro sistema y no hemos reflejado su pago según acuerdo de pago para el día 3 de agosto por 1.270.000 pesos. Quisiéramos validar porque no se realizó este pago.
+
+DEUDOR: No, es que no no alcance a reunir todo el dinero
+
+AGENTE: Comprendemos ¿Y para cuándo podría revisar el pago para dar cumplimiento al acuerdo?
+
+DEUDOR: Yo creo que por ahí en fin de mes
+
+AGENTE: Entiendo ¿Y cuánto tiene reunido? Porque puede hacer un abono ahorita el 15 de agosto y el restante a final de mes para que no se pase el mes y no dar cumplimiento al acuerdo y que nos caiga el acuerdo de pago
+
+DEUDOR: Ahorita no tengo No tengo nada La verdad no tengo nada Entonces estaba esperando a fin de mes Porque tengo un problema también Y entonces Me tocó pagar un Un accidente que cometió el perro mío Entonces Ahí me descuadré
+
+AGENTE: Entendemos la situación Pero seguro se cancela para el día 30 de agosto para correr la fecha para el día 30 de agosto?
+
+DEUDOR: Sí, sí, sí, señora. Sí, señora.
+
+AGENTE: De acuerdo, señor. Entonces vamos a correr la fecha para el día 30 de agosto para que usted realice el pago a esta fecha por 1.268.100 pesos y dar cumplimiento a este acuerdo para no anular su acuerdo de pago y que no pierda beneficios.
+
+DEUDOR: Ok, vale.
+
+AGENTE: Perfecto, señor. Algo fue enviado al acuerdo de pago. ¿Usted lo recibió?
+
+DEUDOR: Ajá. Sí, sí señorita
+
+AGENTE: Perfecto Por medio de Se debe realizar este pago el día 30 de Agosto y enviamos el soporte De pago para dar cumplimiento Y no anular el acuerdo de pago Que pida la venida
+
+DEUDOR: Bueno, sí señorita
+
+AGENTE: Perfecto Recuerde que la abonariza Y que tenga un excelente día
+
+DEUDOR: Bueno, muchas gracias

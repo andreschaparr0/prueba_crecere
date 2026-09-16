@@ -1,0 +1,31 @@
+LLAMADA: audioi32-7df4a150-2spk (ia)
+
+AGENTE: Aló, muy buenos días.
+
+DEUDOR: Aló, buenas tardes.
+
+AGENTE: Buenas, por favor.
+
+DEUDOR: ¿Con ella?
+
+AGENTE: Estamos llamando a... por motivo de un proceso legal en curso. Por confidencialidad necesito... ¿Usted es la... Sí. ...le hablamos del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación... ¿Cómo se encuentra?
+
+DEUDOR: Muy bien, gracias.
+
+AGENTE: Le informo que la deuda que usted tenía originalmente Ahora es propiedad Entidad que le compró dicha obligación Y el valor total actual asciende a 740 mil pesos Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento Y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros ¿Le interesaría que le presente una propuesta de pago?
+
+DEUDOR: Sí
+
+AGENTE: Excelente señor Queremos ofrecerle un descuento del 0% de toda la deuda. Con el descuento ya no debería 740 mil pesos, sino solo 740 mil pesos. Es una propuesta por tiempo limitado que vencería hoy mismo. Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago.
+
+DEUDOR: No te entiendo el descuento que me están haciendo.
+
+AGENTE: Tiene razón, le explico mejor. En este caso, el valor total de su obligación es de 740 mil pesos. Y lo que queremos ofrecerle es un plan de pago cómodo para que pueda ponerse al día. ¿Le interesa escuchar las opciones de cuotas?
+
+DEUDOR: Pero, ¿cuál es el descuento que me estás aplicando?
+
+AGENTE: Entiendo su pregunta. En este caso particular no hay un descuento sobre el capital, pero sí le ofrecemos facilidades de pago muy cómodas para saldar su obligación. ¿Le cuento las opciones?
+
+DEUDOR: Bueno.
+
+AGENTE: La primera opción es pagar en una sola cuota de 740 mil pesos. ¿Le parece bien esa opción o prefiere que le cuente la...

@@ -1,0 +1,39 @@
+LLAMADA: audioi11-3350acd3-2spk (ia)
+
+AGENTE: Aló. Aló. Muy buenos días. Cuénteme. ¿Podría confirmarme si estoy hablando con ***? Sí, señor. ¿Qué necesita? *** le habla *** del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación ***. ¿Cómo se encuentra? Bien, bien. Cuénteme. ¿Qué necesita? Lo llamo porque hoy usted tiene una oportunidad concreta para dejar resuelto un tema pendiente en muy buenas condiciones. ¡Cállate ahí! ¡Cállate poquito! ¡Venga!
+
+DEUDOR: ¡Te vas a poner a hacer más para allá! ¡Cuánta gente trabaja, eh! ¿Cómo dijo? ¡Halo!
+
+AGENTE: Gracias por confirmarlo. La buena noticia es que hoy puede regularizar su deuda con un 1% de descuento y quedar al día. Por este motivo queremos poder ofrecerle alternativas para ponerse al día con su deuda. ¿Le interesa?
+
+DEUDOR: ¿Cuánto es ese 1%? ¿Cuánto es?
+
+AGENTE: Claro. Permítame atender sus dudas.
+
+DEUDOR: ¿Aló? Ay, ¿quién viene acá ya, wey?
+
+AGENTE: Sí, s*****, aquí estoy. Le comento que con el descuento del 1%...
+
+DEUDOR: Hable más rapidito que estoy ocupado. Si quiere que la tienda hable más rapidito que estoy ocupado.
+
+AGENTE: Entendido, s*****. ¿Me permite presentarle la propuesta de acuerdo, entonces?
+
+DEUDOR: Ah, dígame, dígame.
+
+AGENTE: Excelente, s*****. Queremos ofrecerle un descuento del 1% de toda la deuda. Así le condonaríamos un total de... La propuesta es la siguiente. Un pago único de 4.310.000 pesos, con fecha límite el 4 de agosto de 2026. ¿Le parece bien? Excelente. ¿Confirma entonces que acepta el acuerdo con un solo pago?
+
+DEUDOR: Claro, claro. ¿Cómo no?
+
+AGENTE: ¿Me escucha? ¿Confirma que acepta la propuesta?
+
+DEUDOR: Sí, señor. Estoy escuchando. Sí, señor. Sí, señor. Acepto.
+
+AGENTE: Perfecto, ya dejamos registrada la propuesta aceptada Ahora voy a confirmar el envío de la información del acuerdo y los canales de pago por correo y whatsapp Hola, sigo en línea Si me escucha por favor respóndame con un sí, un no o una pregunta breve ¿Me puede proporcionar un número telefónico por favor?
+
+DEUDOR: Gracias
+
+AGENTE: ¿Me puede completar el número? Usted me dice 301 y falta más dígitos
+
+DEUDOR: 34-34-776
+
+AGENTE: Perfecto, ahora necesito su correo electrónico por favor

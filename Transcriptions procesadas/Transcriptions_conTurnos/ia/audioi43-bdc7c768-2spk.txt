@@ -1,0 +1,63 @@
+LLAMADA: audioi43-bdc7c768-2spk (ia)
+
+AGENTE: Muy buenos días. Por favor.
+
+DEUDOR: ¿Soy parte de quién?
+
+AGENTE: Estamos llamando por motivo de un proceso legal en curso. Por confidencialidad, necesito que por favor me valide si es usted.
+
+DEUDOR: Sí, con él.
+
+AGENTE: Del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación. ¿Cómo me le va, señor Barón?
+
+DEUDOR: Bien.
+
+AGENTE: La entidad con quien se originó la deuda es y actualmente Es la dueña de la deuda por un total de 590 mil pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento. Y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. ¿Me permite comentarle sobre la propuesta de pago que le tenemos?
+
+DEUDOR: Sí, señor.
+
+AGENTE: Queremos ofrecerle un descuento del 5% de toda la deuda. Con el descuento ya no debería 590 mil pesos, sino solo 560 mil pesos. Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede vindicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?
+
+DEUDOR: Sí, amigo, pues me interesa. La verdad me interesa soldar eso, hermano, pero ahorita no puedo.
+
+AGENTE: Entiendo perfectamente. Cuénteme qué es lo que le impide comprometerse en este momento.
+
+DEUDOR: Que tengo múltiples problemas financieros por ahí en el momento, entonces no tengo liquidez ahorita para solucionar ese tema, pero sí me interesa solucionarlo, claro.
+
+AGENTE: Entiendo su situación. La propuesta que tenemos disponible es de una sola cuota de 560 mil pesos, con fecha de pago antes del 31 de julio. ¿Hay alguna posibilidad de que pueda comprometerse con ese valor antes de que termine el mes?
+
+DEUDOR: ¿Antes de terminar este mes? ¿Estamos a 20? ¿Qué es que estamos? ¿22?
+
+AGENTE: Estamos a 23 de julio. ¿Le quedarían hasta el 31 de julio para realizar el pago?
+
+DEUDOR: Pues me interesa, la verdad sí me interesa, pues déjeme entonces a yo como obrego a solucionar y claro.
+
+AGENTE: ¿Me confirma entonces con un sí que acepta el acuerdo por la opción de una sola cuota antes del 31 de julio?
+
+DEUDOR: Sí, sí, señor. ¿A qué punto tienen las oficinas ustedes?
+
+AGENTE: Confirmo entonces el acuerdo. Me alegra que lleguemos a este acuerdo de pago y que pueda aprovechar el descuento del 5%. ¿Me autoriza a enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp?
+
+DEUDOR: Sí, sí, señor.
+
+AGENTE: Perfecto, señor. Primero necesito confirmar con usted la fecha de pago de la primera cuota. Sería el 26 de julio de 2026 ¿Me confirma esa fecha?
+
+DEUDOR: 26, uno dice que hasta el 31 hay plazo
+
+AGENTE: Tiene razón Tiene hasta el 31 de julio para realizar el pago La fecha que le sugiero es el 26 de julio Pero puede ser cualquier día hasta el 31 ¿Cuál fecha prefiere usted?
+
+DEUDOR: El 31
+
+AGENTE: Perfecto, se... Confirmó entonces el 31 de julio como fecha de pago Ahora necesito solicitarle un número telefónico alternativo para contactarlo
+
+DEUDOR: Este mismo número.
+
+AGENTE: Entendido. ¿Me puede confirmar su correo electrónico?
+
+DEUDOR: No, por este medio me puede...
+
+AGENTE: Necesito que me proporcione su correo electrónico para enviarle la información del acuerdo.
+
+DEUDOR: ¿A dónde quedan las oficinas aquí? Regáleme la dirección, hágame el favor.
+
+AGENTE: Necesito su correo electrónico para enviarle los detalles del acuerdo. ¿Me puede proporcionar su dirección de correo?

@@ -1,0 +1,47 @@
+LLAMADA: audioi23-673f40d5-2spk (ia)
+
+AGENTE: Hola, buen día. Hablo con el señor Salazar. ¿Con quién? Estamos llamando por motivo de un proceso legal en curso. Por confidencialidad necesito que por favor me valide si es su...
+
+DEUDOR: ¿Con quién hablo?
+
+AGENTE: A... confirmar si usted es... para poder continuar con el motivo de mi llamada.
+
+DEUDOR: ¿Y qué reconectemos?
+
+AGENTE: Es la entidad que actualmente maneja su obligación financiera que se originó... ¿Podría confirmarme por favor si usted...
+
+DEUDOR: Sí, con él hablan.
+
+AGENTE: Le habla Ricardo, del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación. ¿Cómo me le va?
+
+DEUDOR: Muy bien, ¿y usted qué tal?
+
+AGENTE: Excelente, muchas gracias por preguntar. El motivo de mi llamada es informarle sobre una oportunidad que hemos preparado especialmente para usted. Como entidad dueña de la deuda que se originó, desea brindarle una ayuda para evitar un proceso legal muy costoso en tiempo y plata, tanto para usted como para nosotros. ¿Me permite comentarle sobre la propuesta de pago que le tenemos?
+
+DEUDOR: Sí, claro.
+
+AGENTE: Excelente, señor. Queremos ofrecerle un descuento del 0% de toda la deuda. Así le condonaríamos un total de 0 pesos. Con el descuento ya no debería 6 millones 590 mil pesos, sino solo 6 millones 590 mil pesos. Además, le puedo dejar que pague hasta en 5 cuotas. Así serían 5 pagos mensuales, de 1 millón 320 mil pesos cada uno. Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos este acuerdo de pago?
+
+DEUDOR: No.
+
+AGENTE: Entiendo. ¿Me podría comentar qué es lo que le preocupa de la propuesta para ver cómo le puedo ayudar?
+
+DEUDOR: Desempleo. Esa es mi situación, de desempleo. Por eso, en este momento, no me puedo acoger a ningún beneficio. Hoy en día, no lo puedo hacer.
+
+AGENTE: Lamento mucho su situación señor Entiendo que es un momento muy difícil ¿Hay alguna fecha en la que crea que podría retomar este tema con nosotros?
+
+DEUDOR: O sea, yo como lo veo Para yo retomar el tema Tiene que ser que yo consiga un empleo Que tenga un contrato Y un salario fijo para poder acogerme algún beneficio O alguna negociación con ustedes Pero por el momento, mientras esté desempleado Muy difícil Por el momento no lo podría hacer No tengo una fecha, porque la idea mía, lo que yo quisiera es estar empleado hace mucho tiempo, pero en este momento es una fecha que no la tengo a la vista. He repartido muchas rojas de vida, pero hasta el momento ningún resultado.
+
+AGENTE: Entiendo. Sin embargo, con este descuento del 0%, su deuda baja de $6.590.000 a $6.590.000 y puede pagarla hasta en cinco cuotas de $1.320.000. Es el mejor descuento que creo podría conseguir sobre esta deuda. ¿Puedo considerarlo? Por favor, indíqueme sí o no.
+
+DEUDOR: Pero es que en este momento no tengo cómo.
+
+AGENTE: Entiendo perfectamente, señor. Y lamento la situación por la que está pasando. Siento que estas opciones no le sirvan. Pero tranquilo, puedo proponerle otra cosa. Le puedo ofrecer un acuerdo de largo plazo. No habría descuento, pero usted puede poner el valor de la cuota. Con esto se para cualquier proceso legal y sobre todo la llamadera. Para dejar registro, ¿cuánto sería lo máximo que podría pagar mes a mes que se acomode a su presupuesto?
+
+DEUDOR: Te repito, hasta que yo no tenga un empleo con un salario fijo, no me puedo en este momento comprometer con una cuota mensual porque no tengo ingresos fijos.
+
+AGENTE: Veo que dada la situación, hoy no se puede comprometer a un acuerdo, ¿correcto? Bueno, veo que no hemos podido aún llegar a un acuerdo, pero entiendo que de todos modos a usted le interesa que solucionemos esto, ¿correcto? Podemos sacarlo de centrales, darle un PAS y salvo anticipado, entre otras cosas. Dígame algo, ¿qué lo motivaría a usted a llegar a un acuerdo de pago? ¿O qué podríamos hacer desde? Reconectemos para solucionar esto juntos.
+
+DEUDOR: Pues la situación está desde mi parte. O sea, que yo consiga un empleo y tenga un salario fijo para poder hacer alguna negociación. En este momento, como estoy, estoy maniatado y no tengo campo de acción para poder acogerme a ningún beneficio. Hasta que no tenga un empleo, no lo puedo hacer.
+
+AGENTE: Entiendo completamente su situación, señor. Es muy claro que necesita primero estabilizar sus ingresos antes de poder comprometerse con cualquier acuerdo de pago. Exploraremos estos comentarios y lo estaremos recontactando pronto. Le deseo mucho éxito en su búsqueda de empleo. Que tenga un buen día. Hasta luego. Para finalizar, le informo que esta llamada fue grabada y monitoreada. Todos los datos acá compartidos serán analizados y tratados bajo la Ley 1581 de 2012. Quedamos atentos al envío de la documentación. Que tenga un buen día. Hasta luego.

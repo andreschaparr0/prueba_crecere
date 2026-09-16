@@ -1,0 +1,51 @@
+LLAMADA: audioi35-8d9dfa93-2spk (ia)
+
+AGENTE: Aló, muy buenos días.
+
+DEUDOR: Buenas tardes, ¿no hay chica?
+
+AGENTE: Buenas noches. Por favor, con...
+
+DEUDOR: Sí, con el ala.
+
+AGENTE: Habla con... Asesor jurídico... Le llamo por motivo de su obligación con Banco BBA. Lo llamo del área de embargos, judicializaciones y alivios financieros. ¿Cómo me le... Bien, señor. Me alegra escucharlo. La razón de mi llamada es informarle que la deuda que usted tenía con Banco... fue comprada por... quien es ahora el dueño actual de la obligación. El valor total de la deuda asciende a 860.000 pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento. Y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. ¿Me permite comentarle sobre la propuesta de pago que le tenemos?
+
+DEUDOR: Sí, dígame.
+
+AGENTE: Excelente. Queremos ofrecerle un descuento del 3% de toda la deuda. Así le condonaríamos un total de 30.000 pesos. Con el descuento ya no debería 860.000 pesos, sino solo 830.000 pesos. Además, le puedo dejar que pague hasta en 15 cuotas. Así, serían 15 pagos mensuales de $60,000 cada uno. Es una propuesta por tiempo limitado que vencería hoy mismo. Me puede indicar con un sí o un no si le interesa este descuento y hacemos este acuerdo de pago.
+
+DEUDOR: Tengo una pregunta.
+
+AGENTE: Claro, dígame señor.
+
+DEUDOR: ¿Socaría pagar los $60,000 hoy?
+
+AGENTE: No. La primera cuota de $60,000 se pagaría a más tardar el 31 de julio, es decir, en tres días. ¿Le funciona esa fecha para el primer pago?
+
+DEUDOR: ¿Cuál es el problema? Le comento. Es que a mí me pagan hasta el 5. O sea, yo a las 6 de la mañana ya tendría plata. Los 5 y los 20 me pagan a mí.
+
+AGENTE: Entiendo su situación. Déjeme ver qué puedo hacer. Perfecto, entonces. Quedamos así. El acuerdo es por 830 mil pesos en total, que pagará en 15 cuotas mensuales de 60 mil pesos cada una. La primera cuota se paga el 5 de agosto de 2026 y la siguiente es cada 5 de mes. ¿Estamos de acuerdo, señor Rodríguez? De acuerdo. Me alegra que lleguemos a este acuerdo de pago y que pueda aprovechar el descuento del 3%. Me autoriza de enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp. Perfecto. Al WhatsApp, entonces. Para actualizar sus datos y enviarle toda la información del acuerdo, necesito confirmar algunos datos con usted. ¿Me puede proporcionar un número telefónico alternativo donde lo podamos contactar?
+
+DEUDOR: No, ese es el único que yo tengo.
+
+AGENTE: Entendido. Ese es el único número. ¿Me puede confirmar su correo electrónico, por favor?
+
+DEUDOR: 320-888-0111. 4-4-20, sigan. ¿Dónde es loco? De la foto. No, no, el teléfono.
+
+AGENTE: ¿Me puede confirmar su correo electrónico, por favor?
+
+DEUDOR: 17-220. Algo ahí es que no me lo sé bien, pero le voy a hacer algo así.
+
+AGENTE: Entiendo, es *** 220 arroba gmail punto com
+
+DEUDOR: Exactamente, ese mismo es
+
+AGENTE: Perfecto, ahora, ¿me puede confirmar su dirección completa incluyendo la ciudad donde vive?
+
+DEUDOR: La chancipa, sería San Bartolomé
+
+AGENTE: Gracias, ¿y por cuál canal prefiere que lo contactemos primero, llamada, whatsapp o correo electrónico?
+
+DEUDOR: Por whatsapp, porque es que no puedo contestar el teléfono por lo que estoy conduciendo
+
+AGENTE: Perfecto, entonces lo contactaremos primero por WhatsApp Recuerda que la primera cuota de 60 mil pesos debe pagarla el 5 de agosto de 2026 Le enviaremos toda la información del acuerdo y los canales de pago a su WhatsApp Que tenga muy buena noche señor Rodríguez

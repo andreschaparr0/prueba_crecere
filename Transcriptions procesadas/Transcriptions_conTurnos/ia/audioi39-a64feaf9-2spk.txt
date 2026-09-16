@@ -1,0 +1,69 @@
+LLAMADA: audioi39-a64feaf9-2spk (ia)
+
+DEUDOR: ¿Aló? ¿Aló? ¿Aló? ¿Aló? Muy buenos días. ¿Aló? ¿Aló? ¿Aló? ¿Aló?
+
+AGENTE: Buenas por favor.
+
+DEUDOR: ¿Sí, con él?
+
+AGENTE: Le hablo del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación. ¿Cómo me le va señor Rincón?
+
+DEUDOR: Bien, sí señor.
+
+AGENTE: Le informo que su deuda se originó con el banco y actualmente es la entidad dueña de la misma. con un saldo total de $4.350.000. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. ¿Me permite comentarle sobre la propuesta de pago que le tenemos?
+
+DEUDOR: Sí.
+
+AGENTE: Excelente. Queremos ofrecerle un descuento del 0% de toda la deuda. Con el descuento ya no debería $4.350.000, sino solo $4.350.000. Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?
+
+DEUDOR: No.
+
+AGENTE: Entiendo, señor Rincón. ¿Qué es lo que le impide aceptar la propuesta en este momento?
+
+DEUDOR: Que no me parece muy alto porque no tengo toda esa cantidad. Pues, o sea, para sacarle así cuatro millones de una no puedo. Sí, sería ese. O sea, tocaría pagarlo por cuotas o yo qué sé. Tocaría en cuotas, sí, pero ustedes me cogen y me dicen, no, es que toca pagar ya cuatro millones. No, yo no puedo sacar cuatro millones así de la noche a la mañana. Yo la vez pasada le hice dos acuerdos de pago, dos millones en uno y ya para la segunda cuota me quedé porque no tuve. He tenido la intención, pero no he podido. Para el segundo acuerdo de pago volví, hice otro acuerdo y pagué otros dos millones y volví, me quedé porque siempre me quedé para la segunda cuota. Y pues no, la verdad no puedo hacer otro acuerdo de pago. Tocaría dejarlo en cuotas al menos más bajas. Y si no vuelvo y me pasa lo mismo.
+
+AGENTE: Lo entiendo perfectamente y le agradezco su honestidad. Precisamente por eso tenemos la opción de dividirlo en dos cuotas de 2.180.000 pesos cada una, para hacerlo más manejable. ¿Le parece que podemos trabajar con esa opción?
+
+DEUDOR: ¿Y eso es para cuándo tocaría pagarlo?
+
+AGENTE: La primera cuota sería más tardar... que sería esta misma semana, y la segunda cuota se programaría para el mes siguiente. ¿Le parece viable ese...
+
+DEUDOR: No, está muy encima para pagarla ahorita de... Porque eso sería pasado mañana, pasado mañana, el viernes. No, tendría que ser más adelante, por ahí para el 15 de agosto, para la quincena. ¿Aló, aló? ¿Aló, aló, aló? Sí. Sí, señor. Sí, sería para...
+
+AGENTE: Queda muy corto. Sin embargo, la primera cuota debe quedar dentro de este mes, a más tardar. ¿Podría comprometerse con el 31 de julio para la primera cuota?
+
+DEUDOR: No, no, señor. No sería. Por eso le digo que ya sería para agosto. Si gusta, me puede llamar entonces los primeros días de agosto y hacemos el acuerdo de pago.
+
+AGENTE: Entiendo su situación. Lamentablemente, la primera cuota debe quedar dentro para poder aplicar esta propuesta. Si no es posible, ¿podría comprometerse con alguna fecha antes del 31 de julio, aunque sea una parte? Entiendo. Sin embargo, con este descuento del 0%, su deuda a solo $4.350.000 y puede pagarla hasta en dos cuotas. Es el mejor descuento que creo podría conseguir sobre esta deuda. Considerarlo. Por favor, indíqueme con un sí o no.
+
+DEUDOR: Lo que pasa es que yo antes les debía, me habían hecho dos propuestas de $4.000.000, dos cuotas de $2.000.000 algo y no entiendo por qué ahora me dicen que 4 millones y en la desfasada les iba a pagar 5 millones porque fueron dos cuotas de 2.500.000 y ahorita volvió a subir entonces me parece como que no yo sé que estoy colgado en todo ese tema pero no, pues para salir de una vez o me pueden dejar dos, tres cuotas de 1.500.000 y de una vez salimos de eso
+
+AGENTE: le entiendo perfectamente lamentablemente la propuesta que tenemos aprobada no me permite ajustar los valores por debajo de lo que ya le presenté. Las únicas opciones disponibles son las que el sistema ya le ofreció. ¿Podría comprometerse con alguna fecha dentro de *** para la primera cuota, aunque sea el 31? *** que estas opciones no le sirvan. Pero tranquilo, puedo proponerle otra cosa. Le puedo ofrecer un acuerdo de largo plazo. No habría descuento, pero usted puede poner el valor de la cuota. Con esto se para cualquier proceso legal y sobre todo la llamadera. Para dejar registro, ¿cuánto sería lo máximo que podría pagar mes a mes que se acomode a su presupuesto?
+
+DEUDOR: ¿Pero por cuántos meses? ¿Qué cantidad? ¿Qué valor? Porque qué tal que me digan, puede pagar 15 años, no me ha dicho qué cantidad, en cuánto tiempo, ni nada de eso. ¿Qué cantidad me van a deducir para yo decir, esta cantidad la puedo pagar en tantos meses?
+
+AGENTE: Entiendo su pregunta. La deuda total es de $4,350,000. Y usted me dice cuánto puede pagar cada mes. Y con eso definimos el número de cuotas. ¿Cuánto podría pagar mensualmente?
+
+DEUDOR: Ah, no, eso creo que le... $400,000.
+
+AGENTE: $400,000 mensuales. ¿Correcto? Confirma ese valor. Sí. Perfecto. Déjeme verificar con el sistema si ese acuerdo puede ser aprobado y le confirmo en un momento. Me alegra que lleguemos a este acuerdo de largo plazo y que pueda aprovechar esta oportunidad. Me autoriza a enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp. Ahora necesito confirmar algunos datos para el acuerdo. La primera cuota de 400 mil pesos se pagaría el 31 de julio de 2026. ¿Confirma esa fecha?
+
+DEUDOR: Sí.
+
+AGENTE: Excelente. Ahora necesito un número telefónico alternativo donde podamos contactarlo.
+
+DEUDOR: 320-305-6787
+
+AGENTE: Perfecto. Ahora necesito confirmar su correo electrónico.
+
+DEUDOR: jhonatan.08.yahoo.com
+
+AGENTE: Perfecto. Ahora necesito confirmar su dirección completa, incluyendo la ciudad.
+
+DEUDOR: Novena número 1156
+
+AGENTE: Excelente. Y por último, ¿por qué canal prefieres ser contactado primero? ¿Llamada, WhatsApp o correo electrónico?
+
+DEUDOR: WhatsApp.
+
+AGENTE: Perfecto. Ya tengo todos los datos confirmados. El sistema le enviará la confirmación del acuerdo por los canales que indicó. Para finalizar, le informo que esta llamada fue grabada y monitoreada. Todos los datos acá compartidos serán analizados y tratados bajo la Ley 1581 de 2012. Enviaremos la documentación próximamente. Que tenga un buen día. Hasta luego.

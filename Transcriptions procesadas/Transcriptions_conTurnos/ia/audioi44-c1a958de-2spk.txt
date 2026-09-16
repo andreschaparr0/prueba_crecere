@@ -1,0 +1,31 @@
+LLAMADA: audioi44-c1a958de-2spk (ia)
+
+AGENTE: Aló. Aló. Muy buenos días. Sí, buenas tardes. Buenas tardes. Por favor. Sí, con él. Le hablo del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación con Banco. ¿Cómo se encuentra? Bien, señor. Le cuento que muchas personas en una situación parecida a la suya ya lograron ponerse al día y seguir tranquila. Me gustaría que usted también pueda. ¿Le puedo contar en un momento de qué se trata?
+
+DEUDOR: Cuente.
+
+AGENTE: Como ya lo han hecho muchos clientes en su misma situación, regularizar esta obligación hoy es más sencillo de lo que parece. Por este motivo queremos poder ofrecerle alternativas para ponerse al día con su deuda. ¿Le interesa?
+
+DEUDOR: Con todo.
+
+AGENTE: Excelente. Queremos ofrecerle un descuento del 0% de toda la deuda. Con el descuento ya no debería 1.760.000 pesos, sino solo 1.760.000 pesos. Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?
+
+DEUDOR: No.
+
+AGENTE: Entiendo. ¿Qué es lo que le genera duda? ¿El monto total o la forma de pago?
+
+DEUDOR: Que no tenga el dinero.
+
+AGENTE: No le entiendo bien. ¿Me puede explicar un poco más?
+
+DEUDOR: No tengo dinero, no tengo. No tengo la plata, no tengo el money, no tengo el cash, no tengo... ¿Cómo le explico?
+
+AGENTE: Entendido. La idea es precisamente ayudarle con eso. Podemos dividir el pago en cuotas para que sea más manejable. Le cuento cómo quedaría.
+
+DEUDOR: No, hermano, yo es lo que tengo, un 200 mil pesos para que ya pague el saldo. Yo ya lo había ofrecido, pero... Me dijeron que no era posible.
+
+AGENTE: Sí, entiendo que es complicado, pero le cuento que 200 mil pesos no nos alcanza para formalizar un acuerdo. Lo que sí podemos hacer es dividirlo en cuotas. ¿Le cuento cómo quedaría?
+
+DEUDOR: No, no, no, porque no me alcanza.
+
+AGENTE: La propuesta en cuotas está diseñada precisamente para que sea más cómodo. ¿Me da un momento para contarle cómo quedaría cada cuota?

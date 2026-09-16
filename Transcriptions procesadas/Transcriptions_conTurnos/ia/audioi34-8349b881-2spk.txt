@@ -1,0 +1,29 @@
+LLAMADA: audioi34-8349b881-2spk (ia)
+
+DEUDOR: ¿Buenas?
+
+AGENTE: Aló, muy buenos días.
+
+DEUDOR: Buenas tardes.
+
+AGENTE: Buenas tardes, por favor...
+
+DEUDOR: En el momento no se encuentra, ¿quién la necesita?
+
+AGENTE: Disculpe, para parar las llamadas confirmo que usted no es...
+
+DEUDOR: ¿Para quién la necesita o qué razón le deja?
+
+AGENTE: Necesito hablar con la... por un tema financiero. Usted me confirma que no es ella, ¿correcto?
+
+DEUDOR: ¿De dónde la llaman? Es que de todas maneras soy la hija
+
+AGENTE: Entiendo que es la hija Y necesito hablar específicamente con la señora Blanca por un asunto financiero personal ¿Usted me puede confirmar que no es la hija?
+
+DEUDOR: O sea, ¿de qué? Le estoy diciendo habla con la hija, ¿de qué?
+
+AGENTE: Entiendo que es la hija, pero por políticas de confidencialidad solo puedo hablar directamente con la señora Blanca Ella se encuentra disponible Entiendo, pero necesito confirmar primero Usted es la hija, no es ella
+
+DEUDOR: Ay, por Dios, te estoy diciendo que no, hombre Es que eso, ¿en qué idioma le hablo? Entiendo que no Yo soy la hija
+
+AGENTE: Gracias, que tenga un buen día

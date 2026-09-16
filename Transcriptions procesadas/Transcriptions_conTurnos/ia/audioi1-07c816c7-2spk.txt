@@ -1,0 +1,23 @@
+LLAMADA: audioi1-07c816c7-2spk (ia)
+
+AGENTE: Aló, muy buenos días
+
+DEUDOR: Buenos días
+
+AGENTE: Buenas, por favor Sí, con él Le llamo por su obligación ¿Cómo me le vas? ¿Cómo, cómo? Le llamo para informarle sobre una deuda pendiente que usted tiene entidad con la que se originó la obligación y que actualmente es la dueña de la misma. El valor total de la deuda es de 5.360.000 pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. ¿Me permite comentarle sobre la propuesta de pago que le tenemos? Sí, señor. Excelente, señor. Queremos ofrecerle un descuento del 7% de toda la deuda. Con el descuento ya no debería 5.360.000 pesos, sino solo 4.960.000 pesos. Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos un acuerdo de pago?
+
+DEUDOR: No.
+
+AGENTE: Entiendo, señor. ¿Me podría comentar cuál es su principal dificultad para llegar a un acuerdo hoy?
+
+DEUDOR: Porque no cuento con el dinero.
+
+AGENTE: Entiendo perfectamente, señor. La propuesta contempla el pago en una sola cuota. Pero quisiera saber si en algún momento del mes podría contar con los recursos para ponerse al día y evitar un proceso legal.
+
+DEUDOR: Sí, me traes tu permiso.
+
+AGENTE: Perfecto, señor. Entonces, para confirmar, ¿está de acuerdo con la propuesta de una cuota antes del 25 de julio de este mes? Me alegra que lleguemos a este acuerdo de pago y que pueda aprovechar el descuento del 7%, señor. Me autoriza de enviarle toda la información del acuerdo y los canales de pago por correo y WhatsApp.
+
+DEUDOR: No, señor. Cuando cuente con el dinero, yo me comunico con ustedes.
+
+AGENTE: Entiendo su posición. Pero es importante que formalicemos el acuerdo hoy para que pueda mantener el descuento. Si no lo confirmamos ahora, perdería esta oportunidad.

@@ -1,0 +1,9 @@
+LLAMADA: audioi21-64a627ae-2spk (ia)
+
+AGENTE: su mensaje. Aló, muy buenos días. Podría confirmarme si estoy hablando con Diego Fernando Lombana. Señor Lombana, ¿me escucha? Podría confirmarme si estoy hablando con Diego Fernando Lombana. Aló. Señor Lombana, ¿sigue ahí? Necesito confirmar si hablo con Diego Fernando Lombana para poder continuar. Aló. Señor Lombana, ¿sigue ahí? Si no escucho su confirmación de que es Diego Fernando Lombana, no podré continuar con la llamada.
+
+INCIERTO: Su grabación llegó al tiempo Para evitar, marque 1. Para enviar, marque 2. Para las opciones de entrega, marque 3. Parece que hay un problema con la línea. Le pregunto nuevamente, ¿podría confirmar... Para evitar, marque 1. Para enviar, marque 2. Para las opciones de entrega, marque 3.
+
+AGENTE: Parece que la llamada se ha desviado a un sistema de grabación
+
+INCIERTO: Adiós

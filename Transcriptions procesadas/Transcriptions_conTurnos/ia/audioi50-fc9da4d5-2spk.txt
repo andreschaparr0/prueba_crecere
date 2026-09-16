@@ -1,0 +1,21 @@
+LLAMADA: audioi50-fc9da4d5-2spk (ia)
+
+DEUDOR: Aló.
+
+AGENTE: Aló. Muy buenos días.
+
+DEUDOR: Buenos días.
+
+AGENTE: Buenas. Por favor, coj***.
+
+DEUDOR: No, señor, estoy equivocado.
+
+AGENTE: Estamos llamando a coj*** por motivo de un proceso legal en curso. Por confidencialidad, necesito que por favor me valide si es su c***.
+
+DEUDOR: No, señor, está equivocado.
+
+AGENTE: Entiendo. ¿Me puede indicar con quién tengo el gusto de hablar entonces?
+
+DEUDOR: ¿Con quién, hermano?
+
+AGENTE: Le comento que es su c***. Estamos buscando a la *** por un asunto importante. ¿Usted tiene algún contacto donde la pueda ubicar? Le explico. Soy *** y estamos tratando de localizar a *** por un asunto pendiente con ***. Como usted confirma que no es ella, voy a registrar que no fue posible contactarla en este número. Muchas gracias por su tiempo y que tenga buen día. que

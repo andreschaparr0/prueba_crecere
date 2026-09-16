@@ -1,0 +1,17 @@
+LLAMADA: audioi7-293e667b-2spk (ia)
+
+AGENTE: Aló. Aló, muy buenos días.
+
+DEUDOR: Sí, buenos días.
+
+AGENTE: Por favor.
+
+DEUDOR: ¿Con él habla?
+
+AGENTE: Le habla del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación con CrediValores. ¿Cómo me le va?
+
+DEUDOR: ¿Qué obligación tengo con CrediValores?
+
+AGENTE: Excelente. Queremos ofrecerle un descuento del 16% de toda la deuda. Así le condonaríamos un total de $1.730.000. Con el descuento, ya no debería $11.020.000, sino solo $9.290.000. Además, le puedo dejar la opción de pago aprobada por el sistema. Sería una sola cuota, es decir, un solo pago de $9.290.000. Es una propuesta por tiempo limitado que vencería hoy mismo. ¿Me puede indicar con un sí o un no si le interesa este descuento y hacemos este acuerdo de pago?
+
+DEUDOR: No, señor, yo plata no le debo. No recuerdo que yo haya hecho préstamo con criadores. En este momento no, no, no. Plata no les debo. No recuerdo, él es plata.

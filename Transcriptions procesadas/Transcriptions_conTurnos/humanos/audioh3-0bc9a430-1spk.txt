@@ -1,0 +1,23 @@
+LLAMADA: audioh3-0bc9a430-1spk (humano)
+
+DEUDOR: No se lo entiende nada, se escucha súper bajito. No, o sea, no lo entiendo.
+
+AGENTE: Está en la madrugada con Don Luis, a ver, dos, dos, tres, cuatro...
+
+DEUDOR: Ah, no, señorita, en el momento él no se encuentra, ¿como para qué sería?
+
+AGENTE: Usted habló con él y él le dijo que lo llamara como en este horario.
+
+DEUDOR: ¿Y eso como para qué sería, señorita?
+
+AGENTE: Estaba cerca del Banco Bogotá.
+
+DEUDOR: Ah, del Banco Bogotá. Pero, chica, la verdad es que en el momento él no se encuentra. Ven, mami, ven.
+
+AGENTE: ¿Y a qué hora lo puedo llamar?
+
+DEUDOR: Bueno señorita, él se fue por allá a ver una entrevista de trabajo, no sabría decirle
+
+AGENTE: Bueno, sí señora, muchísimas gracias, muy amable
+
+DEUDOR: Bueno, sí señorita, hasta luego

@@ -1,0 +1,45 @@
+LLAMADA: audioi13-3a02fcc2-2spk (ia)
+
+AGENTE: Aló, muy buenos días.
+
+DEUDOR: Buenas tardes.
+
+AGENTE: Buenas tardes. Por favor, joder. Habla. Le llamo por motivo de su obligación referente a un producto crediticio castigado. Lo llamo del área de embargos, judicializaciones y alivios financieros. ¿Cómo me le vas? La deuda fue adquirida por quienes la compraron. El monto total actual es de 880 mil pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento, y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. ¿Me permite comentarle sobre la propuesta de pago que le tenemos? Entiendo su... Si tiene dudas sobre la deuda o el proceso, por favor indíqueme cuáles son para poder orientarle mejor. ¿En qué puedo ayudarle? Si tiene dudas sobre la deuda o el proceso, por favor indíqueme cuáles son para poder orientarle mejor. ¿En qué puedo ayudar? Le confirmo que la llamada es por motivo de una deuda pendiente con BBVA, la cual ahora es propiedad de su...
+
+DEUDOR: BBVA, una deuda con BBVA.
+
+AGENTE: La deuda fue adquirida por... Quienes la compraron... El monto total actual es de 880 mil pesos. Hoy le queremos brindar una ayuda a través de una gran oportunidad y descuento. Y evitar así un proceso legal muy costoso en tiempo y plata para usted y nosotros. Me permite comentarle sobre la propuesta... Entiendo que pueda tener dudas. ¿Podría indicarme específicamente qué es lo que no sabe o qué le gustaría aclarar? Estoy aquí para ayudarle y explicarle todo lo necesario.
+
+DEUDOR: El señor Zapata ya no vivía acá. Pero si quiere yo le doy bien la razón o el recado.
+
+AGENTE: Señor, le agradezco su disposición. Pero le informo que la deuda corresponde a ****** y no puedo realizar cambios en los datos de contacto.
+
+DEUDOR: ¿Avier Zapata? Ah, no, aquí no es ******.
+
+AGENTE: Disculpe la molestia. Si el señor ****** se comunica con usted, por favor...
+
+DEUDOR: A ver, a ver, a ver.
+
+AGENTE: Perfecto, señor. Disculpe la confusión con el nombre. Como le comentaba, tengo una propuesta de pago muy favorable para usted. Podemos ofrecerle un descuento del 27% sobre el capital adeudado, lo que significa un ahorro de 240 mil pesos. El acuerdo sería por... Excelente, señor. Con este descuento del 27%, usted pagaría 650 mil pesos en lugar de los 880 mil pesos. Este pago se debe... ¿Me permite terminar de explicarle los términos del acuerdo? Este pago de 650.000 pesos se debe realizar en una sola cuota a más tardar el 11 de junio de 2026, es decir, pasado mañana. ¿Está usted en condiciones de realizar este pago en esa fecha? Excelente. El pago debe realizarse a más tardar el 11 de junio de 2026, es decir, pasado mañana. ¿Está usted en condiciones de realizar este pago de 650 mil pesos en esa fecha?
+
+DEUDOR: Yo le paso el recado al señor... para que haga el pago
+
+AGENTE: Disculpe, pero necesito confirmar que estoy hablando directamente con el señor... ¿No es el señor...?
+
+DEUDOR: No
+
+AGENTE: Entiendo Si usted no es el señor... No puedo continuar con esta conversación por temas de confidencialidad ...directamente...
+
+DEUDOR: Él no se encuentra, ya no está viviendo acá, pero yo le paso el recado, ¿listo?
+
+AGENTE: Entiendo, señor Le agradezco su disposición para pasar el recado. Por favor indíquele al ******, o sea, que debe comunicarse urgentemente con nosotros para resolver su obligación pendiente. ¿Podría decirme cuándo sería posible que él nos contacte o cuándo podríamos ubicarlo directamente?
+
+DEUDOR: Yo el día de hoy o mañana en la mañana le doy el recado para que se comunique con ustedes.
+
+AGENTE: Perfecto, señor. Con gusto reagendamos para hablar directamente con el ******. Indíqueme por favor un día y hora exacta en la cual quiere que lo busquemos. Y si prefiere que lo contactemos telefónicamente o vía WhatsApp.
+
+DEUDOR: Como no he podido hablar con él, ¿no le puedo dar una hora exacta?
+
+AGENTE: Entiendo, señor. En ese caso, ¿sería posible que nos contacte mañana miércoles en la tarde una vez haya hablado con el señor *** para confirmar una hora específica? Está bien. Sí, señor. Perfecto, señor. Entonces quedamos en que mañana miércoles en la tarde usted nos contactará para confirmar día y hora específica para hablar con el señor ***. Muchas gracias por su colaboración y que tenga muy buen día.
+
+DEUDOR: Hasta luego. Igualmente.

@@ -1,0 +1,23 @@
+LLAMADA: audioi42-b97bdab1-2spk (ia)
+
+AGENTE: Aló, muy buenos días.
+
+DEUDOR: Sí, buenas noches.
+
+AGENTE: Buenas noches. Por favor, ¿cuál es la CUTUR? ¿Cuál es la CUTUR? Le llamo por motivo de su obligación, referente a un cartel. Compra. Lo llamo del área de embargos, judicializaciones y alivios financieros. ¿Cómo me le va?
+
+DEUDOR: Señor, lo que pasa es que está equivocado. No soy el señor.
+
+AGENTE: Disculpe la confusión, pero según nuestros registros, este número corresponde al señor de la CUTUR. Podría confirmarme si... Permítame atender sus dudas.
+
+DEUDOR: Lo que pasa es que este número, sí, yo lo tengo desde hace rato. Y ha llegado un mensaje que el señor... Pero no sé... No soy el señor... ¿Sí me entiendes?
+
+AGENTE: Entiendo perfectamente la situación. Si usted no es el señor... Entonces hay un error en nuestros registros de contacto. Le pido disculpas por la molestia.
+
+DEUDOR: Sí, siempre me ha llegado esa solicitud y siempre me han llamado por eso. Y ahora sí les digo que no tengo ese número de hace rato ya y no soy el C.
+
+AGENTE: Entiendo completamente, señor. Y le pido disculpas por las molestias que esto le ha causado. Voy a actualizar nuestros registros para que no vuelva a recibir llamadas ni mensajes dirigidos al C. en este número. Que tenga muy buenas noches y nuevamente disculpas por el inconveniente.
+
+DEUDOR: Bueno.
+
+AGENTE: Que tenga muy buena noche. Hasta luego. Gracias.

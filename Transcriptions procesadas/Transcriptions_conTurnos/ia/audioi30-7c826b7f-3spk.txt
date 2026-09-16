@@ -1,0 +1,59 @@
+LLAMADA: audioi30-7c826b7f-3spk (ia)
+
+DEUDOR: Aló.
+
+AGENTE: Aló, muy buenos días.
+
+DEUDOR: Buen día.
+
+AGENTE: ¿Podría confirmarme si estoy hablando con...
+
+DEUDOR: ¿De parte de...?
+
+AGENTE: Señor Fry, le habl... ...del área de embargos, judicializaciones y alivios financieros. Le llamo por su obligación con banco de... ¿Cómo se encuentra?
+
+DEUDOR: Sí, señor, bien, un poquito ocupado trabajando, dígame. Aló.
+
+AGENTE: Entiendo perfectamente... Sí, señor Fry, disculpe. Le decía que entiendo que está ocupado trabajando. ¿Me permite contarle sobre una propuesta de alivio financiero que tenemos disponible para su obligación?
+
+DEUDOR: Claro, cuénteme.
+
+AGENTE: Perfecto, señor Fry. Tenemos una excelente propuesta con un descuento significativo sobre su deuda. Le voy a presentar los detalles exactos del beneficio que podemos ofrecerle ahora mismo. Propuesta de alivio financiero. Disculpe, señor Fry, no le entendí bien esa palabra. ¿Aló? Sí, señor Fry, lo escucho. ¿Podría repetirme lo que me dijo?
+
+DEUDOR: No, no, no, no dije nada. Estaba hablando con una jefa.
+
+AGENTE: Ah, perfecto. Entiendo, señor Fry. ¿Me permite entonces presentarle la propuesta de alivio financiero que tenemos para usted? Dígame. Excelente. Le presento nuestra propuesta. Su deuda actual es de 1.270.000 pesos. Tenemos autorizado ofrecerle un descuento del 23% sobre el capital, lo que representa un ahorro de 300.000 pesos. Con este descuento, usted pagaría 980.000 pesos en total. Le ofrecemos las siguientes opciones de pago. Una cuota de $980,000. Dos cuotas de $490,000 cada una. Tres cuotas de $330,000 cada una. La primera cuota debe pagarse antes del 31 de agosto. ¿Cuál opción le conviene más, señor Fray?
+
+DEUDOR: La máxima son tres cuotas.
+
+AGENTE: Perfecto, señor Fray.
+
+DEUDOR: No, no, te estoy preguntando. Que si la máxima son tres cuotas.
+
+AGENTE: Exacto, señor Fray. Así es. ¿De cuánto? Claro, ya le doy los números exactos. La opción de tres cuotas es de $330,000 pesos cada una. Esto le da la flexibilidad que necesite. Por supuesto, señor Frye, tome el tiempo que necesite. Perfecto, estoy aquí esperándolo.
+
+DEUDOR: Señor Frye, me dices que tres cuotas.
+
+AGENTE: Sí, señor Frye, tres cuotas de $330,000 pesos cada cuota.
+
+DEUDOR: Ok, ¿para qué día sería la primera? Me dices el 31 de agosto, ¿sí?
+
+AGENTE: Exacto, señor Fray La primera cuota sería más tardar el 31 de agosto ¿Le parece bien esta opción de tres cuotas? Sí Perfecto, señor Fray Para confirmar el acuerdo Son tres cuotas de 330 mil pesos cada una Para un total de 980 mil pesos Con la primera cuota, el 31 de agosto ¿Está de acuerdo con estos términos? Sí. Excelente, señor Frye. ¿Y las otras dos cuotas, para qué fechas las programamos?
+
+DEUDOR: Yo creería que me quedaría mejor igual, de 31 a 31 de mes.
+
+AGENTE: Perfecto, señor Frye. Entonces quedamos así. Primera cuota, el 31 de agosto. Segunda cuota, el 30 de septiembre. Y tercera cuota, el 31 de octubre. ¿Le confirma estas fechas? Señor Frye, sigue ahí. ¿Le confirma estas fechas para las cuotas?
+
+DEUDOR: Sí, señor.
+
+AGENTE: Excelente, señor Frye. Su acuerdo queda confirmado. Tres cuotas de 330 mil pesos cada una. La primera el 31 de agosto, la segunda el 30 de septiembre y la tercera el 31 de octubre. ¿Necesita que le enviemos algún recordatorio o tiene alguna pregunta adicional?
+
+DEUDOR: Digamos, este acuerdo se enviaría por mediante correo, whatsapp. ¿Cómo me puedo cerciorar yo que sí me están llamando del banco?
+
+AGENTE: Señor Fry, entiendo su preocupación. Le comento que soy un asistente virtual automatizado de F-Factoring, que es la empresa que maneja su cartera. El acuerdo se documenta directamente en nuestro sistema cuando usted confirma los términos, como acabamos de hacer. Para cualquier consulta sobre el acuerdo puede comunicarse directamente con nosotros. ¿Tiene alguna otra pregunta sobre el proceso de pago?
+
+DEUDOR: No.
+
+AGENTE: Perfecto, señor Fry. Su acuerdo está confirmado entonces. Entonces, muchas gracias por su tiempo y que tenga un excelente día.
+
+DEUDOR: Vale, gracias.

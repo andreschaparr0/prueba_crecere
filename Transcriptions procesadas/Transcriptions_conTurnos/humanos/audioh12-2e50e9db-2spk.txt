@@ -1,0 +1,31 @@
+LLAMADA: audioh12-2e50e9db-2spk (humano)
+
+AGENTE: Buenos días, tengo el gusto de hablar con el señor
+
+DEUDOR: ¿Con él?
+
+AGENTE: Mucho gusto, habla con el señor ¿Cómo se encuentra el día de hoy?
+
+DEUDOR: Bien, señora, gracias a Dios
+
+AGENTE: Estoy comunicando para informarle que su correo electrónico fue enviado al acuerdo de pago de manera formal Por favor, me confirma si usted recibió el acuerdo de pago
+
+DEUDOR: No, no he visto el correo porque ese... Y ya, me tocaría revisar porque como yo soy de corazón a veredas, no tengo la disponibilidad de revisar.
+
+AGENTE: Comprendo, porque ese compromiso de pago estaba para el día 25 de julio por 1.272.500.
+
+DEUDOR: Bueno, escucha, yo hablé con la gente porque es que yo necesito ponerme a revisar algo con usted para solucionar el tema todo de data credit y de todo.
+
+AGENTE: Claro que sí, señor. Sentía que verificara Si llegó el acuerdo de pago Y quedó pendiente del soporte de pago Al día 30 de junio Para poder sostener el acuerdo de pago
+
+DEUDOR: Sí, no, es como en este momento Estoy de viaje y estoy Por acá, mejor dicho Como se dice Mirando cómo hago Para poder llegar
+
+AGENTE: Me podría llamar el día 30 de junio Si podría realizar el pago
+
+DEUDOR: ¿Podrían llamar más tardecito para poder Comunicarme bien con usted?
+
+AGENTE: Comprendo, no me podría comunicar Dentro de una hora
+
+DEUDOR: Listo, al menos para yo ubicarme Porque estoy en carretera
+
+AGENTE: De acuerdo Que tenga una excelente tarde

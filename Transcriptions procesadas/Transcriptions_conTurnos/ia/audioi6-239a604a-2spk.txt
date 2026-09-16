@@ -1,0 +1,23 @@
+LLAMADA: audioi6-239a604a-2spk (ia)
+
+AGENTE: Aló, muy buenos días.
+
+DEUDOR: Sí, dígame.
+
+AGENTE: Buenas, por favor.
+
+DEUDOR: ¿De parte de quién?
+
+AGENTE: Estamos llamando por motivo de un proceso legal en curso. Por confidencialidad necesito que por favor me valide si eso es...
+
+DEUDOR: No, no soy yo, pero es mi hermano.
+
+AGENTE: Disculpe, para parar las llamadas confirmo que usted no es... ni le conoce, ¿correcto?
+
+DEUDOR: Sí le conozco porque es mi hermano, por eso le pregunto de parte de quién nos llaman y para qué sería.
+
+AGENTE: Entiendo, gracias por aclararlo. ¿Me permite saber si su hermano está disponible en este momento para atenderle?
+
+DEUDOR: No, él no está acá, pero yo le puedo dar el número de él, pero yo le pregunto ¿para qué eso? Yo le doy la razón.
+
+AGENTE: Le agradezco mucho. Es por un tema financiero pendiente con Credit Valores. ¿Me puede facilitar por favor el número actualizado de su hermano?
